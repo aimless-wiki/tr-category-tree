@@ -1,0 +1,1 @@
+{"name": "Uçuş_güvenliği", "id": 212833, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Ulusal_güvenlik", "id": 36569}, {"name": "Güvenlik", "id": 36571}], "successors": [{"name": "Uçak_kaçırmaları", "id": 154497}, {"name": "Hava_trafik_kontrol", "id": 820112}, {"name": "Havacılık_riskleri", "id": 1045528}]}

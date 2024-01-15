@@ -1,0 +1,1 @@
+{"name": "Gübreler", "id": 174551, "predecessors": [{"name": "Azot_metabolizması", "id": 644186}, {"name": "Beceriler", "id": 873765}], "successors": [{"name": "Toprak_türleri", "id": 212240}, {"name": "Organik_tarım", "id": 1345318}, {"name": "Kompost", "id": 1345322}, {"name": "İnorganik_gübreler", "id": 2026658}]}

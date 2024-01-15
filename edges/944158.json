@@ -1,0 +1,1 @@
+{"name": "Risk", "id": 944158, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Sigortacılık", "id": 191045}], "successors": [{"name": "Sigortacılık", "id": 191045}, {"name": "Havacılık_riskleri", "id": 1045528}, {"name": "Risk_yönetimi", "id": 1328432}, {"name": "Denetim", "id": 1740646}]}

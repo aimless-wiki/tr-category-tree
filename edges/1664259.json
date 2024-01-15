@@ -1,0 +1,1 @@
+{"name": "Ürün_güvenliği", "id": 1664259, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Tüketici_hakları", "id": 999188}, {"name": "Mallar", "id": 1772674}], "successors": [{"name": "Gıda_güvenliği", "id": 1664258}, {"name": "İlaç_güvenliği", "id": 1765075}]}

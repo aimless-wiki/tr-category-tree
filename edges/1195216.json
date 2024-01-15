@@ -1,0 +1,1 @@
+{"name": "Otobüsler", "id": 1195216, "predecessors": [{"name": "Ticari_taşıtlar", "id": 1011277}], "successors": [{"name": "Otobüs_üreticileri", "id": 276438}, {"name": "Türlerine_göre_otobüsler", "id": 1333780}, {"name": "Otokar_otobüsleri", "id": 3469950}]}

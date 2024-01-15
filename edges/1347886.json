@@ -1,0 +1,1 @@
+{"name": "Zoonoz_hastalıklar", "id": 1347886, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Hayvan_hastalıkları", "id": 43570}, {"name": "İnsan-hayvan_etkileşimi", "id": 1431651}], "successors": [{"name": "Veba", "id": 379397}, {"name": "Verem", "id": 768694}, {"name": "Bulaşıcı_süngerimsi_ensefalopatiler", "id": 1681391}]}

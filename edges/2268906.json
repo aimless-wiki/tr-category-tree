@@ -1,0 +1,1 @@
+{"name": "Su_koruması", "id": 2268906, "predecessors": [{"name": "Korunma_durumu", "id": 341898}, {"name": "Su_ve_çevre", "id": 1569079}, {"name": "Su_yönetimi", "id": 1939696}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Geri_dönüşüm", "id": 386857}, {"name": "Sulama", "id": 437197}, {"name": "Kâğıt_atıklar", "id": 1717975}]}

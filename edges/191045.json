@@ -1,0 +1,1 @@
+{"name": "Sigortacılık", "id": 191045, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Risk", "id": 944158}, {"name": "Ticaret", "id": 43782}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Risk", "id": 944158}, {"name": "Aktüerlik", "id": 1328460}, {"name": "Sigorta_türleri", "id": 2969792}]}

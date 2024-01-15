@@ -1,0 +1,1 @@
+{"name": "GNOME", "id": 999192, "predecessors": [{"name": "GNU_Projesi_yazılımları", "id": 1951289}, {"name": "X_Pencere_Sistemi", "id": 1386604}, {"name": "Kütüphaneler", "id": 73776}, {"name": "Linux", "id": 3198}], "successors": [{"name": "GNOME_uygulamaları", "id": 1948638}]}

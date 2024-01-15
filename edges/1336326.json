@@ -1,0 +1,1 @@
+{"name": "İnsansız_taşıtlar", "id": 1336326, "predecessors": [{"name": "Robotlar", "id": 245487}, {"name": "Uzaktan_kumanda", "id": 2188687}], "successors": [{"name": "Torpidolar", "id": 189366}, {"name": "İnsansız_hava_araçları", "id": 750970}, {"name": "İnsansız_uzay_araçları", "id": 1069061}]}

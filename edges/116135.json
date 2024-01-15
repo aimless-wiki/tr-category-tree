@@ -1,0 +1,1 @@
+{"name": "Yenilenebilir_enerji", "id": 116135, "predecessors": [{"name": "Sürdürülebilir_teknolojiler", "id": 118754}, {"name": "Doğal_kaynaklar", "id": 36243}], "successors": [{"name": "Güneş_enerjisi", "id": 118748}, {"name": "Rüzgâr_gücü", "id": 571004}, {"name": "Fotovoltaik", "id": 1482516}, {"name": "Yenilenebilir_enerji_teknolojisi", "id": 3360324}]}

@@ -1,0 +1,1 @@
+{"name": "Optimizasyon", "id": 519792, "predecessors": [{"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Sayısal_analiz", "id": 388127}, {"name": "Yöneylem_araştırması", "id": 519759}], "successors": [{"name": "Regresyon_analizi", "id": 677855}]}

@@ -1,0 +1,1 @@
+{"name": "Video_barındırma", "id": 2040095, "predecessors": [{"name": "Barındırma_hizmeti", "id": 1903483}, {"name": "Medya", "id": 12429}], "successors": [{"name": "YouTube", "id": 628548}, {"name": "Viral_videolar", "id": 2132654}]}

@@ -1,0 +1,1 @@
+{"name": "Casus_yazılım", "id": 598374, "predecessors": [{"name": "Ağ_güvenliği", "id": 182717}, {"name": "Bilgisayar_virüsleri", "id": 598388}, {"name": "Casusluk_teknikleri", "id": 1393775}, {"name": "Kimlik_hırsızlığı", "id": 1675612}], "successors": [{"name": "Casus_yazılımdan_koruma_yazılımı", "id": 2205754}]}

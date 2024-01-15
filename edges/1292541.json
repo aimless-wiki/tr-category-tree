@@ -1,0 +1,1 @@
+{"name": "Atık_yönetimi", "id": 1292541, "predecessors": [{"name": "Atık", "id": 1293509}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Biyobozunur_atık_yönetimi", "id": 1571848}, {"name": "Tekrar-kullanım", "id": 2023734}, {"name": "Sanitasyon", "id": 2362496}, {"name": "Tek_kullanımlık_ürünler", "id": 2393502}]}

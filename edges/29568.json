@@ -1,0 +1,1 @@
+{"name": "Kan", "id": 29568, "predecessors": [{"name": "Dolaşım_sistemi", "id": 140295}, {"name": "Hematoloji", "id": 29564}, {"name": "Vücut_sıvıları", "id": 115415}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Hematoloji", "id": 29564}, {"name": "Pıhtılaşma_sistemi", "id": 37527}, {"name": "Kan_basıncı", "id": 208415}, {"name": "Kan_testleri", "id": 876281}]}

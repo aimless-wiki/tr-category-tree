@@ -1,0 +1,1 @@
+{"name": "Su_yönetimi", "id": 1939696, "predecessors": [{"name": "Su", "id": 195970}, {"name": "Şehir_planlaması", "id": 55038}, {"name": "Doğal_kaynaklar", "id": 36243}], "successors": [{"name": "Sulama", "id": 437197}, {"name": "Su_ikmali", "id": 2216674}, {"name": "Su_koruması", "id": 2268906}, {"name": "Su_arıtma", "id": 2383698}]}

@@ -1,0 +1,1 @@
+{"name": "Türlerine_göre_otobüsler", "id": 1333780, "predecessors": [{"name": "Otobüsler", "id": 1195216}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Minibüsler", "id": 1195186}, {"name": "Alçak_tabanlı_otobüsler", "id": 2776136}, {"name": "Elektrikli_otobüsler", "id": 2800045}]}

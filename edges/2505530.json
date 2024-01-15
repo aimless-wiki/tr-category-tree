@@ -1,0 +1,1 @@
+{"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530, "predecessors": [{"name": "Ev_eşyaları", "id": 35834}, {"name": "Sıcaklık", "id": 182136}], "successors": [{"name": "Bina_otomasyonu", "id": 25376}, {"name": "Soğutma_teknolojisi", "id": 182764}, {"name": "Isıtma,_havalandırma_ve_iklimlendirme_şirketleri", "id": 2505527}, {"name": "Isıtma", "id": 2536213}]}

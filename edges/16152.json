@@ -1,0 +1,1 @@
+{"name": "Posta", "id": 16152, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Kamu_hizmetleri", "id": 294293}], "successors": [{"name": "Filateli", "id": 26181}, {"name": "Posta_pulları", "id": 116140}, {"name": "Mektuplar", "id": 389233}, {"name": "Filateli_taslakları", "id": 555241}, {"name": "Posta_kuruluşları", "id": 852766}]}

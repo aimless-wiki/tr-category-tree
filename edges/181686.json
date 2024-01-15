@@ -1,0 +1,1 @@
+{"name": "Fiziksel_nicelikler", "id": 181686, "predecessors": [{"name": "Ölçüm", "id": 15451}], "successors": [{"name": "Enerji", "id": 36245}, {"name": "Sıcaklık", "id": 182136}, {"name": "Sicim_teorisi", "id": 182734}, {"name": "Açı", "id": 267569}, {"name": "Basınç", "id": 451120}, {"name": "Stokiyometri", "id": 947712}, {"name": "Frekans", "id": 3254126}]}

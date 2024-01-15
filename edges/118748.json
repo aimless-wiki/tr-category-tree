@@ -1,0 +1,1 @@
+{"name": "Güneş_enerjisi", "id": 118748, "predecessors": [{"name": "Cam_uygulamaları", "id": 1606833}, {"name": "Enerji_kaynakları", "id": 926607}, {"name": "Yenilenebilir_enerji", "id": 116135}], "successors": [{"name": "Güneş_pilleri", "id": 1537099}, {"name": "Güneş_enerjisi_santralleri", "id": 2389289}, {"name": "Fotovoltaik", "id": 1482516}]}

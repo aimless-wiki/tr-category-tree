@@ -1,0 +1,1 @@
+{"name": "Kedi_sağlığı", "id": 403695, "predecessors": [{"name": "Kediler", "id": 197519}, {"name": "Sağlık", "id": 12532}], "successors": [{"name": "Pireler", "id": 403693}, {"name": "Kedi_hastalıkları", "id": 439226}]}

@@ -1,0 +1,1 @@
+{"name": "RFID", "id": 1754563, "predecessors": [{"name": "Otomatik_tanıma_ve_veri_toplama", "id": 1394044}, {"name": "Radyo", "id": 12517}, {"name": "İletişim", "id": 12514}, {"name": "Bilişim_teknolojisi", "id": 686442}], "successors": []}

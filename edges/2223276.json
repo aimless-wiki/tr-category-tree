@@ -1,0 +1,1 @@
+{"name": "Sağlık_afetleri", "id": 2223276, "predecessors": [{"name": "Afetler", "id": 29683}, {"name": "Halk_sağlığı", "id": 734491}, {"name": "Sağlık", "id": 12532}, {"name": "Ölüm_nedenleri", "id": 874464}, {"name": "Biyolojinin_genel_alanları", "id": 369713}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}

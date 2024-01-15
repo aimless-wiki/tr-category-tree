@@ -1,0 +1,1 @@
+{"name": "Su_arıtma", "id": 2383698, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Su_kirliliği", "id": 975525}, {"name": "Su_teknolojisi", "id": 1565885}, {"name": "Su_yönetimi", "id": 1939696}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "Altyapı", "id": 438300}], "successors": [{"name": "Su_filtreleri", "id": 2383695}]}

@@ -1,0 +1,1 @@
+{"name": "Pulmonoloji", "id": 97527, "predecessors": [{"name": "Solunum", "id": 435622}, {"name": "Solunum_sistemi", "id": 69278}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Grip", "id": 57079}, {"name": "Akciğer_hastalıkları", "id": 232608}, {"name": "Solunum_sistemi_hastalıkları", "id": 1303230}]}

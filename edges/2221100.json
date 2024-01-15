@@ -1,0 +1,1 @@
+{"name": "Çalışan_hayvanlar", "id": 2221100, "predecessors": [{"name": "Hayvan_hakları", "id": 186818}, {"name": "Çiftlik_hayvanları", "id": 421608}, {"name": "İnsan-hayvan_etkileşimi", "id": 1431651}, {"name": "Ulaşım", "id": 12798}], "successors": [{"name": "İşçi_köpekler", "id": 1355393}, {"name": "Askerî_hayvanlar", "id": 2060978}, {"name": "Doğancılık", "id": 2221061}]}

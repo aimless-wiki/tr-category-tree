@@ -1,0 +1,1 @@
+{"name": "Netflix", "id": 2031930, "predecessors": [{"name": "Aboneli_seç-izle_hizmetleri", "id": 2464764}, {"name": "Amerika_Birleşik_Devletleri_merkezli_internet_şirketleri", "id": 697229}, {"name": "Önerici_sistemler", "id": 1321422}], "successors": [{"name": "Netflix_orijinal_dizileri", "id": 2217991}, {"name": "Netflix_orijinal_filmleri", "id": 2217993}]}

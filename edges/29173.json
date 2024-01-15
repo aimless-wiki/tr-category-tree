@@ -1,0 +1,1 @@
+{"name": "VoIP", "id": 29173, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Sayısal_ses", "id": 1721352}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": [{"name": "Skype", "id": 954716}]}

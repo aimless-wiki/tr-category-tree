@@ -1,0 +1,1 @@
+{"name": "Hayvan_gıdaları_markaları", "id": 2083671, "predecessors": [{"name": "Hayvan_gıdaları", "id": 2083802}, {"name": "Yiyecek_markaları", "id": 444826}], "successors": [{"name": "Kedi_maması_üreticileri", "id": 2083662}, {"name": "Köpek_maması_üreticileri", "id": 2083664}]}

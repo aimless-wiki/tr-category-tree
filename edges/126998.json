@@ -1,0 +1,1 @@
+{"name": "Nükleer_tıp", "id": 126998, "predecessors": [{"name": "Radyoloji", "id": 96410}, {"name": "Tıbbi_görüntüleme", "id": 832084}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Tıbbi_görüntüleme", "id": 832084}, {"name": "Radyoaktif_kirlenme", "id": 1786587}]}

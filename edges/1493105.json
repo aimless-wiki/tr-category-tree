@@ -1,0 +1,1 @@
+{"name": "İçme_suyu", "id": 1493105, "predecessors": [{"name": "Sağlık", "id": 12532}, {"name": "Su", "id": 195970}], "successors": [{"name": "Sudan_kaynaklanan_hastalıklar", "id": 197556}, {"name": "Soda_(içecek)", "id": 1493104}, {"name": "Su_filtreleri", "id": 2383695}, {"name": "Maden_suyu", "id": 2401651}, {"name": "Şişelenmiş_su_markaları", "id": 2336945}]}

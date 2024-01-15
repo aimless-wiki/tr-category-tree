@@ -1,0 +1,1 @@
+{"name": "İnternet_dolandırıcılığı", "id": 2035887, "predecessors": [{"name": "Bilişim_suçları", "id": 231514}, {"name": "Dolandırıcılık", "id": 1339131}, {"name": "E-posta", "id": 14170}, {"name": "Kimlik_hırsızlığı", "id": 1675612}, {"name": "Spam", "id": 91157}], "successors": [{"name": "Spam", "id": 91157}, {"name": "Exploitler", "id": 1321308}]}

@@ -1,0 +1,1 @@
+{"name": "Otomatik_tanıma_ve_veri_toplama", "id": 1394044, "predecessors": [{"name": "Gözetim", "id": 1393770}, {"name": "İnsan_bilgisayar_etkileşimi", "id": 544069}, {"name": "Bilişim", "id": 12614}], "successors": [{"name": "Barkodlar", "id": 99015}, {"name": "Optik_karakter_tanıma", "id": 1393767}, {"name": "RFID", "id": 1754563}]}

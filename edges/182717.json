@@ -1,0 +1,1 @@
+{"name": "Ağ_güvenliği", "id": 182717, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_güvenliği", "id": 182721}], "successors": [{"name": "Casus_yazılım", "id": 598374}, {"name": "Sanal_özel_ağlar", "id": 1904042}, {"name": "Güvenlik_duvarı_yazılımları", "id": 2205747}]}

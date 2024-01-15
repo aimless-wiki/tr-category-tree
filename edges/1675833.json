@@ -1,0 +1,1 @@
+{"name": "Windows_CE", "id": 1675833, "predecessors": [{"name": "Microsoft_Windows", "id": 24095}, {"name": "Microsoft_işletim_sistemleri", "id": 2117345}, {"name": "Mobil_işletim_sistemleri", "id": 1609105}], "successors": [{"name": "Windows_Phone", "id": 1569411}, {"name": "Windows_Mobile", "id": 2131357}, {"name": "Windows_CE_aygıtları", "id": 2240504}]}

@@ -1,0 +1,1 @@
+{"name": "Google_Chrome", "id": 2175110, "predecessors": [{"name": "Bulut_istemcileri", "id": 2059125}, {"name": "C++_yazılımları", "id": 1668644}, {"name": "Taşınabilir_yazılım", "id": 1156729}, {"name": "WebKit_bazlı_yazılımlar", "id": 2137088}, {"name": "Çapraz_platform_web_tarayıcıları", "id": 2127468}], "successors": [{"name": "Google_Chrome_uzantıları", "id": 2243014}]}

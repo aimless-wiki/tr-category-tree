@@ -1,0 +1,1 @@
+{"name": "Mektuplar", "id": 389233, "predecessors": [{"name": "Posta", "id": 16152}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "Mektup_yazarları", "id": 1120093}, {"name": "Kanonik_mektuplar", "id": 650363}]}

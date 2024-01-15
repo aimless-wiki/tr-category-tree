@@ -1,0 +1,1 @@
+{"name": "Borsa_endeksleri", "id": 1539865, "predecessors": [{"name": "Borsa", "id": 21325}, {"name": "Ekonomik_göstergeler", "id": 902716}, {"name": "Ölçüm", "id": 15451}], "successors": [{"name": "Borsa_dış_bağlantı_şablonları", "id": 1539867}, {"name": "Nikkei_225", "id": 2154712}, {"name": "CAC_40", "id": 2242155}]}

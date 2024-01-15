@@ -1,0 +1,1 @@
+{"name": "RSS_okuyucu", "id": 1670700, "predecessors": [{"name": "Haber_siteleri", "id": 69353}, {"name": "PHP_programlama_dili", "id": 118721}, {"name": "Sistem_yazılımları", "id": 175932}, {"name": "Çevrimiçi_veritabanları", "id": 415339}, {"name": "İnternet_yazılımları", "id": 69378}], "successors": [{"name": "Mozilla_Firefox", "id": 1151811}]}

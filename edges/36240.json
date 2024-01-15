@@ -1,0 +1,1 @@
+{"name": "Petrol", "id": 36240, "predecessors": [{"name": "Hidrokarbonlar", "id": 24683}, {"name": "Doğal_kaynaklar", "id": 36243}], "successors": [{"name": "Petrol_şirketleri", "id": 154225}, {"name": "Petrol_ürünleri", "id": 198450}, {"name": "Petrol_taslakları", "id": 237862}, {"name": "Petrol_endüstrisi", "id": 1571835}]}

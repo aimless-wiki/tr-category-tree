@@ -1,0 +1,1 @@
+{"name": "İşitme", "id": 624501, "predecessors": [{"name": "Duyma_sistemi", "id": 1702921}, {"name": "Kulak", "id": 397170}, {"name": "Algı", "id": 183732}], "successors": [{"name": "Duyma_sistemi", "id": 1702921}, {"name": "Odyoloji", "id": 2023600}]}

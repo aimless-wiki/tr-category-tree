@@ -1,0 +1,1 @@
+{"name": "Tehlikeler", "id": 874463, "predecessors": [{"name": "Acil_durum_yönetimi", "id": 1016285}, {"name": "Önleme", "id": 2471116}], "successors": [{"name": "Yangın", "id": 8204}, {"name": "Afetler", "id": 29683}, {"name": "Ekonomik_sorunlar", "id": 902443}]}

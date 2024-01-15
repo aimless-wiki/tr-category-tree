@@ -1,0 +1,1 @@
+{"name": "Elektrikli_demiryolu_ulaşımı", "id": 2377457, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}], "successors": [{"name": "Tramvay_üreticileri", "id": 2080957}, {"name": "İstanbul_tramvayı_hatları", "id": 969848}, {"name": "BurTram", "id": 1665145}]}

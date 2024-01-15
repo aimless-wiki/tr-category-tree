@@ -1,0 +1,1 @@
+{"name": "Suç_önleme", "id": 1330754, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Kamu_güvenliği", "id": 874589}, {"name": "Polis", "id": 37942}, {"name": "Polis_teknikleri", "id": 1330755}, {"name": "Suç", "id": 23210}, {"name": "Önleme", "id": 2471116}], "successors": [{"name": "Polis", "id": 37942}, {"name": "Gözetim", "id": 1393770}]}

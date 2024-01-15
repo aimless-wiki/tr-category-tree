@@ -1,0 +1,1 @@
+{"name": "Deniz_ulaşımı", "id": 371365, "predecessors": [{"name": "Denizler", "id": 8782}, {"name": "Su_ulaşımı", "id": 1333119}], "successors": [{"name": "Deniz_araçları", "id": 187856}, {"name": "Deniz_tarihi", "id": 768935}]}

@@ -1,0 +1,1 @@
+{"name": "Yağış", "id": 120240, "predecessors": [{"name": "Hava_olayları", "id": 182172}, {"name": "İklim", "id": 12617}], "successors": [{"name": "Kar", "id": 158574}, {"name": "Yağmur", "id": 2315117}]}

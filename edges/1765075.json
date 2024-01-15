@@ -1,0 +1,1 @@
+{"name": "İlaç_güvenliği", "id": 1765075, "predecessors": [{"name": "Kimya_güvenliği", "id": 796443}, {"name": "Ürün_güvenliği", "id": 1664259}, {"name": "İlaçlar", "id": 26649}], "successors": [{"name": "Feshedilen_ilaçlar", "id": 1765074}, {"name": "Aşı_tartışmaları", "id": 2930134}]}

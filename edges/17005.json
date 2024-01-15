@@ -1,0 +1,1 @@
+{"name": "Ölçü_aletleri", "id": 17005, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Ölçüm", "id": 15451}], "successors": [{"name": "Radar", "id": 157904}, {"name": "Uçak_cihazları", "id": 1016266}, {"name": "Uyarı_sistemleri", "id": 1016271}, {"name": "Akışmetre", "id": 1722378}, {"name": "Seyir_ekipmanları", "id": 1913270}]}

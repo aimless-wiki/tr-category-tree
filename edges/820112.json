@@ -1,0 +1,1 @@
+{"name": "Hava_trafik_kontrol", "id": 820112, "predecessors": [{"name": "Hava_trafik_hizmeti", "id": 1500472}, {"name": "Havacılık_terimleri", "id": 367669}, {"name": "Radar", "id": 157904}, {"name": "Uçuş_güvenliği", "id": 212833}], "successors": [{"name": "Radar", "id": 157904}, {"name": "Uçuşa_yasak_bölgeler", "id": 1673334}]}

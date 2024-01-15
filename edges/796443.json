@@ -1,0 +1,1 @@
+{"name": "Kimya_güvenliği", "id": 796443, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Kimya", "id": 3599}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "İş_sağlığı_ve_güvenliği", "id": 862957}], "successors": [{"name": "Ev_kimyasalları", "id": 699996}, {"name": "İlaç_güvenliği", "id": 1765075}, {"name": "Doğalgaz_güvenliği", "id": 2096449}]}

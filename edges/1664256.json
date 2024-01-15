@@ -1,0 +1,1 @@
+{"name": "Gıda_bilimi", "id": 1664256, "predecessors": [{"name": "Gıda_endüstrisi", "id": 1664257}, {"name": "Uygulamalı_bilimler", "id": 12512}], "successors": [{"name": "Gıda_koruma", "id": 1664255}, {"name": "Gıda_güvenliği", "id": 1664258}, {"name": "Fırınlama", "id": 1747339}, {"name": "Önoloji", "id": 3019553}, {"name": "Şarapçılık", "id": 3062838}]}

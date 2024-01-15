@@ -1,0 +1,1 @@
+{"name": "İnsan_fizyolojisi", "id": 895638, "predecessors": [{"name": "Hayvan_fizyolojisi", "id": 16586}, {"name": "İnsan_vücudu", "id": 644503}, {"name": "Biyolojinin_genel_alanları", "id": 369713}], "successors": [{"name": "Egzersiz_fizyolojisi", "id": 467606}, {"name": "İnsan_hormonları", "id": 956990}, {"name": "İnsan_homeostazi", "id": 2380336}]}

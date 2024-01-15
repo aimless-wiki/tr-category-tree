@@ -1,0 +1,1 @@
+{"name": "Grip", "id": 57079, "predecessors": [{"name": "Hayvan_hastalıkları", "id": 43570}, {"name": "Pulmonoloji", "id": 97527}, {"name": "İhbarı_mecburi_hastalıklar", "id": 1942371}], "successors": [{"name": "Gripten_ölenler", "id": 2119112}, {"name": "Grip_salgınları", "id": 3080093}, {"name": "İspanyol_gribinden_ölenler", "id": 2102951}]}

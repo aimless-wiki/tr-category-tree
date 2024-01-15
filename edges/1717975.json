@@ -1,0 +1,1 @@
+{"name": "Kâğıt_atıklar", "id": 1717975, "predecessors": [{"name": "Atık", "id": 1293509}, {"name": "Geri_dönüşüm", "id": 386857}, {"name": "Kâğıt", "id": 58931}, {"name": "Su_koruması", "id": 2268906}, {"name": "Korunma_durumu", "id": 341898}], "successors": [{"name": "Kitaplar", "id": 74248}]}

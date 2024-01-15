@@ -1,0 +1,1 @@
+{"name": "Akciğer_hastalıkları", "id": 232608, "predecessors": [{"name": "Pulmonoloji", "id": 97527}, {"name": "Solunum_sistemi_hastalıkları", "id": 1303230}, {"name": "Dolaşım_sistemi", "id": 140295}, {"name": "İnsan_hastalıkları", "id": 86141}, {"name": "Tıp_bilimleri", "id": 88214}], "successors": [{"name": "Alerjiloji", "id": 140336}, {"name": "Verem", "id": 768694}]}

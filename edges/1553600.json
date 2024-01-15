@@ -1,0 +1,1 @@
+{"name": "İstihdam", "id": 1553600, "predecessors": [{"name": "Kişisel_yaşam", "id": 1016425}, {"name": "İnsan_kaynakları_yönetimi", "id": 214742}, {"name": "İş", "id": 12610}], "successors": [{"name": "İşsizlik", "id": 1553618}, {"name": "Asker_alımı", "id": 1930754}, {"name": "Çalışma_saatleri", "id": 2010751}, {"name": "İş_yeri", "id": 2116449}]}
