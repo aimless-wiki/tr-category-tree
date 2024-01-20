@@ -1,1 +1,1 @@
-{"name": "Müzik_teknikleri", "id": 915178, "predecessors": [{"name": "Gösteri_sanatları", "id": 642688}], "successors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Konserler", "id": 355052}]}
+{"name": "Müzik_teknikleri", "id": 915178, "predecessors": [{"name": "Eğlence", "id": 12075}], "successors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Konserler", "id": 355052}, {"name": "Şarkı_söyleme", "id": 3486623}, {"name": "Caz_teknikleri", "id": 931961}]}

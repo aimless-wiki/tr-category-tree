@@ -1,1 +1,1 @@
-{"name": "Mutluluk", "id": 788996, "predecessors": [{"name": "Duygular", "id": 76827}, {"name": "Pozitif_psikoloji", "id": 2174522}], "successors": [{"name": "İnsani_Gelişme_Endeksi", "id": 769277}, {"name": "Psikometrik", "id": 2086825}]}
+{"name": "Mutluluk", "id": 788996, "predecessors": [{"name": "Duygular", "id": 76827}, {"name": "Pozitif_psikoloji", "id": 2174522}], "successors": [{"name": "Özgürlük", "id": 950123}, {"name": "İnsani_Gelişme_Endeksi", "id": 769277}, {"name": "Psikometrik", "id": 2086825}]}

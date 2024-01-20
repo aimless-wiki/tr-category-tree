@@ -1,1 +1,1 @@
-{"name": "İngiliz_şarkıcı-şarkı_yazarları", "id": 1856800, "predecessors": [{"name": "İngiliz_şarkı_yazarları", "id": 1856707}, {"name": "İngilizce", "id": 182232}], "successors": [{"name": "İngiliz_erkek_şarkıcı-şarkı_yazarları", "id": 3515256}]}
+{"name": "İngiliz_şarkıcı-şarkı_yazarları", "id": 1856800, "predecessors": [{"name": "İngiliz_şarkı_yazarları", "id": 1856707}, {"name": "İngiliz_müzisyenler", "id": 67772}, {"name": "Britanyalı_söz_yazarları", "id": 1436307}], "successors": [{"name": "İngiliz_erkek_şarkıcı-şarkı_yazarları", "id": 3515256}]}

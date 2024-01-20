@@ -1,1 +1,1 @@
-{"name": "Tango", "id": 36947, "predecessors": [{"name": "Somut_olmayan_kültürel_miras", "id": 1953848}], "successors": [{"name": "Tango_müzisyenleri", "id": 970886}]}
+{"name": "Tango", "id": 36947, "predecessors": [{"name": "Somut_olmayan_kültürel_miras", "id": 1953848}, {"name": "Tarzlara_göre_müzik", "id": 46889}], "successors": [{"name": "Tango_müzisyenleri", "id": 970886}]}

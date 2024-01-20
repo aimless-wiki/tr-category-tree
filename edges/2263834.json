@@ -1,1 +1,1 @@
-{"name": "Yardımcı_teknoloji", "id": 2263834, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Uzaktan_kumanda", "id": 2188687}, {"name": "Ev_otomasyonu", "id": 2536218}]}
+{"name": "Yardımcı_teknoloji", "id": 2263834, "predecessors": [{"name": "Eğitim_teknolojisi", "id": 447604}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Uzaktan_kumanda", "id": 2188687}, {"name": "Ev_otomasyonu", "id": 2536218}]}

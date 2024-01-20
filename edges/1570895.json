@@ -1,1 +1,1 @@
-{"name": "Motor_kontrol", "id": 1570895, "predecessors": [{"name": "Beceriler", "id": 873765}, {"name": "Bilişsel_bilim", "id": 92785}], "successors": [{"name": "Motor_becerileri", "id": 1570893}]}
+{"name": "Motor_kontrol", "id": 1570895, "predecessors": [{"name": "Beceriler", "id": 873765}, {"name": "Bilişsel_bilim", "id": 92785}], "successors": [{"name": "Motor_sistem", "id": 1570415}, {"name": "Motor_becerileri", "id": 1570893}]}

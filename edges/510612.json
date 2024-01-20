@@ -1,1 +1,1 @@
-{"name": "Türk_siyasetçilerin_eşleri", "id": 510612, "predecessors": [{"name": "Siyasetçi_eşleri", "id": 510609}, {"name": "Türk_siyasetçiler", "id": 23204}], "successors": [{"name": "Türkiye_cumhurbaşkanları_eşleri", "id": 1577365}, {"name": "Türkiye_başbakanlarının_eşleri", "id": 2537505}]}
+{"name": "Türk_siyasetçilerin_eşleri", "id": 510612, "predecessors": [{"name": "Siyasetçi_eşleri", "id": 510609}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Türkiye_cumhurbaşkanları_eşleri", "id": 1577365}, {"name": "Türkiye_başbakanlarının_eşleri", "id": 2537505}]}

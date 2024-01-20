@@ -1,1 +1,1 @@
-{"name": "Müzik_tartışmaları", "id": 2299171, "predecessors": [{"name": "Medya_ve_eğlence_tartışmaları", "id": 2299167}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": []}
+{"name": "Müzik_tartışmaları", "id": 2299171, "predecessors": [{"name": "Medya_ve_eğlence_tartışmaları", "id": 2299167}, {"name": "Eğlence", "id": 12075}], "successors": [{"name": "İntihal_tartışmalarına_konu_olan_şarkılar", "id": 2587732}, {"name": "Video_klip_tartışmaları", "id": 2918662}, {"name": "Müstehcenlikle_ilgili_müzik_tartışmaları", "id": 3318286}]}

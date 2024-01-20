@@ -1,1 +1,1 @@
-{"name": "Kanadalı_müzik_grupları", "id": 133533, "predecessors": [{"name": "Kanadalı_müzisyenler", "id": 67794}], "successors": [{"name": "Kanadalı_rock_müzik_grupları", "id": 1291037}]}
+{"name": "Kanadalı_müzik_grupları", "id": 133533, "predecessors": [{"name": "Kanadalı_müzisyenler", "id": 67794}, {"name": "Müzik_grupları", "id": 12163}], "successors": [{"name": "Kanadalı_rock_müzik_grupları", "id": 1291037}]}

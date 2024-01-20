@@ -1,1 +1,1 @@
-{"name": "Ferrari_kişileri", "id": 2343695, "predecessors": [{"name": "Şirketler", "id": 30683}], "successors": [{"name": "Ferrari_pilotları", "id": 2405829}]}
+{"name": "Ferrari_kişileri", "id": 2343695, "predecessors": [{"name": "Ferrari", "id": 153390}, {"name": "Şirketler", "id": 30683}], "successors": [{"name": "Ferrari_pilotları", "id": 2405829}]}

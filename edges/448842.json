@@ -1,1 +1,1 @@
-{"name": "Müzik_meslekleri", "id": 448842, "predecessors": [{"name": "Sanat_meslekleri", "id": 428147}, {"name": "Gösteri_sanatları", "id": 642688}, {"name": "Meslekler", "id": 12752}], "successors": []}
+{"name": "Müzik_meslekleri", "id": 448842, "predecessors": [{"name": "Sanat_meslekleri", "id": 428147}, {"name": "Eğlence", "id": 12075}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Orkestra_şefleri", "id": 132009}, {"name": "Müzikologlar", "id": 21074}, {"name": "Müzik_yapımcıları", "id": 68528}, {"name": "Müzik_eğitimcileri", "id": 1730677}]}

@@ -1,1 +1,1 @@
-{"name": "Müzik_teknolojisi", "id": 444585, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Müzik_yazılımları", "id": 172221}]}
+{"name": "Müzik_teknolojisi", "id": 444585, "predecessors": [{"name": "Medya_teknolojisi", "id": 793143}, {"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Eğlence", "id": 12075}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Müzik_aletleri", "id": 12702}, {"name": "Müzik_yazılımları", "id": 172221}, {"name": "Müzik_siteleri", "id": 628431}]}

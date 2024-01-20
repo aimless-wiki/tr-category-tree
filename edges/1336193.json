@@ -1,1 +1,1 @@
-{"name": "Türlerine_göre_suç", "id": 1336193, "predecessors": [{"name": "Suç", "id": 23210}], "successors": [{"name": "Savaş_suçları", "id": 612741}, {"name": "Ticari_suçlar", "id": 902659}, {"name": "Mali_suçlar", "id": 1054112}]}
+{"name": "Türlerine_göre_suç", "id": 1336193, "predecessors": [{"name": "Suç", "id": 23210}], "successors": [{"name": "Savaş_suçları", "id": 612741}, {"name": "Ticari_suçlar", "id": 902659}, {"name": "Cinsel_suçlar", "id": 956661}, {"name": "Mali_suçlar", "id": 1054112}]}

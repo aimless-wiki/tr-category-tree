@@ -1,1 +1,1 @@
-{"name": "Baladlar", "id": 931973, "predecessors": [{"name": "Caz_teknikleri", "id": 931961}], "successors": [{"name": "Balad_müzisyenleri", "id": 2349703}]}
+{"name": "Baladlar", "id": 931973, "predecessors": [{"name": "Caz_teknikleri", "id": 931961}, {"name": "Tarzlara_göre_müzik", "id": 46889}], "successors": [{"name": "Balad_müzisyenleri", "id": 2349703}]}

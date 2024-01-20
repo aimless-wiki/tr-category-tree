@@ -1,1 +1,1 @@
-{"name": "İzlandalı_müzik_grupları", "id": 133535, "predecessors": [{"name": "Sanat_meslekleri", "id": 428147}], "successors": [{"name": "İzlandalı_elektronik_müzik_grupları", "id": 2081466}, {"name": "İzlandalı_pop_müzik_grupları", "id": 2081470}]}
+{"name": "İzlandalı_müzik_grupları", "id": 133535, "predecessors": [{"name": "Müzik_grupları", "id": 12163}, {"name": "Sanat_meslekleri", "id": 428147}], "successors": [{"name": "İzlandalı_elektronik_müzik_grupları", "id": 2081466}, {"name": "İzlandalı_pop_müzik_grupları", "id": 2081470}]}

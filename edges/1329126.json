@@ -1,1 +1,1 @@
-{"name": "Bisiklet_üreticileri", "id": 1329126, "predecessors": [{"name": "Bisiklet", "id": 102904}, {"name": "Spor_şirketleri", "id": 170093}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": []}
+{"name": "Bisiklet_üreticileri", "id": 1329126, "predecessors": [{"name": "Bisiklet", "id": 102904}, {"name": "Spor_ekipmanları", "id": 1253633}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": []}

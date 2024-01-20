@@ -1,1 +1,1 @@
-{"name": "TeX", "id": 236386, "predecessors": [{"name": "Masaüstü_yayıncılık", "id": 183761}, {"name": "Matematik_araç_ve_gereçleri", "id": 340517}, {"name": "Özgür_yazılım", "id": 3492}, {"name": "Tipografi", "id": 42693}], "successors": []}
+{"name": "TeX", "id": 236386, "predecessors": [{"name": "Masaüstü_yayıncılık", "id": 183761}, {"name": "Matematik_araç_ve_gereçleri", "id": 340517}, {"name": "Özgür_yazılım", "id": 3492}, {"name": "Tipografi", "id": 42693}, {"name": "Grafik_dosya_biçimleri", "id": 116150}], "successors": []}

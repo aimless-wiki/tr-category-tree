@@ -1,1 +1,1 @@
-{"name": "Müzik_terminolojisi", "id": 973176, "predecessors": [{"name": "Terminoloji", "id": 53876}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": [{"name": "Opera_terminolojisi", "id": 875940}]}
+{"name": "Müzik_terminolojisi", "id": 973176, "predecessors": [{"name": "Terminoloji", "id": 53876}, {"name": "Eğlence", "id": 12075}], "successors": [{"name": "Müzik_terimleri", "id": 130364}, {"name": "Opera_terminolojisi", "id": 875940}]}

@@ -1,1 +1,1 @@
-{"name": "Sürdürülebilir_tarım", "id": 1345319, "predecessors": [{"name": "Sürdürülebilir_gelişme", "id": 2075321}, {"name": "Arkeoloji_teorisi", "id": 2221895}], "successors": [{"name": "Organik_tarım", "id": 1345318}, {"name": "Kompost", "id": 1345322}]}
+{"name": "Sürdürülebilir_tarım", "id": 1345319, "predecessors": [{"name": "Sürdürülebilir_gelişme", "id": 2075321}, {"name": "Arkeoloji_teorisi", "id": 2221895}], "successors": [{"name": "Organik_tarım", "id": 1345318}, {"name": "Kompost", "id": 1345322}, {"name": "Biyolojik_mücadele_(tarım)", "id": 1763425}]}

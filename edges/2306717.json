@@ -1,1 +1,1 @@
-{"name": "Kişisel_bakım_ve_hizmet_meslekleri", "id": 2306717, "predecessors": [{"name": "Hizmet_meslekleri", "id": 2067294}], "successors": [{"name": "Hostesler", "id": 1949781}, {"name": "Kuaförlük", "id": 2258217}, {"name": "Ev_işi", "id": 2306714}]}
+{"name": "Kişisel_bakım_ve_hizmet_meslekleri", "id": 2306717, "predecessors": [{"name": "Hizmet_meslekleri", "id": 2067294}], "successors": [{"name": "Hostesler", "id": 1949781}, {"name": "Kuaförlük", "id": 2258217}, {"name": "Ev_işi", "id": 2306714}, {"name": "Kurgusal_ev_kadınları", "id": 2569677}]}

@@ -1,1 +1,1 @@
-{"name": "Manhattan_doğumlular", "id": 1636276, "predecessors": [{"name": "New_York_doğumlular", "id": 1419622}, {"name": "Amsterdam_merkezli_şirketler", "id": 1783649}], "successors": [{"name": "Harlem_doğumlular", "id": 2241502}]}
+{"name": "Manhattan_doğumlular", "id": 1636276, "predecessors": [{"name": "New_York_doğumlular", "id": 1419622}, {"name": "New_York", "id": 115188}], "successors": [{"name": "Harlem_doğumlular", "id": 2241502}]}

@@ -1,1 +1,1 @@
-{"name": "Tedavi_taslakları", "id": 424988, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Tıp_taslakları", "id": 39313}], "successors": [{"name": "Farmakoloji_taslakları", "id": 39841}, {"name": "Cerrahi_taslakları", "id": 424996}]}
+{"name": "Tedavi_taslakları", "id": 424988, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Tıp_taslakları", "id": 39313}], "successors": [{"name": "Cerrahi_taslakları", "id": 424996}]}

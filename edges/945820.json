@@ -1,1 +1,1 @@
-{"name": "Müzik_akımları", "id": 945820, "predecessors": [{"name": "Sanat_akımları", "id": 15009}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": []}
+{"name": "Müzik_akımları", "id": 945820, "predecessors": [{"name": "Sanat_akımları", "id": 15009}, {"name": "Eğlence", "id": 12075}], "successors": [{"name": "Müzik_kanalları", "id": 1297252}]}

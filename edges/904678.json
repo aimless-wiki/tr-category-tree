@@ -1,1 +1,1 @@
-{"name": "Çocuk_cinsel_istismarı", "id": 904678, "predecessors": [{"name": "Çocuk_istismarı", "id": 904679}, {"name": "Parafili", "id": 451172}], "successors": [{"name": "Çocuk_cinsel_istismarı_ile_ilgili_filmler", "id": 2925178}]}
+{"name": "Çocuk_cinsel_istismarı", "id": 904678, "predecessors": [{"name": "Cinsel_istismar", "id": 165378}, {"name": "Cinsel_suçlar", "id": 956661}, {"name": "Çocuk_istismarı", "id": 904679}, {"name": "Parafili", "id": 451172}], "successors": [{"name": "Çocuk_cinsel_istismarı_ile_ilgili_filmler", "id": 2925178}]}

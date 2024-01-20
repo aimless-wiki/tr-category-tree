@@ -1,1 +1,1 @@
-{"name": "Semptom_ve_belirtiler", "id": 1935515, "predecessors": [{"name": "Hastalıklar_ve_bozukluklar", "id": 9908}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Semptomlar", "id": 35947}, {"name": "Belirtiler", "id": 1350946}]}
+{"name": "Semptom_ve_belirtiler", "id": 1935515, "predecessors": [{"name": "Fizyoloji", "id": 16585}, {"name": "Hastalıklar_ve_bozukluklar", "id": 9908}], "successors": [{"name": "Semptomlar", "id": 35947}, {"name": "Belirtiler", "id": 1350946}]}

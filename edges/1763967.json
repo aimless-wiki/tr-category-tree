@@ -1,1 +1,1 @@
-{"name": "Psikiyatrik_tedaviler", "id": 1763967, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Psikoterapi", "id": 747068}], "successors": []}
+{"name": "Psikiyatrik_tedaviler", "id": 1763967, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Psikoterapi", "id": 747068}, {"name": "Tıbbi_tedaviler", "id": 252289}], "successors": []}
