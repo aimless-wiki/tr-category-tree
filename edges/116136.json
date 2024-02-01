@@ -1,1 +1,1 @@
-{"name": "E-posta_istemcileri", "id": 116136, "predecessors": [{"name": "E-posta", "id": 14170}], "successors": [{"name": "Windows_e-posta_istemcileri", "id": 2117351}, {"name": "Linux_e-posta_istemcileri", "id": 2117722}, {"name": "Web-posta", "id": 2147857}]}
+{"name": "E-posta_istemcileri", "id": 116136, "predecessors": [{"name": "E-posta", "id": 14170}], "successors": [{"name": "Web-posta", "id": 2147857}]}

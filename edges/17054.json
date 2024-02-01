@@ -1,1 +1,1 @@
-{"name": "Retorik", "id": 17054, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Uygulamalı_dilbilim", "id": 1408266}, {"name": "İletişim_bilimleri", "id": 1753946}, {"name": "Hobiler", "id": 12753}, {"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Retorik_teknikleri", "id": 1608685}]}
+{"name": "Retorik", "id": 17054, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Dilbilim", "id": 142761}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "İletişim", "id": 12514}, {"name": "Demokrasi", "id": 199931}], "successors": []}

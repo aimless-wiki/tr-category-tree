@@ -1,1 +1,1 @@
-{"name": "GPS_navigasyon_cihazları", "id": 2249536, "predecessors": [{"name": "GPS", "id": 1016253}, {"name": "Seyir_ekipmanları", "id": 1913270}, {"name": "Tüketici_elektroniği", "id": 203103}], "successors": []}
+{"name": "GPS_navigasyon_cihazları", "id": 2249536, "predecessors": [{"name": "GPS", "id": 1016253}, {"name": "Tüketici_elektroniği", "id": 203103}, {"name": "Seyir", "id": 432114}], "successors": []}

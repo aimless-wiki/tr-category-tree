@@ -1,1 +1,1 @@
-{"name": "Analjezikler", "id": 25875, "predecessors": [{"name": "Agnozi", "id": 1765324}], "successors": [{"name": "Opioidler", "id": 429794}]}
+{"name": "Analjezikler", "id": 25875, "predecessors": [{"name": "Farmakolojik_ajanlar", "id": 20204}, {"name": "Beyin_hastalıkları", "id": 617781}], "successors": [{"name": "Opioidler", "id": 429794}]}

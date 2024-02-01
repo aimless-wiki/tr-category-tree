@@ -1,1 +1,1 @@
-{"name": "Çevirmenler", "id": 53565, "predecessors": [{"name": "Çeviri", "id": 722656}], "successors": []}
+{"name": "Çevirmenler", "id": 53565, "predecessors": [{"name": "Dilbilimciler", "id": 6580}, {"name": "Çeviri", "id": 722656}], "successors": [{"name": "Fransızcadan_Türkçeye_çeviri_yapanlar", "id": 3530340}, {"name": "20._yüzyıl_çevirmenleri", "id": 2089966}, {"name": "19._yüzyıl_çevirmenleri", "id": 2456575}, {"name": "18._yüzyıl_çevirmenleri", "id": 3078237}]}

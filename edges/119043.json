@@ -1,1 +1,1 @@
-{"name": "Para_politikası", "id": 119043, "predecessors": [{"name": "Ekonomi_politikaları", "id": 115128}, {"name": "Para", "id": 15709}], "successors": [{"name": "Maliye_politikası", "id": 1943631}]}
+{"name": "Para_politikası", "id": 119043, "predecessors": [{"name": "Ekonomi_politikaları", "id": 115128}, {"name": "Makroekonomi", "id": 12473}, {"name": "Para", "id": 15709}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Silikat_mineralleri", "id": 47304, "predecessors": [{"name": "Oksit_mineralleri", "id": 50058}, {"name": "Silikatlar", "id": 698808}], "successors": [{"name": "Kuvars_çeşitleri", "id": 50057}]}
+{"name": "Silikat_mineralleri", "id": 47304, "predecessors": [{"name": "Oksitler", "id": 515565}, {"name": "Kimya", "id": 3599}], "successors": []}

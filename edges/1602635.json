@@ -1,1 +1,1 @@
-{"name": "Sovyet_sanatçılar", "id": 1602635, "predecessors": [{"name": "Sanat_meslekleri", "id": 428147}], "successors": [{"name": "Sovyet_mimarlar", "id": 2048368}]}
+{"name": "Sovyet_sanatçılar", "id": 1602635, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Sovyet_film_yönetmenleri", "id": 1631404}, {"name": "Sovyet_besteciler", "id": 123040}, {"name": "Sovyet_erkek_şarkıcılar", "id": 1750344}, {"name": "Sovyet_kadın_şarkıcılar", "id": 1750350}]}

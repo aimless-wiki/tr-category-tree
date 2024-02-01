@@ -1,1 +1,1 @@
-{"name": "Regresyon_analizi", "id": 677855, "predecessors": [{"name": "Ekonometri", "id": 86877}, {"name": "Optimizasyon", "id": 519792}, {"name": "İstatistiksel_sınamalar", "id": 568891}, {"name": "Disiplinlerarası_bilimler", "id": 12117}, {"name": "İstatistik_teorisi", "id": 1777638}], "successors": []}
+{"name": "Regresyon_analizi", "id": 677855, "predecessors": [{"name": "Ekonometri", "id": 86877}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "İstatistik", "id": 13377}], "successors": []}

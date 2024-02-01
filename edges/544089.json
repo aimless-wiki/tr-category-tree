@@ -1,1 +1,1 @@
-{"name": "Anlamsal_Ağ", "id": 544089, "predecessors": [{"name": "Veri_yönetimi", "id": 520720}], "successors": []}
+{"name": "Anlamsal_Ağ", "id": 544089, "predecessors": [{"name": "Dünya_Çapında_Ağ", "id": 544065}, {"name": "Veri_yönetimi", "id": 520720}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tropikal_hastalıklar", "id": 108396, "predecessors": [{"name": "Dönenceler", "id": 196252}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}], "successors": [{"name": "Sıtma", "id": 796788}, {"name": "Sarıhumma", "id": 3080094}]}
+{"name": "Tropikal_hastalıklar", "id": 108396, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Coğrafya_terminolojisi", "id": 234679}], "successors": []}

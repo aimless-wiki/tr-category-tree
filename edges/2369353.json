@@ -1,1 +1,1 @@
-{"name": "Dünya_Güreş_Şampiyonası_madalyalı_güreşçiler", "id": 2369353, "predecessors": [{"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Dünya_güreş_şampiyonları", "id": 3120003}]}
+{"name": "Dünya_Güreş_Şampiyonası_madalyalı_güreşçiler", "id": 2369353, "predecessors": [{"name": "Dünya_Güreş_Şampiyonası", "id": 1150500}, {"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Dünya_güreş_şampiyonları", "id": 3120003}]}

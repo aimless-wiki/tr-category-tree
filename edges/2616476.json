@@ -1,1 +1,1 @@
-{"name": "Dünya_Salon_Atletizm_Şampiyonası_madalyalı_atletler", "id": 2616476, "predecessors": [{"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Dünya_Salon_Atletizm_Şampiyonası_şampiyonları", "id": 2616468}]}
+{"name": "Dünya_Salon_Atletizm_Şampiyonası_madalyalı_atletler", "id": 2616476, "predecessors": [{"name": "Dünya_Salon_Atletizm_Şampiyonası", "id": 1134677}, {"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Dünya_Salon_Atletizm_Şampiyonası_şampiyonları", "id": 2616468}]}

@@ -1,1 +1,1 @@
-{"name": "Tabanca_ve_tüfek_fişekleri", "id": 651670, "predecessors": [{"name": "Mermiler", "id": 602926}, {"name": "Mühimmat", "id": 651691}], "successors": [{"name": "Askerî_fişekler", "id": 2474397}]}
+{"name": "Tabanca_ve_tüfek_fişekleri", "id": 651670, "predecessors": [{"name": "Ateşli_silahlar", "id": 26615}, {"name": "Mühimmat", "id": 651691}, {"name": "Tabancalar", "id": 93003}, {"name": "Tüfekler", "id": 187858}], "successors": []}

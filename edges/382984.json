@@ -1,1 +1,1 @@
-{"name": "Benzoik_asitler", "id": 382984, "predecessors": [{"name": "Aromatik_bileşikler", "id": 35768}], "successors": [{"name": "Benzamidler", "id": 1777840}, {"name": "Salisilik_asitler", "id": 2405586}]}
+{"name": "Benzoik_asitler", "id": 382984, "predecessors": [{"name": "Karboksilik_asitler", "id": 86059}], "successors": [{"name": "Benzamidler", "id": 1777840}]}

@@ -1,1 +1,1 @@
-{"name": "İngiliz_zoologlar", "id": 385843, "predecessors": [{"name": "İngiliz_biyologlar", "id": 180167}], "successors": []}
+{"name": "İngiliz_zoologlar", "id": 385843, "predecessors": [{"name": "İngiliz_biyologlar", "id": 180167}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "İngiliz_entomologlar", "id": 1468417}]}

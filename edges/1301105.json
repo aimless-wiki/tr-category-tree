@@ -1,1 +1,1 @@
-{"name": "İstanbul_ilinde_demiryolu_ulaşımı", "id": 1301105, "predecessors": [{"name": "İstanbul_ilinde_ulaşım", "id": 165618}], "successors": [{"name": "İstanbul_ilindeki_tren_istasyonları", "id": 808050}, {"name": "İstanbul_metrosu", "id": 968975}, {"name": "Marmaray_istasyonları", "id": 2336553}, {"name": "İstanbul_tramvayı_hatları", "id": 969848}, {"name": "Halkalı_-_Bahçeşehir_Raylı_Sistemi_istasyonları", "id": 3399526}]}
+{"name": "İstanbul_ilinde_demiryolu_ulaşımı", "id": 1301105, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": []}

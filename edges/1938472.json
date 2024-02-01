@@ -1,1 +1,1 @@
-{"name": "Eski_meslekler", "id": 1938472, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Teknoloji_tarihi", "id": 954427}], "successors": [{"name": "Simyacılar", "id": 91308}, {"name": "Samuraylar", "id": 227206}, {"name": "Süvari", "id": 718427}, {"name": "İnsan_bilgisayarlar", "id": 2588716}]}
+{"name": "Eski_meslekler", "id": 1938472, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Samuraylar", "id": 227206}, {"name": "Süvari_subaylar", "id": 969711}]}

@@ -1,1 +1,1 @@
-{"name": "Akıllı_saatler", "id": 1665984, "predecessors": [{"name": "Bilgi_cihazları", "id": 2223381}, {"name": "Mobil_teknoloji", "id": 1665985}], "successors": []}
+{"name": "Akıllı_saatler", "id": 1665984, "predecessors": [{"name": "Mobil_teknoloji", "id": 1665985}, {"name": "Saatler", "id": 1242687}, {"name": "Bilgisayar", "id": 3494}, {"name": "Aksesuarlar", "id": 193726}], "successors": []}

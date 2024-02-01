@@ -1,1 +1,1 @@
-{"name": "Anadolu_liseleri", "id": 64831, "predecessors": [{"name": "Eğitim_terimleri", "id": 674528}], "successors": [{"name": "Anadolu_teknik_liseleri", "id": 181848}, {"name": "Mesleki_ve_teknik_anadolu_liseleri", "id": 181902}, {"name": "Eskişehir_Anadolu_Lisesinde_öğrenim_görenler", "id": 2993412}]}
+{"name": "Anadolu_liseleri", "id": 64831, "predecessors": [{"name": "Eğitim_terimleri", "id": 674528}, {"name": "Okul_türleri", "id": 3229185}], "successors": []}

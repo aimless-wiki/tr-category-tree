@@ -1,1 +1,1 @@
-{"name": "İstanbul_doğumlu_yazarlar", "id": 2097371, "predecessors": [{"name": "İstanbul_doğumlular", "id": 1105561}], "successors": [{"name": "İstanbul_doğumlu_şairler", "id": 2332558}, {"name": "İstanbul_doğumlu_Ermeni_yazarlar", "id": 3601922}]}
+{"name": "İstanbul_doğumlu_yazarlar", "id": 2097371, "predecessors": [{"name": "Türk_yazarlar", "id": 7519}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İstanbul_doğumlu_şairler", "id": 2332558}, {"name": "İstanbul_doğumlu_Ermeni_yazarlar", "id": 3601922}]}

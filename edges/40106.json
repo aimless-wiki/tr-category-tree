@@ -1,1 +1,1 @@
-{"name": "Sessiz_filmler", "id": 40106, "predecessors": [{"name": "Sinema_tarihi", "id": 31618}], "successors": []}
+{"name": "Sessiz_filmler", "id": 40106, "predecessors": [{"name": "Film_türleri", "id": 104484}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Sessiz_kısa_filmler", "id": 973349}, {"name": "D.W._Griffith'in_yönettiği_filmler", "id": 886623}, {"name": "Amerika_Birleşik_Devletleri_sessiz_filmleri", "id": 1894514}, {"name": "Türkiye_sessiz_filmleri", "id": 1897231}]}

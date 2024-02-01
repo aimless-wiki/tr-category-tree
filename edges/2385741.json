@@ -1,1 +1,1 @@
-{"name": "Kil_tabletler", "id": 2385741, "predecessors": [{"name": "Türlerine_göre_arkeolojik_eserler", "id": 2313725}, {"name": "Çivi_yazısı", "id": 2406920}, {"name": "Antik_Yakın_Doğu", "id": 349007}], "successors": []}
+{"name": "Kil_tabletler", "id": 2385741, "predecessors": [{"name": "Malzemeler", "id": 12782}, {"name": "Arkeolojik_eserler", "id": 550382}, {"name": "Antik_Yakın_Doğu", "id": 349007}, {"name": "Yazı_sistemleri", "id": 72682}], "successors": []}

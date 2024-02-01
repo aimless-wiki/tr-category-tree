@@ -1,1 +1,1 @@
-{"name": "Güneş_Sistemi_şablonları", "id": 1583563, "predecessors": [{"name": "Astronomi_şablonları", "id": 1308571}, {"name": "Teknoloji_şablonları", "id": 211562}], "successors": []}
+{"name": "Güneş_Sistemi_şablonları", "id": 1583563, "predecessors": [{"name": "Astronomi_şablonları", "id": 1308571}, {"name": "Güneş_Sistemi", "id": 6918}, {"name": "Teknoloji_şablonları", "id": 211562}], "successors": [{"name": "Küçük_gezegen_şablonları", "id": 2403521}]}

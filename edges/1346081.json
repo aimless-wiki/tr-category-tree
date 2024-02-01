@@ -1,1 +1,1 @@
-{"name": "İşletme_yönetimi", "id": 1346081, "predecessors": [{"name": "Akademik_bilim_dalları", "id": 1217203}, {"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Teknoloji_sistemleri", "id": 1016292}], "successors": [{"name": "İşletme_enformatiği", "id": 1160275}]}
+{"name": "İşletme_yönetimi", "id": 1346081, "predecessors": [{"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Teknoloji", "id": 6300}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "İletişim_ve_işbirliği_sistemleri", "id": 1627792}]}

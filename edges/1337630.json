@@ -1,1 +1,1 @@
-{"name": "IARC_grup_1_kanserojenler", "id": 1337630, "predecessors": [{"name": "Kanserojenler", "id": 605985}], "successors": [{"name": "İçkiler", "id": 59607}, {"name": "X_ışınları", "id": 1039883}]}
+{"name": "IARC_grup_1_kanserojenler", "id": 1337630, "predecessors": [{"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "İçkiler", "id": 59607}]}

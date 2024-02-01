@@ -1,1 +1,1 @@
-{"name": "Traktör_üreticileri", "id": 112051, "predecessors": [{"name": "Tarım_makineleri_üreticileri", "id": 2402437}, {"name": "İş_makineleri", "id": 342371}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": [{"name": "CNH_Industrial", "id": 2403966}]}
+{"name": "Traktör_üreticileri", "id": 112051, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "İmalat", "id": 404623}, {"name": "Kara_ulaşımı", "id": 447670}, {"name": "Ekonomi", "id": 12356}], "successors": []}

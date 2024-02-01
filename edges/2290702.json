@@ -1,1 +1,1 @@
-{"name": "Avrupa_Atletizm_Şampiyonası_madalyalı_atletler", "id": 2290702, "predecessors": [{"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Avrupa_Atletizm_Şampiyonası_şampiyonları", "id": 3081345}]}
+{"name": "Avrupa_Atletizm_Şampiyonası_madalyalı_atletler", "id": 2290702, "predecessors": [{"name": "Avrupa_Atletizm_Şampiyonası", "id": 1134676}, {"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Avrupa_Atletizm_Şampiyonası_şampiyonları", "id": 3081345}]}

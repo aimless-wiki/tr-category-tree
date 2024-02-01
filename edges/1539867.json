@@ -1,1 +1,1 @@
-{"name": "Borsa_dış_bağlantı_şablonları", "id": 1539867, "predecessors": [{"name": "Borsa_endeksleri", "id": 1539865}, {"name": "Dış_bağlantı_şablonları", "id": 115690}], "successors": []}
+{"name": "Borsa_dış_bağlantı_şablonları", "id": 1539867, "predecessors": [{"name": "Dış_bağlantı_şablonları", "id": 115690}, {"name": "Borsa", "id": 21325}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Amerika_Birleşik_Devletleri_canavar_filmleri", "id": 2322803, "predecessors": [{"name": "Canavar_filmleri", "id": 1085348}], "successors": [{"name": "Amerika_Birleşik_Devletleri_zombi_filmleri", "id": 2839034}, {"name": "Amerika_Birleşik_Devletleri_vampir_filmleri", "id": 3328126}]}
+{"name": "Amerika_Birleşik_Devletleri_canavar_filmleri", "id": 2322803, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_korku_filmleri", "id": 933100}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Amerika_Birleşik_Devletleri_zombi_filmleri", "id": 2839034}]}

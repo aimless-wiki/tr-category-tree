@@ -1,1 +1,1 @@
-{"name": "Kurgusal_öğretmenler", "id": 1817869, "predecessors": [{"name": "Öğretmen", "id": 122627}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}
+{"name": "Kurgusal_öğretmenler", "id": 1817869, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}

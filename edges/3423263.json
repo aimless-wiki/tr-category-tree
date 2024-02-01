@@ -1,1 +1,1 @@
-{"name": "Güverte_subaylar", "id": 3423263, "predecessors": [{"name": "Denizci_subaylar", "id": 777254}, {"name": "Askerî_personel", "id": 1593676}], "successors": []}
+{"name": "Güverte_subaylar", "id": 3423263, "predecessors": [{"name": "Denizci_subaylar", "id": 777254}, {"name": "Askeriye", "id": 39898}], "successors": []}

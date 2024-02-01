@@ -1,1 +1,1 @@
-{"name": "Halk_edebiyatı", "id": 36728, "predecessors": [{"name": "Türk_edebiyatı", "id": 41982}], "successors": [{"name": "Fıkra", "id": 179401}, {"name": "Türk_halk_şarkıları", "id": 261672}, {"name": "Türk_halk_edebiyatı", "id": 878293}, {"name": "Âşık_edebiyatı", "id": 323692}, {"name": "Anonim_halk_edebiyatı", "id": 323696}]}
+{"name": "Halk_edebiyatı", "id": 36728, "predecessors": [{"name": "Türk_edebiyatı", "id": 41982}], "successors": [{"name": "Âşık_edebiyatı", "id": 323692}, {"name": "Türk_halk_şairleri", "id": 184724}]}

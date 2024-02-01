@@ -1,1 +1,1 @@
-{"name": "Kitap_listeleri", "id": 149396, "predecessors": [{"name": "Edebiyat_listeleri", "id": 843808}, {"name": "Kitap_serileri", "id": 516530}, {"name": "Kitaplar", "id": 74248}, {"name": "Kültür_listeleri", "id": 417988}], "successors": [{"name": "100_Temel_Eser", "id": 182496}]}
+{"name": "Kitap_listeleri", "id": 149396, "predecessors": [{"name": "Kitap_serileri", "id": 516530}, {"name": "Düşünce", "id": 92725}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "100_Temel_Eser", "id": 182496}]}

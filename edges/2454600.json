@@ -1,1 +1,1 @@
-{"name": "Hint_yazar_taslakları", "id": 2454600, "predecessors": [{"name": "Hint_taslakları", "id": 1299379}, {"name": "Yazar_taslakları", "id": 27994}], "successors": []}
+{"name": "Hint_yazar_taslakları", "id": 2454600, "predecessors": [{"name": "Hint_taslakları", "id": 1299379}, {"name": "Hint_yazarlar", "id": 1298094}, {"name": "Yazar_taslakları", "id": 27994}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Karakter_değiştirme_şablonları", "id": 2444461, "predecessors": [{"name": "Karakter_şablonları", "id": 2398520}, {"name": "Tiplendirme_şablonları", "id": 1587551}], "successors": [{"name": "İfade_şablonları", "id": 1331179}]}
+{"name": "Karakter_değiştirme_şablonları", "id": 2444461, "predecessors": [{"name": "Tiplendirme_şablonları", "id": 1587551}], "successors": [{"name": "İfade_şablonları", "id": 1331179}]}

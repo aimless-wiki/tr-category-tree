@@ -1,1 +1,1 @@
-{"name": "Çin_merkezli_havayolu_şirketleri", "id": 444303, "predecessors": [{"name": "Havayolu_şirketleri", "id": 28958}, {"name": "Çin_ekonomisi", "id": 427343}], "successors": []}
+{"name": "Çin_merkezli_havayolu_şirketleri", "id": 444303, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Çin", "id": 23786}, {"name": "Ekonomi", "id": 12356}], "successors": []}

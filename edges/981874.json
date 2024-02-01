@@ -1,1 +1,1 @@
-{"name": "Orta_Avrupa", "id": 981874, "predecessors": [{"name": "Siyaset", "id": 12230}], "successors": [{"name": "Avusturya", "id": 20834}, {"name": "Polonya", "id": 20844}, {"name": "Hırvatistan", "id": 20851}, {"name": "Orta_Avrupa_ülkeleri", "id": 3537942}, {"name": "İtalya", "id": 3590}, {"name": "Slovenya", "id": 3605}]}
+{"name": "Orta_Avrupa", "id": 981874, "predecessors": [{"name": "Avrupa'daki_bölgeler", "id": 1767247}, {"name": "Siyaset", "id": 12230}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Prag_doğumlular", "id": 1415183}]}

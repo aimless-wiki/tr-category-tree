@@ -1,1 +1,1 @@
-{"name": "Dramatik_televizyon_dizilerinin_bölüm_listeleri", "id": 1136770, "predecessors": [{"name": "Televizyon_kanallarının_program_listeleri", "id": 1319509}], "successors": []}
+{"name": "Dramatik_televizyon_dizilerinin_bölüm_listeleri", "id": 1136770, "predecessors": [{"name": "Dramatik_televizyon_dizileri", "id": 891052}, {"name": "Televizyon_dizileri", "id": 892386}], "successors": []}

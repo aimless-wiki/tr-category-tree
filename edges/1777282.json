@@ -1,1 +1,1 @@
-{"name": "Yahudi_aktivistler", "id": 1777282, "predecessors": [{"name": "Din", "id": 7198}], "successors": [{"name": "Yahudi_anarşistler", "id": 396105}, {"name": "Yahudi_direnişçiler", "id": 816937}, {"name": "Yahudi_feministler", "id": 1315605}]}
+{"name": "Yahudi_aktivistler", "id": 1777282, "predecessors": [{"name": "Aktivizm", "id": 16802}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yahudi_feministler", "id": 1315605}]}

@@ -1,1 +1,1 @@
-{"name": "Hristiyanlık_eleştirmenleri", "id": 2091068, "predecessors": [{"name": "Din_eleştirmenleri", "id": 1717348}], "successors": [{"name": "Katolik_Kilisesi_eleştirmenleri", "id": 2091061}]}
+{"name": "Hristiyanlık_eleştirmenleri", "id": 2091068, "predecessors": [{"name": "Din_eleştirmenleri", "id": 1717348}, {"name": "Hristiyanlık", "id": 106428}], "successors": [{"name": "Katolik_Kilisesi_eleştirmenleri", "id": 2091061}]}

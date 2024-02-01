@@ -1,1 +1,1 @@
-{"name": "Karotenoidler", "id": 225417, "predecessors": [{"name": "Antioksidanlar", "id": 225422}, {"name": "Fitokimyasallar", "id": 322273}], "successors": []}
+{"name": "Karotenoidler", "id": 225417, "predecessors": [{"name": "Antioksidanlar", "id": 225422}, {"name": "Fotosentez", "id": 336843}, {"name": "Pigmentler", "id": 225418}, {"name": "Bitki_fizyolojisi", "id": 16587}], "successors": []}

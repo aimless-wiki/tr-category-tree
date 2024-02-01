@@ -1,1 +1,1 @@
-{"name": "Ülkelerine_göre_hava_kuvvetleri", "id": 731181, "predecessors": [{"name": "Hava_kuvvetleri", "id": 751352}, {"name": "Askeriye", "id": 39898}], "successors": [{"name": "Luftwaffe", "id": 731178}, {"name": "Türk_Hava_Kuvvetleri", "id": 755177}, {"name": "Sovyet_Hava_Kuvvetleri", "id": 903922}]}
+{"name": "Ülkelerine_göre_hava_kuvvetleri", "id": 731181, "predecessors": [{"name": "Askeriye", "id": 39898}], "successors": [{"name": "Luftwaffe", "id": 731178}, {"name": "Türk_Hava_Kuvvetleri", "id": 755177}]}

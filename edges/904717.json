@@ -1,1 +1,1 @@
-{"name": "İşletme_terimleri", "id": 904717, "predecessors": [{"name": "Ekonomi_terimleri", "id": 1659511}], "successors": [{"name": "Bankacılık_terimleri", "id": 362574}, {"name": "Dış_kaynak_kullanımı", "id": 1783193}, {"name": "Lokanta_terminolojisi", "id": 2297400}]}
+{"name": "İşletme_terimleri", "id": 904717, "predecessors": [{"name": "Ekonomi_terimleri", "id": 1659511}, {"name": "İşletme", "id": 21253}], "successors": [{"name": "Bankacılık_terimleri", "id": 362574}, {"name": "Lokanta_terminolojisi", "id": 2297400}]}

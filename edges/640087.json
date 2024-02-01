@@ -1,1 +1,1 @@
-{"name": "Anayasa_mahkemeleri", "id": 640087, "predecessors": [{"name": "Anayasa_hukuku", "id": 142626}, {"name": "Mahkemeler", "id": 272902}], "successors": [{"name": "Türkiye_Cumhuriyeti_Anayasa_Mahkemesi_üyeleri", "id": 672720}, {"name": "Türkiye_Cumhuriyeti_Anayasa_Mahkemesi_raportörleri", "id": 1813961}, {"name": "Amerika_Birleşik_Devletleri_başyargıçları", "id": 2035830}]}
+{"name": "Anayasa_mahkemeleri", "id": 640087, "predecessors": [{"name": "Anayasa_hukuku", "id": 142626}, {"name": "Hukuk", "id": 12115}], "successors": []}

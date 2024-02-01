@@ -1,1 +1,1 @@
-{"name": "Başbakanlar_listeleri", "id": 1576359, "predecessors": [{"name": "Başbakanlar", "id": 64953}, {"name": "Siyasi_makam_sahibi_listeleri", "id": 2210588}], "successors": []}
+{"name": "Başbakanlar_listeleri", "id": 1576359, "predecessors": [{"name": "Siyasi_makam_sahibi_listeleri", "id": 2210588}, {"name": "Siyaset", "id": 12230}], "successors": []}

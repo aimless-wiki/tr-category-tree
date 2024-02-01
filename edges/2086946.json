@@ -1,1 +1,1 @@
-{"name": "İdam_edilmiş_hanedan_üyeleri", "id": 2086946, "predecessors": [{"name": "Kraliyet_hanedanları", "id": 886099}, {"name": "İdam_edilmiş_kişiler", "id": 114426}], "successors": []}
+{"name": "İdam_edilmiş_hanedan_üyeleri", "id": 2086946, "predecessors": [{"name": "İdam_edilmiş_kişiler", "id": 114426}, {"name": "Hanedanlar", "id": 811303}], "successors": []}

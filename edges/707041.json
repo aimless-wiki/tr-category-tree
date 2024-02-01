@@ -1,1 +1,1 @@
-{"name": "Karabağ_tarihi", "id": 707041, "predecessors": [{"name": "Azerbaycan_tarihi", "id": 215386}], "successors": [{"name": "Birinci_Dağlık_Karabağ_Savaşı", "id": 373917}, {"name": "Karabağ_Hanlığı", "id": 2266346}]}
+{"name": "Karabağ_tarihi", "id": 707041, "predecessors": [{"name": "Azerbaycan_tarihi", "id": 215386}, {"name": "Kafkasya_tarihi", "id": 700367}, {"name": "Azerbaycan", "id": 21085}, {"name": "Avrupa'daki_bölgeler", "id": 1767247}], "successors": [{"name": "Birinci_Dağlık_Karabağ_Savaşı", "id": 373917}, {"name": "Karabağ_Hanlığı", "id": 2266346}]}

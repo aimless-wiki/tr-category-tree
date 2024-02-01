@@ -1,1 +1,1 @@
-{"name": "Fransız_yazar_taslakları", "id": 1024127, "predecessors": [{"name": "Yazar_taslakları", "id": 27994}], "successors": [{"name": "Fransız_şair_taslakları", "id": 1417654}]}
+{"name": "Fransız_yazar_taslakları", "id": 1024127, "predecessors": [{"name": "Fransız_taslakları", "id": 182527}, {"name": "Fransız_yazarlar", "id": 21638}, {"name": "Yazar_taslakları", "id": 27994}], "successors": [{"name": "Fransız_şair_taslakları", "id": 1417654}]}

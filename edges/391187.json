@@ -1,1 +1,1 @@
-{"name": "Gemi_taslakları", "id": 391187, "predecessors": [{"name": "Deniz_araçları", "id": 187856}], "successors": []}
+{"name": "Gemi_taslakları", "id": 391187, "predecessors": [{"name": "Denizcilik_taslakları", "id": 126421}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Askerî_gemi_taslakları", "id": 108091}]}

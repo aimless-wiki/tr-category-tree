@@ -1,1 +1,1 @@
-{"name": "Milletlerine_göre_kişi_listeleri", "id": 1410751, "predecessors": [{"name": "Kişi_listeleri", "id": 148159}], "successors": [{"name": "Türk_listeleri", "id": 1593290}, {"name": "Britanyalı_listeleri", "id": 1916720}, {"name": "Milletlere_göre_mimar_listeleri", "id": 2113774}]}
+{"name": "Milletlerine_göre_kişi_listeleri", "id": 1410751, "predecessors": [{"name": "Kişi_listeleri", "id": 148159}, {"name": "Coğrafya_listeleri", "id": 151798}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_listeleri", "id": 1593290}]}

@@ -1,1 +1,1 @@
-{"name": "Mac_OS_yazılımları", "id": 457589, "predecessors": [{"name": "Mac_OS", "id": 24093}, {"name": "Mikro_bilgisayar_yazılımları", "id": 544807}], "successors": [{"name": "Classic_Mac_OS_yazılımları", "id": 2373391}]}
+{"name": "Mac_OS_yazılımları", "id": 457589, "predecessors": [{"name": "Apple_yazılımları", "id": 25018}, {"name": "Mac_OS", "id": 24093}, {"name": "Yazılım", "id": 3493}, {"name": "Bilgisayar_türleri", "id": 23111}], "successors": [{"name": "Mac_OS_oyunları", "id": 457588}]}

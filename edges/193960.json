@@ -1,1 +1,1 @@
-{"name": "Dağcılık", "id": 193960, "predecessors": [{"name": "Dağlar", "id": 17505}, {"name": "Doğa_sporları", "id": 110499}, {"name": "Ekstrem_sporlar", "id": 380307}, {"name": "Hayatta_kalma", "id": 1580242}], "successors": [{"name": "Yedi_Zirveler", "id": 454010}, {"name": "Dağcılık_ekipmanları", "id": 1932255}]}
+{"name": "Dağcılık", "id": 193960, "predecessors": [{"name": "Dağlar", "id": 17505}, {"name": "Hayatta_kalma", "id": 1580242}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Tırmanma_(dağcılık)", "id": 1768255}], "successors": []}

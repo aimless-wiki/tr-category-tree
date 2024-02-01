@@ -1,1 +1,1 @@
-{"name": "Amerika_Birleşik_Devletleri_savaş_uçakları", "id": 741081, "predecessors": [{"name": "Askerî_uçaklar", "id": 1599783}], "successors": [{"name": "Amerika_Birleşik_Devletleri_avcı_uçakları", "id": 2286430}, {"name": "Boeing_B-29_Superfortress", "id": 2309791}]}
+{"name": "Amerika_Birleşik_Devletleri_savaş_uçakları", "id": 741081, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_uçakları", "id": 768345}, {"name": "Askerî_uçaklar", "id": 1599783}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}], "successors": []}

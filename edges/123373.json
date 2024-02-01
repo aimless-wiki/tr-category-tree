@@ -1,1 +1,1 @@
-{"name": "Şii_mezhepler", "id": 123373, "predecessors": [{"name": "Şiilik", "id": 1710192}, {"name": "Din_sosyolojisi", "id": 36983}], "successors": [{"name": "İsmaililik", "id": 560790}, {"name": "Zeydilik", "id": 1733775}, {"name": "İsnâaşeriyye", "id": 2054109}]}
+{"name": "Şii_mezhepler", "id": 123373, "predecessors": [{"name": "Şiilik", "id": 1710192}, {"name": "İslam", "id": 13382}], "successors": [{"name": "İsmaililik", "id": 560790}, {"name": "Alevilik", "id": 12408}, {"name": "On_İki_İmam", "id": 1710210}]}

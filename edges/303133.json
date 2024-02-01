@@ -1,1 +1,1 @@
-{"name": "Çizgi_romancılar", "id": 303133, "predecessors": [{"name": "Çizgi_romanlar", "id": 54563}, {"name": "Sanat_meslekleri", "id": 428147}], "successors": [{"name": "Manga_sanatçıları", "id": 23395}, {"name": "Türk_çizgi_romancılar", "id": 516389}, {"name": "İtalyan_çizgi_romancılar", "id": 1173886}]}
+{"name": "Çizgi_romancılar", "id": 303133, "predecessors": [{"name": "Görsel_sanatlar", "id": 12128}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Manga_sanatçıları", "id": 23395}]}

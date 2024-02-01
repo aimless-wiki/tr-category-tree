@@ -1,1 +1,1 @@
-{"name": "Psikiyatrik_tanı", "id": 1732820, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Tanı", "id": 734607}], "successors": [{"name": "Parafili", "id": 451172}]}
+{"name": "Psikiyatrik_tanı", "id": 1732820, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Parafili", "id": 451172}]}

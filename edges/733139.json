@@ -1,0 +1,1 @@
+{"name": "Jet_motorları", "id": 733139, "predecessors": [{"name": "Jet_uçakları", "id": 733134}, {"name": "Uçak_motorları", "id": 202857}, {"name": "Akışkanlar_dinamiği", "id": 182689}, {"name": "Motor", "id": 52635}], "successors": [{"name": "Jet_uçakları", "id": 733134}, {"name": "Turbofan_motorlar", "id": 2143199}]}

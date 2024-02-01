@@ -1,1 +1,1 @@
-{"name": "Endokrin_sistem", "id": 76963, "predecessors": [{"name": "Endokrinoloji", "id": 24445}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Hormonlar", "id": 29708}, {"name": "Böbrek", "id": 77212}, {"name": "Stres", "id": 1068956}]}
+{"name": "Endokrin_sistem", "id": 76963, "predecessors": [{"name": "Endokrinoloji", "id": 24445}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Böbrek_hastalıkları", "id": 1956901}]}

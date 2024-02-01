@@ -1,1 +1,1 @@
-{"name": "Ses_ekipmanı_imalatçıları", "id": 1953281, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Tüketici_elektroniği", "id": 203103}, {"name": "İmalat", "id": 404623}, {"name": "Mühendislik", "id": 12511}], "successors": []}
+{"name": "Ses_ekipmanı_imalatçıları", "id": 1953281, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Tüketici_elektroniği", "id": 203103}, {"name": "İmalat", "id": 404623}, {"name": "Elektronik", "id": 10117}], "successors": [{"name": "Kulaklık_üreticileri", "id": 2397284}]}

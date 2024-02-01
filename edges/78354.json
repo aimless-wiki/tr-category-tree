@@ -1,1 +1,1 @@
-{"name": "Çocuk_hastalıkları", "id": 78354, "predecessors": [{"name": "Pediatri", "id": 51993}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Kızamık", "id": 1635671}]}
+{"name": "Çocuk_hastalıkları", "id": 78354, "predecessors": [{"name": "Pediatri", "id": 51993}, {"name": "İnsan_hastalıkları", "id": 86141}, {"name": "Vikipedi", "id": 7220}], "successors": []}

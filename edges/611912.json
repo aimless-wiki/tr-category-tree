@@ -1,0 +1,1 @@
+{"name": "Kalkülüs", "id": 611912, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Karmaşık_analiz", "id": 607821}, {"name": "Çok_değişkenli_hesap", "id": 611911}, {"name": "Matematiksel_fonksiyonlar", "id": 100464}, {"name": "Fonksiyon_türleri", "id": 1411535}]}

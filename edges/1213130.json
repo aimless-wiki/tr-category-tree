@@ -1,1 +1,1 @@
-{"name": "Belgrad_doğumlular", "id": 1213130, "predecessors": [{"name": "Sırbistan_doğumlular", "id": 1213122}], "successors": [{"name": "Belgrad_doğumlu_sporcular", "id": 2144378}, {"name": "Belgrad_doğumlu_siyasetçiler", "id": 2685299}]}
+{"name": "Belgrad_doğumlular", "id": 1213130, "predecessors": [{"name": "Sırbistan_doğumlular", "id": 1213122}, {"name": "Sırbistan'daki_şehirler", "id": 105947}], "successors": [{"name": "Belgrad_doğumlu_sporcular", "id": 2144378}]}

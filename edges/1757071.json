@@ -1,1 +1,1 @@
-{"name": "Biyolojik_veritabanları", "id": 1757071, "predecessors": [{"name": "Veritabanları", "id": 69386}], "successors": [{"name": "Çevrimiçi_taksonomi_veritabanları", "id": 3491905}]}
+{"name": "Biyolojik_veritabanları", "id": 1757071, "predecessors": [{"name": "Biyoenformatik", "id": 428989}, {"name": "Veritabanları", "id": 69386}], "successors": [{"name": "Çevrimiçi_taksonomi_veritabanları", "id": 3491905}]}

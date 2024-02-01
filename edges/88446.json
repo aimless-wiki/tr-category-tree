@@ -1,0 +1,1 @@
+{"name": "Bakteriyel_hastalıklar", "id": 88446, "predecessors": [{"name": "Bakteriyoloji", "id": 16576}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}], "successors": [{"name": "Antibiyotikler", "id": 17375}, {"name": "Veba", "id": 379397}, {"name": "Verem", "id": 768694}, {"name": "Patojenik_bakteriler", "id": 2255893}, {"name": "Tifüsten_ölenler", "id": 1734024}]}

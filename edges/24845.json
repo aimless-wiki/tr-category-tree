@@ -1,1 +1,1 @@
-{"name": "Amino_asitler", "id": 24845, "predecessors": [{"name": "Aminler", "id": 24868}, {"name": "Biyomoleküller", "id": 410607}, {"name": "Karboksilik_asitler", "id": 86059}], "successors": [{"name": "Apolar_aminoasitler", "id": 326510}, {"name": "Yüksüz_aminoasitler", "id": 326539}, {"name": "GABA_agonistleri", "id": 2382721}]}
+{"name": "Amino_asitler", "id": 24845, "predecessors": [{"name": "Aminler", "id": 24868}, {"name": "Biyomoleküller", "id": 410607}, {"name": "Karboksilik_asitler", "id": 86059}, {"name": "Atom_fiziği", "id": 14246}], "successors": []}

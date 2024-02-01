@@ -1,1 +1,1 @@
-{"name": "Kafa_ve_boyun_kemikleri", "id": 1292295, "predecessors": [{"name": "Kemikler", "id": 24414}], "successors": []}
+{"name": "Kafa_ve_boyun_kemikleri", "id": 1292295, "predecessors": [{"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Dokular", "id": 78537}, {"name": "İnsan_anatomisi", "id": 75590}], "successors": []}

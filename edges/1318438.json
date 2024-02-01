@@ -1,1 +1,1 @@
-{"name": "İslamofobi", "id": 1318438, "predecessors": [{"name": "Fobiler", "id": 51704}, {"name": "İslam_ve_toplum", "id": 1784081}], "successors": [{"name": "Haçlı_Seferleri", "id": 137068}, {"name": "Srebrenitsa_Katliamı", "id": 1314449}, {"name": "İspanyol_Engizisyonu", "id": 1463693}, {"name": "İslam_eleştirisi", "id": 1590434}]}
+{"name": "İslamofobi", "id": 1318438, "predecessors": [{"name": "Fobiler", "id": 51704}, {"name": "İslam", "id": 13382}], "successors": [{"name": "Haçlı_Seferleri", "id": 137068}]}

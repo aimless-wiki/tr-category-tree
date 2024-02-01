@@ -1,1 +1,1 @@
-{"name": "Veri_senkronizasyonu", "id": 2163742, "predecessors": [{"name": "Senkronizasyon", "id": 198191}, {"name": "Veri_yönetimi", "id": 520720}], "successors": []}
+{"name": "Veri_senkronizasyonu", "id": 2163742, "predecessors": [{"name": "Veri_yönetimi", "id": 520720}, {"name": "Telekomünikasyon_mühendisliği", "id": 388013}], "successors": []}

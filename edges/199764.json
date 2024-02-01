@@ -1,1 +1,1 @@
-{"name": "Haber_programları", "id": 199764, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Medya", "id": 12429}, {"name": "Bilişim", "id": 12614}], "successors": [{"name": "CBS_News_kişileri", "id": 2151876}]}
+{"name": "Haber_programları", "id": 199764, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Televizyon_programları", "id": 672666}, {"name": "Bilişim", "id": 12614}], "successors": []}

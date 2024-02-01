@@ -1,1 +1,1 @@
-{"name": "Güvenlik_duvarı_yazılımları", "id": 2205747, "predecessors": [{"name": "Ağ_güvenliği", "id": 182717}, {"name": "Güvenlik_yazılımları", "id": 182616}], "successors": []}
+{"name": "Güvenlik_duvarı_yazılımları", "id": 2205747, "predecessors": [{"name": "Ağ_güvenliği", "id": 182717}, {"name": "Güvenlik_yazılımları", "id": 182616}, {"name": "İnternet_protokolleri", "id": 184114}, {"name": "Amerika_Birleşik_Devletleri_icatları", "id": 1361386}], "successors": []}

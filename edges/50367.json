@@ -1,1 +1,1 @@
-{"name": "Demir_mineralleri", "id": 50367, "predecessors": [{"name": "Demir_bileşikleri", "id": 698761}, {"name": "Mineraller", "id": 24891}], "successors": []}
+{"name": "Demir_mineralleri", "id": 50367, "predecessors": [{"name": "Kimya", "id": 3599}], "successors": []}

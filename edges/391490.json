@@ -1,1 +1,1 @@
-{"name": "Türlerine_göre_film_listeleri", "id": 391490, "predecessors": [{"name": "Sinema_listeleri", "id": 143706}, {"name": "Türlerine_göre_filmler", "id": 1936040}], "successors": [{"name": "Aksiyon_filmleri_listeleri", "id": 1715973}]}
+{"name": "Türlerine_göre_film_listeleri", "id": 391490, "predecessors": [{"name": "Film_türleri", "id": 104484}], "successors": []}

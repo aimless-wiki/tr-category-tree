@@ -1,1 +1,1 @@
-{"name": "Nesli_kritik_tehlikedeki_türler", "id": 170477, "predecessors": [{"name": "IUCN_Kırmızı_Listesi", "id": 1783002}, {"name": "Biyoçeşitlilik", "id": 1353070}], "successors": [{"name": "Nesli_kritik_tehlikedeki_bitkiler", "id": 1204441}, {"name": "Nesli_kritik_tehlikedeki_hayvanlar", "id": 1204445}]}
+{"name": "Nesli_kritik_tehlikedeki_türler", "id": 170477, "predecessors": [{"name": "Biyocoğrafya", "id": 16580}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Nesli_kritik_tehlikedeki_hayvanlar", "id": 1204445}]}

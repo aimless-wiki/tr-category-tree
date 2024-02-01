@@ -1,1 +1,1 @@
-{"name": "Çevrecilik", "id": 870808, "predecessors": [{"name": "Yeşil_siyaset", "id": 602766}], "successors": [{"name": "Çevreciler", "id": 53262}, {"name": "Çevreci_kuruluşlar", "id": 227224}, {"name": "Çevrecilik_tarihi", "id": 1913357}]}
+{"name": "Çevrecilik", "id": 870808, "predecessors": [{"name": "Etik_teorileri", "id": 870844}, {"name": "Yeşil_siyaset", "id": 602766}, {"name": "Aktivizm", "id": 16802}, {"name": "Toplumsal_gruplar", "id": 66417}], "successors": [{"name": "Çevreciler", "id": 53262}]}

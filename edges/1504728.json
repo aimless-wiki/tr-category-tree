@@ -1,1 +1,1 @@
-{"name": "Teknoloji_listeleri", "id": 1504728, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "İçindekiler", "id": 1249140}], "successors": [{"name": "Bilişim_listeleri", "id": 148147}, {"name": "Ulaşım_listeleri", "id": 1498885}, {"name": "İnternet_listeleri", "id": 1504749}, {"name": "Tarım_listeleri", "id": 2065698}]}
+{"name": "Teknoloji_listeleri", "id": 1504728, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Tarım_listeleri", "id": 2065698}]}

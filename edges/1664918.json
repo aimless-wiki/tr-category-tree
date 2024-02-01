@@ -1,1 +1,1 @@
-{"name": "Çevrimiçi_şirketler", "id": 1664918, "predecessors": [{"name": "Elektronik_ticaret", "id": 152940}, {"name": "Şirketler", "id": 30683}], "successors": [{"name": "Çevrimiçi_perakendeciler", "id": 1774687}]}
+{"name": "Çevrimiçi_şirketler", "id": 1664918, "predecessors": [{"name": "Dünya_Çapında_Ağ", "id": 544065}, {"name": "Elektronik_ticaret", "id": 152940}, {"name": "Vikipedi", "id": 7220}], "successors": []}

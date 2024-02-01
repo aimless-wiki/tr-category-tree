@@ -1,1 +1,1 @@
-{"name": "Kimya_akademik_dergileri", "id": 1520404, "predecessors": [{"name": "Bibliyografyalar", "id": 94787}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}
+{"name": "Kimya_akademik_dergileri", "id": 1520404, "predecessors": [{"name": "Bilimsel_dergiler", "id": 640173}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}

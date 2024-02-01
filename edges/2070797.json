@@ -1,1 +1,1 @@
-{"name": "Amerika_Birleşik_Devletleri_merkezli_içecek_şirketleri", "id": 2070797, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_merkezli_gıda_şirketleri", "id": 1956945}, {"name": "Gıda_endüstrisi", "id": 1664257}], "successors": []}
+{"name": "Amerika_Birleşik_Devletleri_merkezli_içecek_şirketleri", "id": 2070797, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_merkezli_gıda_şirketleri", "id": 1956945}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "PepsiCo", "id": 1947427}]}

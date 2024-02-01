@@ -1,1 +1,1 @@
-{"name": "Gök_ölçümü", "id": 2036549, "predecessors": [{"name": "Astronominin_dalları", "id": 1446416}, {"name": "Ölçüm", "id": 15451}], "successors": []}
+{"name": "Gök_ölçümü", "id": 2036549, "predecessors": [{"name": "Ölçüm", "id": 15451}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Gökyüzü_koordinat_sistemi", "id": 818286}]}

@@ -1,1 +1,1 @@
-{"name": "Komedi_oyunları", "id": 1028687, "predecessors": [{"name": "Komedi", "id": 214171}, {"name": "Tiyatro_oyunları", "id": 35857}], "successors": [{"name": "Aristofanes_eserleri", "id": 2257756}]}
+{"name": "Komedi_oyunları", "id": 1028687, "predecessors": [{"name": "Film_türleri", "id": 104484}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": [{"name": "Shakespeare_komedileri", "id": 1028686}]}

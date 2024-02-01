@@ -1,1 +1,1 @@
-{"name": "Çılgın_bilim_insanı_filmleri", "id": 2046847, "predecessors": [{"name": "Kurgusal_çılgın_bilim_insanları", "id": 2046842}], "successors": [{"name": "Frankenstein_filmleri", "id": 446644}, {"name": "Dr.Jekyll_ve_Mr.Hyde_filmleri", "id": 2043112}]}
+{"name": "Çılgın_bilim_insanı_filmleri", "id": 2046847, "predecessors": [{"name": "Kurgusal_çılgın_bilim_insanları", "id": 2046842}, {"name": "Film_türleri", "id": 104484}], "successors": [{"name": "Frankenstein_filmleri", "id": 446644}]}

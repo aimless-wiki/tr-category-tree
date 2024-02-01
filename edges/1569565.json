@@ -1,1 +1,1 @@
-{"name": "Jeolojik_süreçler", "id": 1569565, "predecessors": [{"name": "Jeoloji_terminolojisi", "id": 1608627}], "successors": [{"name": "Jeomorfoloji", "id": 16879}, {"name": "Volkanizma", "id": 950358}, {"name": "Erozyon", "id": 1324758}, {"name": "Yitim_zonları", "id": 1775858}, {"name": "Ayrışma_(jeoloji)", "id": 1923972}]}
+{"name": "Jeolojik_süreçler", "id": 1569565, "predecessors": [{"name": "Jeoloji", "id": 6635}], "successors": [{"name": "Jeomorfoloji", "id": 16879}, {"name": "Yitim_zonu_yanardağları", "id": 2213683}]}

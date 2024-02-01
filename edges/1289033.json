@@ -1,1 +1,1 @@
-{"name": "Psikolojik_korku_oyunları", "id": 1289033, "predecessors": [{"name": "Psikolojik_korku", "id": 1612967}], "successors": [{"name": "Silent_Hill", "id": 1737290}, {"name": "Dead_Space", "id": 1738436}]}
+{"name": "Psikolojik_korku_oyunları", "id": 1289033, "predecessors": [{"name": "Korku_video_oyunları", "id": 1064710}, {"name": "Psikolojik_korku", "id": 1612967}], "successors": [{"name": "Five_Nights_at_Freddy's", "id": 2154185}]}

@@ -1,1 +1,1 @@
-{"name": "GNU_Projesi_yazılımları", "id": 1951289, "predecessors": [{"name": "Özgür_yazılım", "id": 3492}, {"name": "Özgür_Yazılım_Vakfı", "id": 1015026}], "successors": [{"name": "GNOME", "id": 999192}, {"name": "GTK+_kullanan_yazılımlar", "id": 1889098}]}
+{"name": "GNU_Projesi_yazılımları", "id": 1951289, "predecessors": [{"name": "Unix_yazılımları", "id": 193679}, {"name": "Linux_dağıtımları", "id": 50963}], "successors": [{"name": "GNOME_uygulamaları", "id": 1948638}]}

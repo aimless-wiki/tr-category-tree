@@ -1,1 +1,1 @@
-{"name": "Antivirüs_yazılımları", "id": 187776, "predecessors": [{"name": "Bilgisayar_virüsleri", "id": 598388}, {"name": "Güvenlik_yazılımları", "id": 182616}], "successors": []}
+{"name": "Antivirüs_yazılımları", "id": 187776, "predecessors": [{"name": "Güvenlik_yazılımları", "id": 182616}, {"name": "Bilgisayar_güvenliği", "id": 182721}], "successors": []}

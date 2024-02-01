@@ -1,1 +1,1 @@
-{"name": "İtalyan_Roma_Katolikleri", "id": 1780256, "predecessors": [{"name": "İtalya", "id": 3590}, {"name": "Din", "id": 7198}], "successors": [{"name": "İtalyan_kardinaller", "id": 117681}, {"name": "İtalyan_papalar", "id": 1507987}, {"name": "İtalyan_Roma_Katolik_papazlar", "id": 2235236}, {"name": "İtalyan_Fransiskenler", "id": 2394995}]}
+{"name": "İtalyan_Roma_Katolikleri", "id": 1780256, "predecessors": [{"name": "Katoliklik", "id": 147825}], "successors": [{"name": "İtalyan_kardinaller", "id": 117681}, {"name": "İtalyan_papalar", "id": 1507987}]}

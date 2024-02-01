@@ -1,1 +1,1 @@
-{"name": "Açı", "id": 267569, "predecessors": [{"name": "Fiziksel_nicelikler", "id": 181686}, {"name": "Trigonometri", "id": 16323}], "successors": []}
+{"name": "Açı", "id": 267569, "predecessors": [{"name": "Fiziksel_nicelikler", "id": 181686}, {"name": "Temel_geometri", "id": 1342189}, {"name": "Trigonometri", "id": 16323}], "successors": []}

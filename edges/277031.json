@@ -1,1 +1,1 @@
-{"name": "Kamyon_üreticileri", "id": 277031, "predecessors": [{"name": "Kamyonlar", "id": 1195214}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": [{"name": "Iveco", "id": 2175411}]}
+{"name": "Kamyon_üreticileri", "id": 277031, "predecessors": [{"name": "Kamyonlar", "id": 1195214}, {"name": "Kara_ulaşımı", "id": 447670}, {"name": "Ekonomi", "id": 12356}], "successors": []}

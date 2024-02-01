@@ -1,1 +1,1 @@
-{"name": "Patlayıcı_maddeler", "id": 35123, "predecessors": [{"name": "Mühimmat", "id": 651691}], "successors": [{"name": "Patlayıcı_silahlar", "id": 236397}, {"name": "Patlamalar", "id": 1324744}, {"name": "Patlayıcı_kimyasal_maddeler", "id": 1353896}, {"name": "Patlayıcı_mühendisliği", "id": 1683807}]}
+{"name": "Patlayıcı_maddeler", "id": 35123, "predecessors": [{"name": "Mühimmat", "id": 651691}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Patlayıcı_silahlar", "id": 236397}, {"name": "Patlayıcı_kimyasal_maddeler", "id": 1353896}]}

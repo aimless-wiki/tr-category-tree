@@ -1,1 +1,1 @@
-{"name": "Şirket_kurucuları", "id": 1480449, "predecessors": [{"name": "Şirketler", "id": 30683}, {"name": "Yenileşim", "id": 450541}], "successors": [{"name": "Medya_kurucuları", "id": 1480441}, {"name": "Türk_dergi_kurucuları", "id": 2350161}, {"name": "Amerikalı_şirket_kurucuları", "id": 2119166}, {"name": "Alman_şirket_kurucuları", "id": 2127297}]}
+{"name": "Şirket_kurucuları", "id": 1480449, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Amerikalı_şirket_kurucuları", "id": 2119166}]}

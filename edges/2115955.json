@@ -1,1 +1,1 @@
-{"name": "Türk_yazıtları", "id": 2115955, "predecessors": [{"name": "Türk_dilleri", "id": 193164}, {"name": "Yazıt_bilimi", "id": 998482}], "successors": [{"name": "Orhun_yazıtları", "id": 1189822}, {"name": "Göktürk_yazıtları", "id": 3564786}]}
+{"name": "Türk_yazıtları", "id": 2115955, "predecessors": [{"name": "Türk_dilleri", "id": 193164}, {"name": "Yazı", "id": 16248}], "successors": []}

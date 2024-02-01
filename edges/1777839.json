@@ -1,1 +1,1 @@
-{"name": "Karboksamidler", "id": 1777839, "predecessors": [{"name": "Amidler", "id": 35774}], "successors": [{"name": "Benzamidler", "id": 1777840}, {"name": "Asetamidler", "id": 2056327}]}
+{"name": "Karboksamidler", "id": 1777839, "predecessors": [{"name": "Fonksiyonel_gruplar", "id": 46861}], "successors": [{"name": "Benzamidler", "id": 1777840}, {"name": "Asetamidler", "id": 2056327}]}

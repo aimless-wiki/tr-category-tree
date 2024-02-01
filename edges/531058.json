@@ -1,1 +1,1 @@
-{"name": "Rus_dilbilimciler", "id": 531058, "predecessors": [{"name": "Rus_bilim_insanları", "id": 796095}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "Rus_doğubilimciler", "id": 864446}, {"name": "Rus_çevirmenler", "id": 1693971}, {"name": "Rus_Akademisi_üyeleri", "id": 2082065}]}
+{"name": "Rus_dilbilimciler", "id": 531058, "predecessors": [{"name": "Rus_bilim_insanları", "id": 796095}, {"name": "Dilbilimciler", "id": 6580}], "successors": [{"name": "Rus_doğubilimciler", "id": 864446}]}

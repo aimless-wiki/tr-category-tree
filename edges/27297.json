@@ -1,1 +1,1 @@
-{"name": "Gezi_kitapları", "id": 27297, "predecessors": [{"name": "Turizm", "id": 12635}, {"name": "Kitaplar", "id": 74248}], "successors": [{"name": "Gezi_rehberleri", "id": 2555842}, {"name": "Konusu_gemide_geçen_romanlar", "id": 2315151}]}
+{"name": "Gezi_kitapları", "id": 27297, "predecessors": [{"name": "Turizm", "id": 12635}, {"name": "Düşünce", "id": 92725}, {"name": "Benlik", "id": 956653}], "successors": []}

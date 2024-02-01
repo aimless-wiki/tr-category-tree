@@ -1,1 +1,1 @@
-{"name": "Kamyonetler", "id": 1195209, "predecessors": [{"name": "Ticari_taşıtlar", "id": 1011277}], "successors": [{"name": "Kamyonet_üreticileri", "id": 895470}]}
+{"name": "Kamyonetler", "id": 1195209, "predecessors": [{"name": "Kara_ulaşımı", "id": 447670}, {"name": "Motor", "id": 52635}, {"name": "Teknoloji", "id": 6300}], "successors": []}

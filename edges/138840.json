@@ -1,1 +1,1 @@
-{"name": "Sümer_mitolojisi", "id": 138840, "predecessors": [{"name": "Mezopotamya_mitolojisi", "id": 16822}, {"name": "Sümer", "id": 82392}], "successors": [{"name": "Gılgamış_Destanı", "id": 875316}, {"name": "Tufanlar", "id": 1303073}]}
+{"name": "Sümer_mitolojisi", "id": 138840, "predecessors": [{"name": "Mezopotamya_mitolojisi", "id": 16822}, {"name": "Sümer", "id": 82392}, {"name": "Felsefe", "id": 6586}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Irak_tarihi", "id": 81440}], "successors": [{"name": "Gılgamış_Destanı", "id": 875316}]}

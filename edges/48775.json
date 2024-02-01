@@ -1,1 +1,1 @@
-{"name": "Masallar", "id": 48775, "predecessors": [{"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Binbir_Gece_Masalları", "id": 51295}, {"name": "Masal_uyarlamaları", "id": 773482}, {"name": "Grimm_Masalları", "id": 2065155}, {"name": "Goblinler", "id": 2215592}, {"name": "Türk_masal_karakterleri", "id": 2262428}]}
+{"name": "Masallar", "id": 48775, "predecessors": [{"name": "Ruhanilik", "id": 1349638}], "successors": [{"name": "Binbir_Gece_Masalları", "id": 51295}, {"name": "Türk_masal_karakterleri", "id": 2262428}]}

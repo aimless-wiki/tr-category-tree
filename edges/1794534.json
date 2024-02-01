@@ -1,1 +1,1 @@
-{"name": "Çalışma_ekonomisi", "id": 1794534, "predecessors": [{"name": "İş", "id": 12610}], "successors": [{"name": "Sendikalizm", "id": 1015159}, {"name": "İşsizlik", "id": 1553618}]}
+{"name": "Çalışma_ekonomisi", "id": 1794534, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "İş", "id": 12610}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Çevresel_kimya", "id": 990498, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": [{"name": "Toprak_kirliliği", "id": 1192806}]}
+{"name": "Çevresel_kimya", "id": 990498, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Çevre_bilimleri", "id": 843380}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}

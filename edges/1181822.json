@@ -1,1 +1,1 @@
-{"name": "İsveçli_heavy_metal_grupları", "id": 1181822, "predecessors": [{"name": "İsveçli_müzik_grupları", "id": 133537}], "successors": [{"name": "İsveçli_black_metal_grupları", "id": 1181820}, {"name": "İsveçli_death_metal_grupları", "id": 1326905}, {"name": "İsveçli_doom_metal_grupları", "id": 1399633}, {"name": "İsveçli_progresif_metal_grupları", "id": 1786379}]}
+{"name": "İsveçli_heavy_metal_grupları", "id": 1181822, "predecessors": [{"name": "Heavy_metal_grupları", "id": 83485}, {"name": "Müzik_grupları", "id": 12163}], "successors": []}

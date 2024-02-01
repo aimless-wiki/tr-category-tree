@@ -1,0 +1,1 @@
+{"name": "Tren_taslakları", "id": 293225, "predecessors": [{"name": "Makine_mühendisliği_taslakları", "id": 404579}, {"name": "Ulaşım_taslakları", "id": 370306}, {"name": "Kara_ulaşımı", "id": 447670}], "successors": [{"name": "Lokomotif_taslakları", "id": 397696}, {"name": "Metro_taslakları", "id": 1428850}, {"name": "Tren_istasyonu_taslakları", "id": 1685367}]}

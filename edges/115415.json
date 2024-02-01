@@ -1,1 +1,1 @@
-{"name": "Vücut_sıvıları", "id": 115415, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Kan", "id": 29568}]}
+{"name": "Vücut_sıvıları", "id": 115415, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Kan", "id": 29568}, {"name": "Lenfatik_sistem", "id": 76327}, {"name": "Süt", "id": 397129}]}

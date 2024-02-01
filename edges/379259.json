@@ -1,1 +1,1 @@
-{"name": "Seçim_taslakları", "id": 379259, "predecessors": [{"name": "Seçimler", "id": 45702}], "successors": []}
+{"name": "Seçim_taslakları", "id": 379259, "predecessors": [{"name": "Seçimler", "id": 45702}, {"name": "Siyaset_taslakları", "id": 1428155}], "successors": [{"name": "Avrupa'da_seçim_taslakları", "id": 3373485}, {"name": "Asya'da_seçim_taslakları", "id": 3467711}]}

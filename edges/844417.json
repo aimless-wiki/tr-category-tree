@@ -1,1 +1,1 @@
-{"name": "Yıldız_listeleri", "id": 844417, "predecessors": [{"name": "Astronomik_cisimlerin_listeleri", "id": 1446393}], "successors": []}
+{"name": "Yıldız_listeleri", "id": 844417, "predecessors": [{"name": "Yıldızlar", "id": 56421}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Takımyıldızına_göre_yıldız_listeleri", "id": 844553}]}

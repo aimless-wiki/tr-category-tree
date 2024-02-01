@@ -1,1 +1,1 @@
-{"name": "Manga_sanatçıları", "id": 23395, "predecessors": [{"name": "Japon_sanatçılar", "id": 390638}, {"name": "Çizgi_romancılar", "id": 303133}], "successors": []}
+{"name": "Manga_sanatçıları", "id": 23395, "predecessors": [{"name": "Çizgi_romancılar", "id": 303133}, {"name": "Manga", "id": 23370}, {"name": "Vikipedi", "id": 7220}], "successors": []}

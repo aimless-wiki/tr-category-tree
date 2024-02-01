@@ -1,1 +1,1 @@
-{"name": "Amerikalı_eğitimciler", "id": 874373, "predecessors": [{"name": "Eğitim", "id": 6773}], "successors": [{"name": "Amerikalı_akademisyenler", "id": 151823}, {"name": "Amerikalı_öğretmenler", "id": 1659848}, {"name": "Amerikalı_müzik_eğitimcileri", "id": 2057217}]}
+{"name": "Amerikalı_eğitimciler", "id": 874373, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}], "successors": [{"name": "Amerikalı_akademisyenler", "id": 151823}]}

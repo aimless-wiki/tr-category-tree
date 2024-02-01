@@ -1,1 +1,1 @@
-{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Müzik_listeleri", "id": 100970}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}, {"name": "Bestecileri_tarafından_yazılan_şarkılar_listesi", "id": 1609286}]}
+{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}]}

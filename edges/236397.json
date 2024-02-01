@@ -1,1 +1,1 @@
-{"name": "Patlayıcı_silahlar", "id": 236397, "predecessors": [{"name": "Mermiler", "id": 602926}, {"name": "Patlayıcı_maddeler", "id": 35123}, {"name": "Silahlar", "id": 18400}], "successors": [{"name": "Bombalar", "id": 92815}, {"name": "El_bombaları", "id": 603399}]}
+{"name": "Patlayıcı_silahlar", "id": 236397, "predecessors": [{"name": "Patlayıcı_maddeler", "id": 35123}, {"name": "Silahlar", "id": 18400}, {"name": "Ateşli_silahlar", "id": 26615}], "successors": [{"name": "Bombalar", "id": 92815}]}

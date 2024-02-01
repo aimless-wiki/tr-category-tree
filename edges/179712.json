@@ -1,1 +1,1 @@
-{"name": "Obezite", "id": 179712, "predecessors": [{"name": "Metabolik_bozukluklar", "id": 179713}, {"name": "İnsan_vücudu", "id": 644503}], "successors": [{"name": "Obezite_ile_ilişkili_tıbbi_durumlar", "id": 2178223}]}
+{"name": "Obezite", "id": 179712, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Endokrinoloji", "id": 24445}, {"name": "Memeli_anatomisi", "id": 1387184}], "successors": []}

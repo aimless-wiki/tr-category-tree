@@ -1,1 +1,1 @@
-{"name": "Ekonomi_kitapları", "id": 35616, "predecessors": [{"name": "Kitaplar", "id": 74248}], "successors": []}
+{"name": "Ekonomi_kitapları", "id": 35616, "predecessors": [{"name": "Kurgusal_olmayan_kitaplar", "id": 1297238}, {"name": "Düşünce", "id": 92725}, {"name": "Ekonomi", "id": 12356}], "successors": []}

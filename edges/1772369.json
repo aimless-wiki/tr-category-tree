@@ -1,1 +1,1 @@
-{"name": "Siyasi_ekonomi", "id": 1772369, "predecessors": [{"name": "Kamu_ekonomisi", "id": 902463}, {"name": "Siyaset_bilimi", "id": 431640}], "successors": [{"name": "Maliye", "id": 15269}, {"name": "Ekonomi_düşüncesi_tarihi", "id": 187897}, {"name": "Askerî-endüstriyel_kompleks", "id": 1028410}, {"name": "Kamu_tercihi_teorisi", "id": 1948271}, {"name": "Piyasa_sosyalizmi", "id": 2049677}]}
+{"name": "Siyasi_ekonomi", "id": 1772369, "predecessors": [{"name": "Siyaset_bilimi", "id": 431640}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Maliye", "id": 15269}]}

@@ -1,1 +1,1 @@
-{"name": "100_Temel_Eser", "id": 182496, "predecessors": [{"name": "Kitap_listeleri", "id": 149396}], "successors": [{"name": "Dede_Korkut_hikâyeleri", "id": 753201}, {"name": "Üç_Silahşörler", "id": 1615486}, {"name": "Define_adası", "id": 2041283}]}
+{"name": "100_Temel_Eser", "id": 182496, "predecessors": [{"name": "Kitap_listeleri", "id": 149396}, {"name": "Türkiye'de_eğitim", "id": 215970}], "successors": [{"name": "Dede_Korkut_hikâyeleri", "id": 753201}, {"name": "Define_adası", "id": 2041283}]}

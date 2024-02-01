@@ -1,1 +1,1 @@
-{"name": "Sinemaya_uyarlanmış_hikâyeler", "id": 893383, "predecessors": [{"name": "Eğlence", "id": 12075}], "successors": [{"name": "Sherlock_Holmes_filmleri", "id": 1354021}]}
+{"name": "Sinemaya_uyarlanmış_hikâyeler", "id": 893383, "predecessors": [{"name": "Hikâye_uyarlamaları", "id": 552837}, {"name": "Kurgu", "id": 81449}, {"name": "Uyarlama_filmler", "id": 212167}], "successors": []}

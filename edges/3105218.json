@@ -1,1 +1,1 @@
-{"name": "Tarih_öncesi_tek_toynaklılar_taslakları", "id": 3105218, "predecessors": [{"name": "Tarih_öncesi_memeli_taslakları", "id": 1328521}, {"name": "Tek_toynaklılar_taslakları", "id": 3056826}, {"name": "Tarih_öncesi_memeliler", "id": 988127}], "successors": []}
+{"name": "Tarih_öncesi_tek_toynaklılar_taslakları", "id": 3105218, "predecessors": [{"name": "Tarih_öncesi_memeli_taslakları", "id": 1328521}, {"name": "Memeli_taslakları", "id": 121807}, {"name": "Dünya", "id": 6772}], "successors": []}

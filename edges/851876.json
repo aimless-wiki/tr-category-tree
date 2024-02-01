@@ -1,1 +1,1 @@
-{"name": "Fast_food", "id": 851876, "predecessors": [{"name": "Lokanta_terminolojisi", "id": 2297400}], "successors": [{"name": "Hamburger", "id": 964277}, {"name": "Pizza", "id": 2232081}, {"name": "Fast_food_zincirleri", "id": 170112}]}
+{"name": "Fast_food", "id": 851876, "predecessors": [{"name": "Hazır_yemek", "id": 2333148}, {"name": "Lokanta_terminolojisi", "id": 2297400}], "successors": [{"name": "Sandviçler", "id": 402527}, {"name": "Hamburger", "id": 964277}, {"name": "Amerika_Birleşik_Devletleri_merkezli_fast_food_zincirleri", "id": 2128393}]}

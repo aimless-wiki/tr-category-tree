@@ -1,1 +1,1 @@
-{"name": "İtalya_merkezli_otomotiv_şirketleri", "id": 276999, "predecessors": [{"name": "Şirketler", "id": 30683}, {"name": "İtalya_merkezli_imalat_şirketleri", "id": 1317491}], "successors": [{"name": "İtalya_merkezli_motosiklet_üreticileri", "id": 2223810}, {"name": "Pininfarina", "id": 2467247}]}
+{"name": "İtalya_merkezli_otomotiv_şirketleri", "id": 276999, "predecessors": [{"name": "Kara_ulaşımı", "id": 447670}, {"name": "Sanayi", "id": 21457}, {"name": "İşletme", "id": 21253}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Organik_sodyum_tuzları", "id": 2355111, "predecessors": [{"name": "Organik_asitler", "id": 35773}, {"name": "Sodyum_bileşikleri", "id": 427766}], "successors": []}
+{"name": "Organik_sodyum_tuzları", "id": 2355111, "predecessors": [{"name": "Sodyum_bileşikleri", "id": 427766}, {"name": "Tuzlar", "id": 46857}, {"name": "Asitler", "id": 138702}], "successors": []}

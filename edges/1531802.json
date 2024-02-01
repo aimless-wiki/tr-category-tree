@@ -1,1 +1,1 @@
-{"name": "Bilişim_filmleri", "id": 1531802, "predecessors": [{"name": "Bilişim", "id": 12614}], "successors": [{"name": "Matrix_filmleri", "id": 119835}, {"name": "Postsiberpunk_filmleri", "id": 2266954}]}
+{"name": "Bilişim_filmleri", "id": 1531802, "predecessors": [{"name": "Bilişim", "id": 12614}, {"name": "Vikipedi", "id": 7220}], "successors": []}

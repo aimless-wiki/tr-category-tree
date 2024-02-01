@@ -1,1 +1,1 @@
-{"name": "Fuarlar", "id": 99256, "predecessors": [{"name": "İş", "id": 12610}, {"name": "Müzeoloji", "id": 178066}], "successors": [{"name": "Otomobil_fuarları", "id": 1076922}, {"name": "Video_oyunu_fuarları", "id": 1359462}, {"name": "Bilgisayar_konferansları", "id": 1149160}]}
+{"name": "Fuarlar", "id": 99256, "predecessors": [{"name": "İş", "id": 12610}, {"name": "İletişim", "id": 12514}], "successors": []}

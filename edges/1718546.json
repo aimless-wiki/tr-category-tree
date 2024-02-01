@@ -1,1 +1,1 @@
-{"name": "İnternet_dili", "id": 1718546, "predecessors": [{"name": "Argo", "id": 640876}, {"name": "İhtira", "id": 1780444}, {"name": "Bilgisayar", "id": 3494}], "successors": []}
+{"name": "İnternet_dili", "id": 1718546, "predecessors": [{"name": "İhtira", "id": 1780444}, {"name": "İnternet_kültürü", "id": 167154}, {"name": "Dilbilim", "id": 142761}, {"name": "Bilgisayar", "id": 3494}], "successors": []}

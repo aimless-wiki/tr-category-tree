@@ -1,1 +1,1 @@
-{"name": "Üretimi_sonlandırılmış_akıllı_telefonlar", "id": 3004067, "predecessors": [{"name": "Durdurulan_ürünler", "id": 2148360}], "successors": []}
+{"name": "Üretimi_sonlandırılmış_akıllı_telefonlar", "id": 3004067, "predecessors": [{"name": "Akıllı_telefonlar", "id": 1322126}, {"name": "Durdurulan_ürünler", "id": 2148360}], "successors": [{"name": "Üretimi_Durdurulan_iPhone'lar", "id": 3233939}]}

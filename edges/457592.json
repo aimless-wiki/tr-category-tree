@@ -1,1 +1,1 @@
-{"name": "Linux_oyunları", "id": 457592, "predecessors": [{"name": "Linux_yazılımları", "id": 457593}, {"name": "Video_oyunları", "id": 450124}], "successors": [{"name": "Android_oyunları", "id": 1569405}, {"name": "Postal_(video_oyunu_serisi)", "id": 2006053}]}
+{"name": "Linux_oyunları", "id": 457592, "predecessors": [{"name": "Linux_yazılımları", "id": 457593}, {"name": "Bilgisayar", "id": 3494}, {"name": "Video_oyunları", "id": 450124}, {"name": "Unix_yazılımları", "id": 193679}], "successors": [{"name": "Android_oyunları", "id": 1569405}]}

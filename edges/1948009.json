@@ -1,1 +1,1 @@
-{"name": "Görüntü_teknolojisi_şirketleri", "id": 1948009, "predecessors": [{"name": "Bilgisayar_donanımı_şirketleri", "id": 170233}], "successors": [{"name": "Lenovo", "id": 2079305}]}
+{"name": "Görüntü_teknolojisi_şirketleri", "id": 1948009, "predecessors": [{"name": "Bilgisayar_donanımı_şirketleri", "id": 170233}, {"name": "Görüntüleme_teknolojisi", "id": 1400881}], "successors": []}

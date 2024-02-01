@@ -1,1 +1,1 @@
-{"name": "Azeri_bilim_insanları", "id": 980426, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Oğuzlar", "id": 110898}], "successors": [{"name": "Azeri_akademisyenler", "id": 980427}, {"name": "Azeri_dilbilimciler", "id": 1136393}, {"name": "Azeri_matematikçiler", "id": 1319923}, {"name": "Azeri_tarihçiler", "id": 1411317}, {"name": "Azeri_fizikçiler", "id": 2041739}]}
+{"name": "Azeri_bilim_insanları", "id": 980426, "predecessors": [{"name": "Azerbaycan", "id": 21085}], "successors": [{"name": "Azeri_akademisyenler", "id": 980427}]}

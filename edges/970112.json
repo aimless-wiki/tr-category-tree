@@ -1,1 +1,1 @@
-{"name": "Sayı_sistemleri", "id": 970112, "predecessors": [{"name": "Kodlama", "id": 519824}], "successors": []}
+{"name": "Sayı_sistemleri", "id": 970112, "predecessors": [{"name": "Matematiksel_gösterim", "id": 954495}, {"name": "Sayılar", "id": 12623}, {"name": "Dilbilim", "id": 142761}, {"name": "Biliş", "id": 92791}], "successors": []}

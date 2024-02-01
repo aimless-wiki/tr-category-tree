@@ -1,1 +1,1 @@
-{"name": "Türk_sendikacılar", "id": 38010, "predecessors": [{"name": "Sendikacılar", "id": 197169}], "successors": [{"name": "DİSK_Genel_Başkanları", "id": 791920}]}
+{"name": "Türk_sendikacılar", "id": 38010, "predecessors": [{"name": "Türk_aktivistler", "id": 622529}, {"name": "Sendikacılar", "id": 197169}, {"name": "İş", "id": 12610}], "successors": []}

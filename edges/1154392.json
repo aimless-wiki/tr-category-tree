@@ -1,1 +1,1 @@
-{"name": "Müzisyene_göre_ödül_listeleri", "id": 1154392, "predecessors": [{"name": "Müzik_listeleri", "id": 100970}, {"name": "Müzik_ödülleri", "id": 258451}], "successors": []}
+{"name": "Müzisyene_göre_ödül_listeleri", "id": 1154392, "predecessors": [{"name": "Müzik_ödülleri", "id": 258451}, {"name": "Vikipedi", "id": 7220}], "successors": []}

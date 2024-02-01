@@ -1,1 +1,1 @@
-{"name": "Siber_savaş", "id": 1691277, "predecessors": [{"name": "Savaş_çeşitleri", "id": 1691278}, {"name": "Siber_uzay", "id": 980362}], "successors": [{"name": "Kriptoloji", "id": 12985}, {"name": "Siber_saldırılar", "id": 2292838}]}
+{"name": "Siber_savaş", "id": 1691277, "predecessors": [{"name": "Savaş_çeşitleri", "id": 1691278}, {"name": "Askerî_tarih", "id": 106422}, {"name": "Felsefi_kavramlar", "id": 12229}], "successors": [{"name": "Kriptoloji", "id": 12985}]}

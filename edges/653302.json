@@ -1,1 +1,1 @@
-{"name": "Türkçe_şiirler", "id": 653302, "predecessors": [{"name": "Türkçe", "id": 23491}], "successors": [{"name": "Türkçe_eser_veren_şairler", "id": 1605166}]}
+{"name": "Türkçe_şiirler", "id": 653302, "predecessors": [{"name": "Türkçe", "id": 23491}, {"name": "Diller", "id": 12535}], "successors": [{"name": "Türkçe_eser_veren_şairler", "id": 1605166}]}

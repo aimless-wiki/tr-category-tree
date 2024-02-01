@@ -1,1 +1,1 @@
-{"name": "Askerî_listeler", "id": 775821, "predecessors": [{"name": "Askeriye", "id": 39898}, {"name": "Toplum_listeleri", "id": 1480983}], "successors": [{"name": "Silah_listeleri", "id": 784728}, {"name": "Çatışmalar_listeleri", "id": 1484799}, {"name": "Askerî_teçhizat_listeleri", "id": 2027308}]}
+{"name": "Askerî_listeler", "id": 775821, "predecessors": [{"name": "Askeriye", "id": 39898}, {"name": "Toplumsal_gruplar", "id": 66417}], "successors": [{"name": "Amerika_Birleşik_Devletleri_Deniz_Kuvvetleri_savaş_gemileri_listesi", "id": 810556}]}

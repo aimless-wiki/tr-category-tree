@@ -1,1 +1,1 @@
-{"name": "Alüminyum_mineralleri", "id": 698775, "predecessors": [{"name": "Alüminyum_bileşikleri", "id": 698786}, {"name": "Mineraller", "id": 24891}], "successors": []}
+{"name": "Alüminyum_mineralleri", "id": 698775, "predecessors": [{"name": "Kimya", "id": 3599}], "successors": []}

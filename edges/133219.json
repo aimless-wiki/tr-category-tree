@@ -1,1 +1,1 @@
-{"name": "Akademik_unvanlar", "id": 133219, "predecessors": [{"name": "Yükseköğretim", "id": 447877}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Öğretim_görevlileri", "id": 188267}, {"name": "Profesörler", "id": 211577}, {"name": "Türk_ordinaryüs_profesörler", "id": 2098353}]}
+{"name": "Akademik_unvanlar", "id": 133219, "predecessors": [{"name": "Unvanlar", "id": 142758}], "successors": [{"name": "Öğretim_görevlileri", "id": 188267}, {"name": "Profesörler", "id": 211577}, {"name": "1402'lik_öğretim_üyeleri", "id": 978298}]}

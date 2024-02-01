@@ -1,1 +1,1 @@
-{"name": "Personae_non_gratae", "id": 1541467, "predecessors": [{"name": "Diplomasi", "id": 116128}, {"name": "Vizeler", "id": 910741}, {"name": "Tartışmalar", "id": 737168}], "successors": [{"name": "Yüzellilikler", "id": 944181}]}
+{"name": "Personae_non_gratae", "id": 1541467, "predecessors": [{"name": "Diplomasi", "id": 116128}, {"name": "Latince_deyişler", "id": 37533}, {"name": "Uluslararası_ilişkiler_terminolojisi", "id": 53496}, {"name": "Kimlikler", "id": 38014}, {"name": "Fransız_filozoflar", "id": 38102}], "successors": [{"name": "Yüzellilikler", "id": 944181}]}

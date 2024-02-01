@@ -1,1 +1,1 @@
-{"name": "Kolejler", "id": 183415, "predecessors": [{"name": "Tiplerine_göre_okullar", "id": 882372}, {"name": "Eğitim_terimleri", "id": 674528}, {"name": "Öğretim", "id": 433997}], "successors": [{"name": "Robert_Lisesinde_öğrenim_görenler", "id": 304657}]}
+{"name": "Kolejler", "id": 183415, "predecessors": [{"name": "Eğitim_terimleri", "id": 674528}, {"name": "Okul_türleri", "id": 3229185}], "successors": []}

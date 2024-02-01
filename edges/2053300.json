@@ -1,1 +1,1 @@
-{"name": "IUCN_Kategori_Ia", "id": 2053300, "predecessors": [{"name": "Doğa_koruma_alanları", "id": 808542}, {"name": "Korumalı_bölgeler", "id": 204624}, {"name": "Dünya_Mirasları", "id": 1217218}], "successors": []}
+{"name": "IUCN_Kategori_Ia", "id": 2053300, "predecessors": [{"name": "Dünya_Mirasları", "id": 1217218}, {"name": "Yönetim", "id": 37094}], "successors": []}

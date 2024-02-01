@@ -1,1 +1,1 @@
-{"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265, "predecessors": [{"name": "Sürüngen_taslakları", "id": 512918}, {"name": "Sürüngenler", "id": 13114}], "successors": [{"name": "Dinozor_taslakları", "id": 430561}, {"name": "Teruzor_taslakları", "id": 3104344}]}
+{"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265, "predecessors": [{"name": "Sürüngen_taslakları", "id": 512918}, {"name": "Hayvan_taslakları", "id": 365197}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Dinozor_taslakları", "id": 430561}]}

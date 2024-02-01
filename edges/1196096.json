@@ -1,1 +1,1 @@
-{"name": "Türk_savcılar", "id": 1196096, "predecessors": [{"name": "Türk_hukukçular", "id": 23284}, {"name": "Savcılar", "id": 978026}], "successors": [{"name": "Türkiye_Danıştay_başsavcıları", "id": 2346496}, {"name": "Türkiye_Yargıtay_Cumhuriyet_başsavcıları", "id": 2346520}]}
+{"name": "Türk_savcılar", "id": 1196096, "predecessors": [{"name": "Türk_hukukçular", "id": 23284}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türkiye_Yargıtay_Cumhuriyet_başsavcıları", "id": 2346520}]}

@@ -1,1 +1,1 @@
-{"name": "Pasaport_taslakları", "id": 1427065, "predecessors": [{"name": "Pasaportlar", "id": 868703}, {"name": "Turizm_taslakları", "id": 585014}], "successors": []}
+{"name": "Pasaport_taslakları", "id": 1427065, "predecessors": [{"name": "Siyaset_taslakları", "id": 1428155}, {"name": "Turizm_taslakları", "id": 585014}, {"name": "Dış_politika", "id": 1659765}], "successors": []}

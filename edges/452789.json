@@ -1,1 +1,1 @@
-{"name": "Hümanistler", "id": 452789, "predecessors": [{"name": "Hümanizm", "id": 452788}, {"name": "İnsanlar", "id": 956634}], "successors": []}
+{"name": "Hümanistler", "id": 452789, "predecessors": [{"name": "Din_felsefesi", "id": 45123}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İngiliz_hümanistler", "id": 2068797}, {"name": "Amerikalı_hümanistler", "id": 2097121}]}

@@ -1,1 +1,1 @@
-{"name": "Yaz_Olimpiyatları_madalya_sıralamaları", "id": 1177909, "predecessors": [{"name": "Spor_ödülleri", "id": 630996}, {"name": "Madalyalar", "id": 421619}], "successors": []}
+{"name": "Yaz_Olimpiyatları_madalya_sıralamaları", "id": 1177909, "predecessors": [{"name": "Olimpiyat_Oyunları", "id": 56775}, {"name": "Spor_ödülleri", "id": 630996}, {"name": "Felsefe", "id": 6586}], "successors": []}

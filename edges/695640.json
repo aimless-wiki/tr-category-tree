@@ -1,1 +1,1 @@
-{"name": "Deniz_taslakları", "id": 695640, "predecessors": [{"name": "Denizler", "id": 8782}, {"name": "Okyanuslar", "id": 45302}], "successors": []}
+{"name": "Deniz_taslakları", "id": 695640, "predecessors": [{"name": "Coğrafya_taslakları", "id": 39297}, {"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "Denizcilik_taslakları", "id": 126421}]}

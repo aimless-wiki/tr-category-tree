@@ -1,1 +1,1 @@
-{"name": "Matematik_eğitimi", "id": 1738129, "predecessors": [{"name": "Eğitim_bilimleri", "id": 172759}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": []}
+{"name": "Matematik_eğitimi", "id": 1738129, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Matematik", "id": 2179}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}

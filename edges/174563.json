@@ -1,1 +1,1 @@
-{"name": "Sülfatlar", "id": 174563, "predecessors": [{"name": "Akne_tedavisi", "id": 2473418}], "successors": [{"name": "Sülfat_mineralleri", "id": 783288}]}
+{"name": "Sülfatlar", "id": 174563, "predecessors": [{"name": "Tuzlar", "id": 46857}, {"name": "Kimya", "id": 3599}], "successors": []}

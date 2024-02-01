@@ -1,1 +1,1 @@
-{"name": "Arama-kurtarma", "id": 1320104, "predecessors": [{"name": "Acil_durum_hizmetleri", "id": 1016286}], "successors": [{"name": "Acil_durum_iletişimi", "id": 2057220}, {"name": "Sahil_güvenlik", "id": 755240}]}
+{"name": "Arama-kurtarma", "id": 1320104, "predecessors": [{"name": "Acil_durum_hizmetleri", "id": 1016286}, {"name": "Felsefi_kavramlar", "id": 12229}], "successors": []}

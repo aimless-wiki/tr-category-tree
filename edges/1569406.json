@@ -1,1 +1,1 @@
-{"name": "Windows_Phone_oyunları", "id": 1569406, "predecessors": [{"name": "Windows_Phone_yazılımları", "id": 1569408}, {"name": "Microsoft", "id": 17241}], "successors": []}
+{"name": "Windows_Phone_oyunları", "id": 1569406, "predecessors": [{"name": "Cep_telefonu_oyunları", "id": 1044444}, {"name": "Windows_Phone_yazılımları", "id": 1569408}, {"name": "Microsoft", "id": 17241}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Formula_1_motor_üreticileri", "id": 1027857, "predecessors": [{"name": "Motor_üreticileri", "id": 1027861}], "successors": [{"name": "BMW", "id": 149722}, {"name": "Porsche", "id": 152077}]}
+{"name": "Formula_1_motor_üreticileri", "id": 1027857, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Makineler", "id": 616119}], "successors": [{"name": "BMW", "id": 149722}]}

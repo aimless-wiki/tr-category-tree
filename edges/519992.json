@@ -1,1 +1,1 @@
-{"name": "Veri_iletimi", "id": 519992, "predecessors": [{"name": "Bilgisayar_verisi", "id": 519822}, {"name": "Telekomünikasyon", "id": 12616}], "successors": [{"name": "Hata_tanılama_ve_düzeltme", "id": 519989}, {"name": "Modülasyon", "id": 1359795}]}
+{"name": "Veri_iletimi", "id": 519992, "predecessors": [{"name": "Telekomünikasyon", "id": 12616}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Ağ_protokolleri", "id": 520001}], "successors": []}

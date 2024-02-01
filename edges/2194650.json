@@ -1,1 +1,1 @@
-{"name": "X86-64_Linux_dağıtımları", "id": 2194650, "predecessors": [{"name": "Linux_dağıtımları", "id": 50963}], "successors": []}
+{"name": "X86-64_Linux_dağıtımları", "id": 2194650, "predecessors": [{"name": "X86-64_işletim_sistemleri", "id": 2117037}, {"name": "Linux_dağıtımları", "id": 50963}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tayvan_merkezli_elektronik_şirketleri", "id": 1039949, "predecessors": [{"name": "Mühendislik", "id": 12511}, {"name": "Şirketler", "id": 30683}], "successors": [{"name": "HTC_Corporation", "id": 939302}, {"name": "Foxconn", "id": 2221962}]}
+{"name": "Tayvan_merkezli_elektronik_şirketleri", "id": 1039949, "predecessors": [{"name": "Elektronik", "id": 10117}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "HTC_cep_telefonları", "id": 2155297}]}

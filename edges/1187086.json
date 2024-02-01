@@ -1,1 +1,1 @@
-{"name": "Pompalar", "id": 1187086, "predecessors": [{"name": "Hidrolik", "id": 92227}, {"name": "Makineler", "id": 616119}], "successors": [{"name": "Turboşarjlar", "id": 1335166}]}
+{"name": "Pompalar", "id": 1187086, "predecessors": [{"name": "Akışkanlar_dinamiği", "id": 182689}, {"name": "Makineler", "id": 616119}, {"name": "Enerji", "id": 36245}, {"name": "Makine_mühendisliği", "id": 24286}], "successors": []}

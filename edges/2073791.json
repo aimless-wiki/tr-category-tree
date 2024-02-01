@@ -1,1 +1,1 @@
-{"name": "Kurgusal_özel_dedektifler", "id": 2073791, "predecessors": [{"name": "Kurgusal_dedektifler", "id": 1203947}, {"name": "Gizlilik", "id": 770320}], "successors": [{"name": "Sherlock_Holmes", "id": 935144}]}
+{"name": "Kurgusal_özel_dedektifler", "id": 2073791, "predecessors": [{"name": "Kurgusal_dedektifler", "id": 1203947}, {"name": "Etik", "id": 24897}], "successors": [{"name": "Sherlock_Holmes", "id": 935144}]}

@@ -1,1 +1,1 @@
-{"name": "Kedi_hastalıkları", "id": 439226, "predecessors": [{"name": "Kedi_sağlığı", "id": 403695}, {"name": "Hayvan_hastalıkları", "id": 43570}], "successors": []}
+{"name": "Kedi_hastalıkları", "id": 439226, "predecessors": [{"name": "Kediler", "id": 197519}, {"name": "Hayvan_hastalıkları", "id": 43570}], "successors": []}

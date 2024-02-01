@@ -1,1 +1,1 @@
-{"name": "NASA_uzay_sondaları", "id": 2355967, "predecessors": [{"name": "NASA_araçları", "id": 2092298}, {"name": "Uzay_sondaları", "id": 1318538}], "successors": []}
+{"name": "NASA_uzay_sondaları", "id": 2355967, "predecessors": [{"name": "NASA", "id": 69135}], "successors": []}

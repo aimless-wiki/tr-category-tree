@@ -1,1 +1,1 @@
-{"name": "Bebeklik", "id": 1660006, "predecessors": [{"name": "Çocukluk", "id": 705419}, {"name": "İnsan_gelişimi", "id": 705423}, {"name": "Yaşlanma", "id": 1541154}], "successors": [{"name": "Bebek_ürünleri", "id": 2406109}]}
+{"name": "Bebeklik", "id": 1660006, "predecessors": [{"name": "Çocukluk", "id": 705419}, {"name": "İnsan_gelişimi", "id": 705423}], "successors": [{"name": "Bebek_bakımı", "id": 1547080}, {"name": "Emzirme", "id": 1659865}]}

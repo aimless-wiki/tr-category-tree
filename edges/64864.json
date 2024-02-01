@@ -1,1 +1,1 @@
-{"name": "Kişi_adları", "id": 64864, "predecessors": [{"name": "Adlar", "id": 728722}, {"name": "İnsanlar", "id": 956634}], "successors": [{"name": "Papalık_adı", "id": 3500840}]}
+{"name": "Kişi_adları", "id": 64864, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_isimleri", "id": 550583}, {"name": "Başka_adlar", "id": 2147959}, {"name": "Papalık_adı", "id": 3500840}, {"name": "İsimler", "id": 121718}, {"name": "Soyadları", "id": 221485}, {"name": "Tanah'taki_kişiler", "id": 1668457}]}

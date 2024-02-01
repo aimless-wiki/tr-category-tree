@@ -1,1 +1,1 @@
-{"name": "Arıcılık", "id": 44111, "predecessors": [{"name": "Apidae", "id": 15864}, {"name": "İnsan-hayvan_etkileşimi", "id": 1431651}], "successors": [{"name": "Arı_ürünleri", "id": 421606}, {"name": "Tozlaşma", "id": 2241870}]}
+{"name": "Arıcılık", "id": 44111, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Tarım", "id": 1210718}, {"name": "Böcekler", "id": 12081}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Bal", "id": 441253}]}

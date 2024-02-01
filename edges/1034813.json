@@ -1,1 +1,1 @@
-{"name": "Türkiye_merkezli_bilişim_şirketleri", "id": 1034813, "predecessors": [{"name": "Türkiye_merkezli_şirketler", "id": 30019}, {"name": "Bilişim", "id": 12614}], "successors": [{"name": "Turkcell", "id": 1662248}, {"name": "Türksat_uyduları", "id": 898762}]}
+{"name": "Türkiye_merkezli_bilişim_şirketleri", "id": 1034813, "predecessors": [{"name": "Türkiye'de_bilim_ve_teknoloji", "id": 508381}, {"name": "Bilişim", "id": 12614}, {"name": "İşletme", "id": 21253}], "successors": []}

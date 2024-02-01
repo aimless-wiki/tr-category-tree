@@ -1,1 +1,1 @@
-{"name": "Kömür", "id": 335435, "predecessors": [{"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Mineraller", "id": 24891}], "successors": [{"name": "Kömür_madenciliği", "id": 1795560}]}
+{"name": "Kömür", "id": 335435, "predecessors": [{"name": "Katı_yakıtlar", "id": 1061705}, {"name": "Tortul_kayaçlar", "id": 598480}, {"name": "Kimya", "id": 3599}, {"name": "Malzemeler", "id": 12782}, {"name": "Amerika_Birleşik_Devletleri'nin_ulusal_sembolleri", "id": 1163990}, {"name": "Kronoloji", "id": 30443}], "successors": []}

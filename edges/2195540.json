@@ -1,1 +1,1 @@
-{"name": "Uçak_motoru_üreticileri", "id": 2195540, "predecessors": [{"name": "Hava_aracı_üreticileri", "id": 1332513}, {"name": "Motor_üreticileri", "id": 1027861}], "successors": []}
+{"name": "Uçak_motoru_üreticileri", "id": 2195540, "predecessors": [{"name": "Hava_aracı_üreticileri", "id": 1332513}, {"name": "Uçak_motorları", "id": 202857}, {"name": "Makineler", "id": 616119}], "successors": []}

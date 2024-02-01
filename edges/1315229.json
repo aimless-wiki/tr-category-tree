@@ -1,1 +1,1 @@
-{"name": "Yazma_aletleri", "id": 1315229, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Sanat_malzemeleri", "id": 793142}, {"name": "Yazı", "id": 16248}], "successors": [{"name": "Yazıcılar", "id": 40484}]}
+{"name": "Yazma_aletleri", "id": 1315229, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Kırtasiye", "id": 766693}, {"name": "Yazı", "id": 16248}, {"name": "Görsel_sanatlar", "id": 12128}], "successors": []}

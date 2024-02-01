@@ -1,1 +1,1 @@
-{"name": "Çek_siyasetçiler", "id": 602123, "predecessors": [{"name": "Siyaset", "id": 12230}], "successors": [{"name": "Çekya_cumhurbaşkanları", "id": 952442}, {"name": "Çekya_başbakanları", "id": 1213300}, {"name": "Çekya_başbakan_yardımcıları", "id": 2141578}]}
+{"name": "Çek_siyasetçiler", "id": 602123, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Vikipedi", "id": 7220}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Portekiz_taslakları", "id": 385223, "predecessors": [{"name": "Portekiz", "id": 20845}], "successors": [{"name": "Portekizli_taslakları", "id": 723373}, {"name": "Portekiz_futbol_kulübü_taslakları", "id": 1318779}]}
+{"name": "Portekiz_taslakları", "id": 385223, "predecessors": [{"name": "Avrupa_taslakları", "id": 551825}, {"name": "Ülke_taslakları", "id": 40159}, {"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}], "successors": [{"name": "Portekizli_taslakları", "id": 723373}]}

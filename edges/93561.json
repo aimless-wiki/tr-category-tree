@@ -1,1 +1,1 @@
-{"name": "İstanbul_gazeteleri", "id": 93561, "predecessors": [{"name": "İstanbul_medyası", "id": 1387567}, {"name": "İstanbul_merkezli_kuruluşlar", "id": 295520}], "successors": [{"name": "Milliyet_(gazete)", "id": 732959}, {"name": "Agos_kişileri", "id": 2957527}, {"name": "Yeni_Yüzyıl_kişileri", "id": 2339210}]}
+{"name": "İstanbul_gazeteleri", "id": 93561, "predecessors": [{"name": "İstanbul_medyası", "id": 1387567}, {"name": "İstanbul_merkezli_kuruluşlar", "id": 295520}, {"name": "Türkiye'deki_şehirler", "id": 81605}], "successors": []}

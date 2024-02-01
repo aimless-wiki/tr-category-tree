@@ -1,1 +1,1 @@
-{"name": "Kimya_listeleri", "id": 148142, "predecessors": [{"name": "Bilim_listeleri", "id": 148161}, {"name": "Kimya", "id": 3599}], "successors": []}
+{"name": "Kimya_listeleri", "id": 148142, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Vikipedi", "id": 7220}], "successors": []}

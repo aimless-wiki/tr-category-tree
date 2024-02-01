@@ -1,1 +1,1 @@
-{"name": "Troleybüs_üreticileri", "id": 1333352, "predecessors": [{"name": "Teknoloji_şirketleri", "id": 2125732}, {"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}], "successors": []}
+{"name": "Troleybüs_üreticileri", "id": 1333352, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}, {"name": "Ekonomi", "id": 12356}], "successors": []}

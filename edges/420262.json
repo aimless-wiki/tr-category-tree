@@ -1,1 +1,1 @@
-{"name": "Trafik_kazasında_ölen_şarkıcılar", "id": 420262, "predecessors": [{"name": "Trafik_kazasında_ölen_müzisyenler", "id": 652493}], "successors": []}
+{"name": "Trafik_kazasında_ölen_şarkıcılar", "id": 420262, "predecessors": [{"name": "Trafik_kazasında_ölenler", "id": 651022}, {"name": "Müzik_meslekleri", "id": 448842}], "successors": []}

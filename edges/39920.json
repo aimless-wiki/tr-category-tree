@@ -1,1 +1,1 @@
-{"name": "Çocuk_kitapları", "id": 39920, "predecessors": [{"name": "Eğlence", "id": 12075}, {"name": "Kitaplar", "id": 74248}], "successors": [{"name": "Çocuk_kitapları_serileri", "id": 1103201}]}
+{"name": "Çocuk_kitapları", "id": 39920, "predecessors": [{"name": "Edebî_türler", "id": 1581434}, {"name": "Düşünce", "id": 92725}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Çocuk_romanları", "id": 114092}, {"name": "Çocuk_kitabı_taslakları", "id": 776379}, {"name": "Kodomo", "id": 2325701}]}

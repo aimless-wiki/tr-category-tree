@@ -1,1 +1,1 @@
-{"name": "Klorlu_aromatik_hidrokarbonlar", "id": 2729421, "predecessors": [{"name": "Aromatik_bileşikler", "id": 35768}, {"name": "Organoklorürler", "id": 1528576}], "successors": []}
+{"name": "Klorlu_aromatik_hidrokarbonlar", "id": 2729421, "predecessors": [{"name": "Organoklorürler", "id": 1528576}, {"name": "Kimya", "id": 3599}], "successors": []}

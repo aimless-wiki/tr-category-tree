@@ -1,1 +1,1 @@
-{"name": "PHP_programlama_dili", "id": 118721, "predecessors": [{"name": "PHP", "id": 187769}], "successors": [{"name": "RSS_okuyucu", "id": 1670700}, {"name": "PHP_ile_programlanmış_ücretsiz_yazılımlar", "id": 1889123}]}
+{"name": "PHP_programlama_dili", "id": 118721, "predecessors": [{"name": "Programlama_dilleri", "id": 3929}, {"name": "Betik_dilleri", "id": 948239}], "successors": [{"name": "RSS_okuyucu", "id": 1670700}]}

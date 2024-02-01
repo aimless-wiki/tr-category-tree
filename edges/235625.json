@@ -1,1 +1,1 @@
-{"name": "Anatomik_patoloji", "id": 235625, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Patoloji", "id": 11975}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Kanser", "id": 2238197}]}
+{"name": "Anatomik_patoloji", "id": 235625, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Patoloji", "id": 11975}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Pankreas_kanserinden_ölenler", "id": 459840}]}

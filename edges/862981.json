@@ -1,1 +1,1 @@
-{"name": "Akdeniz_faunası", "id": 862981, "predecessors": [{"name": "Akdeniz", "id": 21160}], "successors": [{"name": "Türkiye_faunası", "id": 168563}, {"name": "Orta_Doğu_faunası", "id": 1422444}]}
+{"name": "Akdeniz_faunası", "id": 862981, "predecessors": [{"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Türkiye_faunası", "id": 168563}, {"name": "Türkiye_endemik_hayvanları", "id": 1560015}]}

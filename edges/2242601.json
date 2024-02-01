@@ -1,1 +1,1 @@
-{"name": "Gerçek_olaylara_dayanan_savaş_filmleri", "id": 2242601, "predecessors": [{"name": "Savaş_filmleri", "id": 124674}], "successors": [{"name": "Gerçek_olaylara_dayanan_II._Dünya_Savaşı_filmleri", "id": 2469110}, {"name": "Çanakkale_Savaşı_konulu_filmler", "id": 1786045}]}
+{"name": "Gerçek_olaylara_dayanan_savaş_filmleri", "id": 2242601, "predecessors": [{"name": "Gerçek_olaylara_dayanan_filmler", "id": 572364}, {"name": "Askerî_tarih", "id": 106422}], "successors": [{"name": "Gerçek_olaylara_dayanan_II._Dünya_Savaşı_filmleri", "id": 2469110}]}

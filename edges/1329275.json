@@ -1,1 +1,1 @@
-{"name": "Helikopter_üreticileri", "id": 1329275, "predecessors": [{"name": "Havacılık_şirketleri", "id": 1333349}, {"name": "Helikopterler", "id": 197690}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": []}
+{"name": "Helikopter_üreticileri", "id": 1329275, "predecessors": [{"name": "Helikopterler", "id": 197690}, {"name": "Havacılık", "id": 20813}, {"name": "Ekonomi", "id": 12356}], "successors": []}

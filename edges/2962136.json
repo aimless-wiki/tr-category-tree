@@ -1,1 +1,1 @@
-{"name": "Bizanslı_bürokratlar", "id": 2962136, "predecessors": [{"name": "Bizans_İmparatorluğu", "id": 40769}], "successors": [{"name": "Bizans_valileri", "id": 1682938}, {"name": "Bizanslı_diplomatlar", "id": 1683044}, {"name": "Magistri_officiorum", "id": 2299834}, {"name": "Bizans_saray_halkı", "id": 2461401}, {"name": "Protovestiarioi", "id": 2542285}]}
+{"name": "Bizanslı_bürokratlar", "id": 2962136, "predecessors": [{"name": "Hükûmet", "id": 1580223}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Bizans_valileri", "id": 1682938}]}

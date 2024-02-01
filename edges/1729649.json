@@ -1,0 +1,1 @@
+{"name": "Anında_mesajlaşma_istemcileri", "id": 1729649, "predecessors": [{"name": "Ağ_hizmetleri", "id": 1546526}, {"name": "Sosyal_medya", "id": 901148}], "successors": [{"name": "VoIP_yazılımları", "id": 2163790}, {"name": "Windows_anında_mesajlaşma_istemcileri", "id": 2178411}]}

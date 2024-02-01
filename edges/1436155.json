@@ -1,1 +1,1 @@
-{"name": "Türk_söz_yazarları", "id": 1436155, "predecessors": [{"name": "Türk_yazarlar", "id": 7519}], "successors": [{"name": "Türk_şarkı_yazarları", "id": 1828263}]}
+{"name": "Türk_söz_yazarları", "id": 1436155, "predecessors": [{"name": "Türk_müzisyenler", "id": 11695}, {"name": "Söz_yazarları", "id": 1436117}, {"name": "Türk_yazarlar", "id": 7519}], "successors": [{"name": "Türk_şarkı_yazarları", "id": 1828263}]}

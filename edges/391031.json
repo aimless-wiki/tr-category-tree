@@ -1,1 +1,1 @@
-{"name": "Macaristan_taslakları", "id": 391031, "predecessors": [{"name": "Avrupa_Birliği_ülkeleri", "id": 593751}], "successors": [{"name": "Macar_taslakları", "id": 992900}, {"name": "Macaristan_yerleşim_yerleri_taslakları", "id": 148196}]}
+{"name": "Macaristan_taslakları", "id": 391031, "predecessors": [{"name": "Avrupa_taslakları", "id": 551825}, {"name": "Ülke_taslakları", "id": 40159}, {"name": "Avrupa_Birliği_ülkeleri", "id": 593751}], "successors": [{"name": "Macar_taslakları", "id": 992900}]}

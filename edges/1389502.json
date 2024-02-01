@@ -1,1 +1,1 @@
-{"name": "Aviyonik", "id": 1389502, "predecessors": [{"name": "Elektronik", "id": 10117}, {"name": "Havacılık_terimleri", "id": 367669}, {"name": "Uçak_cihazları", "id": 1016266}], "successors": [{"name": "Radar", "id": 157904}]}
+{"name": "Aviyonik", "id": 1389502, "predecessors": [{"name": "Elektronik", "id": 10117}, {"name": "Gömülü_sistemler", "id": 98658}, {"name": "Havacılık_terimleri", "id": 367669}, {"name": "Uçak_cihazları", "id": 1016266}, {"name": "Taşıt_parçaları", "id": 997041}], "successors": [{"name": "Radar", "id": 157904}]}

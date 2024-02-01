@@ -1,1 +1,1 @@
-{"name": "Lüks_motorlu_taşıt_üreticileri", "id": 2732966, "predecessors": [{"name": "Lüks_otomobiller", "id": 1503427}], "successors": [{"name": "Mercedes-Benz", "id": 140947}, {"name": "BMW", "id": 149722}, {"name": "Porsche", "id": 152077}, {"name": "Audi", "id": 298484}, {"name": "Volvo_Cars", "id": 2732967}]}
+{"name": "Lüks_motorlu_taşıt_üreticileri", "id": 2732966, "predecessors": [{"name": "Lüks_otomobiller", "id": 1503427}], "successors": [{"name": "BMW", "id": 149722}, {"name": "Volvo_otomobilleri", "id": 1178528}]}

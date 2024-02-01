@@ -1,1 +1,1 @@
-{"name": "Kurgusal_hekimler", "id": 1204347, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Sağlık", "id": 12532}], "successors": [{"name": "Doctor_Who_doktorları", "id": 1698169}, {"name": "Kurgusal_cerrahlar", "id": 1736373}]}
+{"name": "Kurgusal_hekimler", "id": 1204347, "predecessors": [{"name": "Sağlık", "id": 12532}], "successors": [{"name": "Doctor_Who_doktorları", "id": 1698169}]}

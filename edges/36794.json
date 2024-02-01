@@ -1,1 +1,1 @@
-{"name": "Zehirli_bitkiler", "id": 36794, "predecessors": [{"name": "Toksikoloji", "id": 23190}], "successors": [{"name": "Bitki_toksinleri", "id": 1762266}]}
+{"name": "Zehirli_bitkiler", "id": 36794, "predecessors": [{"name": "Toksikoloji", "id": 23190}, {"name": "Bitkiler", "id": 16108}], "successors": []}

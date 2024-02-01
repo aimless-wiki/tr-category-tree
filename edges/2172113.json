@@ -1,1 +1,1 @@
-{"name": "Bibliyografik_veritabanları_ve_dizinleri", "id": 2172113, "predecessors": [{"name": "Kitaplar", "id": 74248}, {"name": "Veritabanları", "id": 69386}], "successors": [{"name": "Bibliyografik_veritabanı_sağlayıcıları", "id": 2459443}]}
+{"name": "Bibliyografik_veritabanları_ve_dizinleri", "id": 2172113, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Veritabanları", "id": 69386}], "successors": [{"name": "Astronomi_katalogları", "id": 2076225}]}

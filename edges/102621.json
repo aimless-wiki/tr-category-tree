@@ -1,1 +1,1 @@
-{"name": "Vampir_filmleri", "id": 102621, "predecessors": [{"name": "Canavar_filmleri", "id": 1085348}, {"name": "Popüler_kültürde_vampirler", "id": 1443839}], "successors": [{"name": "Drakula_filmleri", "id": 446646}, {"name": "Alacakaranlık_filmleri", "id": 1385157}, {"name": "Amerika_Birleşik_Devletleri_vampir_filmleri", "id": 3328126}]}
+{"name": "Vampir_filmleri", "id": 102621, "predecessors": [{"name": "Ölüm", "id": 25717}, {"name": "Kurguda_paranormallik", "id": 1811851}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Drakula_filmleri", "id": 446646}]}

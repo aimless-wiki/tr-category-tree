@@ -1,1 +1,1 @@
-{"name": "Tropikal_tarım", "id": 1672227, "predecessors": [{"name": "Dönenceler", "id": 196252}], "successors": [{"name": "Tropikal_meyveler", "id": 1672226}]}
+{"name": "Tropikal_tarım", "id": 1672227, "predecessors": [{"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Tarım", "id": 1210718}], "successors": []}

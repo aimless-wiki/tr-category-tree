@@ -1,1 +1,1 @@
-{"name": "Nefroloji", "id": 98747, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Böbrek", "id": 77212}, {"name": "Diyaliz", "id": 376088}, {"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457}]}
+{"name": "Nefroloji", "id": 98747, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457}]}

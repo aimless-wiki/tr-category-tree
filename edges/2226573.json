@@ -1,1 +1,1 @@
-{"name": "Siyasi_yolsuzluk", "id": 2226573, "predecessors": [{"name": "Siyaset", "id": 12230}], "successors": [{"name": "Siyasi_skandallar", "id": 1138730}, {"name": "Seçim_hilesi", "id": 2226575}]}
+{"name": "Siyasi_yolsuzluk", "id": 2226573, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Suçlar", "id": 23209}], "successors": []}

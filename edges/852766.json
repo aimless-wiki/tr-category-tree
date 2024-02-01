@@ -1,1 +1,1 @@
-{"name": "Posta_kuruluşları", "id": 852766, "predecessors": [{"name": "Lojistik_şirketleri", "id": 1360953}, {"name": "Posta", "id": 16152}], "successors": [{"name": "PTT_genel_müdürleri", "id": 1728170}, {"name": "Posta_ve_Telgraf_nâzırları", "id": 1317015}]}
+{"name": "Posta_kuruluşları", "id": 852766, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Yönetim", "id": 37094}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "Posta_ve_Telgraf_nâzırları", "id": 1317015}]}

@@ -1,1 +1,1 @@
-{"name": "Depilasyon", "id": 747801, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Kişisel_bakım", "id": 86671}], "successors": []}
+{"name": "Depilasyon", "id": 747801, "predecessors": [{"name": "Hijyen", "id": 86836}], "successors": [{"name": "Tıraş", "id": 1104341}]}

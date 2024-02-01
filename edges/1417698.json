@@ -1,1 +1,1 @@
-{"name": "Bilgi_toplumu", "id": 1417698, "predecessors": [{"name": "Bilgi", "id": 12510}], "successors": [{"name": "Dijital_bölünme", "id": 1665051}]}
+{"name": "Bilgi_toplumu", "id": 1417698, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Evrim", "id": 33354}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}

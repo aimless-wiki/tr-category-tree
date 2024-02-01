@@ -1,1 +1,1 @@
-{"name": "Dil_taslakları", "id": 27989, "predecessors": [{"name": "Diller", "id": 12535}], "successors": [{"name": "Kızılderili_dili_taslakları", "id": 802821}]}
+{"name": "Dil_taslakları", "id": 27989, "predecessors": [{"name": "Dilbilim_taslakları", "id": 2207988}, {"name": "Diller", "id": 12535}, {"name": "Kültür_taslakları", "id": 53026}], "successors": [{"name": "Hint-Avrupa_dilleri_taslakları", "id": 423689}, {"name": "Afro-Asyatik_diller_taslakları", "id": 694755}, {"name": "Türk_dilleri_taslakları", "id": 760153}]}

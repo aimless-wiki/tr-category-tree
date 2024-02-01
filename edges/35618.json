@@ -1,1 +1,1 @@
-{"name": "Komünist_kitaplar", "id": 35618, "predecessors": [{"name": "Komünist_eserler", "id": 2020966}, {"name": "Siyasi_kitaplar", "id": 35619}], "successors": [{"name": "Lenin_kitapları", "id": 306270}, {"name": "Karl_Marx_kitapları", "id": 477281}, {"name": "Friedrich_Engels_kitapları", "id": 1904092}]}
+{"name": "Komünist_kitaplar", "id": 35618, "predecessors": [{"name": "Siyasi_kitaplar", "id": 35619}, {"name": "Komünizm", "id": 6415}], "successors": [{"name": "Lenin_kitapları", "id": 306270}, {"name": "Karl_Marx_kitapları", "id": 477281}]}

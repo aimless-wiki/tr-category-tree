@@ -1,1 +1,1 @@
-{"name": "Türk_güreşçi_taslakları", "id": 1539328, "predecessors": [{"name": "Türk_sporcu_taslakları", "id": 806428}], "successors": []}
+{"name": "Türk_güreşçi_taslakları", "id": 1539328, "predecessors": [{"name": "Güreşçi_taslakları", "id": 937049}, {"name": "Türk_sporcu_taslakları", "id": 806428}, {"name": "Vikipedi", "id": 7220}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Göz_hastalıkları", "id": 321976, "predecessors": [{"name": "Göz_hastalıkları_bilimi", "id": 765672}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": []}
+{"name": "Göz_hastalıkları", "id": 321976, "predecessors": [{"name": "Göz", "id": 16454}, {"name": "Göz_hastalıkları_bilimi", "id": 765672}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": []}

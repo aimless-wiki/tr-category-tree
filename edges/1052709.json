@@ -1,1 +1,1 @@
-{"name": "İbrani_takvimi", "id": 1052709, "predecessors": [{"name": "Takvimler", "id": 88699}, {"name": "Yahudi_kültürü", "id": 1557725}], "successors": [{"name": "Yay_takımyıldızı", "id": 262610}, {"name": "Oğlak_takımyıldızı", "id": 795902}]}
+{"name": "İbrani_takvimi", "id": 1052709, "predecessors": [{"name": "Yahudi_kültürü", "id": 1557725}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Yay_takımyıldızı", "id": 262610}]}

@@ -1,1 +1,1 @@
-{"name": "Motor_teknolojisi", "id": 996783, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": []}
+{"name": "Motor_teknolojisi", "id": 996783, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Termodinamik_çevrimler", "id": 182513}]}

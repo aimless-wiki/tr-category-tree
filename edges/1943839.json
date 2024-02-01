@@ -1,1 +1,1 @@
-{"name": "Windows_web_tarayıcıları", "id": 1943839, "predecessors": [{"name": "Windows_yazılımları", "id": 544820}], "successors": [{"name": "Internet_Explorer", "id": 1541654}]}
+{"name": "Windows_web_tarayıcıları", "id": 1943839, "predecessors": [{"name": "Web_tarayıcıları", "id": 46527}, {"name": "Windows_yazılımları", "id": 544820}], "successors": [{"name": "Internet_Explorer", "id": 1541654}]}

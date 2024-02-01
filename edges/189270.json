@@ -1,0 +1,1 @@
+{"name": "Taşınabilir_bilgisayarlar", "id": 189270, "predecessors": [{"name": "Bilgisayar_türleri", "id": 23111}, {"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Mobil_yazılımlar", "id": 1487950}, {"name": "Tablet_bilgisayarlar", "id": 1675621}, {"name": "Giyilebilir_bilgisayarlar", "id": 2124366}, {"name": "Kişisel_dijital_yardımcılar", "id": 2223369}]}

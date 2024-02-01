@@ -1,1 +1,1 @@
-{"name": "Hayalet_uçaklar", "id": 1333113, "predecessors": [{"name": "Stealth_teknolojisi", "id": 2810038}, {"name": "Hava_araçları", "id": 355588}], "successors": []}
+{"name": "Hayalet_uçaklar", "id": 1333113, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "Askerî_teknoloji", "id": 1196162}, {"name": "Dünya_atmosferi", "id": 1777244}], "successors": []}

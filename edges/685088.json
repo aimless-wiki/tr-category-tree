@@ -1,1 +1,1 @@
-{"name": "Peptitler", "id": 685088, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Organik_bileşikler", "id": 23181}], "successors": [{"name": "Peptit_hormonlar", "id": 1427194}]}
+{"name": "Peptitler", "id": 685088, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Peptit_hormonlar", "id": 1427194}]}

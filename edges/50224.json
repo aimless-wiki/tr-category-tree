@@ -1,1 +1,1 @@
-{"name": "Otomotiv_taslakları", "id": 50224, "predecessors": [{"name": "Şirket_taslakları", "id": 170278}], "successors": []}
+{"name": "Otomotiv_taslakları", "id": 50224, "predecessors": [{"name": "Makine_mühendisliği_taslakları", "id": 404579}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Şirket_taslakları", "id": 170278}, {"name": "Kara_ulaşımı", "id": 447670}], "successors": []}

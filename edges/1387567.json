@@ -1,1 +1,1 @@
-{"name": "İstanbul_medyası", "id": 1387567, "predecessors": [{"name": "İstanbul_ilinde_kültür", "id": 930890}], "successors": [{"name": "İstanbul_gazeteleri", "id": 93561}]}
+{"name": "İstanbul_medyası", "id": 1387567, "predecessors": [{"name": "İstanbul_ilinde_kültür", "id": 930890}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "İstanbul_gazeteleri", "id": 93561}, {"name": "İstanbul'da_çekilmiş_televizyon_dizileri", "id": 1891815}, {"name": "İstanbul'da_çekilmiş_internet_dizileri", "id": 3445096}]}

@@ -1,1 +1,1 @@
-{"name": "Karbonhidratlar", "id": 33244, "predecessors": [{"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "Monosakkaritler", "id": 51475}, {"name": "Polisakkaritler", "id": 68801}, {"name": "Oligosakkaritler", "id": 1120319}, {"name": "Şeker", "id": 1300080}, {"name": "Glikozitler", "id": 1763530}]}
+{"name": "Karbonhidratlar", "id": 33244, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "Monosakkaritler", "id": 51475}, {"name": "Şeker", "id": 1300080}]}

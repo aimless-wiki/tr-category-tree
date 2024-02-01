@@ -1,1 +1,1 @@
-{"name": "İspanya_filmleri", "id": 337500, "predecessors": [{"name": "Eğlence", "id": 12075}], "successors": [{"name": "İspanya_filmleri_taslakları", "id": 1216683}]}
+{"name": "İspanya_filmleri", "id": 337500, "predecessors": [{"name": "Dünya", "id": 6772}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İspanya_filmleri_taslakları", "id": 1216683}, {"name": "İspanya_bağımsız_filmleri", "id": 2292527}]}

@@ -1,1 +1,1 @@
-{"name": "İstanbul_Rumları", "id": 2131986, "predecessors": [{"name": "Türkiye_Rumları", "id": 1746047}, {"name": "Yunanistan", "id": 20848}], "successors": [{"name": "Fenerli_Rumlar", "id": 2131983}, {"name": "Konstantinopolis_Rumları", "id": 3106080}]}
+{"name": "İstanbul_Rumları", "id": 2131986, "predecessors": [{"name": "Türkiye_Rumları", "id": 1746047}, {"name": "Kronoloji", "id": 30443}, {"name": "Türkiye'deki_etnik_gruplar", "id": 672072}], "successors": [{"name": "İstanbul'daki_Rum_Ortodoks_kiliseleri", "id": 1140777}, {"name": "Fenerli_Rumlar", "id": 2131983}]}

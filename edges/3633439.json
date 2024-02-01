@@ -1,1 +1,1 @@
-{"name": "SA_personeli", "id": 3633439, "predecessors": [{"name": "Almanya_askerî_tarihi", "id": 724437}, {"name": "Faşizm", "id": 107276}], "successors": [{"name": "SA_subayları", "id": 2324829}]}
+{"name": "SA_personeli", "id": 3633439, "predecessors": [{"name": "Faşizm", "id": 107276}, {"name": "Siyasi_coğrafya", "id": 36581}], "successors": [{"name": "SA_subayları", "id": 2324829}]}

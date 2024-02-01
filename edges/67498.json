@@ -1,1 +1,1 @@
-{"name": "Türk_piyanistler", "id": 67498, "predecessors": [{"name": "Piyanistler", "id": 67499}], "successors": [{"name": "Türk_klasik_piyanistler", "id": 1930054}, {"name": "Türk_caz_piyanistleri", "id": 2566221}]}
+{"name": "Türk_piyanistler", "id": 67498, "predecessors": [{"name": "Müzik_aletleri", "id": 12702}], "successors": [{"name": "Türk_klasik_piyanistler", "id": 1930054}, {"name": "Türk_caz_piyanistleri", "id": 2566221}]}

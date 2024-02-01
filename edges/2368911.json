@@ -1,1 +1,1 @@
-{"name": "Cep_telefonu_listeleri", "id": 2368911, "predecessors": [{"name": "Elektronik", "id": 10117}, {"name": "Mallar", "id": 1772674}], "successors": []}
+{"name": "Cep_telefonu_listeleri", "id": 2368911, "predecessors": [{"name": "Cep_telefonları", "id": 184320}, {"name": "Elektronik", "id": 10117}, {"name": "Pazarlama", "id": 37079}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nöroloji_hastalıkları", "id": 1303228, "predecessors": [{"name": "Nöroloji", "id": 16347}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Parkinson_hastalığı", "id": 993083}, {"name": "Demans", "id": 1765260}]}
+{"name": "Nöroloji_hastalıkları", "id": 1303228, "predecessors": [{"name": "Nöroloji", "id": 16347}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Nörolojik_bozukluklar", "id": 341785}, {"name": "Parkinson_hastalığı_olan_kişiler", "id": 790628}, {"name": "Parkinson_hastalığından_ölenler", "id": 889207}]}

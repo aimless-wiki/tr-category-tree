@@ -1,1 +1,1 @@
-{"name": "Dizel_motor_üreticileri", "id": 2733610, "predecessors": [{"name": "Dizel_motorları", "id": 1185550}, {"name": "Motor_üreticileri", "id": 1027861}, {"name": "İmalat", "id": 404623}], "successors": []}
+{"name": "Dizel_motor_üreticileri", "id": 2733610, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "Makineler", "id": 616119}, {"name": "Kronoloji", "id": 30443}], "successors": []}

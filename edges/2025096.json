@@ -1,1 +1,1 @@
-{"name": "Alman_bilim_insanı_taslakları", "id": 2025096, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}], "successors": []}
+{"name": "Alman_bilim_insanı_taslakları", "id": 2025096, "predecessors": [{"name": "Alman_bilim_insanları", "id": 1956176}, {"name": "Alman_taslakları", "id": 1314170}, {"name": "Bilim_insanı_taslakları", "id": 1417926}], "successors": [{"name": "Alman_astronom_taslakları", "id": 1470672}, {"name": "Alman_fizikçi_taslakları", "id": 2447711}]}

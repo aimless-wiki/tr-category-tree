@@ -1,1 +1,1 @@
-{"name": "Koç_Holding", "id": 1327466, "predecessors": [{"name": "Konglomeratlar", "id": 1606372}, {"name": "Koç_ailesi", "id": 1351938}], "successors": [{"name": "Koç_Holding_Yönetim_Kurulu_üyeleri", "id": 2298482}, {"name": "Tofaş_otomobilleri", "id": 1178540}, {"name": "Otokar_zırhlı_taşıtları", "id": 1183808}, {"name": "Otokar_otobüsleri", "id": 3469950}]}
+{"name": "Koç_Holding", "id": 1327466, "predecessors": [{"name": "Koç_ailesi", "id": 1351938}, {"name": "Vikipedi", "id": 7220}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Havacılık_terimleri", "id": 367669, "predecessors": [{"name": "Havacılık", "id": 20813}], "successors": [{"name": "Hava_trafik_kontrol", "id": 820112}, {"name": "Aviyonik", "id": 1389502}, {"name": "Hava_süratleri", "id": 1425249}, {"name": "İrtifalar", "id": 1434710}]}
+{"name": "Havacılık_terimleri", "id": 367669, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Terimler", "id": 81201}], "successors": [{"name": "Aviyonik", "id": 1389502}]}

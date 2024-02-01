@@ -1,1 +1,1 @@
-{"name": "Video_düzenleme_yazılımları", "id": 222656, "predecessors": [{"name": "Sistem_yazılımları", "id": 175932}], "successors": [{"name": "Özgür_video_yazılımları", "id": 2059081}]}
+{"name": "Video_düzenleme_yazılımları", "id": 222656, "predecessors": [{"name": "Video", "id": 1204005}, {"name": "Vikipedi", "id": 7220}], "successors": []}

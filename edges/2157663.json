@@ -1,1 +1,1 @@
-{"name": "Kelt_mitolojisi_kahramanları", "id": 2157663, "predecessors": [{"name": "Tip_karakterler", "id": 2204829}], "successors": [{"name": "Yuvarlak_Masa_Şovalyeleri", "id": 958489}]}
+{"name": "Kelt_mitolojisi_kahramanları", "id": 2157663, "predecessors": [{"name": "Kelt_mitolojisi", "id": 16829}, {"name": "Tip_karakterler", "id": 2204829}], "successors": [{"name": "Yuvarlak_Masa_Şovalyeleri", "id": 958489}]}

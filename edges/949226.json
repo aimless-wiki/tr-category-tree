@@ -1,1 +1,1 @@
-{"name": "Bilimsel_yasalar", "id": 949226, "predecessors": [{"name": "Bilim_epistemolojisi", "id": 1579726}, {"name": "Bilim_felsefesi", "id": 58655}, {"name": "Bilimsel_modelleme", "id": 379806}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Deneysel_yasalar", "id": 1403747}]}
+{"name": "Bilimsel_yasalar", "id": 949226, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}, {"name": "Bilimsel_modelleme", "id": 379806}, {"name": "Kavramlar", "id": 6788}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kütleçekimi", "id": 182488}]}

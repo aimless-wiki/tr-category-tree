@@ -1,1 +1,1 @@
-{"name": "Biyolog_taslakları", "id": 417111, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Biyologlar", "id": 13816}], "successors": []}
+{"name": "Biyolog_taslakları", "id": 417111, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Biyoloji_taslakları", "id": 39300}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "Botanikçi_taslakları", "id": 840157}]}

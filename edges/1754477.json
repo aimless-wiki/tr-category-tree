@@ -1,1 +1,1 @@
-{"name": "İş_makineleri_üreticileri", "id": 1754477, "predecessors": [{"name": "Yapı_ekipmanları", "id": 2715789}, {"name": "İş_makineleri", "id": 342371}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": [{"name": "CNH_Industrial", "id": 2403966}]}
+{"name": "İş_makineleri_üreticileri", "id": 1754477, "predecessors": [{"name": "Makineler", "id": 616119}, {"name": "Teknoloji", "id": 6300}, {"name": "Ekonomi", "id": 12356}], "successors": []}

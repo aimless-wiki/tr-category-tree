@@ -1,1 +1,1 @@
-{"name": "KDE_taslakları", "id": 321953, "predecessors": [{"name": "Yazılım_taslakları", "id": 64575}], "successors": []}
+{"name": "KDE_taslakları", "id": 321953, "predecessors": [{"name": "KDE", "id": 71396}, {"name": "Yazılım_taslakları", "id": 64575}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Arkeolojik_insan_kalıntıları", "id": 3277181, "predecessors": [{"name": "Türlerine_göre_arkeolojik_eserler", "id": 2313725}], "successors": [{"name": "Mumyalar", "id": 870836}, {"name": "Homo_fosilleri", "id": 2213237}]}
+{"name": "Arkeolojik_insan_kalıntıları", "id": 3277181, "predecessors": [{"name": "Arkeolojik_eserler", "id": 550382}], "successors": [{"name": "Mumyalar", "id": 870836}]}

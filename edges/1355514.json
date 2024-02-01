@@ -1,1 +1,1 @@
-{"name": "Ayakkabı_markaları", "id": 1355514, "predecessors": [{"name": "Ayakkabı_şirketleri", "id": 2055654}, {"name": "Tekstil_markaları", "id": 169853}], "successors": [{"name": "Adidas_ürünleri", "id": 681857}]}
+{"name": "Ayakkabı_markaları", "id": 1355514, "predecessors": [{"name": "Tekstil_markaları", "id": 169853}, {"name": "Ayakkabı", "id": 599632}], "successors": [{"name": "Adidas_futbol_topları", "id": 2471448}]}

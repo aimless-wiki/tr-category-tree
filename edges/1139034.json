@@ -1,1 +1,1 @@
-{"name": "Tıbbi_acil_durumlar", "id": 1139034, "predecessors": [{"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Tecavüz", "id": 759008}, {"name": "Hayvan_saldırıları", "id": 931475}, {"name": "Acil_tıp", "id": 1318459}]}
+{"name": "Tıbbi_acil_durumlar", "id": 1139034, "predecessors": [{"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Tecavüz", "id": 759008}, {"name": "Yaralanmalar", "id": 1427704}, {"name": "Nörotravma", "id": 1567713}]}

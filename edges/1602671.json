@@ -1,1 +1,1 @@
-{"name": "Sovyet_askerler", "id": 1602671, "predecessors": [{"name": "Askerî_personel", "id": 1593676}, {"name": "Sovyetler_Birliği_askeriyesi", "id": 1159977}], "successors": [{"name": "Sovyet_kadın_askerler", "id": 2210606}]}
+{"name": "Sovyet_askerler", "id": 1602671, "predecessors": [{"name": "Sovyetler_Birliği_askeriyesi", "id": 1159977}, {"name": "Askeriye", "id": 39898}], "successors": [{"name": "Sovyet_kadın_askerler", "id": 2210606}]}

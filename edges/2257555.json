@@ -1,1 +1,1 @@
-{"name": "Noel_gıdaları", "id": 2257555, "predecessors": [{"name": "Noel_gelenekleri", "id": 2340462}, {"name": "Bayramlar", "id": 25254}], "successors": []}
+{"name": "Noel_gıdaları", "id": 2257555, "predecessors": [{"name": "Bayramlar", "id": 25254}, {"name": "Gelenekler", "id": 12637}], "successors": []}

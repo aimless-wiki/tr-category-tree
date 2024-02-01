@@ -1,1 +1,1 @@
-{"name": "Antik_Romalı_askerî_personel", "id": 1297060, "predecessors": [{"name": "Antik_Roma_askeriyesi", "id": 1303710}, {"name": "Romalılar", "id": 40740}], "successors": [{"name": "Romalı_generaller", "id": 472010}, {"name": "Magistri_militum", "id": 1057078}]}
+{"name": "Antik_Romalı_askerî_personel", "id": 1297060, "predecessors": [{"name": "Antik_Roma", "id": 18018}, {"name": "Uluslararası_ilişkiler", "id": 36567}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Romalı_generaller", "id": 472010}, {"name": "Magistri_militum", "id": 1057078}]}

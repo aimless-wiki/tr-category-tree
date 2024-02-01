@@ -1,1 +1,1 @@
-{"name": "Turizm_taslakları", "id": 585014, "predecessors": [{"name": "Turizm", "id": 12635}], "successors": [{"name": "Müze_taslakları", "id": 415186}, {"name": "Tarihî_yerler_taslakları", "id": 1333498}, {"name": "Pasaport_taslakları", "id": 1427065}]}
+{"name": "Turizm_taslakları", "id": 585014, "predecessors": [{"name": "Ekonomi_ve_finans_taslakları", "id": 39368}, {"name": "Kültür_taslakları", "id": 53026}, {"name": "Turizm", "id": 12635}], "successors": [{"name": "Müze_taslakları", "id": 415186}, {"name": "Pasaport_taslakları", "id": 1427065}]}

@@ -1,1 +1,1 @@
-{"name": "Wimbledon_Tenis_Turnuvası", "id": 99308, "predecessors": [{"name": "Temmuz_olayları", "id": 1075335}], "successors": [{"name": "Wimbledon_şampiyonları", "id": 517006}]}
+{"name": "Wimbledon_Tenis_Turnuvası", "id": 99308, "predecessors": [{"name": "Temmuz", "id": 887074}, {"name": "Avrupa'daki_bölgeler", "id": 1767247}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Wimbledon_şampiyonları", "id": 517006}]}

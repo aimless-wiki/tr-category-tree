@@ -1,1 +1,1 @@
-{"name": "Jeoloji_şablonları", "id": 1192504, "predecessors": [{"name": "Bilgi", "id": 12510}], "successors": [{"name": "Jeoloji_bilgi_kutusu_şablonları", "id": 598084}, {"name": "Jeoloji_dolaşım_şablonları", "id": 1192503}, {"name": "Deprem_şablonları", "id": 1194963}]}
+{"name": "Jeoloji_şablonları", "id": 1192504, "predecessors": [{"name": "Jeoloji", "id": 6635}, {"name": "Şablonlar", "id": 40936}], "successors": [{"name": "Jeoloji_dolaşım_şablonları", "id": 1192503}]}

@@ -1,1 +1,1 @@
-{"name": "Elektrikli_taşıt_üreticileri", "id": 2385568, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}, {"name": "Teknoloji_şirketleri", "id": 2125732}], "successors": []}
+{"name": "Elektrikli_taşıt_üreticileri", "id": 2385568, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}, {"name": "Ekonomi", "id": 12356}], "successors": []}

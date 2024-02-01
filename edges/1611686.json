@@ -1,1 +1,1 @@
-{"name": "Savaş_meslekleri", "id": 1611686, "predecessors": [{"name": "Savaş", "id": 1456684}, {"name": "Askerî_personel", "id": 1593676}], "successors": [{"name": "Samuraylar", "id": 227206}, {"name": "Askerî_mühendisler", "id": 1780334}]}
+{"name": "Savaş_meslekleri", "id": 1611686, "predecessors": [{"name": "Ulusal_güvenlik", "id": 36569}, {"name": "Kamu_yönetimi", "id": 433081}], "successors": [{"name": "Samuraylar", "id": 227206}]}

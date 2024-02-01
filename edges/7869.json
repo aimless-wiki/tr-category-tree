@@ -1,1 +1,1 @@
-{"name": "Pürinler", "id": 7869, "predecessors": [{"name": "Azot_heterosiklikleri", "id": 429740}, {"name": "Biyomoleküller", "id": 410607}, {"name": "DNA", "id": 4049}, {"name": "Heterosiklik_bileşikler_(2_halkalı)", "id": 1394757}, {"name": "Aminler", "id": 24868}], "successors": [{"name": "Ksantinler", "id": 24861}]}
+{"name": "Pürinler", "id": 7869, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "DNA", "id": 4049}, {"name": "Aminler", "id": 24868}, {"name": "Kimya", "id": 3599}, {"name": "Gazlar", "id": 13810}], "successors": []}

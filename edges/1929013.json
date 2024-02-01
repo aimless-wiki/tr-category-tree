@@ -1,1 +1,1 @@
-{"name": "Tehlikeli_hava_kirleticileri", "id": 1929013, "predecessors": [{"name": "Hava_kirliliği", "id": 843908}, {"name": "Çevreyi_kirleten_maddeler", "id": 874445}], "successors": [{"name": "Siyanürler", "id": 1953657}, {"name": "Duman", "id": 1069438}, {"name": "Toz", "id": 2265865}]}
+{"name": "Tehlikeli_hava_kirleticileri", "id": 1929013, "predecessors": [{"name": "Hava_kirliliği", "id": 843908}, {"name": "Malzemeler", "id": 12782}], "successors": []}

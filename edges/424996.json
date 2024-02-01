@@ -1,1 +1,1 @@
-{"name": "Cerrahi_taslakları", "id": 424996, "predecessors": [{"name": "Cerrahi", "id": 59620}, {"name": "Tedavi_taslakları", "id": 424988}], "successors": []}
+{"name": "Cerrahi_taslakları", "id": 424996, "predecessors": [{"name": "Cerrahi", "id": 59620}, {"name": "Tedavi_taslakları", "id": 424988}], "successors": [{"name": "Cerrahi_müdahale_sırasında_ölenler", "id": 2241868}]}

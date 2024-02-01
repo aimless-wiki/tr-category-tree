@@ -1,1 +1,1 @@
-{"name": "Biyolojik_silahlar", "id": 1737209, "predecessors": [{"name": "Toksikoloji", "id": 23190}, {"name": "Afetler", "id": 29683}, {"name": "Çevre_kirliliği", "id": 769780}], "successors": []}
+{"name": "Biyolojik_silahlar", "id": 1737209, "predecessors": [{"name": "Toksikoloji", "id": 23190}, {"name": "Biyoloji", "id": 5160}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "Vikipedi", "id": 7220}], "successors": []}

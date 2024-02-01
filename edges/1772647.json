@@ -1,1 +1,1 @@
-{"name": "Kadın_ve_ölüm", "id": 1772647, "predecessors": [{"name": "Kadın", "id": 11846}], "successors": []}
+{"name": "Kadın_ve_ölüm", "id": 1772647, "predecessors": [{"name": "Kadın", "id": 11846}, {"name": "Ölüm", "id": 25717}], "successors": [{"name": "Ölüm_tanrıçaları", "id": 66491}, {"name": "Yeraltı_tanrıçaları", "id": 1772649}]}

@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_bilimcisi_taslakları", "id": 2447906, "predecessors": [{"name": "Bilgisayar_bilimcileri", "id": 22314}, {"name": "Bilim_insanı_taslakları", "id": 1417926}], "successors": []}
+{"name": "Bilgisayar_bilimcisi_taslakları", "id": 2447906, "predecessors": [{"name": "Bilgisayar_bilimi_taslakları", "id": 2237514}, {"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Bilgisayar_bilimi", "id": 12611}], "successors": []}

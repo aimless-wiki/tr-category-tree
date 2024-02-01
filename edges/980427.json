@@ -1,1 +1,1 @@
-{"name": "Azeri_akademisyenler", "id": 980427, "predecessors": [{"name": "Azeri_bilim_insanları", "id": 980426}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "Azeri_profesörler", "id": 1328314}]}
+{"name": "Azeri_akademisyenler", "id": 980427, "predecessors": [{"name": "Azeri_bilim_insanları", "id": 980426}, {"name": "Eğitim", "id": 6773}, {"name": "Azerbaycan", "id": 21085}], "successors": []}

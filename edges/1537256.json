@@ -1,1 +1,1 @@
-{"name": "Türk_Sünniler", "id": 1537256, "predecessors": [{"name": "Sünniler", "id": 1537288}], "successors": [{"name": "Türk_İslamcılar", "id": 1862372}]}
+{"name": "Türk_Sünniler", "id": 1537256, "predecessors": [{"name": "Türk_Müslümanlar", "id": 1537258}, {"name": "Sünniler", "id": 1537288}], "successors": [{"name": "Türk_İslamcılar", "id": 1862372}]}

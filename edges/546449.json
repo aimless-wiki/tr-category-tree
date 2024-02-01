@@ -1,0 +1,1 @@
+{"name": "Veri_depolama", "id": 546449, "predecessors": [{"name": "Bilgisayar_belleği", "id": 225043}, {"name": "Bilgisayar_donanımları", "id": 40478}], "successors": [{"name": "Bilgisayar_dosya_sistemleri", "id": 131925}, {"name": "DVD", "id": 156188}]}

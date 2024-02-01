@@ -1,1 +1,1 @@
-{"name": "Jandarma", "id": 101286, "predecessors": [{"name": "Askerî_polis", "id": 2943301}, {"name": "Türlerine_göre_askerî_kuvvetler", "id": 718426}, {"name": "Askeriye", "id": 39898}], "successors": [{"name": "Jandarma_Genel_Komutanlığı", "id": 111175}]}
+{"name": "Jandarma", "id": 101286, "predecessors": [{"name": "Türlerine_göre_askerî_kuvvetler", "id": 718426}, {"name": "Askeriye", "id": 39898}, {"name": "Askerî_terimler", "id": 1196164}], "successors": [{"name": "Jandarma_Genel_Komutanlığı", "id": 111175}]}

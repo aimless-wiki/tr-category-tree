@@ -1,1 +1,1 @@
-{"name": "Video_oyunu_taslakları", "id": 470257, "predecessors": [{"name": "Oyun_taslakları", "id": 138564}, {"name": "Video_oyunları", "id": 450124}, {"name": "Yazılım_taslakları", "id": 64575}], "successors": []}
+{"name": "Video_oyunu_taslakları", "id": 470257, "predecessors": [{"name": "Video_oyunları", "id": 450124}, {"name": "Yazılım_taslakları", "id": 64575}], "successors": [{"name": "Strateji_oyunu_taslakları", "id": 470280}, {"name": "Bilgisayar_oyunu_taslakları", "id": 146072}]}

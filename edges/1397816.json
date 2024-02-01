@@ -1,1 +1,1 @@
-{"name": "Piridinler", "id": 1397816, "predecessors": [{"name": "Azot_heterosiklikleri", "id": 429740}, {"name": "Basit_aromatik_halkalar", "id": 1397817}, {"name": "Organik_bileşikler", "id": 23181}], "successors": []}
+{"name": "Piridinler", "id": 1397816, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Gazlar", "id": 13810}], "successors": []}

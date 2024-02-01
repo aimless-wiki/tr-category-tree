@@ -1,1 +1,1 @@
-{"name": "Hamur_işleri", "id": 66203, "predecessors": [{"name": "Fırınlama", "id": 1747339}], "successors": [{"name": "Pizza", "id": 2232081}]}
+{"name": "Hamur_işleri", "id": 66203, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Yemek_malzemeleri", "id": 444802}], "successors": [{"name": "Türk_mutfağındaki_börekler", "id": 2476974}, {"name": "Türk_mutfağındaki_hamur_işleri", "id": 713833}]}

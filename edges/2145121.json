@@ -1,1 +1,1 @@
-{"name": "Ontario_doğumlu_sporcular", "id": 2145121, "predecessors": [{"name": "Kanada", "id": 3993}, {"name": "Ontario_doğumlular", "id": 1581249}], "successors": [{"name": "Toronto_doğumlu_sporcular", "id": 2341260}, {"name": "Ottawa_doğumlu_sporcular", "id": 2356611}, {"name": "Ontario_doğumlu_basketbolcular", "id": 2381001}]}
+{"name": "Ontario_doğumlu_sporcular", "id": 2145121, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}, {"name": "Kronoloji", "id": 30443}], "successors": [{"name": "Toronto_doğumlu_sporcular", "id": 2341260}]}

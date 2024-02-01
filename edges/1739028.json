@@ -1,1 +1,1 @@
-{"name": "Çevre_koruması", "id": 1739028, "predecessors": [{"name": "Korunma_durumu", "id": 341898}, {"name": "Sürdürülebilir_gelişme", "id": 2075321}], "successors": [{"name": "Ekobölgeler", "id": 1709234}, {"name": "Yaban_hayatı_koruma", "id": 2469426}]}
+{"name": "Çevre_koruması", "id": 1739028, "predecessors": [{"name": "Dünya", "id": 6772}, {"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Önemli_Kuş_Alanları", "id": 2497492}]}

@@ -1,1 +1,1 @@
-{"name": "Yahudi_dilleri", "id": 1459435, "predecessors": [{"name": "Doğal_diller", "id": 12536}, {"name": "Monoteist_dinler", "id": 1630549}], "successors": [{"name": "İbranice", "id": 694765}, {"name": "Yidiş", "id": 1059799}, {"name": "Arami_dilleri", "id": 1289161}]}
+{"name": "Yahudi_dilleri", "id": 1459435, "predecessors": [{"name": "Doğal_diller", "id": 12536}, {"name": "Mantık", "id": 12638}], "successors": [{"name": "İbranice", "id": 694765}]}

@@ -1,1 +1,1 @@
-{"name": "Tuva_müzisyenler", "id": 1819360, "predecessors": [{"name": "Tuvalar", "id": 1049351}, {"name": "Sanat_meslekleri", "id": 428147}], "successors": [{"name": "Tuva_müzik_grupları", "id": 1747494}, {"name": "Höömeyciler", "id": 1794836}]}
+{"name": "Tuva_müzisyenler", "id": 1819360, "predecessors": [{"name": "Tuvalar", "id": 1049351}, {"name": "Dünya", "id": 6772}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Höömeyciler", "id": 1794836}]}

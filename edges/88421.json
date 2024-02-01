@@ -1,1 +1,1 @@
-{"name": "Standart_ve_ölçü_taslakları", "id": 88421, "predecessors": [{"name": "Standartlar", "id": 98651}, {"name": "Ölçüm", "id": 15451}], "successors": []}
+{"name": "Standart_ve_ölçü_taslakları", "id": 88421, "predecessors": [{"name": "Fizik_taslakları", "id": 39607}, {"name": "Mühendislik_taslakları", "id": 92267}, {"name": "Standartlar", "id": 98651}, {"name": "Ölçüm", "id": 15451}], "successors": []}

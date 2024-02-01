@@ -1,1 +1,1 @@
-{"name": "Türkiye_merkezli_inşaat_şirketleri", "id": 1411394, "predecessors": [{"name": "Türkiye_merkezli_mühendislik_şirketleri", "id": 1034809}, {"name": "Türkiye_merkezli_şirketler", "id": 30019}, {"name": "Şirketler", "id": 30683}], "successors": []}
+{"name": "Türkiye_merkezli_inşaat_şirketleri", "id": 1411394, "predecessors": [{"name": "Türkiye_merkezli_imalat_şirketleri", "id": 1930124}, {"name": "Mühendislik", "id": 12511}, {"name": "İşletme", "id": 21253}], "successors": []}

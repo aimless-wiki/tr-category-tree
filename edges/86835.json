@@ -1,1 +1,1 @@
-{"name": "Dezenfektanlar", "id": 86835, "predecessors": [{"name": "Hijyen", "id": 86836}], "successors": []}
+{"name": "Dezenfektanlar", "id": 86835, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Kimya", "id": 3599}, {"name": "Mikrobiyoloji", "id": 16575}], "successors": []}

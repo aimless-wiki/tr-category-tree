@@ -1,1 +1,1 @@
-{"name": "Türk_perakendeci_şirketler", "id": 1360713, "predecessors": [{"name": "Türkiye_merkezli_şirketler", "id": 30019}, {"name": "Şirketler", "id": 30683}], "successors": [{"name": "Türkiye_merkezli_süpermarketler", "id": 582324}]}
+{"name": "Türk_perakendeci_şirketler", "id": 1360713, "predecessors": [{"name": "Mikroekonomi", "id": 115114}, {"name": "İşletme", "id": 21253}], "successors": []}

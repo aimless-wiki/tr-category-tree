@@ -1,1 +1,1 @@
-{"name": "Deniz_ve_nehir_tanrıları", "id": 67817, "predecessors": [{"name": "Denizler", "id": 8782}, {"name": "Nehirler", "id": 160786}, {"name": "Su_kütleleri", "id": 81209}], "successors": [{"name": "Deniz_tanrıları", "id": 197473}]}
+{"name": "Deniz_ve_nehir_tanrıları", "id": 67817, "predecessors": [{"name": "Su_ekolojisi", "id": 450938}, {"name": "Biyoloji", "id": 5160}, {"name": "Vikipedi", "id": 7220}], "successors": []}

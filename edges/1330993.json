@@ -1,1 +1,1 @@
-{"name": "Ağız_hijyeni", "id": 1330993, "predecessors": [{"name": "Hijyen", "id": 86836}], "successors": []}
+{"name": "Ağız_hijyeni", "id": 1330993, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Sesbilim", "id": 262140}], "successors": []}

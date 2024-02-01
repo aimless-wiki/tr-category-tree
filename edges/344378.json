@@ -1,1 +1,1 @@
-{"name": "Gerçeküstücü_sanatçılar", "id": 344378, "predecessors": [{"name": "Gerçeküstücülük", "id": 344381}, {"name": "Sanat_meslekleri", "id": 428147}], "successors": []}
+{"name": "Gerçeküstücü_sanatçılar", "id": 344378, "predecessors": [{"name": "Batı_kültürü", "id": 69208}, {"name": "Vikipedi", "id": 7220}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Sürrealist_ressamlar", "id": 18295}]}

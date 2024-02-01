@@ -1,1 +1,1 @@
-{"name": "Sodyum_bileşikleri", "id": 427766, "predecessors": [{"name": "Alkali_metaller", "id": 59286}], "successors": [{"name": "Sodyum_mineralleri", "id": 783284}, {"name": "Organik_sodyum_tuzları", "id": 2355111}]}
+{"name": "Sodyum_bileşikleri", "id": 427766, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Elementler", "id": 9826}], "successors": [{"name": "Organik_sodyum_tuzları", "id": 2355111}]}

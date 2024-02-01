@@ -1,1 +1,1 @@
-{"name": "Kalsiyum_bileşikleri", "id": 427764, "predecessors": [{"name": "Kalsiyum", "id": 427765}], "successors": [{"name": "Kireç_taşı", "id": 598476}, {"name": "Kalsiyum_mineralleri", "id": 944770}, {"name": "Mermer_heykeller", "id": 910980}]}
+{"name": "Kalsiyum_bileşikleri", "id": 427764, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Elementler", "id": 9826}], "successors": [{"name": "Kireç_taşı", "id": 598476}, {"name": "Kalsiyum_mineralleri", "id": 944770}]}

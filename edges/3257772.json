@@ -1,1 +1,1 @@
-{"name": "UCI_ProSeries_yarışları", "id": 3257772, "predecessors": [{"name": "UCI_ProSeries", "id": 2951267}], "successors": [{"name": "Deutschland_Tour", "id": 619498}, {"name": "Cumhurbaşkanlığı_Türkiye_Bisiklet_Turu", "id": 1387602}]}
+{"name": "UCI_ProSeries_yarışları", "id": 3257772, "predecessors": [{"name": "Yol_bisikleti_yarışı", "id": 1610540}, {"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}], "successors": [{"name": "Cumhurbaşkanlığı_Türkiye_Bisiklet_Turu", "id": 1387602}]}

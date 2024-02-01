@@ -1,1 +1,1 @@
-{"name": "Operalar", "id": 597458, "predecessors": [{"name": "Opera", "id": 31889}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Opera_listeleri", "id": 1046006}]}
+{"name": "Operalar", "id": 597458, "predecessors": [{"name": "Gösteri_sanatları", "id": 642688}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Bestecilerine_göre_opera_listeleri", "id": 1046005}, {"name": "Operaya_uyarlanmış_romanlar", "id": 2333067}]}

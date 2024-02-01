@@ -1,1 +1,1 @@
-{"name": "İOS_yazılımları", "id": 1535169, "predecessors": [{"name": "Mobil_yazılımlar", "id": 1487950}, {"name": "İOS", "id": 1771445}], "successors": [{"name": "İOS_oyunları", "id": 1127597}, {"name": "İOS_için_Web_tarayıcıları", "id": 2200743}]}
+{"name": "İOS_yazılımları", "id": 1535169, "predecessors": [{"name": "Apple_yazılımları", "id": 25018}, {"name": "Mobil_yazılımlar", "id": 1487950}, {"name": "İOS", "id": 1771445}, {"name": "İPhone", "id": 1716252}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "İOS_oyunları", "id": 1127597}]}

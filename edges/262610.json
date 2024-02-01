@@ -1,1 +1,1 @@
-{"name": "Yay_takımyıldızı", "id": 262610, "predecessors": [{"name": "Astroloji", "id": 20474}, {"name": "İbrani_takvimi", "id": 1052709}], "successors": []}
+{"name": "Yay_takımyıldızı", "id": 262610, "predecessors": [{"name": "Astronomi_tarihi", "id": 38779}, {"name": "İbrani_takvimi", "id": 1052709}, {"name": "Astronomi", "id": 12746}], "successors": []}

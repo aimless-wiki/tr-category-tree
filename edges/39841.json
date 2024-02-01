@@ -1,1 +1,1 @@
-{"name": "Farmakoloji_taslakları", "id": 39841, "predecessors": [{"name": "Eczacılık_taslakları", "id": 116991}, {"name": "Farmakoloji", "id": 13262}, {"name": "Tedavi_taslakları", "id": 424988}], "successors": []}
+{"name": "Farmakoloji_taslakları", "id": 39841, "predecessors": [{"name": "Farmakoloji", "id": 13262}, {"name": "Eczacılık", "id": 40256}, {"name": "Vikipedi", "id": 7220}, {"name": "Biyokimya_taslakları", "id": 39750}], "successors": []}

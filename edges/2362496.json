@@ -1,1 +1,1 @@
-{"name": "Sanitasyon", "id": 2362496, "predecessors": [{"name": "Atık_yönetimi", "id": 1292541}, {"name": "Halk_sağlığı", "id": 734491}, {"name": "Hijyen", "id": 86836}, {"name": "Sosyal_bilimler", "id": 12112}], "successors": []}
+{"name": "Sanitasyon", "id": 2362496, "predecessors": [{"name": "Atık_yönetimi", "id": 1292541}, {"name": "Halk_sağlığı", "id": 734491}, {"name": "Hijyen", "id": 86836}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Microsoft_Windows_multimedya_teknolojisi", "id": 2194602, "predecessors": [{"name": "Windows_bileşenleri", "id": 1797969}, {"name": "Windows_çoklu_ortam_yazılımları", "id": 2167999}], "successors": []}
+{"name": "Microsoft_Windows_multimedya_teknolojisi", "id": 2194602, "predecessors": [{"name": "Windows_bileşenleri", "id": 1797969}, {"name": "Windows_yazılımları", "id": 544820}], "successors": []}

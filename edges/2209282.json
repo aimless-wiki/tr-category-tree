@@ -1,1 +1,1 @@
-{"name": "Spor_taslak_şablonları", "id": 2209282, "predecessors": [{"name": "Spor_taslakları", "id": 46164}, {"name": "Spor_şablonları", "id": 116139}], "successors": []}
+{"name": "Spor_taslak_şablonları", "id": 2209282, "predecessors": [{"name": "Spor_taslakları", "id": 46164}, {"name": "Spor_şablonları", "id": 116139}, {"name": "Taslak_şablonları", "id": 39110}], "successors": [{"name": "Futbol_taslak_şablonları", "id": 2209025}, {"name": "Atletizm_taslak_şablonları", "id": 2464297}]}

@@ -1,1 +1,1 @@
-{"name": "Azeri_askerler", "id": 261256, "predecessors": [{"name": "Askerî_personel", "id": 1593676}, {"name": "Azerbaycan_askeriyesi", "id": 1054281}], "successors": [{"name": "Azeri_generaller", "id": 1476291}, {"name": "Azeri_albaylar", "id": 2032158}, {"name": "Çatışmada_ölen_Azeriler", "id": 2241424}]}
+{"name": "Azeri_askerler", "id": 261256, "predecessors": [{"name": "Askeriye", "id": 39898}, {"name": "Azerbaycan_askeriyesi", "id": 1054281}], "successors": [{"name": "Azeri_generaller", "id": 1476291}]}

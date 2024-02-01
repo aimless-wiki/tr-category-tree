@@ -1,1 +1,1 @@
-{"name": "Rusya_coğrafyası_taslakları", "id": 1756737, "predecessors": [{"name": "Rusya_coğrafyası", "id": 196066}, {"name": "Rusya_taslakları", "id": 254890}], "successors": [{"name": "Rusya_yerleşim_yerleri_taslakları", "id": 197546}]}
+{"name": "Rusya_coğrafyası_taslakları", "id": 1756737, "predecessors": [{"name": "Asya_coğrafyası_taslakları", "id": 1756063}, {"name": "Avrupa_coğrafyası_taslakları", "id": 1756036}, {"name": "Rusya_taslakları", "id": 254890}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Rusya_yerleşim_yerleri_taslakları", "id": 197546}]}

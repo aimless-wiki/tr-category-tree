@@ -1,1 +1,1 @@
-{"name": "Deniz_motoru_üreticileri", "id": 2534503, "predecessors": [{"name": "Motor_üreticileri", "id": 1027861}, {"name": "Tekneler", "id": 754950}], "successors": []}
+{"name": "Deniz_motoru_üreticileri", "id": 2534503, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Makineler", "id": 616119}], "successors": []}

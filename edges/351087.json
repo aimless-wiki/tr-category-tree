@@ -1,1 +1,1 @@
-{"name": "Sunucular_(bilgisayar)", "id": 351087, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Sistem_yazılımları", "id": 175932}], "successors": [{"name": "Windows_Server", "id": 351071}, {"name": "Microsoft_sunucu_teknolojisi", "id": 2259625}]}
+{"name": "Sunucular_(bilgisayar)", "id": 351087, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_türleri", "id": 23111}, {"name": "Ağ_mimarisi", "id": 520002}], "successors": [{"name": "Windows_Server", "id": 351071}]}

@@ -1,1 +1,1 @@
-{"name": "Mitolojik_melezler", "id": 223393, "predecessors": [{"name": "Efsanevi_yaratıklar", "id": 55913}, {"name": "Korunma_durumu", "id": 341898}], "successors": [{"name": "Ejderhalar", "id": 114805}, {"name": "Kentaurlar", "id": 223284}, {"name": "Deniz_kızları", "id": 1669248}, {"name": "İnsan_başlı_efsanevi_yaratıklar", "id": 2381559}]}
+{"name": "Mitolojik_melezler", "id": 223393, "predecessors": [{"name": "Efsanevi_yaratıklar", "id": 55913}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "Ejderhalar", "id": 114805}]}

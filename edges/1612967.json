@@ -1,1 +1,1 @@
-{"name": "Psikolojik_korku", "id": 1612967, "predecessors": [{"name": "Popüler_psikoloji", "id": 1612972}], "successors": [{"name": "Psikolojik_korku_oyunları", "id": 1289033}, {"name": "Zenofobi", "id": 2008143}, {"name": "Zoofobiler", "id": 2231651}, {"name": "Psikolojik_korku_anime_ve_mangaları", "id": 2885911}]}
+{"name": "Psikolojik_korku", "id": 1612967, "predecessors": [{"name": "Edebî_türler", "id": 1581434}, {"name": "Psikoloji", "id": 12113}], "successors": [{"name": "Psikolojik_korku_oyunları", "id": 1289033}]}

@@ -1,1 +1,1 @@
-{"name": "Kuaförlük", "id": 2258217, "predecessors": [{"name": "Hizmet_meslekleri", "id": 2067294}, {"name": "Kişisel_bakım_ve_hizmet_meslekleri", "id": 2306717}, {"name": "Saç", "id": 413212}, {"name": "Algı", "id": 183732}], "successors": [{"name": "Saç_bakım_ürünleri", "id": 2340956}, {"name": "Kuaför_salonu_zincirleri", "id": 2462284}]}
+{"name": "Kuaförlük", "id": 2258217, "predecessors": [{"name": "Moda", "id": 24925}, {"name": "Algı", "id": 183732}, {"name": "İnsan_görünüşü", "id": 742198}, {"name": "Meslekler", "id": 12752}], "successors": []}

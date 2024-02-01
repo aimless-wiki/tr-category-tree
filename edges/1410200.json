@@ -1,1 +1,1 @@
-{"name": "Kanada_merkezli_şirket_taslakları", "id": 1410200, "predecessors": [{"name": "Kanada_merkezli_şirketler", "id": 586935}, {"name": "Kanada_taslakları", "id": 362139}, {"name": "Şirket_taslakları", "id": 170278}], "successors": []}
+{"name": "Kanada_merkezli_şirket_taslakları", "id": 1410200, "predecessors": [{"name": "Kanada_taslakları", "id": 362139}, {"name": "Şirket_taslakları", "id": 170278}, {"name": "Dünya", "id": 6772}], "successors": []}

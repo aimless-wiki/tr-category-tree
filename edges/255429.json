@@ -1,0 +1,1 @@
+{"name": "Hücresel_süreçler", "id": 255429, "predecessors": [{"name": "Biyolojik_süreçler", "id": 255430}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Metabolizma", "id": 104915}, {"name": "Gen_ifadesi", "id": 255427}, {"name": "Biyolojik_yaşlanma", "id": 1765263}]}

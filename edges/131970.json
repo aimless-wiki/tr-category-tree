@@ -1,1 +1,1 @@
-{"name": "Fotoğrafçılık_ekipmanları", "id": 131970, "predecessors": [{"name": "Fotoğrafçılık", "id": 9546}, {"name": "Optik_aletler", "id": 576461}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Fotoğraf_makineleri", "id": 220352}]}
+{"name": "Fotoğrafçılık_ekipmanları", "id": 131970, "predecessors": [{"name": "Fotoğrafçılık", "id": 9546}, {"name": "Optik_aletler", "id": 576461}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Fotoğraf_makineleri", "id": 220352}, {"name": "Fotoğraf_kimyasalları", "id": 1817658}]}

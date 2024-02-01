@@ -1,1 +1,1 @@
-{"name": "NASA", "id": 69135, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "NASA_tesisleri", "id": 1017824}, {"name": "NASA_programları", "id": 1316473}, {"name": "NASA_kişileri", "id": 1726982}, {"name": "NASA_araçları", "id": 2092298}]}
+{"name": "NASA", "id": 69135, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "NASA_programları", "id": 1316473}, {"name": "NASA_kişileri", "id": 1726982}, {"name": "NASA_uzay_sondaları", "id": 2355967}]}

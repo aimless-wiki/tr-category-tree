@@ -1,1 +1,1 @@
-{"name": "Uzayaracı_sevki", "id": 2007413, "predecessors": [{"name": "Astrodinamik", "id": 1793691}, {"name": "Roketçilik", "id": 1463739}], "successors": []}
+{"name": "Uzayaracı_sevki", "id": 2007413, "predecessors": [{"name": "Gök_mekaniği", "id": 12921}, {"name": "Uzay_uçuşu", "id": 1017834}, {"name": "Mühimmat", "id": 651691}, {"name": "İmalat", "id": 404623}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fizikçi_taslakları", "id": 183238, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": []}
+{"name": "Fizikçi_taslakları", "id": 183238, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Fizik_taslakları", "id": 39607}, {"name": "Fizik", "id": 7289}], "successors": [{"name": "Alman_fizikçi_taslakları", "id": 2447711}]}

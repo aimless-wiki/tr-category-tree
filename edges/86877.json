@@ -1,1 +1,1 @@
-{"name": "Ekonometri", "id": 86877, "predecessors": [{"name": "Formal_bilimler", "id": 642418}, {"name": "Disiplinlerarası_bilimler", "id": 12117}], "successors": [{"name": "Regresyon_analizi", "id": 677855}, {"name": "Fiyat_endeksi", "id": 859479}, {"name": "Ekonomik_göstergeler", "id": 902716}, {"name": "İstatistiksel_sınamalar", "id": 568891}]}
+{"name": "Ekonometri", "id": 86877, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "İstatistik", "id": 13377}], "successors": [{"name": "Regresyon_analizi", "id": 677855}]}

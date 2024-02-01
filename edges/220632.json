@@ -1,1 +1,1 @@
-{"name": "Şifreleme", "id": 220632, "predecessors": [{"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Kriptoloji", "id": 12985}], "successors": [{"name": "Şifreleme_yazılımları", "id": 182614}, {"name": "Açık_anahtarlı_şifreleme", "id": 1471544}, {"name": "Meteoroloji_kodları", "id": 1509728}]}
+{"name": "Şifreleme", "id": 220632, "predecessors": [{"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Kriptoloji", "id": 12985}], "successors": [{"name": "Şifreleme_yazılımları", "id": 182614}]}

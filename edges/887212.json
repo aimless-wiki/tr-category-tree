@@ -1,1 +1,1 @@
-{"name": "Hukuk_belgeleri", "id": 887212, "predecessors": [{"name": "Belgeler", "id": 701239}, {"name": "Hukuk", "id": 12115}], "successors": [{"name": "Telif_hukuku", "id": 118714}, {"name": "Anayasalar", "id": 402266}, {"name": "Dilekçeler", "id": 1498355}, {"name": "Bildiriler", "id": 2951627}, {"name": "Kararnameler", "id": 3005693}]}
+{"name": "Hukuk_belgeleri", "id": 887212, "predecessors": [{"name": "Belgeler", "id": 701239}, {"name": "Hukuk", "id": 12115}], "successors": [{"name": "Telif_hukuku", "id": 118714}]}

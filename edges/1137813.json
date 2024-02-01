@@ -1,1 +1,1 @@
-{"name": "Bilimkurgu_televizyon_dizilerinin_bölüm_listeleri", "id": 1137813, "predecessors": [{"name": "Televizyon_kanallarının_program_listeleri", "id": 1319509}, {"name": "Bilim_listeleri", "id": 148161}], "successors": []}
+{"name": "Bilimkurgu_televizyon_dizilerinin_bölüm_listeleri", "id": 1137813, "predecessors": [{"name": "Televizyon_dizileri", "id": 892386}, {"name": "Kültür", "id": 7230}, {"name": "Vikipedi", "id": 7220}], "successors": []}

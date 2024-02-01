@@ -1,1 +1,1 @@
-{"name": "İç_mimarlık", "id": 981389, "predecessors": [{"name": "Ev_ekonomisi", "id": 1772601}, {"name": "Tasarım_meslekleri", "id": 886859}], "successors": [{"name": "Mobilya", "id": 981396}, {"name": "Süslemeler", "id": 1550368}]}
+{"name": "İç_mimarlık", "id": 981389, "predecessors": [{"name": "Tasarım", "id": 14462}, {"name": "Mimarlık", "id": 6721}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Mobilya", "id": 981396}, {"name": "Süslemeler", "id": 1550368}]}

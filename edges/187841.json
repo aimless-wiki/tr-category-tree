@@ -1,1 +1,1 @@
-{"name": "Şehir_listeleri", "id": 187841, "predecessors": [{"name": "Yerleşim_birimleri_listeleri", "id": 1667487}], "successors": [{"name": "Ülkelerine_göre_şehir_listeleri", "id": 1416068}, {"name": "Esvatini_şehirleri", "id": 822300}]}
+{"name": "Şehir_listeleri", "id": 187841, "predecessors": [{"name": "Siyasi_coğrafya", "id": 36581}], "successors": [{"name": "Ülkelerine_göre_şehir_listeleri", "id": 1416068}, {"name": "Avrupa'daki_şehir_listeleri", "id": 2199689}, {"name": "Asya'daki_şehir_listeleri", "id": 2340775}]}

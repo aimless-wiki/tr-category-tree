@@ -1,1 +1,1 @@
-{"name": "Müzik_endüstrisi_kuruluşları", "id": 1213878, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Eğlence", "id": 12075}], "successors": [{"name": "Amerika_Kayıt_Endüstrisi_Birliği", "id": 1931449}, {"name": "MÜ-YAP", "id": 2310215}]}
+{"name": "Müzik_endüstrisi_kuruluşları", "id": 1213878, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "MÜ-YAP", "id": 2310215}]}

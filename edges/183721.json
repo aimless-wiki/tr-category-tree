@@ -1,1 +1,1 @@
-{"name": "Genel_görelilik", "id": 183721, "predecessors": [{"name": "Albert_Einstein", "id": 1315218}], "successors": [{"name": "Kütleçekimsel_merceklenme", "id": 850170}, {"name": "Kütleçekimi_etkileri", "id": 850178}, {"name": "Kara_delikler", "id": 1445071}]}
+{"name": "Genel_görelilik", "id": 183721, "predecessors": [{"name": "Albert_Einstein", "id": 1315218}, {"name": "Görelilik", "id": 182131}, {"name": "Bilim_felsefesi", "id": 58655}], "successors": [{"name": "Kara_delikler", "id": 1445071}]}

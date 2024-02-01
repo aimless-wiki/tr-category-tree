@@ -1,1 +1,1 @@
-{"name": "Komünist_devrimler", "id": 835851, "predecessors": [{"name": "Devrimler", "id": 23528}, {"name": "Komünizm", "id": 6415}], "successors": [{"name": "Rus_Devrimi", "id": 489193}, {"name": "Paris_Komünü", "id": 1514790}, {"name": "1918-1919_Alman_Devrimi", "id": 2016872}]}
+{"name": "Komünist_devrimler", "id": 835851, "predecessors": [{"name": "Komünizm", "id": 6415}, {"name": "Toplumsal_kavramlar", "id": 1522348}], "successors": [{"name": "Rus_Devrimi", "id": 489193}]}

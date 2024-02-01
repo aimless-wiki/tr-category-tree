@@ -1,1 +1,1 @@
-{"name": "Kurgusal_paralı_askerler", "id": 2110773, "predecessors": [{"name": "Kurgusal_askerî_personel", "id": 1931026}, {"name": "Paralı_askerler", "id": 1462896}], "successors": []}
+{"name": "Kurgusal_paralı_askerler", "id": 2110773, "predecessors": [{"name": "Askerî_tarih", "id": 106422}, {"name": "Kurgusal_hükûmet_çalışanları", "id": 1547372}], "successors": []}

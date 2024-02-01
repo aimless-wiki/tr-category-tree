@@ -1,1 +1,1 @@
-{"name": "Paralı_kara_ulaşımı", "id": 1661685, "predecessors": [{"name": "Fiyatlama", "id": 902651}], "successors": [{"name": "Paralı_köprüler", "id": 611092}, {"name": "National_Road", "id": 2255644}]}
+{"name": "Paralı_kara_ulaşımı", "id": 1661685, "predecessors": [{"name": "Kara_ulaşımı", "id": 447670}, {"name": "Şehir_planlaması", "id": 55038}], "successors": []}

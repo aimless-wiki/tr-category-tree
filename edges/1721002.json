@@ -1,1 +1,1 @@
-{"name": "FIPRESCI_Ödülü_kazanan_filmler", "id": 1721002, "predecessors": [{"name": "Film_ödülü_sahipleri", "id": 1323249}, {"name": "Ödüller", "id": 7652}], "successors": []}
+{"name": "FIPRESCI_Ödülü_kazanan_filmler", "id": 1721002, "predecessors": [{"name": "Film_ödülü_sahipleri", "id": 1323249}, {"name": "Sinema_ödülleri", "id": 197553}], "successors": []}

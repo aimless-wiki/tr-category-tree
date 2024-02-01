@@ -1,1 +1,1 @@
-{"name": "Audi_otomobilleri", "id": 1181307, "predecessors": [{"name": "Audi", "id": 298484}, {"name": "Lüks_otomobiller", "id": 1503427}, {"name": "İmalat", "id": 404623}, {"name": "Alman_markaları", "id": 1346653}], "successors": []}
+{"name": "Audi_otomobilleri", "id": 1181307, "predecessors": [{"name": "Lüks_otomobiller", "id": 1503427}, {"name": "Alman_icatları", "id": 449919}, {"name": "Volkswagen_grubu", "id": 1183984}, {"name": "Alman_markaları", "id": 1346653}], "successors": []}

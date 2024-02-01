@@ -1,1 +1,1 @@
-{"name": "Ambalaj", "id": 538716, "predecessors": [{"name": "Lojistik", "id": 515961}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Kaplar", "id": 1395370}, {"name": "Şarap_paketleme_ve_depolama", "id": 1664250}, {"name": "Konteynerler", "id": 1673885}, {"name": "Yemek_paketleme", "id": 2379720}, {"name": "Ambalaj_malzemeleri", "id": 2402619}]}
+{"name": "Ambalaj", "id": 538716, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Kaplar", "id": 1395370}, {"name": "Yemek_paketleme", "id": 2379720}]}

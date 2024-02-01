@@ -1,1 +1,1 @@
-{"name": "Komedi_filmi_karakterleri", "id": 2110838, "predecessors": [{"name": "Komedi_filmleri", "id": 124664}, {"name": "Komedi_karakterleri", "id": 465264}, {"name": "Film_karakterleri", "id": 989848}], "successors": []}
+{"name": "Komedi_filmi_karakterleri", "id": 2110838, "predecessors": [{"name": "Komedi_filmleri", "id": 124664}, {"name": "Kurgusal_karakterler", "id": 1199933}, {"name": "Film_karakterleri", "id": 989848}], "successors": []}

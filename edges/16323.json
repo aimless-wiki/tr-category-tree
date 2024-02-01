@@ -1,1 +1,1 @@
-{"name": "Trigonometri", "id": 16323, "predecessors": [{"name": "Yunan_icatları", "id": 1340025}], "successors": [{"name": "Açı", "id": 267569}, {"name": "Pi_sayısı", "id": 1696036}]}
+{"name": "Trigonometri", "id": 16323, "predecessors": [{"name": "Geometri", "id": 2177}, {"name": "Yunan_icatları", "id": 1340025}], "successors": [{"name": "Açı", "id": 267569}, {"name": "Pi_sayısı", "id": 1696036}]}

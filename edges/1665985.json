@@ -1,1 +1,1 @@
-{"name": "Mobil_teknoloji", "id": 1665985, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Akıllı_saatler", "id": 1665984}, {"name": "Kablosuz_yer_bulma", "id": 1925312}, {"name": "Mobil_telekomünikasyon", "id": 2228327}]}
+{"name": "Mobil_teknoloji", "id": 1665985, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "Bilgisayar_ağları", "id": 23811}], "successors": [{"name": "Akıllı_saatler", "id": 1665984}, {"name": "Mobil_telekomünikasyon", "id": 2228327}]}

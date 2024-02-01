@@ -1,1 +1,1 @@
-{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Duyma_sistemi", "id": 1702921}, {"name": "Otolarengoloji", "id": 1098044}], "successors": [{"name": "Sağırlık", "id": 401503}, {"name": "İşitme", "id": 624501}]}
+{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Akustik", "id": 16069}, {"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Otolarengoloji", "id": 1098044}, {"name": "Ses", "id": 12640}, {"name": "Nöroloji", "id": 16347}], "successors": []}

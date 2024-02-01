@@ -1,1 +1,1 @@
-{"name": "Dinozor_taslakları", "id": 430561, "predecessors": [{"name": "Dinozorlar", "id": 35852}, {"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265}], "successors": [{"name": "Teropod_taslakları", "id": 3097437}]}
+{"name": "Dinozor_taslakları", "id": 430561, "predecessors": [{"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265}, {"name": "Biyoloji_taslakları", "id": 39300}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Teropod_taslakları", "id": 3097437}]}

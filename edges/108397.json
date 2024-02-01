@@ -1,1 +1,1 @@
-{"name": "Hepatoloji", "id": 108397, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Karaciğer_hastalıkları", "id": 1317433}, {"name": "Hepatotoksinler", "id": 2461014}, {"name": "Safra_kesesi", "id": 2484541}]}
+{"name": "Hepatoloji", "id": 108397, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Hepatotoksinler", "id": 2461014}]}

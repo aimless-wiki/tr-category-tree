@@ -1,1 +1,1 @@
-{"name": "Futbol_biçimlendirme_ve_işlev_şablonları", "id": 2470455, "predecessors": [{"name": "Spor_biçimlendirme_ve_işlev_şablonları", "id": 2464756}], "successors": [{"name": "Fb_şablonları", "id": 1601516}, {"name": "Futbol_takımı_kadrosu_şablonları", "id": 2472699}]}
+{"name": "Futbol_biçimlendirme_ve_işlev_şablonları", "id": 2470455, "predecessors": [{"name": "Futbol_şablonları", "id": 138740}, {"name": "Spor_şablonları", "id": 116139}], "successors": [{"name": "Fb_şablonları", "id": 1601516}, {"name": "Futbol_takımı_kadrosu_şablonları", "id": 2472699}]}

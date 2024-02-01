@@ -1,1 +1,1 @@
-{"name": "Kış_Üniversite_Oyunları", "id": 299866, "predecessors": [{"name": "Mevsimler", "id": 114431}, {"name": "Oyunlar", "id": 10599}], "successors": []}
+{"name": "Kış_Üniversite_Oyunları", "id": 299866, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Sıcaklık", "id": 182136}, {"name": "Vikipedi", "id": 7220}, {"name": "Çok_sporlu_etkinlikler", "id": 1015804}], "successors": []}

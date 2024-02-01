@@ -1,1 +1,1 @@
-{"name": "UCI_ProTeam", "id": 3275239, "predecessors": [{"name": "UCI_ProSeries", "id": 2951267}, {"name": "Bireysel_sporlar", "id": 78374}, {"name": "Bisiklet_takımları", "id": 850233}], "successors": []}
+{"name": "UCI_ProTeam", "id": 3275239, "predecessors": [{"name": "Yol_bisikleti_yarışı", "id": 1610540}, {"name": "Sosyoloji", "id": 1145186}, {"name": "Vikipedi", "id": 7220}], "successors": []}

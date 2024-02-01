@@ -1,1 +1,1 @@
-{"name": "Ketonlar", "id": 35771, "predecessors": [{"name": "Oksijen_bileşikleri", "id": 383035}, {"name": "Organik_bileşikler", "id": 23181}], "successors": [{"name": "Aromatik_ketonlar", "id": 2197259}, {"name": "Dialkil_ketonlar", "id": 2467978}, {"name": "Enonlar", "id": 3711194}]}
+{"name": "Ketonlar", "id": 35771, "predecessors": [{"name": "Fonksiyonel_gruplar", "id": 46861}, {"name": "Kimya", "id": 3599}, {"name": "Oksijen", "id": 383036}], "successors": [{"name": "Enonlar", "id": 3711194}]}

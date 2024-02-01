@@ -1,1 +1,1 @@
-{"name": "Ticaret_bakanları", "id": 2085417, "predecessors": [{"name": "Devlet_görevlileri", "id": 952382}], "successors": [{"name": "Fransa_ticaret_bakanları", "id": 1629674}, {"name": "Danimarka_ticaret_bakanları", "id": 2168675}, {"name": "Türkiye_Cumhuriyeti_Ticaret_Bakanları", "id": 2342055}]}
+{"name": "Ticaret_bakanları", "id": 2085417, "predecessors": [{"name": "Siyaset", "id": 12230}], "successors": [{"name": "Fransa_ticaret_bakanları", "id": 1629674}, {"name": "Türkiye_Cumhuriyeti_Ticaret_Bakanları", "id": 2342055}]}

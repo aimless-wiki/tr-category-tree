@@ -1,1 +1,1 @@
-{"name": "Saadet_zinciri", "id": 1339143, "predecessors": [{"name": "Dolandırıcılık", "id": 1339131}, {"name": "Pazarlama_türleri", "id": 1333980}, {"name": "Dağıtım", "id": 2296826}], "successors": []}
+{"name": "Saadet_zinciri", "id": 1339143, "predecessors": [{"name": "Pazarlama", "id": 37079}, {"name": "Tanıtım_ve_pazarlama_iletişimi", "id": 2484534}, {"name": "Aile", "id": 12531}], "successors": []}

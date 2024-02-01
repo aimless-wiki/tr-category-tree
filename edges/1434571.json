@@ -1,1 +1,1 @@
-{"name": "Sosyoloji_terimleri", "id": 1434571, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Akademi_terminolojisi", "id": 1940221}], "successors": [{"name": "Sosyal_sınıflar", "id": 115917}, {"name": "Sorumluluk", "id": 1772587}, {"name": "Kamusal_alan", "id": 2211389}]}
+{"name": "Sosyoloji_terimleri", "id": 1434571, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Terimler", "id": 81201}], "successors": [{"name": "Sosyal_sınıflar", "id": 115917}]}

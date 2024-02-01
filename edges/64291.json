@@ -1,0 +1,1 @@
+{"name": "Süt_ürünleri", "id": 64291, "predecessors": [{"name": "Süt", "id": 397129}, {"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Beslenme", "id": 25373}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Peynir", "id": 1001711}, {"name": "Dondurma", "id": 1317607}]}
