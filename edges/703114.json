@@ -1,1 +1,1 @@
-{"name": "Eğitim_web_siteleri", "id": 703114, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Eğitim_teknolojisi", "id": 447604}, {"name": "Kültür", "id": 7230}, {"name": "Uzaktan_eğitim", "id": 111255}], "successors": []}
+{"name": "Eğitim_web_siteleri", "id": 703114, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Eğitim_teknolojisi", "id": 447604}, {"name": "Kültür", "id": 7230}, {"name": "Uzaktan_eğitim", "id": 111255}], "successors": [{"name": "Dijital_kütüphaneler", "id": 415344}]}

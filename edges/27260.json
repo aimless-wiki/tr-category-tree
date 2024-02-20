@@ -1,1 +1,1 @@
-{"name": "Ontoloji", "id": 27260, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}], "successors": [{"name": "Vahdet-i_Vücud", "id": 105147}, {"name": "Madde", "id": 181974}, {"name": "Hiçlik", "id": 1009850}, {"name": "Ontologlar", "id": 2125447}, {"name": "Kelamcılar", "id": 95068}]}
+{"name": "Ontoloji", "id": 27260, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}, {"name": "Metafizik", "id": 35229}, {"name": "Felsefi_kavramlar", "id": 12229}], "successors": [{"name": "Vahdet-i_Vücud", "id": 105147}]}

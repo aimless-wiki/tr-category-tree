@@ -1,1 +1,1 @@
-{"name": "Türkiye_tarafından_tutuklanan_kişiler", "id": 2062672, "predecessors": [{"name": "Türk_hukuk_sistemi", "id": 402512}, {"name": "Suç", "id": 23210}], "successors": [{"name": "Türkiye_tarafından_idam_edilmiş_kişiler", "id": 1609289}]}
+{"name": "Türkiye_tarafından_tutuklanan_kişiler", "id": 2062672, "predecessors": [{"name": "Kriminoloji", "id": 23211}], "successors": [{"name": "Türkiye_tarafından_idam_edilmiş_kişiler", "id": 1609289}]}

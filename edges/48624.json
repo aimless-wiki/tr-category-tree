@@ -1,1 +1,1 @@
-{"name": "Psikoloji_taslakları", "id": 48624, "predecessors": [{"name": "Psikoloji", "id": 12113}, {"name": "Sağlık_taslakları", "id": 1016407}], "successors": [{"name": "Cinsellik_taslakları", "id": 185217}, {"name": "Spiritüalizm_taslakları", "id": 259952}]}
+{"name": "Psikoloji_taslakları", "id": 48624, "predecessors": [{"name": "Psikoloji", "id": 12113}, {"name": "Sağlık_taslakları", "id": 1016407}], "successors": [{"name": "Cinsellik_taslakları", "id": 185217}, {"name": "Spiritüalizm_taslakları", "id": 259952}, {"name": "Nörobilim_taslakları", "id": 1406540}]}

@@ -1,1 +1,1 @@
-{"name": "Kadın_isimleri", "id": 1767777, "predecessors": [{"name": "Kadın", "id": 11846}, {"name": "İsimler", "id": 121718}], "successors": [{"name": "Türkçe_kadın_isimleri", "id": 2405338}]}
+{"name": "Kadın_isimleri", "id": 1767777, "predecessors": [{"name": "İsimler", "id": 121718}, {"name": "Cinsiyet", "id": 956651}], "successors": [{"name": "Türkçe_kadın_isimleri", "id": 2405338}]}

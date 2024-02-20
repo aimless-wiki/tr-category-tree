@@ -1,1 +1,1 @@
-{"name": "Sokak_yiyecekleri", "id": 462497, "predecessors": [{"name": "Hazır_yemek", "id": 2333148}, {"name": "Şehir", "id": 1741933}], "successors": []}
+{"name": "Sokak_yiyecekleri", "id": 462497, "predecessors": [{"name": "Hazır_yemek", "id": 2333148}, {"name": "Sokak_kültürü", "id": 1097151}], "successors": [{"name": "Türk_mutfağındaki_sokak_yemekleri", "id": 2159950}, {"name": "Meksika_mutfağındaki_sokak_yiyecekleri", "id": 2189411}]}

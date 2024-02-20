@@ -1,1 +1,1 @@
-{"name": "Carabidae", "id": 1585574, "predecessors": [{"name": "Böcekler", "id": 12081}, {"name": "Biyolojik_etkileşimler", "id": 1192810}], "successors": [{"name": "Zabrus", "id": 3249062}]}
+{"name": "Carabidae", "id": 1585574, "predecessors": [{"name": "Böcekler", "id": 12081}], "successors": [{"name": "Zabrus", "id": 3249062}, {"name": "Harpalini", "id": 3250535}, {"name": "Abaris", "id": 3281970}, {"name": "Carabus", "id": 3729497}, {"name": "Calosoma", "id": 3847475}, {"name": "Scaphinotus", "id": 3847602}]}

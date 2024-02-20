@@ -1,1 +1,1 @@
-{"name": "Yazar_listeleri", "id": 134751, "predecessors": [{"name": "Uğraşına_göre_kişi_listeleri", "id": 1357115}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Ada_göre_yazar_listeleri", "id": 1693718}]}
+{"name": "Yazar_listeleri", "id": 134751, "predecessors": [{"name": "Uğraşına_göre_kişi_listeleri", "id": 1357115}, {"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": []}

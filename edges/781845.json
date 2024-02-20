@@ -1,1 +1,1 @@
-{"name": "Toksinler", "id": 781845, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Toksikoloji", "id": 23190}], "successors": [{"name": "Hepatotoksinler", "id": 2461014}]}
+{"name": "Toksinler", "id": 781845, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Toksikoloji", "id": 23190}], "successors": [{"name": "Nörotoksinler", "id": 1622864}]}

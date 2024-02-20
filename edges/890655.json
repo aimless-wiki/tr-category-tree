@@ -1,1 +1,1 @@
-{"name": "Banyo", "id": 890655, "predecessors": [{"name": "Yıkanma", "id": 747807}], "successors": []}
+{"name": "Banyo", "id": 890655, "predecessors": [{"name": "Yıkanma", "id": 747807}, {"name": "Ev", "id": 12533}], "successors": []}

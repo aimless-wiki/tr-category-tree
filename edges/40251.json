@@ -1,1 +1,1 @@
-{"name": "Uyuşturucu_maddeler", "id": 40251, "predecessors": [{"name": "Farmakolojik_ajanlar", "id": 20204}, {"name": "Toksikoloji", "id": 23190}], "successors": [{"name": "Uyarıcılar", "id": 24848}, {"name": "Tütün", "id": 40238}]}
+{"name": "Uyuşturucu_maddeler", "id": 40251, "predecessors": [{"name": "Toksikoloji", "id": 23190}], "successors": [{"name": "Uyarıcılar", "id": 24848}, {"name": "Tütün", "id": 40238}]}

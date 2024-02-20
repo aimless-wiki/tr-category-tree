@@ -1,1 +1,1 @@
-{"name": "Bellek_süreçleri", "id": 1085036, "predecessors": [{"name": "Bellek", "id": 102235}], "successors": [{"name": "Nimonik", "id": 1757988}]}
+{"name": "Bellek_süreçleri", "id": 1085036, "predecessors": [{"name": "Bellek", "id": 102235}, {"name": "Biyolojik_süreçler", "id": 255430}], "successors": []}

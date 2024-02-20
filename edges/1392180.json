@@ -1,1 +1,1 @@
-{"name": "Elektrodinamik", "id": 1392180, "predecessors": [{"name": "Elektromanyetizma", "id": 183552}, {"name": "Fizik", "id": 7289}], "successors": [{"name": "Elektron", "id": 1485616}]}
+{"name": "Elektrodinamik", "id": 1392180, "predecessors": [{"name": "Dinamik_sistemler", "id": 182693}, {"name": "Elektromanyetizma", "id": 183552}], "successors": [{"name": "Elektron", "id": 1485616}]}

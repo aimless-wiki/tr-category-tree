@@ -1,1 +1,1 @@
-{"name": "Sesbilim", "id": 262140, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Ses", "id": 12640}], "successors": [{"name": "Akustik", "id": 16069}, {"name": "Ekolokasyon", "id": 2214412}, {"name": "Ağız_hijyeni", "id": 1330993}]}
+{"name": "Sesbilim", "id": 262140, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Ses", "id": 12640}], "successors": [{"name": "Ekolokasyon", "id": 2214412}, {"name": "Ağız_hijyeni", "id": 1330993}]}

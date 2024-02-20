@@ -1,1 +1,1 @@
-{"name": "Berlin_kültürü", "id": 1215776, "predecessors": [{"name": "Devlet_kurumları", "id": 1016288}], "successors": []}
+{"name": "Berlin_kültürü", "id": 1215776, "predecessors": [{"name": "Vikipedi", "id": 7220}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Berlin'deki_müzeler", "id": 761728}, {"name": "Berlin'de_çekilmiş_filmler", "id": 1406269}, {"name": "Konusu_Berlin'de_geçen_filmler", "id": 1624844}, {"name": "Berlin_Uluslararası_Film_Festivali", "id": 821678}]}

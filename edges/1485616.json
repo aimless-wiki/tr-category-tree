@@ -1,1 +1,1 @@
-{"name": "Elektron", "id": 1485616, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Atom_fiziği", "id": 14246}, {"name": "Elektrodinamik", "id": 1392180}], "successors": []}
+{"name": "Elektron", "id": 1485616, "predecessors": [{"name": "Elektrik", "id": 29877}, {"name": "Atom_fiziği", "id": 14246}, {"name": "Elektrodinamik", "id": 1392180}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Eterler", "id": 35770, "predecessors": [{"name": "Fonksiyonel_gruplar", "id": 46861}, {"name": "Kimya", "id": 3599}, {"name": "Oksijen", "id": 383036}], "successors": [{"name": "Fenol_eterler", "id": 2629811}]}
+{"name": "Eterler", "id": 35770, "predecessors": [{"name": "Fonksiyonel_gruplar", "id": 46861}, {"name": "Organik_bileşikler", "id": 23181}], "successors": []}

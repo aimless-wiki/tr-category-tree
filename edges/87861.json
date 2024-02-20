@@ -1,1 +1,1 @@
-{"name": "Birleşik_Krallık_büyükelçileri", "id": 87861, "predecessors": [{"name": "Devlet_görevlileri", "id": 952382}], "successors": []}
+{"name": "Birleşik_Krallık_büyükelçileri", "id": 87861, "predecessors": [{"name": "Birleşik_Krallık_hükûmeti", "id": 1342018}, {"name": "Kamu_yönetimi", "id": 433081}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Osmanlı_İmparatorluğu'nun_Londra_Büyükelçileri", "id": 1176068}, {"name": "Türkiye'nin_Birleşik_Krallık_büyükelçileri", "id": 1391299}, {"name": "Fransa'nın_Birleşik_Krallık_büyükelçileri", "id": 1674030}]}

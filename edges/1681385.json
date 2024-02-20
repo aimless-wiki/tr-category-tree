@@ -1,1 +1,1 @@
-{"name": "Nörodejeneratif_bozukluklar", "id": 1681385, "predecessors": [{"name": "Beyin_hastalıkları", "id": 617781}], "successors": [{"name": "Demanstan_ölenler", "id": 1765343}]}
+{"name": "Nörodejeneratif_bozukluklar", "id": 1681385, "predecessors": [{"name": "Beyin_hastalıkları", "id": 617781}], "successors": [{"name": "Demans_olan_kişiler", "id": 1765334}, {"name": "Demanstan_ölenler", "id": 1765343}]}

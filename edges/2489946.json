@@ -1,1 +1,1 @@
-{"name": "Tedarik_zinciri_yönetimi", "id": 2489946, "predecessors": [{"name": "Türlerine_göre_yönetim", "id": 2469695}], "successors": [{"name": "Yapım,_üretim_ve_imalat", "id": 907045}, {"name": "Mallar", "id": 1772674}, {"name": "Dış_kaynak_kullanımı", "id": 1783193}, {"name": "Yük_taşımacılığı", "id": 2882579}]}
+{"name": "Tedarik_zinciri_yönetimi", "id": 2489946, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yapım,_üretim_ve_imalat", "id": 907045}]}

@@ -1,1 +1,1 @@
-{"name": "Agonistler", "id": 1600128, "predecessors": [{"name": "Farmakoloji", "id": 13262}, {"name": "Fizyoloji", "id": 16585}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Biyokimya", "id": 15277}, {"name": "Farmakolojik_ajanlar", "id": 20204}], "successors": []}
+{"name": "Agonistler", "id": 1600128, "predecessors": [{"name": "Farmakoloji", "id": 13262}, {"name": "Fizyoloji", "id": 16585}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Biyokimya", "id": 15277}, {"name": "Hücre_sinyalleri", "id": 644053}], "successors": []}

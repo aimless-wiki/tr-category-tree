@@ -1,1 +1,1 @@
-{"name": "COVID-19_pandemisi_nedeniyle_ertelenen_futbol_müsabakaları", "id": 2860955, "predecessors": [{"name": "COVID-19_pandemisi_nedeniyle_ertelenen_spor_etkinlikleri", "id": 2860956}, {"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}], "successors": []}
+{"name": "COVID-19_pandemisi_nedeniyle_ertelenen_futbol_müsabakaları", "id": 2860955, "predecessors": [{"name": "COVID-19_pandemisi_nedeniyle_ertelenen_spor_etkinlikleri", "id": 2860956}, {"name": "Takım_sporları", "id": 78371}], "successors": [{"name": "2020_Avrupa_Futbol_Şampiyonası", "id": 2286160}]}

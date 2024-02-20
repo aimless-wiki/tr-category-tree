@@ -1,1 +1,1 @@
-{"name": "Fin_kadın_siyasetçiler", "id": 2037146, "predecessors": [{"name": "Fin_siyasetçiler", "id": 1179495}, {"name": "Kadın", "id": 11846}], "successors": []}
+{"name": "Fin_kadın_siyasetçiler", "id": 2037146, "predecessors": [{"name": "Fin_siyasetçiler", "id": 1179495}, {"name": "Cinsiyet", "id": 956651}], "successors": []}

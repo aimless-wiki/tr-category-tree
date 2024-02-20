@@ -1,1 +1,1 @@
-{"name": "Çay_kültürü", "id": 2152766, "predecessors": [{"name": "İçecek_kültürü", "id": 2030769}], "successors": [{"name": "Japon_çay_seremonisi", "id": 2152765}, {"name": "Çay_gereçleri", "id": 2631700}]}
+{"name": "Çay_kültürü", "id": 2152766, "predecessors": [{"name": "Çay", "id": 127567}, {"name": "Alkol", "id": 1138723}], "successors": []}

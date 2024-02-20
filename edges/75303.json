@@ -1,1 +1,1 @@
-{"name": "Nükleotitler", "id": 75303, "predecessors": [{"name": "Nükleik_asitler", "id": 23064}, {"name": "Organofosfatlar", "id": 80989}], "successors": []}
+{"name": "Nükleotitler", "id": 75303, "predecessors": [{"name": "Genetik", "id": 14283}, {"name": "Organofosfatlar", "id": 80989}, {"name": "Biyomoleküller", "id": 410607}], "successors": []}

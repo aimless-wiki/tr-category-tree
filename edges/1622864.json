@@ -1,1 +1,1 @@
-{"name": "Nörotoksinler", "id": 1622864, "predecessors": [{"name": "Biyokimya", "id": 15277}, {"name": "Toksinler", "id": 781845}], "successors": [{"name": "Parasempatomimetik_ilaçlar", "id": 1953648}]}
+{"name": "Nörotoksinler", "id": 1622864, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Biyokimya", "id": 15277}, {"name": "Toksinler", "id": 781845}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Endüstri_mühendisliği", "id": 212864, "predecessors": [{"name": "Mühendislik_dalları", "id": 14267}, {"name": "Sanayi", "id": 21457}], "successors": [{"name": "Yöneylem_araştırması", "id": 519759}]}
+{"name": "Endüstri_mühendisliği", "id": 212864, "predecessors": [{"name": "Mühendislik_dalları", "id": 14267}, {"name": "Sanayi", "id": 21457}], "successors": [{"name": "Sistem_mühendisliği", "id": 388018}, {"name": "Yöneylem_araştırması", "id": 519759}]}

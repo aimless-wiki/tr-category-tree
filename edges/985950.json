@@ -1,1 +1,1 @@
-{"name": "Trafik_işaretleri", "id": 985950, "predecessors": [{"name": "Karayolu_trafiği_yönetimi", "id": 3413439}, {"name": "İşaretler", "id": 985954}], "successors": []}
+{"name": "Trafik_işaretleri", "id": 985950, "predecessors": [{"name": "Sokak_mobilyaları", "id": 1805219}, {"name": "Kara_ulaşımı", "id": 447670}, {"name": "Grafik_tasarım", "id": 89504}], "successors": []}

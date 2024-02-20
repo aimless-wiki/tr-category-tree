@@ -1,1 +1,1 @@
-{"name": "Yelkenliler", "id": 754991, "predecessors": [{"name": "Gemi_tipleri", "id": 583189}, {"name": "Yelken", "id": 137736}, {"name": "Aerodinamik", "id": 26740}], "successors": []}
+{"name": "Yelkenliler", "id": 754991, "predecessors": [{"name": "Gemi_tipleri", "id": 583189}, {"name": "Yelken", "id": 137736}, {"name": "Aerodinamik", "id": 26740}, {"name": "Su", "id": 195970}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Spiritüalizm_taslakları", "id": 259952, "predecessors": [{"name": "Psikoloji_taslakları", "id": 48624}], "successors": [{"name": "Parapsikoloji_taslakları", "id": 259948}]}
+{"name": "Spiritüalizm_taslakları", "id": 259952, "predecessors": [{"name": "Psikoloji_taslakları", "id": 48624}, {"name": "Spiritüalizm", "id": 30039}], "successors": [{"name": "Parapsikoloji_taslakları", "id": 259948}]}

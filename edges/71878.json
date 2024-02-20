@@ -1,1 +1,1 @@
-{"name": "Yıldırım_tanrıları", "id": 71878, "predecessors": [{"name": "Doğa_tanrıları", "id": 67824}, {"name": "Hava_ve_gök_tanrıları", "id": 65530}, {"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Thor", "id": 2187624}]}
+{"name": "Yıldırım_tanrıları", "id": 71878, "predecessors": [{"name": "Doğa_tanrıları", "id": 67824}, {"name": "Hava_ve_gök_tanrıları", "id": 65530}, {"name": "Güvenlik", "id": 36571}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Zeus", "id": 775693}, {"name": "Thor", "id": 2187624}]}

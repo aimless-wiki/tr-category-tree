@@ -1,1 +1,1 @@
-{"name": "Başkentray_istasyonları", "id": 2382239, "predecessors": [{"name": "Ankara_ilinde_demiryolu_ulaşımı", "id": 2342847}, {"name": "2018'de_tamamlanan_ulaşım_altyapısı", "id": 2380870}], "successors": []}
+{"name": "Başkentray_istasyonları", "id": 2382239, "predecessors": [{"name": "Ankara_ilindeki_tren_istasyonları", "id": 1555595}, {"name": "2018'de_tamamlanan_ulaşım_altyapısı", "id": 2380870}], "successors": []}

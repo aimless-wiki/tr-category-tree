@@ -1,1 +1,1 @@
-{"name": "Teorik_fizikçiler", "id": 1204353, "predecessors": [{"name": "Teorik_fizik", "id": 1725841}, {"name": "Teoriler", "id": 93032}, {"name": "Fizik", "id": 7289}], "successors": [{"name": "Amerikalı_teorik_fizikçiler", "id": 2322927}]}
+{"name": "Teorik_fizikçiler", "id": 1204353, "predecessors": [{"name": "Teorik_fizik", "id": 1725841}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Amerikalı_teorik_fizikçiler", "id": 2322927}]}

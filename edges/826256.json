@@ -1,1 +1,1 @@
-{"name": "İnsan_habitatı", "id": 826256, "predecessors": [{"name": "1758'de_tanımlanan_omurgalılar", "id": 2228687}, {"name": "Habitat", "id": 370353}], "successors": [{"name": "Ev", "id": 12533}, {"name": "Stalaglar", "id": 2469031}]}
+{"name": "İnsan_habitatı", "id": 826256, "predecessors": [{"name": "Habitatlar", "id": 3514835}, {"name": "1758'de_tanımlanan_omurgalılar", "id": 2228687}], "successors": [{"name": "Ev", "id": 12533}, {"name": "Stalaglar", "id": 2469031}]}

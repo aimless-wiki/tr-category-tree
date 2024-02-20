@@ -1,1 +1,1 @@
-{"name": "Fiat_taşıtları", "id": 1191397, "predecessors": [{"name": "Otomobil_üreticileri", "id": 170370}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Fiat_otomobilleri", "id": 1181789}]}
+{"name": "Fiat_taşıtları", "id": 1191397, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "İşletme", "id": 21253}], "successors": [{"name": "Fiat_otomobilleri", "id": 1181789}]}

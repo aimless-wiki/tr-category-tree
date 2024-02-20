@@ -1,1 +1,1 @@
-{"name": "Hint_kadın_dizi_oyuncuları", "id": 2121191, "predecessors": [{"name": "Kadın", "id": 11846}, {"name": "Televizyoncular", "id": 12428}], "successors": []}
+{"name": "Hint_kadın_dizi_oyuncuları", "id": 2121191, "predecessors": [{"name": "Cinsiyet", "id": 956651}, {"name": "Televizyoncular", "id": 12428}], "successors": []}

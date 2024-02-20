@@ -1,1 +1,1 @@
-{"name": "Türk_kadın_akademisyenler", "id": 3532005, "predecessors": [{"name": "Türk_akademisyenler", "id": 53562}, {"name": "Kadın", "id": 11846}], "successors": [{"name": "Türk_kadın_profesörler", "id": 3532461}]}
+{"name": "Türk_kadın_akademisyenler", "id": 3532005, "predecessors": [{"name": "Türk_akademisyenler", "id": 53562}, {"name": "Cinsiyet", "id": 956651}], "successors": [{"name": "Türk_kadın_profesörler", "id": 3532461}]}

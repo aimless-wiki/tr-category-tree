@@ -1,1 +1,1 @@
-{"name": "Patoloji", "id": 11975, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Hastalıklar_ve_bozukluklar", "id": 9908}, {"name": "Anatomik_patoloji", "id": 235625}]}
+{"name": "Patoloji", "id": 11975, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Hastalıklar_ve_bozukluklar", "id": 9908}, {"name": "Anatomik_patoloji", "id": 235625}]}

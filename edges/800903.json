@@ -1,1 +1,1 @@
-{"name": "Paris'te_eğitim", "id": 800903, "predecessors": [{"name": "Avrupa'daki_başkentler", "id": 68727}, {"name": "Toplumsal_gruplar", "id": 66417}], "successors": [{"name": "Paris'teki_üniversiteler", "id": 2042119}, {"name": "École_Normale_Supérieur'de_öğrenim_görenler", "id": 982029}]}
+{"name": "Paris'te_eğitim", "id": 800903, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Fiziksel_nicelikler", "id": 181686}], "successors": [{"name": "Paris'teki_üniversiteler", "id": 2042119}]}

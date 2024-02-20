@@ -1,1 +1,1 @@
-{"name": "İşletme_yönetimi", "id": 1346081, "predecessors": [{"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Teknoloji", "id": 6300}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "İletişim_ve_işbirliği_sistemleri", "id": 1627792}]}
+{"name": "İşletme_yönetimi", "id": 1346081, "predecessors": [{"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Sistem_mühendisliği", "id": 388018}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "İletişim_ve_işbirliği_sistemleri", "id": 1627792}]}

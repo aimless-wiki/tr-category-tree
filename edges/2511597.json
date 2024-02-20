@@ -1,1 +1,1 @@
-{"name": "Araç_frenleme_teknolojileri", "id": 2511597, "predecessors": [{"name": "Frenler", "id": 1182656}], "successors": []}
+{"name": "Araç_frenleme_teknolojileri", "id": 2511597, "predecessors": [{"name": "Makine_mühendisliği", "id": 24286}, {"name": "Güvenlik", "id": 36571}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Arama-kurtarma", "id": 1320104, "predecessors": [{"name": "Acil_durum_hizmetleri", "id": 1016286}, {"name": "Felsefi_kavramlar", "id": 12229}], "successors": []}
+{"name": "Arama-kurtarma", "id": 1320104, "predecessors": [{"name": "Acil_durum_hizmetleri", "id": 1016286}, {"name": "Bilişim_bilimi", "id": 13830}, {"name": "Sosyal_bilimler", "id": 12112}], "successors": []}

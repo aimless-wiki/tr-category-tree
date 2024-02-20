@@ -1,1 +1,1 @@
-{"name": "Omurgalı_anatomisi", "id": 1386745, "predecessors": [{"name": "Dünya", "id": 6772}], "successors": [{"name": "Kafatası", "id": 397207}, {"name": "Memeli_anatomisi", "id": 1387184}, {"name": "Omurga", "id": 1951434}]}
+{"name": "Omurgalı_anatomisi", "id": 1386745, "predecessors": [{"name": "Hayvan_anatomisi", "id": 21653}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Kafatası", "id": 397207}, {"name": "Memeli_anatomisi", "id": 1387184}, {"name": "Omurga", "id": 1951434}]}

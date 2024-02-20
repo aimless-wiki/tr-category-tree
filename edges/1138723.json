@@ -1,1 +1,1 @@
-{"name": "Alkol", "id": 1138723, "predecessors": [{"name": "Ev_kimyasalları", "id": 699996}, {"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "İçkiler", "id": 59607}, {"name": "Alkolizm", "id": 81011}]}
+{"name": "Alkol", "id": 1138723, "predecessors": [{"name": "Ev_kimyasalları", "id": 699996}, {"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "İçkiler", "id": 59607}, {"name": "Alkolizm", "id": 81011}, {"name": "Çay_kültürü", "id": 2152766}, {"name": "Kokteyller", "id": 267510}]}

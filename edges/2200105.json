@@ -1,1 +1,1 @@
-{"name": "Tarihyazımı", "id": 2200105, "predecessors": [{"name": "Kronoloji", "id": 30443}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Sözde_tarih", "id": 1339297}]}
+{"name": "Tarihyazımı", "id": 2200105, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Holokost_inkârı", "id": 1335549}, {"name": "Sözde_tarih", "id": 1339297}]}

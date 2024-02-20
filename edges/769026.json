@@ -1,1 +1,1 @@
-{"name": "Britanyalı_agnostikler", "id": 769026, "predecessors": [{"name": "Agnostikler", "id": 769020}], "successors": [{"name": "İngiliz_agnostikler", "id": 769025}]}
+{"name": "Britanyalı_agnostikler", "id": 769026, "predecessors": [{"name": "Din_felsefesi", "id": 45123}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İngiliz_agnostikler", "id": 769025}]}

@@ -1,1 +1,1 @@
-{"name": "Denizcilik_taslakları", "id": 126421, "predecessors": [{"name": "Deniz_taslakları", "id": 695640}, {"name": "Ulaşım_taslakları", "id": 370306}], "successors": [{"name": "Gemi_taslakları", "id": 391187}]}
+{"name": "Denizcilik_taslakları", "id": 126421, "predecessors": [{"name": "Deniz_taslakları", "id": 695640}, {"name": "Denizcilik", "id": 11154}, {"name": "Ulaşım_taslakları", "id": 370306}], "successors": [{"name": "Gemi_taslakları", "id": 391187}]}

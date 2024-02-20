@@ -1,1 +1,1 @@
-{"name": "İşlevler", "id": 479091, "predecessors": [{"name": "Matematiksel_fonksiyonlar", "id": 100464}], "successors": [{"name": "Polinomlar", "id": 789786}, {"name": "Fourier_dönüşümü", "id": 789770}]}
+{"name": "İşlevler", "id": 479091, "predecessors": [{"name": "Matematiksel_fonksiyonlar", "id": 100464}], "successors": [{"name": "İntegral", "id": 222490}, {"name": "Polinomlar", "id": 789786}]}

@@ -1,1 +1,1 @@
-{"name": "Matematik_listeleri", "id": 148123, "predecessors": [{"name": "Bilim_listeleri", "id": 148161}, {"name": "Matematik", "id": 2179}], "successors": [{"name": "İntegral_listeleri", "id": 222488}]}
+{"name": "Matematik_listeleri", "id": 148123, "predecessors": [{"name": "Matematik", "id": 2179}, {"name": "Vikipedi", "id": 7220}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cinsel_yolla_bulaşan_hastalıklar", "id": 86216, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Üreme_sistemi", "id": 76949}, {"name": "Endokrinoloji", "id": 24445}, {"name": "Üroloji", "id": 73412}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}
+{"name": "Cinsel_yolla_bulaşan_hastalıklar", "id": 86216, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Üreme_ve_gelişme", "id": 125214}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}

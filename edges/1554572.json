@@ -1,1 +1,1 @@
-{"name": "Video_oyunu_kapakları", "id": 1554572, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Windows_oyunu_kapakları", "id": 1555239}, {"name": "Xbox_oyunu_kapakları", "id": 1601512}]}
+{"name": "Video_oyunu_kapakları", "id": 1554572, "predecessors": [{"name": "Vikipedi", "id": 7220}, {"name": "Vikipedi_telif_hakları", "id": 95002}], "successors": [{"name": "Windows_oyunu_kapakları", "id": 1555239}, {"name": "PlayStation_2_oyunu_kapakları", "id": 1601506}, {"name": "Xbox_oyunu_kapakları", "id": 1601512}]}

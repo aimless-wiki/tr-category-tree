@@ -1,1 +1,1 @@
-{"name": "Kendine_göndergeli_önerme", "id": 1760013, "predecessors": [{"name": "Benlik", "id": 956653}, {"name": "Dil", "id": 1171232}, {"name": "Mantık", "id": 12638}, {"name": "Bilgi", "id": 12510}], "successors": []}
+{"name": "Kendine_göndergeli_önerme", "id": 1760013, "predecessors": [{"name": "Benlik", "id": 956653}, {"name": "Dil_felsefesi", "id": 133511}, {"name": "Dilbilgisi", "id": 27645}, {"name": "Mantık", "id": 12638}, {"name": "Teorik_bilgisayar_bilimi", "id": 519821}, {"name": "Bilgi", "id": 12510}, {"name": "Biliş", "id": 92791}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Çanakkale_Boğazı_tarihi", "id": 2226881, "predecessors": [{"name": "Çanakkale_tarihi", "id": 390424}, {"name": "Türk_Boğazları", "id": 433481}], "successors": [{"name": "Çanakkale_Savaşı", "id": 825920}]}
+{"name": "Çanakkale_Boğazı_tarihi", "id": 2226881, "predecessors": [{"name": "Çanakkale_tarihi", "id": 390424}, {"name": "Su", "id": 195970}], "successors": [{"name": "Çanakkale_Savaşı", "id": 825920}]}

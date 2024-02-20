@@ -1,1 +1,1 @@
-{"name": "Kullanıcı_tarafından_değiştirilebilen_pile_sahip_cep_telefonları", "id": 3027576, "predecessors": [{"name": "Piller", "id": 698591}], "successors": []}
+{"name": "Kullanıcı_tarafından_değiştirilebilen_pile_sahip_cep_telefonları", "id": 3027576, "predecessors": [{"name": "Cep_telefonları", "id": 184320}, {"name": "Piller", "id": 698591}], "successors": []}

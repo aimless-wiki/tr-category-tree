@@ -1,1 +1,1 @@
-{"name": "Hayvan_gücüyle_hareket_eden_taşıtlar", "id": 998756, "predecessors": [{"name": "Sürdürülebilir_ulaşım", "id": 964346}, {"name": "Kara_ulaşımı", "id": 447670}, {"name": "Dünya", "id": 6772}, {"name": "İmalat", "id": 404623}], "successors": []}
+{"name": "Hayvan_gücüyle_hareket_eden_taşıtlar", "id": 998756, "predecessors": [{"name": "Dünya", "id": 6772}, {"name": "Vikipedi", "id": 7220}], "successors": []}

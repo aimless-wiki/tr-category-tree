@@ -1,1 +1,1 @@
-{"name": "TRT_radyo_kanalları", "id": 1360179, "predecessors": [{"name": "TRT", "id": 173873}, {"name": "Türkiye_radyo_kanalları", "id": 166079}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}
+{"name": "TRT_radyo_kanalları", "id": 1360179, "predecessors": [{"name": "TRT", "id": 173873}, {"name": "Türkiye_radyo_kanalları", "id": 166079}, {"name": "Medya", "id": 12429}], "successors": []}

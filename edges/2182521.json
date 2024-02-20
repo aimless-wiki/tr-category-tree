@@ -1,1 +1,1 @@
-{"name": "Çevrimiçi_müzik_mağazaları", "id": 2182521, "predecessors": [{"name": "Dijital_dağıtım", "id": 2040099}, {"name": "Müzik_siteleri", "id": 628431}, {"name": "Çevrimiçi_perakendeciler", "id": 1774687}], "successors": []}
+{"name": "Çevrimiçi_müzik_mağazaları", "id": 2182521, "predecessors": [{"name": "Müzik_siteleri", "id": 628431}, {"name": "Çevrimiçi_şirketler", "id": 1664918}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": []}

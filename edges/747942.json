@@ -1,1 +1,1 @@
-{"name": "Optik_olaylar", "id": 747942, "predecessors": [{"name": "Fiziksel_olaylar", "id": 182536}, {"name": "Optik", "id": 16461}], "successors": [{"name": "Optik_illüzyonlar", "id": 1482721}]}
+{"name": "Optik_olaylar", "id": 747942, "predecessors": [{"name": "Optik", "id": 16461}], "successors": [{"name": "Optik_illüzyonlar", "id": 1482721}]}

@@ -1,1 +1,1 @@
-{"name": "Futbol_kuralları", "id": 12953, "predecessors": [{"name": "Spor", "id": 6808}], "successors": []}
+{"name": "Futbol_kuralları", "id": 12953, "predecessors": [{"name": "Takım_sporları", "id": 78371}, {"name": "Kavramlar", "id": 6788}], "successors": []}

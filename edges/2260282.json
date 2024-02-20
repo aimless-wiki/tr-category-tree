@@ -1,1 +1,1 @@
-{"name": "Rasyolar", "id": 2260282, "predecessors": [{"name": "Arapçadan_Türkçeye_geçen_sözcükler", "id": 1389725}], "successors": [{"name": "Stokiyometri", "id": 947712}, {"name": "Altın_oran", "id": 1294803}, {"name": "Pi_sayısı", "id": 1696036}, {"name": "Tam_sayılar", "id": 13862}]}
+{"name": "Rasyolar", "id": 2260282, "predecessors": [{"name": "Cebir", "id": 12793}, {"name": "Akademi", "id": 583263}, {"name": "Fiziksel_sabitler", "id": 182158}, {"name": "Arapçadan_Türkçeye_geçen_sözcükler", "id": 1389725}], "successors": [{"name": "Pi_sayısı", "id": 1696036}]}

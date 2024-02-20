@@ -1,1 +1,1 @@
-{"name": "Netflix_orijinal_dizileri", "id": 2217991, "predecessors": [{"name": "Netflix", "id": 2031930}, {"name": "İnternet_dizileri", "id": 681347}], "successors": []}
+{"name": "Netflix_orijinal_dizileri", "id": 2217991, "predecessors": [{"name": "Aboneli_seç-izle_hizmetleri", "id": 2464764}, {"name": "İnternet_dizileri", "id": 681347}], "successors": [{"name": "Netflix_orijinal_belgeselleri", "id": 2532887}, {"name": "Netflix_orijinal_Türk_dizileri", "id": 3336194}]}

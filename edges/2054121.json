@@ -1,1 +1,1 @@
-{"name": "Londra_doğumlu_şarkıcılar", "id": 2054121, "predecessors": [{"name": "Londra_doğumlu_müzisyenler", "id": 2199588}, {"name": "Sanat_tarzları", "id": 939449}], "successors": []}
+{"name": "Londra_doğumlu_şarkıcılar", "id": 2054121, "predecessors": [{"name": "Londra_doğumlu_müzisyenler", "id": 2199588}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Londra_doğumlu_kadın_şarkıcılar", "id": 2198485}, {"name": "Londra_doğumlu_erkek_şarkıcılar", "id": 2198486}]}

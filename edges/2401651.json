@@ -1,1 +1,1 @@
-{"name": "Maden_suyu", "id": 2401651, "predecessors": [{"name": "İçme_suyu", "id": 1493105}, {"name": "Alternatif_tıp", "id": 64622}], "successors": []}
+{"name": "Maden_suyu", "id": 2401651, "predecessors": [{"name": "Beslenme", "id": 25373}], "successors": []}

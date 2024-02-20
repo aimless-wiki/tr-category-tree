@@ -1,1 +1,1 @@
-{"name": "Aydınlatma", "id": 101077, "predecessors": [{"name": "Işık", "id": 178733}], "successors": [{"name": "Fotometri", "id": 398974}]}
+{"name": "Aydınlatma", "id": 101077, "predecessors": [{"name": "Elektrik", "id": 29877}, {"name": "Işık", "id": 178733}], "successors": [{"name": "Fotometri", "id": 398974}]}

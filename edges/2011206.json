@@ -1,1 +1,1 @@
-{"name": "İşgal_Almanyası", "id": 2011206, "predecessors": [{"name": "Soğuk_Savaş", "id": 37773}], "successors": [{"name": "Doğu_Almanya-Batı_Almanya_sınırı", "id": 2017025}]}
+{"name": "İşgal_Almanyası", "id": 2011206, "predecessors": [{"name": "Geçici_hükûmetler", "id": 1580227}, {"name": "II._Dünya_Savaşı'nın_sonuçları", "id": 989455}, {"name": "Soğuk_Savaş", "id": 37773}, {"name": "Siyaset", "id": 12230}, {"name": "Almanya_tarihi", "id": 224464}], "successors": []}

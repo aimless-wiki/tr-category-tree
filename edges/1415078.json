@@ -1,1 +1,1 @@
-{"name": "Goya_Ödülleri", "id": 1415078, "predecessors": [{"name": "Eğlence", "id": 12075}], "successors": [{"name": "Goya_Ödülü_sahipleri", "id": 1360121}]}
+{"name": "Goya_Ödülleri", "id": 1415078, "predecessors": [{"name": "Sanat_tarzları", "id": 939449}, {"name": "Sinema_ödülleri", "id": 197553}], "successors": [{"name": "Goya_Ödülü_sahipleri", "id": 1360121}]}

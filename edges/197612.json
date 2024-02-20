@@ -1,1 +1,1 @@
-{"name": "Dil_işleme_yazılımları", "id": 197612, "predecessors": [{"name": "Doğal_dil_işleme", "id": 955477}, {"name": "Yapay_zekâ_uygulamaları", "id": 1393768}, {"name": "Biliş", "id": 92791}], "successors": []}
+{"name": "Dil_işleme_yazılımları", "id": 197612, "predecessors": [{"name": "Doğal_dil_işleme", "id": 955477}, {"name": "Uygulama_yazılımları", "id": 176015}, {"name": "Yapay_zekâ_uygulamaları", "id": 1393768}], "successors": []}

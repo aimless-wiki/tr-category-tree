@@ -1,1 +1,1 @@
-{"name": "Uygulamalı_psikoloji", "id": 1325336, "predecessors": [{"name": "Uygulamalı_bilimler", "id": 12512}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": [{"name": "Davranışsal_finans", "id": 1471123}, {"name": "Tüketici_davranışı", "id": 2088752}]}
+{"name": "Uygulamalı_psikoloji", "id": 1325336, "predecessors": [{"name": "Psikoloji_dalları", "id": 88793}, {"name": "Akademi", "id": 583263}], "successors": []}

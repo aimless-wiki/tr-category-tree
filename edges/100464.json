@@ -1,1 +1,1 @@
-{"name": "Matematiksel_fonksiyonlar", "id": 100464, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Kalkülüs", "id": 611912}], "successors": [{"name": "İşlevler", "id": 479091}, {"name": "Özel_fonksiyonlar", "id": 995940}]}
+{"name": "Matematiksel_fonksiyonlar", "id": 100464, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Kalkülüs", "id": 611912}], "successors": [{"name": "İşlevler", "id": 479091}, {"name": "Özel_fonksiyonlar", "id": 995940}, {"name": "Radyoaktivite", "id": 405084}]}

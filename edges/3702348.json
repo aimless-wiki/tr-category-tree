@@ -1,1 +1,1 @@
-{"name": "Elektrikli_otomobil_modelleri", "id": 3702348, "predecessors": [{"name": "Elektrikli_otomobiller", "id": 1181412}], "successors": []}
+{"name": "Elektrikli_otomobil_modelleri", "id": 3702348, "predecessors": [{"name": "Elektrikli_otomobiller", "id": 1181412}, {"name": "Otomobil_gövde_modelleri", "id": 171364}], "successors": []}

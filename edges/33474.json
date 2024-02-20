@@ -1,1 +1,1 @@
-{"name": "Lipitler", "id": 33474, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Yağ_asitleri", "id": 81699}]}
+{"name": "Lipitler", "id": 33474, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Organik_bileşikler", "id": 23181}], "successors": [{"name": "Yağ_asitleri", "id": 81699}]}

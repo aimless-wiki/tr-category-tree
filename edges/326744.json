@@ -1,1 +1,1 @@
-{"name": "Doğalgaz", "id": 326744, "predecessors": [{"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Alkanlar", "id": 24676}], "successors": [{"name": "Doğalgaz_altyapısı", "id": 2500077}, {"name": "Türkiye_merkezli_enerji_şirketleri", "id": 862983}, {"name": "Rusya_merkezli_doğalgaz_şirketleri", "id": 1023608}, {"name": "Petrol_platformları", "id": 921101}, {"name": "Doğalgaz_güvenliği", "id": 2096449}]}
+{"name": "Doğalgaz", "id": 326744, "predecessors": [{"name": "Gazlar", "id": 13810}, {"name": "Malzemeler", "id": 12782}], "successors": []}

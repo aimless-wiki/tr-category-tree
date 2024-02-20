@@ -1,1 +1,1 @@
-{"name": "Gazze_Şeridi", "id": 443013, "predecessors": [{"name": "Asya'daki_tartışmalı_bölgeler", "id": 1710643}, {"name": "Mısır_tarihi", "id": 193084}, {"name": "Filistin", "id": 29684}, {"name": "Hükûmet", "id": 1580223}, {"name": "Dünya", "id": 6772}], "successors": []}
+{"name": "Gazze_Şeridi", "id": 443013, "predecessors": [{"name": "Levant", "id": 852703}, {"name": "Mısır_tarihi", "id": 193084}, {"name": "Filistin", "id": 29684}, {"name": "Dünya", "id": 6772}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Gazze", "id": 992112}]}

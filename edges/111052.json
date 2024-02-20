@@ -1,1 +1,1 @@
-{"name": "Beton", "id": 111052, "predecessors": [{"name": "Heykel_malzemeleri", "id": 826823}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "İnşaat", "id": 14269}, {"name": "Kimya", "id": 3599}], "successors": []}
+{"name": "Beton", "id": 111052, "predecessors": [{"name": "Heykel_malzemeleri", "id": 826823}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "İnşaat", "id": 14269}, {"name": "Malzemeler", "id": 12782}], "successors": []}

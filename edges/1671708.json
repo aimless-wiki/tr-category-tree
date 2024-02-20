@@ -1,1 +1,1 @@
-{"name": "Popüler_kültürde_kediler", "id": 1671708, "predecessors": [{"name": "Kediler", "id": 197519}, {"name": "Memeliler", "id": 13516}], "successors": [{"name": "Ünlü_kediler", "id": 895131}, {"name": "Kurgusal_kediler", "id": 1199919}]}
+{"name": "Popüler_kültürde_kediler", "id": 1671708, "predecessors": [{"name": "Kediler", "id": 197519}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Ünlü_kediler", "id": 895131}, {"name": "Kurgusal_kediler", "id": 1199919}]}

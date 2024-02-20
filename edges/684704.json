@@ -1,1 +1,1 @@
-{"name": "Prostat_kanserinden_ölenler", "id": 684704, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "İnsan_cinselliği", "id": 622499}, {"name": "Ölüm", "id": 25717}, {"name": "Kanser_türleri", "id": 685589}], "successors": []}
+{"name": "Prostat_kanserinden_ölenler", "id": 684704, "predecessors": [{"name": "Androloji", "id": 128857}, {"name": "Kanserden_ölenler", "id": 203631}, {"name": "Ölüm", "id": 25717}, {"name": "Kanser_türleri", "id": 685589}], "successors": []}

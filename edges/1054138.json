@@ -1,1 +1,1 @@
-{"name": "Kıbrıslı_sporcu_taslakları", "id": 1054138, "predecessors": [{"name": "Kıbrıs_taslakları", "id": 679562}, {"name": "Kıbrıs", "id": 71261}], "successors": [{"name": "Kıbrıslı_futbolcu_taslakları", "id": 1052363}]}
+{"name": "Kıbrıslı_sporcu_taslakları", "id": 1054138, "predecessors": [{"name": "Sporcu_taslakları", "id": 174701}, {"name": "Kıbrıs_taslakları", "id": 679562}, {"name": "Afrika'daki_bölgeler", "id": 819692}], "successors": [{"name": "Kıbrıslı_futbolcu_taslakları", "id": 1052363}]}

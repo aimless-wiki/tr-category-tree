@@ -1,1 +1,1 @@
-{"name": "X86-64_işletim_sistemleri", "id": 2117037, "predecessors": [{"name": "X86_işletim_sistemleri", "id": 2117071}, {"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Microsoft_Windows", "id": 24095}, {"name": "MacOS", "id": 457590}, {"name": "X86-64_Linux_dağıtımları", "id": 2194650}]}
+{"name": "X86-64_işletim_sistemleri", "id": 2117037, "predecessors": [{"name": "X86_işletim_sistemleri", "id": 2117071}, {"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Microsoft_Windows", "id": 24095}, {"name": "MacOS", "id": 457590}]}

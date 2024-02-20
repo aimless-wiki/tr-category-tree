@@ -1,1 +1,1 @@
-{"name": "Rize_doğumlu_sanatçılar", "id": 2170779, "predecessors": [{"name": "Rize_doğumlular", "id": 1138393}], "successors": [{"name": "Rize_doğumlu_müzisyenler", "id": 2170782}]}
+{"name": "Rize_doğumlu_sanatçılar", "id": 2170779, "predecessors": [{"name": "Türk_sanatçılar", "id": 172981}, {"name": "Karadeniz", "id": 132038}], "successors": [{"name": "Rize_doğumlu_müzisyenler", "id": 2170782}]}

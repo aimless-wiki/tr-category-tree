@@ -1,1 +1,1 @@
-{"name": "Buzullar", "id": 75943, "predecessors": [{"name": "Buzul_bilimi", "id": 75944}, {"name": "Buz", "id": 399926}, {"name": "Biyocoğrafya", "id": 16580}], "successors": []}
+{"name": "Buzullar", "id": 75943, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "Su_kütleleri", "id": 81209}, {"name": "Biyocoğrafya", "id": 16580}], "successors": [{"name": "Buzul_taslakları", "id": 204235}, {"name": "Karakurum", "id": 447776}]}

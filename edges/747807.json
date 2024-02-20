@@ -1,1 +1,1 @@
-{"name": "Yıkanma", "id": 747807, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Su", "id": 195970}, {"name": "Çıplaklık", "id": 962458}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "Hamamlar", "id": 1328712}]}
+{"name": "Yıkanma", "id": 747807, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Su", "id": 195970}, {"name": "Çıplaklık", "id": 962458}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "Banyo", "id": 890655}, {"name": "Hamamlar", "id": 1328712}]}

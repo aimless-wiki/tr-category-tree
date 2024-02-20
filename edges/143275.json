@@ -1,1 +1,1 @@
-{"name": "Sessiz_film_oyuncuları", "id": 143275, "predecessors": [{"name": "Sinema_tarihi", "id": 31618}], "successors": [{"name": "Slapstick_komedyenleri", "id": 774537}]}
+{"name": "Sessiz_film_oyuncuları", "id": 143275, "predecessors": [{"name": "Gösteri_sanatçıları", "id": 1926254}], "successors": [{"name": "Slapstick_komedyenleri", "id": 774537}, {"name": "Kadın_sessiz_film_oyuncuları", "id": 2046311}, {"name": "Erkek_sessiz_film_oyuncuları", "id": 2046322}, {"name": "Amerikalı_sessiz_film_oyuncuları", "id": 729563}]}

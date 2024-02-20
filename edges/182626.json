@@ -1,1 +1,1 @@
-{"name": "Mozilla", "id": 182626, "predecessors": [{"name": "Yazılım_şirketleri", "id": 170137}], "successors": [{"name": "Firefox_eklentileri", "id": 87854}]}
+{"name": "Mozilla", "id": 182626, "predecessors": [{"name": "Yazılım_şirketleri", "id": 170137}, {"name": "Özgür_yazılım", "id": 3492}], "successors": [{"name": "Firefox_eklentileri", "id": 87854}]}

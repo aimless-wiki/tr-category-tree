@@ -1,1 +1,1 @@
-{"name": "Maliye", "id": 15269, "predecessors": [{"name": "Siyasi_ekonomi", "id": 1772369}, {"name": "Ekonomi", "id": 12356}, {"name": "Finans", "id": 14121}], "successors": []}
+{"name": "Maliye", "id": 15269, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Akademi", "id": 583263}], "successors": []}

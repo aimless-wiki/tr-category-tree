@@ -1,1 +1,1 @@
-{"name": "Eğlence_taslakları", "id": 64754, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Anime_ve_manga_taslakları", "id": 126508}]}
+{"name": "Eğlence_taslakları", "id": 64754, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Sinema_taslakları", "id": 47089}, {"name": "Anime_ve_manga_taslakları", "id": 126508}, {"name": "Oyun_taslakları", "id": 138564}]}

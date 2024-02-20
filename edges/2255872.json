@@ -1,1 +1,1 @@
-{"name": "Bakteri_cinsleri", "id": 2255872, "predecessors": [{"name": "Bakteriler", "id": 25048}], "successors": [{"name": "Mycoplasma", "id": 2759461}]}
+{"name": "Bakteri_cinsleri", "id": 2255872, "predecessors": [{"name": "Bakteriler", "id": 25048}, {"name": "Vikiprojeler", "id": 39189}], "successors": [{"name": "Mycoplasma", "id": 2759461}]}

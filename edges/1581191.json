@@ -1,1 +1,1 @@
-{"name": "Çin_merkezli_elektronik_şirketleri", "id": 1581191, "predecessors": [{"name": "Çin_ekonomisi", "id": 427343}, {"name": "Mühendislik", "id": 12511}], "successors": [{"name": "Huawei", "id": 1581190}, {"name": "Lenovo", "id": 2079305}, {"name": "Xiaomi", "id": 2726753}]}
+{"name": "Çin_merkezli_elektronik_şirketleri", "id": 1581191, "predecessors": [{"name": "Elektronik", "id": 10117}, {"name": "Çin", "id": 23786}], "successors": [{"name": "Xiaomi_cep_telefonları", "id": 3629971}, {"name": "Huawei_cep_telefonları", "id": 2232003}]}

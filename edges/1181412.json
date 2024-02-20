@@ -1,1 +1,1 @@
-{"name": "Elektrikli_otomobiller", "id": 1181412, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}, {"name": "Otomotiv_teknolojisi", "id": 171354}, {"name": "Alman_icatları", "id": 449919}], "successors": []}
+{"name": "Elektrikli_otomobiller", "id": 1181412, "predecessors": [{"name": "Elektrik_gücüyle_hareket_eden_taşıtlar", "id": 1011108}, {"name": "Otomotiv_teknolojisi", "id": 171354}, {"name": "Alman_icatları", "id": 449919}], "successors": [{"name": "Elektrikli_otomobil_modelleri", "id": 3702348}]}

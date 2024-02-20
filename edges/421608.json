@@ -1,1 +1,1 @@
-{"name": "Çiftlik_hayvanları", "id": 421608, "predecessors": [{"name": "Evcil_hayvanlar", "id": 429078}, {"name": "İnsan_coğrafyası", "id": 204604}], "successors": [{"name": "Köpekler", "id": 197515}, {"name": "Koyunlar", "id": 319235}]}
+{"name": "Çiftlik_hayvanları", "id": 421608, "predecessors": [{"name": "Evcil_hayvanlar", "id": 429078}, {"name": "Tarım", "id": 1210718}], "successors": [{"name": "Köpekler", "id": 197515}, {"name": "Koyunlar", "id": 319235}]}

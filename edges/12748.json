@@ -1,1 +1,1 @@
-{"name": "Otomasyon", "id": 12748, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "Elektrik_mühendisliği", "id": 90562}], "successors": [{"name": "Robotik", "id": 191269}, {"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}]}
+{"name": "Otomasyon", "id": 12748, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "Dinamik_sistemler", "id": 182693}], "successors": [{"name": "Robotik", "id": 191269}, {"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}]}

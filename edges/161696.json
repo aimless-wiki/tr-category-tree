@@ -1,1 +1,1 @@
-{"name": "Özel_kuvvetler", "id": 161696, "predecessors": [{"name": "Askerî_organizasyon", "id": 112402}, {"name": "Savaş_çeşitleri", "id": 1691278}, {"name": "Türlerine_göre_askerî_kuvvetler", "id": 718426}], "successors": [{"name": "Donanma_özel_harekât_birimleri", "id": 2620786}]}
+{"name": "Özel_kuvvetler", "id": 161696, "predecessors": [{"name": "Askerî_organizasyon", "id": 112402}, {"name": "Savaş_çeşitleri", "id": 1691278}, {"name": "Terörle_mücadele", "id": 696922}, {"name": "Türlerine_göre_askerî_kuvvetler", "id": 718426}], "successors": []}

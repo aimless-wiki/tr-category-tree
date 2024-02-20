@@ -1,1 +1,1 @@
-{"name": "Müzik_akışı_hizmetleri", "id": 2135255, "predecessors": [{"name": "Abonelik_hizmetleri", "id": 2462260}, {"name": "Dijital_dağıtım", "id": 2040099}, {"name": "Gerçek_zamanlı_veri_akışı", "id": 1033999}, {"name": "Sayısal_ses", "id": 1721352}], "successors": []}
+{"name": "Müzik_akışı_hizmetleri", "id": 2135255, "predecessors": [{"name": "Abonelik_hizmetleri", "id": 2462260}, {"name": "Ağlar", "id": 686745}, {"name": "Dijital_medya", "id": 415346}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Su_teknolojisi", "id": 1565885, "predecessors": [{"name": "Su", "id": 195970}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Deniz_tahrik_sistemleri", "id": 1192113}, {"name": "Su_arıtma", "id": 2383698}]}
+{"name": "Su_teknolojisi", "id": 1565885, "predecessors": [{"name": "Su", "id": 195970}, {"name": "Teknoloji", "id": 6300}, {"name": "Mühendislik_dalları", "id": 14267}], "successors": [{"name": "Deniz_tahrik_sistemleri", "id": 1192113}, {"name": "Su_arıtma", "id": 2383698}]}

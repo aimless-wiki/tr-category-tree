@@ -1,1 +1,1 @@
-{"name": "Dilbilgisi", "id": 27645, "predecessors": [{"name": "Dilbilim", "id": 142761}], "successors": [{"name": "Dilbilgisi_taslakları", "id": 1415983}, {"name": "Biçimbilim", "id": 2221719}, {"name": "Türkçe_dilbilgisi", "id": 131693}, {"name": "Noktalama_işaretleri", "id": 69608}]}
+{"name": "Dilbilgisi", "id": 27645, "predecessors": [{"name": "Dilbilim", "id": 142761}], "successors": [{"name": "Kendine_göndergeli_önerme", "id": 1760013}, {"name": "Biçimbilim", "id": 2221719}, {"name": "Türkçe_dilbilgisi", "id": 131693}, {"name": "Noktalama_işaretleri", "id": 69608}]}

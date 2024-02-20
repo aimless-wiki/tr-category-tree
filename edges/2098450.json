@@ -1,1 +1,1 @@
-{"name": "Özgür_işletim_sistemleri", "id": 2098450, "predecessors": [{"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Linux", "id": 3198}]}
+{"name": "Özgür_işletim_sistemleri", "id": 2098450, "predecessors": [{"name": "Özgür_sistem_yazılımları", "id": 999174}, {"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Linux", "id": 3198}]}

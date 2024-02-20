@@ -1,1 +1,1 @@
-{"name": "Haritalar", "id": 12619, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Seyir", "id": 432114}, {"name": "Akımlar", "id": 12631}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İnternet_haritalama", "id": 2006044}]}
+{"name": "Haritalar", "id": 12619, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Seyir", "id": 432114}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Dünya_haritaları", "id": 1050476}, {"name": "İnternet_haritalama", "id": 2006044}]}

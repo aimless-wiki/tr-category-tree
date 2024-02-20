@@ -1,1 +1,1 @@
-{"name": "Ethernet", "id": 671459, "predecessors": [{"name": "Bağ_protokolleri", "id": 520026}, {"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Ağ_protokolleri", "id": 520001}], "successors": []}
+{"name": "Ethernet", "id": 671459, "predecessors": [{"name": "Bağ_protokolleri", "id": 520026}, {"name": "Bilgisayar_ağları", "id": 23811}], "successors": []}

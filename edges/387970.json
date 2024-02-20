@@ -1,1 +1,1 @@
-{"name": "Gemi_mühendisliği", "id": 387970, "predecessors": [{"name": "Makine_mühendisliği", "id": 24286}, {"name": "Teknoloji", "id": 6300}], "successors": []}
+{"name": "Gemi_mühendisliği", "id": 387970, "predecessors": [{"name": "Denizcilik", "id": 11154}, {"name": "Makine_mühendisliği", "id": 24286}, {"name": "Su", "id": 195970}], "successors": [{"name": "Deniz_tahrik_sistemleri", "id": 1192113}]}

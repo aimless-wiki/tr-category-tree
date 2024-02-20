@@ -1,1 +1,1 @@
-{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Akustik", "id": 16069}, {"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Otolarengoloji", "id": 1098044}, {"name": "Ses", "id": 12640}, {"name": "Nöroloji", "id": 16347}], "successors": []}
+{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Ses", "id": 12640}], "successors": []}

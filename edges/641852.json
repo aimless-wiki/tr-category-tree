@@ -1,1 +1,1 @@
-{"name": "Sunucu_taslakları", "id": 641852, "predecessors": [{"name": "Kişi_taslakları", "id": 39656}, {"name": "Televizyoncular", "id": 12428}], "successors": [{"name": "Türk_sunucu_taslakları", "id": 1435955}]}
+{"name": "Sunucu_taslakları", "id": 641852, "predecessors": [{"name": "Televizyoncular", "id": 12428}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_sunucu_taslakları", "id": 1435955}]}

@@ -1,1 +1,1 @@
-{"name": "Kümeler_teorisi", "id": 17118, "predecessors": [{"name": "Mantık", "id": 12638}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Sıralama_algoritmaları", "id": 511813}]}
+{"name": "Kümeler_teorisi", "id": 17118, "predecessors": [{"name": "Mantık", "id": 12638}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Küme_teorisinde_genel_kuramlar", "id": 2192968}, {"name": "Sıralama_algoritmaları", "id": 511813}]}

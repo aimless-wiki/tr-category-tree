@@ -1,1 +1,1 @@
-{"name": "Okuma", "id": 1209591, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Edebiyat", "id": 5624}, {"name": "Hobiler", "id": 12753}, {"name": "Beceriler", "id": 873765}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": [{"name": "Okuryazarlık", "id": 1213136}, {"name": "Not_alma", "id": 2216562}]}
+{"name": "Okuma", "id": 1209591, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Bilgi", "id": 12510}, {"name": "Akademi", "id": 583263}], "successors": []}

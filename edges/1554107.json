@@ -1,1 +1,1 @@
-{"name": "Enerji_tasarrufu", "id": 1554107, "predecessors": [{"name": "Sürdürülebilir_teknolojiler", "id": 118754}], "successors": [{"name": "Sürdürülebilir_ulaşım", "id": 964346}]}
+{"name": "Enerji_tasarrufu", "id": 1554107, "predecessors": [{"name": "Sürdürülebilir_teknolojiler", "id": 118754}, {"name": "Enerji", "id": 36245}], "successors": [{"name": "Sürdürülebilir_ulaşım", "id": 964346}]}

@@ -1,1 +1,1 @@
-{"name": "Sosyalizm_tarihi", "id": 1674053, "predecessors": [{"name": "Siyasi_tarih", "id": 1691333}], "successors": [{"name": "Sovyetler_Birliği_tarihi", "id": 816242}]}
+{"name": "Sosyalizm_tarihi", "id": 1674053, "predecessors": [{"name": "Siyasi_tarih", "id": 1691333}, {"name": "Sosyalizm", "id": 6850}], "successors": [{"name": "Sovyetler_Birliği_tarihi", "id": 816242}]}

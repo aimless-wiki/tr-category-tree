@@ -1,1 +1,1 @@
-{"name": "Hidrokarbonlar", "id": 24683, "predecessors": [{"name": "Kimya", "id": 3599}], "successors": [{"name": "Alkanlar", "id": 24676}, {"name": "Alkenler", "id": 25230}, {"name": "Alkinler", "id": 699993}]}
+{"name": "Hidrokarbonlar", "id": 24683, "predecessors": [{"name": "Organik_bileşikler", "id": 23181}], "successors": [{"name": "Alkinler", "id": 699993}]}

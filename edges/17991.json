@@ -1,1 +1,1 @@
-{"name": "Nörotransmitterler", "id": 17991, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Nöroloji", "id": 16347}, {"name": "Sinir_sistemi", "id": 76923}], "successors": [{"name": "Opioidler", "id": 429794}, {"name": "NMDA_reseptör_antagonistleri", "id": 3344804}]}
+{"name": "Nörotransmitterler", "id": 17991, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Sinir_sistemi", "id": 76923}], "successors": [{"name": "Opioidler", "id": 429794}]}

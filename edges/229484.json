@@ -1,1 +1,1 @@
-{"name": "İşaretleme_dilleri", "id": 229484, "predecessors": [{"name": "Bilgisayar_dosya_biçimleri", "id": 20982}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Grafik_tasarım", "id": 89504}], "successors": []}
+{"name": "İşaretleme_dilleri", "id": 229484, "predecessors": [{"name": "Bilgisayar_dosya_biçimleri", "id": 20982}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Grafik_tasarım", "id": 89504}], "successors": [{"name": "TeX", "id": 236386}]}

@@ -1,1 +1,1 @@
-{"name": "Sendikacılar", "id": 197169, "predecessors": [{"name": "İş", "id": 12610}, {"name": "Meslekler", "id": 12752}, {"name": "Aktivizm", "id": 16802}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_sendikacılar", "id": 38010}]}
+{"name": "Sendikacılar", "id": 197169, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_sendikacılar", "id": 38010}]}

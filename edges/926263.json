@@ -1,1 +1,1 @@
-{"name": "The_New_York_Times", "id": 926263, "predecessors": [{"name": "New_York_gazeteleri", "id": 1712486}], "successors": [{"name": "The_New_York_Times_kişileri", "id": 2348413}]}
+{"name": "The_New_York_Times", "id": 926263, "predecessors": [{"name": "Pulitzer_Ödülü_alan_gazeteler", "id": 639478}, {"name": "İngilizce_gazeteler", "id": 194890}, {"name": "Medya", "id": 12429}, {"name": "Dünya", "id": 6772}, {"name": "Dünya_tarihi", "id": 1563313}], "successors": []}

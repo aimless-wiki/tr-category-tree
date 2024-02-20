@@ -1,1 +1,1 @@
-{"name": "Davranışsal_bilimler", "id": 648553, "predecessors": [{"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": [{"name": "Psikoloji", "id": 12113}, {"name": "Etoloji", "id": 16895}, {"name": "Sosyobiyoloji", "id": 1305038}, {"name": "Davranışsal_nörobilim", "id": 2370521}]}
+{"name": "Davranışsal_bilimler", "id": 648553, "predecessors": [{"name": "Bilişsel_bilim", "id": 92785}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Psikoloji", "id": 12113}, {"name": "Etoloji", "id": 16895}]}

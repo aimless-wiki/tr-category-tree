@@ -1,1 +1,1 @@
-{"name": "Tekstil_üretim_teknikleri", "id": 599585, "predecessors": [{"name": "Tekstil_terimleri", "id": 547231}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Kumaşlar", "id": 384732}]}
+{"name": "Tekstil_üretim_teknikleri", "id": 599585, "predecessors": [{"name": "Tekstil_terimleri", "id": 547231}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Kumaşlar", "id": 384732}, {"name": "Dokuma", "id": 1382671}]}

@@ -1,1 +1,1 @@
-{"name": "Eşitsizlikler", "id": 786941, "predecessors": [{"name": "Matematik_teoremleri", "id": 611419}], "successors": [{"name": "Sonlu_farklar", "id": 952964}]}
+{"name": "Eşitsizlikler", "id": 786941, "predecessors": [{"name": "Matematik_teoremleri", "id": 611419}, {"name": "Matematiksel_analiz", "id": 12648}], "successors": []}

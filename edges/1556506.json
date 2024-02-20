@@ -1,1 +1,1 @@
-{"name": "Azeri_soylular", "id": 1556506, "predecessors": [{"name": "Azerbaycan", "id": 21085}, {"name": "Feodalizm", "id": 22525}], "successors": [{"name": "Azeri_hanedanlar", "id": 1556541}]}
+{"name": "Azeri_soylular", "id": 1556506, "predecessors": [{"name": "Feodalizm", "id": 22525}, {"name": "Oğuzlar", "id": 110898}], "successors": [{"name": "Azeri_hanedanlar", "id": 1556541}]}

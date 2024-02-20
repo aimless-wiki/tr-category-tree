@@ -1,1 +1,1 @@
-{"name": "Dondurma", "id": 1317607, "predecessors": [{"name": "Dondurulmuş_tatlılar", "id": 2337507}, {"name": "Süt_ürünleri", "id": 64291}, {"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Ara_öğün_yemekleri", "id": 2189649}], "successors": [{"name": "Dondurma_markaları", "id": 1953884}]}
+{"name": "Dondurma", "id": 1317607, "predecessors": [{"name": "Süt_ürünleri", "id": 64291}, {"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Ara_öğün_yemekleri", "id": 2189649}], "successors": [{"name": "Dondurma_markaları", "id": 1953884}]}

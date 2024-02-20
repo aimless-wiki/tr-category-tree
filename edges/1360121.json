@@ -1,1 +1,1 @@
-{"name": "Goya_Ödülü_sahipleri", "id": 1360121, "predecessors": [{"name": "Film_ödülü_sahipleri", "id": 1323249}, {"name": "Sinema_ödülleri", "id": 197553}], "successors": [{"name": "En_İyi_Kadın_Oyuncu_Goya_Ödülü_sahipleri", "id": 2207496}]}
+{"name": "Goya_Ödülü_sahipleri", "id": 1360121, "predecessors": [{"name": "Film_ödülü_sahipleri", "id": 1323249}, {"name": "Goya_Ödülleri", "id": 1415078}], "successors": [{"name": "En_İyi_Kadın_Oyuncu_Goya_Ödülü_sahipleri", "id": 2207496}, {"name": "En_İyi_Yardımcı_Kadın_Oyuncu_Goya_Ödülü_sahipleri", "id": 3294988}]}

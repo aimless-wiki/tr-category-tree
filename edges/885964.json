@@ -1,1 +1,1 @@
-{"name": "Akademisyen_taslakları", "id": 885964, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Üniversite_taslakları", "id": 132941}], "successors": [{"name": "Türk_akademisyen_taslakları", "id": 975483}]}
+{"name": "Akademisyen_taslakları", "id": 885964, "predecessors": [{"name": "Bilim_insanı_taslakları", "id": 1417926}, {"name": "Üniversite_taslakları", "id": 132941}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_akademisyen_taslakları", "id": 975483}]}

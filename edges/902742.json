@@ -1,1 +1,1 @@
-{"name": "Meteoroloji_kavram_ve_fenomenleri", "id": 902742, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Dünya", "id": 6772}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "İklim", "id": 12617}]}
+{"name": "Meteoroloji_kavram_ve_fenomenleri", "id": 902742, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Yeryüzü_fenomenleri", "id": 874590}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "İklim", "id": 12617}]}

@@ -1,1 +1,1 @@
-{"name": "Kişisel_hijyen_ürünleri", "id": 1682195, "predecessors": [{"name": "Hijyen", "id": 86836}], "successors": [{"name": "Kişisel_bakım_markaları", "id": 1894592}, {"name": "Şampuan_markaları", "id": 2082840}]}
+{"name": "Kişisel_hijyen_ürünleri", "id": 1682195, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Temizlik_maddeleri", "id": 949690}], "successors": [{"name": "Kişisel_bakım_markaları", "id": 1894592}, {"name": "Şampuan_markaları", "id": 2082840}, {"name": "Sabun_markaları", "id": 2033789}]}

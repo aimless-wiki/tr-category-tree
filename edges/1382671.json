@@ -1,1 +1,1 @@
-{"name": "Dokuma", "id": 1382671, "predecessors": [{"name": "Beceriler", "id": 873765}, {"name": "Tekstil_sanatları", "id": 901842}, {"name": "Tekstil_terimleri", "id": 547231}, {"name": "Tekstil_üretim_teknikleri", "id": 599585}], "successors": [{"name": "Düğümler", "id": 947724}, {"name": "Sürtünme_düğümleri", "id": 1928703}]}
+{"name": "Dokuma", "id": 1382671, "predecessors": [{"name": "Tekstil_terimleri", "id": 547231}, {"name": "Tekstil_üretim_teknikleri", "id": 599585}, {"name": "Bilgi", "id": 12510}, {"name": "El_sanatları", "id": 94553}], "successors": []}

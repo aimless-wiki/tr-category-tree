@@ -1,1 +1,1 @@
-{"name": "Özgür_sistem_yazılımları", "id": 999174, "predecessors": [{"name": "Sistem_yazılımları", "id": 175932}, {"name": "Özgür_yazılım", "id": 3492}], "successors": [{"name": "X_Pencere_Sistemi", "id": 1386604}]}
+{"name": "Özgür_sistem_yazılımları", "id": 999174, "predecessors": [{"name": "Özgür_yazılım", "id": 3492}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "Özgür_işletim_sistemleri", "id": 2098450}, {"name": "KDE", "id": 71396}, {"name": "Özgür_anında_mesajlaşma_istemcileri", "id": 2211326}]}

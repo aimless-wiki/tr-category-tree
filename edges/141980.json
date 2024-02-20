@@ -1,1 +1,1 @@
-{"name": "Kooperatifler", "id": 141980, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Kültür", "id": 7230}, {"name": "Hukuk", "id": 12115}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}
+{"name": "Kooperatifler", "id": 141980, "predecessors": [{"name": "Sosyoloji", "id": 1145186}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Kültür", "id": 7230}], "successors": []}

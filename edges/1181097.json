@@ -1,1 +1,1 @@
-{"name": "Eski_otomobil_üreticileri", "id": 1181097, "predecessors": [{"name": "Otomobil_üreticileri", "id": 170370}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": []}
+{"name": "Eski_otomobil_üreticileri", "id": 1181097, "predecessors": [{"name": "Otomobil_üreticileri", "id": 170370}, {"name": "Ekonomi", "id": 12356}], "successors": []}

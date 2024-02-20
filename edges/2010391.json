@@ -1,1 +1,1 @@
-{"name": "Güneş_yörüngesindeki_yapay_uydular", "id": 2010391, "predecessors": [{"name": "Yapay_uydular", "id": 278931}], "successors": []}
+{"name": "Güneş_yörüngesindeki_yapay_uydular", "id": 2010391, "predecessors": [{"name": "Güneş", "id": 118749}, {"name": "Uzay_uçuşu", "id": 1017834}, {"name": "Yapay_uydular", "id": 278931}], "successors": []}

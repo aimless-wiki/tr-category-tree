@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_virüsü_taslakları", "id": 2475524, "predecessors": [{"name": "Bilgisayar_taslakları", "id": 42443}, {"name": "Bilgisayar_güvenliği", "id": 182721}], "successors": []}
+{"name": "Bilgisayar_virüsü_taslakları", "id": 2475524, "predecessors": [{"name": "Bilgisayar_taslakları", "id": 42443}, {"name": "Bilgisayar_virüsleri", "id": 598388}], "successors": []}

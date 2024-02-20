@@ -1,1 +1,1 @@
-{"name": "Sanatçı_listeleri", "id": 940809, "predecessors": [{"name": "Uğraşına_göre_kişi_listeleri", "id": 1357115}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Müzisyen_listeleri", "id": 417919}, {"name": "Hollywood_kara_listesi", "id": 1404796}]}
+{"name": "Sanatçı_listeleri", "id": 940809, "predecessors": [{"name": "Uğraşına_göre_kişi_listeleri", "id": 1357115}, {"name": "Kültür_listeleri", "id": 417988}], "successors": [{"name": "Müzisyen_listeleri", "id": 417919}, {"name": "Hollywood_kara_listesi", "id": 1404796}]}

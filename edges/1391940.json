@@ -1,1 +1,1 @@
-{"name": "Bilim_meslekleri", "id": 1391940, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Astronomlar", "id": 1470101}, {"name": "Bilimsel_desinatörler", "id": 2086461}, {"name": "Teorik_bilgisayar_bilimcileri", "id": 1391935}]}
+{"name": "Bilim_meslekleri", "id": 1391940, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Teorik_bilgisayar_bilimcileri", "id": 1391935}]}

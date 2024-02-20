@@ -1,1 +1,1 @@
-{"name": "Sindirim_sistemi", "id": 27604, "predecessors": [{"name": "Gastroenteroloji", "id": 13673}, {"name": "Karın", "id": 79764}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}]}
+{"name": "Sindirim_sistemi", "id": 27604, "predecessors": [{"name": "Karın", "id": 79764}, {"name": "Fizyoloji", "id": 16585}], "successors": []}

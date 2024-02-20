@@ -1,1 +1,1 @@
-{"name": "Sera_gazları", "id": 809139, "predecessors": [{"name": "Hava_kirliliği", "id": 843908}, {"name": "Çevreyi_kirleten_maddeler", "id": 874445}, {"name": "İklim_değişikliği", "id": 402532}], "successors": []}
+{"name": "Sera_gazları", "id": 809139, "predecessors": [{"name": "Gazlar", "id": 13810}, {"name": "Hava_kirliliği", "id": 843908}, {"name": "İklim_değişikliği", "id": 402532}, {"name": "Malzemeler", "id": 12782}], "successors": []}

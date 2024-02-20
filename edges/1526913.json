@@ -1,1 +1,1 @@
-{"name": "Survivor", "id": 1526913, "predecessors": [{"name": "TV8_programları", "id": 2081761}, {"name": "TV8_yarışmaları", "id": 1963850}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "Survivor_yarışmacıları", "id": 2979119}]}
+{"name": "Survivor", "id": 1526913, "predecessors": [{"name": "TV8_yarışmaları", "id": 1963850}, {"name": "Telekomünikasyon", "id": 12616}], "successors": []}

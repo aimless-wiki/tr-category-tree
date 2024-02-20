@@ -1,1 +1,1 @@
-{"name": "Nörofizyoloji", "id": 861610, "predecessors": [{"name": "Fizyoloji", "id": 16585}, {"name": "Nörobilim", "id": 92711}, {"name": "Psikiyatri", "id": 18449}], "successors": [{"name": "Sinir_hücreleri", "id": 1477208}]}
+{"name": "Nörofizyoloji", "id": 861610, "predecessors": [{"name": "Fizyoloji", "id": 16585}, {"name": "Nörobilim", "id": 92711}], "successors": [{"name": "Sinir_hücreleri", "id": 1477208}]}

@@ -1,1 +1,1 @@
-{"name": "Birleşik_Krallık_bilimkurgu_filmleri", "id": 1426278, "predecessors": [{"name": "Birleşik_Krallık_filmleri", "id": 365516}, {"name": "Film_türleri", "id": 104484}, {"name": "Kurgu", "id": 81449}], "successors": []}
+{"name": "Birleşik_Krallık_bilimkurgu_filmleri", "id": 1426278, "predecessors": [{"name": "Birleşik_Krallık_filmleri", "id": 365516}, {"name": "Medya", "id": 12429}, {"name": "Avrupa_edebiyatı", "id": 103894}], "successors": [{"name": "Birleşik_Krallık_bilimkurgu_aksiyon_filmleri", "id": 2466651}]}

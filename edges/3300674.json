@@ -1,1 +1,1 @@
-{"name": "Antik_Roma_savaş_dolaşım_şablonları", "id": 3300674, "predecessors": [{"name": "Antik_Roma_dolaşım_şablonları", "id": 3300673}, {"name": "Askeriye_şablonları", "id": 612158}], "successors": []}
+{"name": "Antik_Roma_savaş_dolaşım_şablonları", "id": 3300674, "predecessors": [{"name": "Askeriye", "id": 39898}, {"name": "Antik_Roma", "id": 18018}], "successors": []}

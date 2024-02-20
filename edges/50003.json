@@ -1,1 +1,1 @@
-{"name": "Fabllar", "id": 50003, "predecessors": [{"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Fabl_yazarları", "id": 2339691}]}
+{"name": "Fabllar", "id": 50003, "predecessors": [{"name": "Kurgu", "id": 81449}, {"name": "Bilgi", "id": 12510}], "successors": []}
