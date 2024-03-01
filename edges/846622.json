@@ -1,1 +1,1 @@
-{"name": "Stand-up_komedyenler", "id": 846622, "predecessors": [{"name": "Gösteri_sanatçıları", "id": 1926254}, {"name": "Mizah", "id": 14534}], "successors": [{"name": "Amerikalı_stand-up_komedyenler", "id": 846624}, {"name": "Türk_stand-up_komedyenler", "id": 846708}]}
+{"name": "Stand-up_komedyenler", "id": 846622, "predecessors": [{"name": "Gösteri_sanatçıları", "id": 1926254}, {"name": "Film_türleri", "id": 104484}], "successors": [{"name": "Amerikalı_stand-up_komedyenler", "id": 846624}, {"name": "Türk_stand-up_komedyenler", "id": 846708}]}

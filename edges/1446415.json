@@ -1,1 +1,1 @@
-{"name": "Gözlemsel_astronomi", "id": 1446415, "predecessors": [{"name": "Astronomi", "id": 12746}], "successors": [{"name": "Teleskoplar", "id": 421937}, {"name": "Spektroskopi", "id": 727220}, {"name": "Astronomik_görüntüleme", "id": 1446406}]}
+{"name": "Gözlemsel_astronomi", "id": 1446415, "predecessors": [{"name": "Astronomi", "id": 12746}], "successors": [{"name": "Teleskoplar", "id": 421937}, {"name": "Spektroskopi", "id": 727220}, {"name": "Astronomi_araştırmaları", "id": 1446404}]}

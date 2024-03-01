@@ -1,1 +1,1 @@
-{"name": "Gaziantep_FK_yabancı_futbolcuları", "id": 2136253, "predecessors": [{"name": "Gaziantep_FK_futbolcuları", "id": 2136251}], "successors": []}
+{"name": "Gaziantep_FK_yabancı_futbolcuları", "id": 2136253, "predecessors": [{"name": "Gaziantep_FK_futbolcuları", "id": 2136251}, {"name": "Türkiye'deki_gurbetçi_futbolcular", "id": 1938536}], "successors": []}

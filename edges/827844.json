@@ -1,1 +1,1 @@
-{"name": "Formula_1_taslakları", "id": 827844, "predecessors": [{"name": "Otomobil_yarışları_taslakları", "id": 827883}], "successors": [{"name": "Formula_1_biyografi_taslakları", "id": 978657}]}
+{"name": "Formula_1_taslakları", "id": 827844, "predecessors": [{"name": "Formula_1", "id": 328752}, {"name": "Otomobil_yarışları_taslakları", "id": 827883}], "successors": [{"name": "Formula_1_biyografi_taslakları", "id": 978657}]}

@@ -1,1 +1,1 @@
-{"name": "Köy_taslakları", "id": 2328822, "predecessors": [{"name": "Coğrafya_taslakları", "id": 39297}, {"name": "Siyasi_coğrafya", "id": 36581}], "successors": [{"name": "Türkiye_köy_taslakları", "id": 1413929}, {"name": "İran_köy_taslakları", "id": 2328831}]}
+{"name": "Köy_taslakları", "id": 2328822, "predecessors": [{"name": "Coğrafya_taslakları", "id": 39297}, {"name": "İnsan_habitatı", "id": 826256}], "successors": [{"name": "Türkiye_köy_taslakları", "id": 1413929}, {"name": "İran_köy_taslakları", "id": 2328831}]}

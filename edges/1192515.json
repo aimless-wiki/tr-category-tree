@@ -1,1 +1,1 @@
-{"name": "Tarihsel_jeoloji", "id": 1192515, "predecessors": [{"name": "Coğrafya_dalları", "id": 204560}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Tarihsel_kıtalar", "id": 1192513}, {"name": "Süperkıtalar", "id": 1523783}]}
+{"name": "Tarihsel_jeoloji", "id": 1192515, "predecessors": [{"name": "Jeoloji", "id": 6635}, {"name": "Coğrafya_dalları", "id": 204560}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Tarihsel_kıtalar", "id": 1192513}, {"name": "Süperkıtalar", "id": 1523783}]}

@@ -1,1 +1,1 @@
-{"name": "Habitatlar", "id": 3514835, "predecessors": [{"name": "Habitat", "id": 370353}, {"name": "Sistem_teorisi", "id": 189068}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "İnsan_habitatı", "id": 826256}]}
+{"name": "Habitatlar", "id": 3514835, "predecessors": [{"name": "Habitat", "id": 370353}, {"name": "Sistem_teorisi", "id": 189068}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "İnsan_habitatı", "id": 826256}]}

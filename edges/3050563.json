@@ -1,1 +1,1 @@
-{"name": "2020_Yaz_Olimpiyatları'nda_jimnastik", "id": 3050563, "predecessors": [{"name": "2020_Yaz_Olimpiyatları'nda_sporlar", "id": 2563546}], "successors": [{"name": "2020_Yaz_Olimpiyatları_jimnastikçileri", "id": 3075386}]}
+{"name": "2020_Yaz_Olimpiyatları'nda_jimnastik", "id": 3050563, "predecessors": [{"name": "2020_Yaz_Olimpiyatları'nda_sporlar", "id": 2563546}, {"name": "Olimpiyatlarda_jimnastik", "id": 336818}], "successors": [{"name": "2020_Yaz_Olimpiyatları_jimnastikçileri", "id": 3075386}]}

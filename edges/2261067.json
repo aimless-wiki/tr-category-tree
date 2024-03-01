@@ -1,1 +1,1 @@
-{"name": "BAFTA_En_İyi_Film_Ödülü_kazananlar", "id": 2261067, "predecessors": [{"name": "BAFTA_Ödülü_kazanan_filmler", "id": 1720987}], "successors": []}
+{"name": "BAFTA_En_İyi_Film_Ödülü_kazananlar", "id": 2261067, "predecessors": [{"name": "BAFTA_Ödülü_kazanan_filmler", "id": 1720987}], "successors": [{"name": "BAFTA_En_İyi_Film_Ödülü_kazanan_yapımcılar", "id": 3769822}]}

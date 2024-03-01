@@ -1,1 +1,1 @@
-{"name": "Antidepresanlar", "id": 41022, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}, {"name": "Psikoterapi", "id": 747068}], "successors": [{"name": "Monoamin_oksidaz_inhibitörleri", "id": 1537109}, {"name": "Trisiklik_antidepresanlar", "id": 3107000}]}
+{"name": "Antidepresanlar", "id": 41022, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}, {"name": "Psikiyatri", "id": 18449}], "successors": [{"name": "Monoamin_oksidaz_inhibitörleri", "id": 1537109}, {"name": "Trisiklik_antidepresanlar", "id": 3107000}]}

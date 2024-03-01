@@ -1,1 +1,1 @@
-{"name": "Zekâ_oyunları", "id": 1690561, "predecessors": [{"name": "Bellek", "id": 102235}], "successors": [{"name": "Satranç", "id": 9601}, {"name": "Rubik_Küpü", "id": 260420}]}
+{"name": "Zekâ_oyunları", "id": 1690561, "predecessors": [{"name": "Bellek", "id": 102235}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Satranç", "id": 9601}, {"name": "Rubik_Küpü", "id": 260420}]}

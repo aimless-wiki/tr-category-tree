@@ -1,1 +1,1 @@
-{"name": "Paris'te_ölenler", "id": 1213550, "predecessors": [{"name": "Fransa'da_ölenler", "id": 1213551}, {"name": "Fiziksel_nicelikler", "id": 181686}], "successors": [{"name": "Paris'te_hastalıktan_ölenler", "id": 2343886}]}
+{"name": "Paris'te_ölenler", "id": 1213550, "predecessors": [{"name": "Avrupa'daki_başkentler", "id": 68727}, {"name": "Fransa'da_ölenler", "id": 1213551}], "successors": [{"name": "Paris'te_hastalıktan_ölenler", "id": 2343886}]}

@@ -1,1 +1,1 @@
-{"name": "İnternet_alan_adları_taslakları", "id": 774121, "predecessors": [{"name": "Bilgisayar_ağları_taslakları", "id": 782364}, {"name": "İnternet_taslakları", "id": 67863}], "successors": []}
+{"name": "İnternet_alan_adları_taslakları", "id": 774121, "predecessors": [{"name": "Bilgisayar_ağları_taslakları", "id": 782364}, {"name": "İnternet_alan_adları", "id": 520248}, {"name": "İnternet_taslakları", "id": 67863}], "successors": []}

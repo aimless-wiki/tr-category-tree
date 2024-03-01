@@ -1,1 +1,1 @@
-{"name": "Çarşılar", "id": 875365, "predecessors": [{"name": "Pazarlama", "id": 37079}], "successors": []}
+{"name": "Çarşılar", "id": 875365, "predecessors": [{"name": "Pazarlama", "id": 37079}, {"name": "Ticaret", "id": 43782}], "successors": []}

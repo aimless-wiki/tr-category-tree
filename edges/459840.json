@@ -1,1 +1,1 @@
-{"name": "Pankreas_kanserinden_ölenler", "id": 459840, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Endokrin_sistem", "id": 76963}], "successors": []}
+{"name": "Pankreas_kanserinden_ölenler", "id": 459840, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}], "successors": []}

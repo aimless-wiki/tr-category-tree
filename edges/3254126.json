@@ -1,1 +1,1 @@
-{"name": "Frekans", "id": 3254126, "predecessors": [{"name": "Dalga_mekaniği", "id": 182654}, {"name": "Fiziksel_nicelikler", "id": 181686}, {"name": "Dinamik", "id": 24842}], "successors": []}
+{"name": "Frekans", "id": 3254126, "predecessors": [{"name": "Akustik", "id": 16069}, {"name": "Dalga_mekaniği", "id": 182654}, {"name": "Fiziksel_nicelikler", "id": 181686}, {"name": "Dinamik", "id": 24842}], "successors": []}

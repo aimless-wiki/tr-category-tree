@@ -1,1 +1,1 @@
-{"name": "Aşk_felsefesi", "id": 1732830, "predecessors": [{"name": "Aşk", "id": 52443}, {"name": "Etik", "id": 24897}, {"name": "Toplum_felsefesi", "id": 10400}, {"name": "Yaşam_felsefesi", "id": 1104025}, {"name": "Vikipedi", "id": 7220}], "successors": []}
+{"name": "Aşk_felsefesi", "id": 1732830, "predecessors": [{"name": "Aşk", "id": 52443}, {"name": "Etik", "id": 24897}, {"name": "Toplum_felsefesi", "id": 10400}, {"name": "Yaşam_felsefesi", "id": 1104025}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yakın_ilişkiler", "id": 1732827}]}

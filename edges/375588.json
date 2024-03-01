@@ -1,1 +1,1 @@
-{"name": "Formula_1_takımları", "id": 375588, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Formula_1_takım_şablonları", "id": 2977658}]}
+{"name": "Formula_1_takımları", "id": 375588, "predecessors": [{"name": "Formula_1", "id": 328752}, {"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Formula_1_takım_şablonları", "id": 2977658}]}

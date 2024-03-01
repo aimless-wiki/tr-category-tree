@@ -1,1 +1,1 @@
-{"name": "Psikiyatri_tarihi", "id": 1621155, "predecessors": [{"name": "Tıp_tarihi", "id": 25751}, {"name": "Psikiyatri_tarihi", "id": 1621155}], "successors": [{"name": "Psikiyatri_tarihi", "id": 1621155}]}
+{"name": "Psikiyatri_tarihi", "id": 1621155, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Tıp_tarihi", "id": 25751}, {"name": "Psikiyatri_tarihi", "id": 1621155}], "successors": [{"name": "Psikiyatri_tarihi", "id": 1621155}]}

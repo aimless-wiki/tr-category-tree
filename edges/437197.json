@@ -1,1 +1,1 @@
-{"name": "Sulama", "id": 437197, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Yeni_Taş_Çağı", "id": 457749}, {"name": "Su_ve_çevre", "id": 1569079}, {"name": "Bahçe_özellikleri", "id": 2339843}, {"name": "Vikipedi", "id": 7220}, {"name": "Botanik", "id": 9951}], "successors": []}
+{"name": "Sulama", "id": 437197, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Su_ve_çevre", "id": 1569079}, {"name": "Bahçe_özellikleri", "id": 2339843}, {"name": "Vikipedi", "id": 7220}, {"name": "Botanik", "id": 9951}], "successors": []}

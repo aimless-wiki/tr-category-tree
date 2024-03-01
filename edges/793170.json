@@ -1,1 +1,1 @@
-{"name": "Toplu_cinayetler", "id": 793170, "predecessors": [{"name": "Dinî_kavramlar", "id": 1580218}], "successors": [{"name": "Katliamlar", "id": 96266}, {"name": "Soykırım", "id": 874426}, {"name": "11_Eylül_saldırıları", "id": 1204553}, {"name": "Kurguda_toplu_cinayetler", "id": 1738455}]}
+{"name": "Toplu_cinayetler", "id": 793170, "predecessors": [{"name": "Suçlar", "id": 23209}], "successors": [{"name": "Katliamlar", "id": 96266}, {"name": "Soykırım", "id": 874426}, {"name": "11_Eylül_saldırıları", "id": 1204553}, {"name": "Kurguda_toplu_cinayetler", "id": 1738455}]}

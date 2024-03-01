@@ -1,1 +1,1 @@
-{"name": "Balık_yemekleri", "id": 1944523, "predecessors": [{"name": "Deniz_ürünleri", "id": 763357}, {"name": "Dünya", "id": 6772}, {"name": "Kültür", "id": 7230}], "successors": []}
+{"name": "Balık_yemekleri", "id": 1944523, "predecessors": [{"name": "Biyolojik_etkileşimler", "id": 1192810}, {"name": "Deniz_ürünleri", "id": 763357}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Seç-izle_servisleri", "id": 2182527, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": [{"name": "YouTube", "id": 628548}, {"name": "İnternet_televizyonu", "id": 1204017}, {"name": "Aboneli_seç-izle_hizmetleri", "id": 2464764}]}
+{"name": "Seç-izle_servisleri", "id": 2182527, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": [{"name": "YouTube", "id": 628548}, {"name": "İnternet_televizyonu", "id": 1204017}]}

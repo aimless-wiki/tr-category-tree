@@ -1,1 +1,1 @@
-{"name": "Televizyon_uyarlamaları", "id": 1056588, "predecessors": [{"name": "Televizyon_dizileri", "id": 892386}], "successors": []}
+{"name": "Televizyon_uyarlamaları", "id": 1056588, "predecessors": [{"name": "Televizyon_dizileri", "id": 892386}, {"name": "Uyarlama_filmler", "id": 212167}], "successors": [{"name": "Uyarlama_televizyon_dizileri", "id": 1314236}]}

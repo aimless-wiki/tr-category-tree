@@ -1,1 +1,1 @@
-{"name": "Duyu_sistemi", "id": 826190, "predecessors": [{"name": "Algı", "id": 183732}], "successors": [{"name": "Algı", "id": 183732}, {"name": "Ağrı_(tıp)", "id": 1541652}, {"name": "Duyma_sistemi", "id": 1702921}]}
+{"name": "Duyu_sistemi", "id": 826190, "predecessors": [{"name": "Sinir_sistemi", "id": 76923}, {"name": "Algı", "id": 183732}], "successors": [{"name": "Algı", "id": 183732}, {"name": "Ağrı_(tıp)", "id": 1541652}, {"name": "Kulak", "id": 397170}, {"name": "Göz", "id": 16454}, {"name": "Ses", "id": 12640}]}

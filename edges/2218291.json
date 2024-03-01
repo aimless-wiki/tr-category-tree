@@ -1,1 +1,1 @@
-{"name": "Kadın_sanatçılar", "id": 2218291, "predecessors": [{"name": "Kadın", "id": 11846}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Kadın_ressamlar", "id": 2899077}]}
+{"name": "Kadın_sanatçılar", "id": 2218291, "predecessors": [{"name": "Cinsiyet", "id": 956651}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kadın_ressamlar", "id": 2899077}]}

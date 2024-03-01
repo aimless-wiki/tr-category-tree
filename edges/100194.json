@@ -1,1 +1,1 @@
-{"name": "Hava_ve_gök_tanrıçaları", "id": 100194, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Ay_tanrıçaları", "id": 56512}, {"name": "Güneş_tanrıçaları", "id": 71234}]}
+{"name": "Hava_ve_gök_tanrıçaları", "id": 100194, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Ay_tanrıçaları", "id": 56512}, {"name": "Güneş_tanrıçaları", "id": 71234}]}

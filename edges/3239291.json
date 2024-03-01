@@ -1,1 +1,1 @@
-{"name": "2000_Yaz_Olimpiyatları'nda_güreş", "id": 3239291, "predecessors": [{"name": "2000_Yaz_Olimpiyatları'nda_sporlar", "id": 1179070}, {"name": "Egzersiz", "id": 134636}], "successors": []}
+{"name": "2000_Yaz_Olimpiyatları'nda_güreş", "id": 3239291, "predecessors": [{"name": "2000_Yaz_Olimpiyatları'nda_sporlar", "id": 1179070}, {"name": "Olimpiyatlarda_güreş", "id": 221227}, {"name": "Egzersiz", "id": 134636}, {"name": "Güreş_müsabakaları", "id": 1176651}], "successors": []}

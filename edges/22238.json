@@ -1,1 +1,1 @@
-{"name": "Dalgıçlık", "id": 22238, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}, {"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Deniz_biyolojisi", "id": 33536}]}
+{"name": "Dalgıçlık", "id": 22238, "predecessors": [{"name": "Hobiler", "id": 12753}, {"name": "Akademi", "id": 583263}, {"name": "Su", "id": 195970}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Deniz_biyolojisi", "id": 33536}]}

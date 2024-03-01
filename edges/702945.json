@@ -1,1 +1,1 @@
-{"name": "Askerî_darbe_ile_devrilen_liderler", "id": 702945, "predecessors": [{"name": "Siyaset", "id": 12230}], "successors": [{"name": "Darbe_ile_devrilen_hükümdarlar", "id": 3186535}]}
+{"name": "Askerî_darbe_ile_devrilen_liderler", "id": 702945, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Ayaklanmalar", "id": 114903}], "successors": [{"name": "Darbe_ile_devrilen_hükümdarlar", "id": 3186535}]}

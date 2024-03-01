@@ -1,1 +1,1 @@
-{"name": "Ödeme_sistemleri", "id": 1699760, "predecessors": [{"name": "Ekonomi_terimleri", "id": 1659511}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": [{"name": "Mobil_ödemeler", "id": 2134366}, {"name": "Dijital_para_birimleri", "id": 2228380}]}
+{"name": "Ödeme_sistemleri", "id": 1699760, "predecessors": [{"name": "Ekonomi_terimleri", "id": 1659511}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Elektronik_ticaret", "id": 152940}], "successors": [{"name": "Dijital_para_birimleri", "id": 2228380}]}

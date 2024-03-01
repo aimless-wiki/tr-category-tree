@@ -1,1 +1,1 @@
-{"name": "Ankara_ilindeki_tren_istasyonları", "id": 1555595, "predecessors": [{"name": "Ankara_ilinde_demiryolu_ulaşımı", "id": 2342847}, {"name": "Türkiye'deki_şehirler", "id": 81605}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Başkentray_istasyonları", "id": 2382239}]}
+{"name": "Ankara_ilindeki_tren_istasyonları", "id": 1555595, "predecessors": [{"name": "Ankara_ilinde_demiryolu_ulaşımı", "id": 2342847}, {"name": "Avrupa'daki_başkentler", "id": 68727}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Başkentray_istasyonları", "id": 2382239}]}

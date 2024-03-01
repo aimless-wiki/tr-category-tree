@@ -1,1 +1,1 @@
-{"name": "Cinsel_yolla_bulaşan_hastalıklar", "id": 86216, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Üreme_ve_gelişme", "id": 125214}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}
+{"name": "Cinsel_yolla_bulaşan_hastalıklar", "id": 86216, "predecessors": [{"name": "Üreme_sistemi", "id": 76949}, {"name": "1758'de_tanımlanan_omurgalılar", "id": 2228687}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}

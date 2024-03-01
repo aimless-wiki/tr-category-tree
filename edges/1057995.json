@@ -1,1 +1,1 @@
-{"name": "Zamanda_yolculuk_filmleri", "id": 1057995, "predecessors": [{"name": "Kurguda_zamanda_yolculuk", "id": 1057996}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Amerika_Birleşik_Devletleri_zamanda_yolculuk_filmleri", "id": 1057998}]}
+{"name": "Zamanda_yolculuk_filmleri", "id": 1057995, "predecessors": [{"name": "Kurguda_zamanda_yolculuk", "id": 1057996}, {"name": "Film_türleri", "id": 104484}], "successors": [{"name": "Amerika_Birleşik_Devletleri_zamanda_yolculuk_filmleri", "id": 1057998}]}

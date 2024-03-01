@@ -1,1 +1,1 @@
-{"name": "TV8_yarışmaları", "id": 1963850, "predecessors": [{"name": "Yarışma_programları", "id": 199962}], "successors": [{"name": "Survivor", "id": 1526913}]}
+{"name": "TV8_yarışmaları", "id": 1963850, "predecessors": [{"name": "TV8_programları", "id": 2081761}, {"name": "Yarışma_programları", "id": 199962}, {"name": "Türkçe_televizyon_programları", "id": 1725447}], "successors": [{"name": "Survivor", "id": 1526913}]}

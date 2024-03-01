@@ -1,1 +1,1 @@
-{"name": "Cilt_bakımı", "id": 2443313, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Algı", "id": 183732}], "successors": []}
+{"name": "Cilt_bakımı", "id": 2443313, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Algı", "id": 183732}, {"name": "Dermatoloji", "id": 11352}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Deniz_uçakları_ve_uçan_gemiler", "id": 1061190, "predecessors": [{"name": "Su", "id": 195970}, {"name": "Teknoloji", "id": 6300}, {"name": "Arazi_taşıtları", "id": 1011625}, {"name": "Dünya_atmosferi", "id": 1777244}], "successors": []}
+{"name": "Deniz_uçakları_ve_uçan_gemiler", "id": 1061190, "predecessors": [{"name": "Su", "id": 195970}, {"name": "Teknoloji", "id": 6300}, {"name": "Arazi_taşıtları", "id": 1011625}, {"name": "Tasarım", "id": 14462}], "successors": []}

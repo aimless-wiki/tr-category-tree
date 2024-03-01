@@ -1,1 +1,1 @@
-{"name": "Çelik", "id": 1076387, "predecessors": [{"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Demir", "id": 458558}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kaynak", "id": 404626}]}
+{"name": "Çelik", "id": 1076387, "predecessors": [{"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Elementler", "id": 9826}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kaynak", "id": 404626}]}

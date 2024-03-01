@@ -1,1 +1,1 @@
-{"name": "Jeodezi", "id": 13451, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Ölçüm", "id": 15451}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Topoğrafya", "id": 421613}]}
+{"name": "Jeodezi", "id": 13451, "predecessors": [{"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Jeofizik", "id": 16880}, {"name": "Kartografi", "id": 103853}, {"name": "Ölçüm", "id": 15451}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Topoğrafya", "id": 421613}]}

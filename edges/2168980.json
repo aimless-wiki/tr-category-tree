@@ -1,1 +1,1 @@
-{"name": "Taht_talipleri", "id": 2168980, "predecessors": [{"name": "Kraliyet_hanedanları", "id": 886099}, {"name": "Devlet_başkanları", "id": 190780}, {"name": "Feodalizm", "id": 22525}], "successors": [{"name": "Osmanlı_şehzadeleri", "id": 205732}, {"name": "Antipapalar", "id": 2039507}]}
+{"name": "Taht_talipleri", "id": 2168980, "predecessors": [{"name": "Feodalizm", "id": 22525}, {"name": "Hanedanlar", "id": 811303}], "successors": [{"name": "Osmanlı_şehzadeleri", "id": 205732}]}

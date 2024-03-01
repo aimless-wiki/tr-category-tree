@@ -1,1 +1,1 @@
-{"name": "Yarış_oyunları", "id": 411685, "predecessors": [{"name": "Gazetecilik", "id": 15750}], "successors": [{"name": "Need_for_Speed_oyunları", "id": 1011094}, {"name": "Gran_Turismo", "id": 1161164}]}
+{"name": "Yarış_oyunları", "id": 411685, "predecessors": [{"name": "Simülasyon_oyunları", "id": 138562}, {"name": "Gazetecilik", "id": 15750}], "successors": [{"name": "Need_for_Speed_oyunları", "id": 1011094}, {"name": "Gran_Turismo", "id": 1161164}]}

@@ -1,1 +1,1 @@
-{"name": "Dev_gezegenler", "id": 2767549, "predecessors": [{"name": "Gezegen_türleri", "id": 849257}], "successors": []}
+{"name": "Dev_gezegenler", "id": 2767549, "predecessors": [{"name": "Gezegen_türleri", "id": 849257}], "successors": [{"name": "Jüpiter", "id": 7629}, {"name": "Satürn'ün_doğal_uyduları", "id": 278948}]}

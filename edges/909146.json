@@ -1,1 +1,1 @@
-{"name": "FK_Astana_futbolcuları", "id": 909146, "predecessors": [{"name": "Asya_tarihi", "id": 12668}], "successors": []}
+{"name": "FK_Astana_futbolcuları", "id": 909146, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}, {"name": "Asya_tarihi", "id": 12668}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Semptom_ve_belirtiler:_Sindirim_sistemi_ve_karın", "id": 3689107, "predecessors": [{"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Antiemetikler", "id": 354569}]}
+{"name": "Semptom_ve_belirtiler:_Sindirim_sistemi_ve_karın", "id": 3689107, "predecessors": [{"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}], "successors": [{"name": "Antiemetikler", "id": 354569}]}

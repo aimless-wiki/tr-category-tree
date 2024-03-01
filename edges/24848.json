@@ -1,1 +1,1 @@
-{"name": "Uyarıcılar", "id": 24848, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}, {"name": "Uyuşturucu_maddeler", "id": 40251}], "successors": [{"name": "Amfetaminler", "id": 92375}, {"name": "Tütün", "id": 40238}, {"name": "Çay", "id": 127567}]}
+{"name": "Uyarıcılar", "id": 24848, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "Amfetaminler", "id": 92375}, {"name": "Tütün", "id": 40238}, {"name": "Çay", "id": 127567}]}

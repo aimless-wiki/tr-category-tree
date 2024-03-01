@@ -1,1 +1,1 @@
-{"name": "İslam_ilimleri", "id": 77433, "predecessors": [{"name": "İslam_ilahiyatı", "id": 306886}, {"name": "Din", "id": 7198}, {"name": "İslam", "id": 13382}], "successors": [{"name": "Fıkıh", "id": 1590445}]}
+{"name": "İslam_ilimleri", "id": 77433, "predecessors": [{"name": "İslam_ilahiyatı", "id": 306886}, {"name": "Din", "id": 7198}], "successors": [{"name": "Hadis_ilmi", "id": 181761}, {"name": "Fıkıh", "id": 1590445}]}

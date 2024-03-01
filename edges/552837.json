@@ -1,1 +1,1 @@
-{"name": "Hikâye_uyarlamaları", "id": 552837, "predecessors": [{"name": "Edebiyat_uyarlamaları", "id": 1117730}], "successors": [{"name": "Sinemaya_uyarlanmış_hikâyeler", "id": 893383}]}
+{"name": "Hikâye_uyarlamaları", "id": 552837, "predecessors": [{"name": "Edebiyat_uyarlamaları", "id": 1117730}, {"name": "Uyarlama_filmler", "id": 212167}], "successors": [{"name": "Sinemaya_uyarlanmış_hikâyeler", "id": 893383}]}

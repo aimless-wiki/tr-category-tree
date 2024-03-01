@@ -1,1 +1,1 @@
-{"name": "Suikast_sonucu_ölen_devlet_başkanları", "id": 1313750, "predecessors": [{"name": "Devlet_başkanları", "id": 190780}, {"name": "Suikast_sonucu_ölen_siyasetçiler", "id": 1317634}, {"name": "Suikast_sonucu_ölenler", "id": 189450}], "successors": []}
+{"name": "Suikast_sonucu_ölen_devlet_başkanları", "id": 1313750, "predecessors": [{"name": "Devlet_başkanları", "id": 190780}, {"name": "Suikast_sonucu_ölen_siyasetçiler", "id": 1317634}, {"name": "Suikast_sonucu_ölenler", "id": 189450}], "successors": [{"name": "Suikast_sonucu_ölen_hükümdarlar", "id": 658233}]}

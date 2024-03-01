@@ -1,1 +1,1 @@
-{"name": "Maliye", "id": 15269, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Maliye", "id": 15269, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Maliye_bakanları", "id": 1083246}, {"name": "Hazine_ve_Maliye_Bakanlığı_(Türkiye)", "id": 2342678}, {"name": "Fransa_maliye_bakanları", "id": 1451401}]}

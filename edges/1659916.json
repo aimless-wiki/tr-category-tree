@@ -1,1 +1,1 @@
-{"name": "İstiklâl_mahkemeleri_sanıkları", "id": 1659916, "predecessors": [{"name": "Türk_hukuk_sistemi", "id": 402512}], "successors": [{"name": "İzmir_Suikastı_sanıkları", "id": 404211}]}
+{"name": "İstiklâl_mahkemeleri_sanıkları", "id": 1659916, "predecessors": [{"name": "Türk_hukuk_sistemi", "id": 402512}, {"name": "Hukuk_terimleri", "id": 142643}], "successors": [{"name": "İzmir_Suikastı_sanıkları", "id": 404211}]}

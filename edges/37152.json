@@ -1,1 +1,1 @@
-{"name": "Futbol_terimleri", "id": 37152, "predecessors": [{"name": "Takım_sporları", "id": 78371}], "successors": []}
+{"name": "Futbol_terimleri", "id": 37152, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}], "successors": [{"name": "Kaleci_futbolcular", "id": 1323846}, {"name": "Forvet_futbolcular", "id": 1324827}, {"name": "Orta_saha_futbolcuları", "id": 1325195}, {"name": "Defans_futbolcuları", "id": 1355074}, {"name": "Rezerv_Lig", "id": 3394344}, {"name": "Kadın_forvet_futbolcular", "id": 2552092}]}

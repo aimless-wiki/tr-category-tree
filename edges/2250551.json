@@ -1,1 +1,1 @@
-{"name": "Windows_iletişim_ve_hizmetleri", "id": 2250551, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}], "successors": []}
+{"name": "Windows_iletişim_ve_hizmetleri", "id": 2250551, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Windows_bileşenleri", "id": 1797969}], "successors": []}

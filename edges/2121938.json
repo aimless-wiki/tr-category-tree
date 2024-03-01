@@ -1,1 +1,1 @@
-{"name": "Elektronik_spor_oyunları", "id": 2121938, "predecessors": [{"name": "Video_oyunları", "id": 450124}, {"name": "Video_oyunu_kültürü", "id": 456561}], "successors": []}
+{"name": "Elektronik_spor_oyunları", "id": 2121938, "predecessors": [{"name": "Video_oyunu_kültürü", "id": 456561}], "successors": [{"name": "Counter_Strike_müsabakaları", "id": 3309225}, {"name": "Counter-Strike_takımları", "id": 2303120}, {"name": "FIFA_(seri)_takımları", "id": 2303122}]}

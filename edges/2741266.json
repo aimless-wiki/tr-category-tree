@@ -1,1 +1,1 @@
-{"name": "Avrupa_Güreş_Şampiyonası_madalyalı_güreşçiler", "id": 2741266, "predecessors": [{"name": "Avrupa_Güreş_Şampiyonası", "id": 845771}, {"name": "Spor_ödülleri", "id": 630996}, {"name": "Felsefe", "id": 6586}], "successors": []}
+{"name": "Avrupa_Güreş_Şampiyonası_madalyalı_güreşçiler", "id": 2741266, "predecessors": [{"name": "Avrupa_Güreş_Şampiyonası", "id": 845771}, {"name": "Spor_ödülleri", "id": 630996}], "successors": [{"name": "Avrupa_şampiyonu_güreşçiler", "id": 3297425}]}

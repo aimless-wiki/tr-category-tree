@@ -1,1 +1,1 @@
-{"name": "Mektup_yazarları", "id": 1120093, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Vikipedi", "id": 7220}], "successors": []}
+{"name": "Mektup_yazarları", "id": 1120093, "predecessors": [{"name": "Mektuplar", "id": 389233}, {"name": "Medya", "id": 12429}, {"name": "Vikipedi", "id": 7220}], "successors": []}

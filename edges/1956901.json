@@ -1,1 +1,1 @@
-{"name": "Böbrek_hastalıkları", "id": 1956901, "predecessors": [{"name": "Endokrin_sistem", "id": 76963}], "successors": [{"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457}]}
+{"name": "Böbrek_hastalıkları", "id": 1956901, "predecessors": [{"name": "Endokrin_sistem", "id": 76963}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457}]}

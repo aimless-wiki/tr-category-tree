@@ -1,1 +1,1 @@
-{"name": "Organize_suç_örgütleri", "id": 1570427, "predecessors": [{"name": "Suçlar", "id": 23209}, {"name": "Suç", "id": 23210}], "successors": [{"name": "Mafya_filmleri", "id": 151274}]}
+{"name": "Organize_suç_örgütleri", "id": 1570427, "predecessors": [{"name": "Organize_suçlar", "id": 98097}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "Uyuşturucu_kartelleri", "id": 3726778}, {"name": "Mafya_filmleri", "id": 151274}, {"name": "Meksika'daki_çeteler", "id": 2213891}]}

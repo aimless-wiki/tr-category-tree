@@ -1,1 +1,1 @@
-{"name": "Aksiyon_televizyon_dizilerinin_bölüm_listeleri", "id": 2136494, "predecessors": [{"name": "Televizyon_kanallarının_program_listeleri", "id": 1319509}, {"name": "Anlatıbilim", "id": 894938}], "successors": []}
+{"name": "Aksiyon_televizyon_dizilerinin_bölüm_listeleri", "id": 2136494, "predecessors": [{"name": "Televizyon_dizileri", "id": 892386}, {"name": "Anlatıbilim", "id": 894938}], "successors": []}

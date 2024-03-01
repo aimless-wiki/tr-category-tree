@@ -1,1 +1,1 @@
-{"name": "Yıldız_olayları", "id": 1540663, "predecessors": [{"name": "Yıldız_gökbilimi", "id": 810477}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Süpernovalar", "id": 801709}, {"name": "Kara_delikler", "id": 1445071}]}
+{"name": "Yıldız_olayları", "id": 1540663, "predecessors": [{"name": "Fiziksel_olaylar", "id": 182536}, {"name": "Yıldız_gökbilimi", "id": 810477}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Süpernovalar", "id": 801709}, {"name": "Kara_delikler", "id": 1445071}]}

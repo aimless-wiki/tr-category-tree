@@ -1,1 +1,1 @@
-{"name": "İslam_edebiyatı", "id": 1620910, "predecessors": [{"name": "İslam_sanatı", "id": 1401905}], "successors": [{"name": "Tasavvuf_edebiyatı", "id": 65446}, {"name": "Sünni_edebiyatı", "id": 1502985}, {"name": "Şii_edebiyatı", "id": 1897429}, {"name": "İslam_dini_metinleri", "id": 68157}]}
+{"name": "İslam_edebiyatı", "id": 1620910, "predecessors": [{"name": "İslam_sanatı", "id": 1401905}, {"name": "Din", "id": 7198}], "successors": [{"name": "Risale-i_Nur", "id": 68874}, {"name": "Hadisler", "id": 77415}]}

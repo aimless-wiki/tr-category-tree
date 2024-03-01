@@ -1,1 +1,1 @@
-{"name": "Hint_taslakları", "id": 1299379, "predecessors": [{"name": "Hindistan_taslakları", "id": 265293}, {"name": "Kültürel_antropoloji", "id": 459007}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Hint_oyuncu_taslakları", "id": 1299375}, {"name": "Hint_yazar_taslakları", "id": 2454600}]}
+{"name": "Hint_taslakları", "id": 1299379, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Hint_oyuncu_taslakları", "id": 1299375}, {"name": "Hint_yazar_taslakları", "id": 2454600}]}

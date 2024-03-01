@@ -1,1 +1,1 @@
-{"name": "Spor_giyim_şirketleri", "id": 170091, "predecessors": [{"name": "Spor_ekipmanları", "id": 1253633}, {"name": "Tekstil", "id": 72859}], "successors": []}
+{"name": "Spor_giyim_şirketleri", "id": 170091, "predecessors": [{"name": "Tekstil_markaları", "id": 169853}, {"name": "Spor_ekipmanları", "id": 1253633}, {"name": "Tekstil", "id": 72859}], "successors": []}

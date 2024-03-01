@@ -1,1 +1,1 @@
-{"name": "Psikoz", "id": 35945, "predecessors": [{"name": "Anormal_psikoloji", "id": 88788}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Şizofreni", "id": 92587}]}
+{"name": "Psikoz", "id": 35945, "predecessors": [{"name": "Anormal_psikoloji", "id": 88788}], "successors": [{"name": "Şizofreni", "id": 92587}]}

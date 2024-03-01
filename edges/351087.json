@@ -1,1 +1,1 @@
-{"name": "Sunucular_(bilgisayar)", "id": 351087, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_türleri", "id": 23111}, {"name": "Yazılım", "id": 3493}, {"name": "Ağ_mimarisi", "id": 520002}], "successors": []}
+{"name": "Sunucular_(bilgisayar)", "id": 351087, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_türleri", "id": 23111}, {"name": "Yazılım", "id": 3493}, {"name": "Ağ_mimarisi", "id": 520002}], "successors": [{"name": "Windows_Server", "id": 351071}]}

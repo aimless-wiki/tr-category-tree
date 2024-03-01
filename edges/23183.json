@@ -1,1 +1,1 @@
-{"name": "Polimer_kimyası", "id": 23183, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Malzeme_bilimi", "id": 13741}], "successors": [{"name": "Polimerler", "id": 23179}, {"name": "Monomerler", "id": 1499408}, {"name": "Termoplastikler", "id": 1322545}]}
+{"name": "Polimer_kimyası", "id": 23183, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Malzeme_bilimi", "id": 13741}], "successors": [{"name": "Polimerler", "id": 23179}, {"name": "Monomerler", "id": 1499408}]}

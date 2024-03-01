@@ -1,1 +1,1 @@
-{"name": "Amerikalı_astronotlar", "id": 565293, "predecessors": [{"name": "NASA_kişileri", "id": 1726982}, {"name": "Dünya_atmosferi", "id": 1777244}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}], "successors": [{"name": "Apollo_astronotları", "id": 2127260}]}
+{"name": "Amerikalı_astronotlar", "id": 565293, "predecessors": [{"name": "NASA_kişileri", "id": 1726982}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Apollo_astronotları", "id": 2127260}]}

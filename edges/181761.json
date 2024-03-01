@@ -1,1 +1,1 @@
-{"name": "Hadis_ilmi", "id": 181761, "predecessors": [{"name": "Hadisler", "id": 77415}], "successors": [{"name": "Hadisler", "id": 77415}, {"name": "Hadis_kitapları", "id": 475244}, {"name": "Hadis_âlimleri", "id": 1624312}]}
+{"name": "Hadis_ilmi", "id": 181761, "predecessors": [{"name": "Hadisler", "id": 77415}, {"name": "İslam_ilimleri", "id": 77433}], "successors": [{"name": "Hadisler", "id": 77415}, {"name": "Hadis_kitapları", "id": 475244}]}

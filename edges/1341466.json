@@ -1,1 +1,1 @@
-{"name": "Nükleer_kazalar", "id": 1341466, "predecessors": [{"name": "Nükleer_teknoloji", "id": 204034}, {"name": "Radyoaktivite", "id": 405084}, {"name": "Çevre_sorunları", "id": 1019140}, {"name": "Sanayi", "id": 21457}, {"name": "Enerji", "id": 36245}], "successors": []}
+{"name": "Nükleer_kazalar", "id": 1341466, "predecessors": [{"name": "Nükleer_teknoloji", "id": 204034}, {"name": "Çevre_sorunları", "id": 1019140}, {"name": "Sanayi", "id": 21457}, {"name": "Enerji", "id": 36245}], "successors": []}
