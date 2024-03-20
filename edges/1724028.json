@@ -1,1 +1,1 @@
-{"name": "Kalite_yönetimi", "id": 1724028, "predecessors": [{"name": "Yapım,_üretim_ve_imalat", "id": 907045}, {"name": "Vikipedi", "id": 7220}], "successors": []}
+{"name": "Kalite_yönetimi", "id": 1724028, "predecessors": [{"name": "Kalite", "id": 198200}, {"name": "Yapım,_üretim_ve_imalat", "id": 907045}, {"name": "Düşünce", "id": 92725}, {"name": "Yönetim", "id": 37094}], "successors": []}

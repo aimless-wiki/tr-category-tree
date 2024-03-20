@@ -1,1 +1,1 @@
-{"name": "Güneş_Sistemi", "id": 6918, "predecessors": [{"name": "Astronomi", "id": 12746}], "successors": [{"name": "Güneş_Sistemi_şablonları", "id": 1583563}, {"name": "Güneş_Sistemi'nin_mekaniği", "id": 1709272}]}
+{"name": "Güneş_Sistemi", "id": 6918, "predecessors": [{"name": "Astronomi", "id": 12746}, {"name": "Yerel_Kabarcık", "id": 2135231}], "successors": [{"name": "Güneş_Sistemi_şablonları", "id": 1583563}]}

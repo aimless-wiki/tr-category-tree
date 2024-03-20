@@ -1,1 +1,1 @@
-{"name": "Teknoloji_felsefecileri", "id": 2333710, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}], "successors": [{"name": "Aristoteles", "id": 898830}]}
+{"name": "Teknoloji_felsefecileri", "id": 2333710, "predecessors": [{"name": "Bilim_felsefecileri", "id": 1034058}, {"name": "Bilim_felsefesi", "id": 58655}], "successors": []}

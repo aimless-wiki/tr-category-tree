@@ -1,1 +1,1 @@
-{"name": "Pestisitler", "id": 591972, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "Bahçecilik", "id": 77155}, {"name": "Biyoloji", "id": 5160}, {"name": "Vikipedi", "id": 7220}], "successors": []}
+{"name": "Pestisitler", "id": 591972, "predecessors": [{"name": "Toksikoloji", "id": 23190}, {"name": "Halk_sağlığı", "id": 734491}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "Bahçecilik", "id": 77155}, {"name": "Biyoloji", "id": 5160}, {"name": "Yeni_Taş_Çağı", "id": 457749}], "successors": []}

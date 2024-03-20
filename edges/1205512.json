@@ -1,1 +1,1 @@
-{"name": "Spor_yaparken_ölenler", "id": 1205512, "predecessors": [{"name": "Egzersiz", "id": 134636}, {"name": "Ölüm", "id": 25717}], "successors": [{"name": "Maçta_ölen_futbolcular", "id": 1205511}]}
+{"name": "Spor_yaparken_ölenler", "id": 1205512, "predecessors": [{"name": "Egzersiz", "id": 134636}, {"name": "Zaman", "id": 15364}], "successors": [{"name": "Maçta_ölen_futbolcular", "id": 1205511}]}

@@ -1,1 +1,1 @@
-{"name": "Kimyasal_reaksiyonlar", "id": 37113, "predecessors": [{"name": "Kimyasal_işlemler", "id": 46315}], "successors": [{"name": "Organik_reaksiyonlar", "id": 402342}, {"name": "Kataliz", "id": 1197196}]}
+{"name": "Kimyasal_reaksiyonlar", "id": 37113, "predecessors": [{"name": "Kimyasal_işlemler", "id": 46315}], "successors": [{"name": "Kataliz", "id": 1197196}]}

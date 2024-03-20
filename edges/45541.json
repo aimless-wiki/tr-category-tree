@@ -1,1 +1,1 @@
-{"name": "Vergiler", "id": 45541, "predecessors": [{"name": "Devlet_kurumları", "id": 1016288}, {"name": "Hükûmet", "id": 1580223}], "successors": [{"name": "Türkiye'de_vergiler", "id": 972363}, {"name": "Osmanlı_Devleti'nde_vergiler", "id": 981141}]}
+{"name": "Vergiler", "id": 45541, "predecessors": [{"name": "Finans", "id": 14121}, {"name": "Anayasa_hukuku", "id": 142626}, {"name": "Hükûmet", "id": 1580223}, {"name": "Para", "id": 15709}], "successors": [{"name": "Osmanlı_Devleti'nde_vergiler", "id": 981141}]}

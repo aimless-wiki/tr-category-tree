@@ -1,1 +1,1 @@
-{"name": "Amino_asitler", "id": 24845, "predecessors": [{"name": "Biyomoleküller", "id": 410607}], "successors": []}
+{"name": "Amino_asitler", "id": 24845, "predecessors": [{"name": "Aminler", "id": 24868}, {"name": "Biyomoleküller", "id": 410607}, {"name": "Karboksilik_asitler", "id": 86059}, {"name": "Atom_fiziği", "id": 14246}], "successors": []}

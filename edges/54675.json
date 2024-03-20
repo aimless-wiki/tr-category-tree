@@ -1,1 +1,1 @@
-{"name": "İslam_şablonları", "id": 54675, "predecessors": [{"name": "Din", "id": 7198}], "successors": [{"name": "İslam_dolaşım_şablonları", "id": 1663972}, {"name": "İslam_kenar_şablonları", "id": 2169998}]}
+{"name": "İslam_şablonları", "id": 54675, "predecessors": [{"name": "İslam", "id": 13382}, {"name": "Din", "id": 7198}], "successors": [{"name": "İslam_dolaşım_şablonları", "id": 1663972}, {"name": "İslam_kenar_kutusu_şablonları", "id": 2169998}]}

@@ -1,1 +1,1 @@
-{"name": "Kadın_fotoğrafçılar", "id": 2056764, "predecessors": [{"name": "Cinsiyet", "id": 956651}, {"name": "Fotoğrafçılık", "id": 9546}], "successors": []}
+{"name": "Kadın_fotoğrafçılar", "id": 2056764, "predecessors": [{"name": "Fotoğrafçılık", "id": 9546}, {"name": "Cinsiyet", "id": 956651}], "successors": []}

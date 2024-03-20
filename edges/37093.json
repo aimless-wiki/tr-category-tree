@@ -1,1 +1,1 @@
-{"name": "Stratejik_yönetim", "id": 37093, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İşletme_modelleri", "id": 1777634}]}
+{"name": "Stratejik_yönetim", "id": 37093, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "İşletme_modelleri", "id": 1777634}]}

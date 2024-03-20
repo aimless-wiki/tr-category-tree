@@ -1,1 +1,1 @@
-{"name": "Kristalografi", "id": 323952, "predecessors": [{"name": "Malzeme_bilimi", "id": 13741}, {"name": "Yoğun_madde_fiziği", "id": 934571}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Kırınım", "id": 727212}]}
+{"name": "Kristalografi", "id": 323952, "predecessors": [{"name": "Malzeme_bilimi", "id": 13741}, {"name": "Yoğun_madde_fiziği", "id": 934571}, {"name": "Jeoloji", "id": 6635}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Kırınım", "id": 727212}]}

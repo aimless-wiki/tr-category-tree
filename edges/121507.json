@@ -1,1 +1,1 @@
-{"name": "Virüs_hastalıkları", "id": 121507, "predecessors": [{"name": "Viroloji", "id": 16577}], "successors": [{"name": "HIV/AIDS", "id": 57403}, {"name": "Çiçek_hastalığından_ölenler", "id": 1120087}]}
+{"name": "Virüs_hastalıkları", "id": 121507, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Viroloji", "id": 16577}], "successors": [{"name": "HIV/AIDS", "id": 57403}]}

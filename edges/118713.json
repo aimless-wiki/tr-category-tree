@@ -1,1 +1,1 @@
-{"name": "Bira", "id": 118713, "predecessors": [{"name": "Mayalanmış_içkiler", "id": 1033591}], "successors": [{"name": "Bira_yapımı", "id": 118712}, {"name": "Bira_markaları", "id": 1121275}, {"name": "Bira_türleri", "id": 2204845}]}
+{"name": "Bira", "id": 118713, "predecessors": [{"name": "Mayalanmış_içkiler", "id": 1033591}, {"name": "Kuru_yemişler", "id": 88726}], "successors": [{"name": "Bira_yapımı", "id": 118712}, {"name": "Bira_markaları", "id": 1121275}, {"name": "Bira_türleri", "id": 2204845}]}

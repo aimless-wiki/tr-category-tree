@@ -1,1 +1,1 @@
-{"name": "Kıyı_coğrafyası", "id": 877726, "predecessors": [{"name": "Fiziki_coğrafya", "id": 204623}], "successors": []}
+{"name": "Kıyı_coğrafyası", "id": 877726, "predecessors": [{"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}], "successors": [{"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}]}

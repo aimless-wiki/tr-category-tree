@@ -1,1 +1,1 @@
-{"name": "Diyabet", "id": 179716, "predecessors": [{"name": "Metabolik_bozukluklar", "id": 179713}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Diyabetten_ölenler", "id": 1104978}]}
+{"name": "Diyabet", "id": 179716, "predecessors": [{"name": "Tıp_terimleri", "id": 147635}, {"name": "Endokrinoloji", "id": 24445}], "successors": [{"name": "Diyabetten_ölenler", "id": 1104978}]}

@@ -1,1 +1,1 @@
-{"name": "İtalyan_mutfağı", "id": 479931, "predecessors": [{"name": "Akdeniz_mutfağı", "id": 1068852}], "successors": []}
+{"name": "İtalyan_mutfağı", "id": 479931, "predecessors": [{"name": "Akdeniz_mutfağı", "id": 1068852}, {"name": "Avrupa_mutfağı", "id": 370377}, {"name": "Semboller", "id": 35760}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": [{"name": "İtalyan_mutfağındaki_tatlılar", "id": 751265}]}

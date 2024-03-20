@@ -1,1 +1,1 @@
-{"name": "Evrensel_Windows_Platform_uygulamaları", "id": 2163754, "predecessors": [{"name": "Windows_10", "id": 1819681}, {"name": "Windows_8", "id": 1540969}, {"name": "Windows_yazılımları", "id": 544820}], "successors": []}
+{"name": "Evrensel_Windows_Platform_uygulamaları", "id": 2163754, "predecessors": [{"name": "Windows_10", "id": 1819681}, {"name": "Windows_yazılımları", "id": 544820}, {"name": "Microsoft_Windows", "id": 24095}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_bilimi_taslakları", "id": 2237514, "predecessors": [{"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Bilgisayar_taslakları", "id": 42443}], "successors": [{"name": "Bilgisayar_bilimcisi_taslakları", "id": 2447906}]}
+{"name": "Bilgisayar_bilimi_taslakları", "id": 2237514, "predecessors": [{"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Bilgisayar_taslakları", "id": 42443}], "successors": [{"name": "İşletim_sistemi_taslakları", "id": 1528746}, {"name": "Bilgisayar_programlama_taslakları", "id": 2294289}]}

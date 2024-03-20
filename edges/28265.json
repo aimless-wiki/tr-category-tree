@@ -1,1 +1,1 @@
-{"name": "Gelişim_biyolojisi", "id": 28265, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Embriyoloji", "id": 16588}, {"name": "Gelişim_biyolojisi_taslakları", "id": 39753}, {"name": "Üreme_ve_gelişme", "id": 125214}]}
+{"name": "Gelişim_biyolojisi", "id": 28265, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Embriyoloji", "id": 16588}, {"name": "Gelişim_biyolojisi_taslakları", "id": 39753}, {"name": "Üreme_ve_gelişme", "id": 125214}]}

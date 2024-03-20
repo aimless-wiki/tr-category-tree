@@ -1,1 +1,1 @@
-{"name": "Hücresel_solunum", "id": 336837, "predecessors": [{"name": "Metabolizma", "id": 104915}, {"name": "Hayvan_fizyolojisi", "id": 16586}, {"name": "Eğitim", "id": 6773}], "successors": []}
+{"name": "Hücresel_solunum", "id": 336837, "predecessors": [{"name": "Metabolizma", "id": 104915}, {"name": "Biyoloji", "id": 5160}, {"name": "Eğitim", "id": 6773}], "successors": []}

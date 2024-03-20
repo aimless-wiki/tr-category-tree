@@ -1,1 +1,1 @@
-{"name": "Ateist_yazarlar", "id": 105176, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Türk_ateist_yazarlar", "id": 3361626}]}
+{"name": "Ateist_yazarlar", "id": 105176, "predecessors": [{"name": "Ateizm", "id": 80592}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_ateist_yazarlar", "id": 3361626}]}

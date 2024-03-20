@@ -1,1 +1,1 @@
-{"name": "Kuantum_kimyası", "id": 1084259, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Kuantum_mekaniği", "id": 1090710}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Kuantum_kimyası", "id": 1084259, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Kuantum_mekaniği", "id": 1090710}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}

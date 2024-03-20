@@ -1,1 +1,1 @@
-{"name": "Beyin", "id": 120326, "predecessors": [{"name": "Nöroanatomi", "id": 92710}, {"name": "Kafa_ve_boyun", "id": 79745}], "successors": [{"name": "Serebrum", "id": 1668638}]}
+{"name": "Beyin", "id": 120326, "predecessors": [{"name": "Nöroanatomi", "id": 92710}, {"name": "Nöroloji", "id": 16347}, {"name": "Anatomi", "id": 9907}, {"name": "Kafa_ve_boyun", "id": 79745}], "successors": [{"name": "Duygular", "id": 76827}]}

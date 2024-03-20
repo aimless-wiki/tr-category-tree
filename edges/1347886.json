@@ -1,1 +1,1 @@
-{"name": "Zoonoz_hastalıklar", "id": 1347886, "predecessors": [{"name": "Hayvan_hastalıkları", "id": 43570}, {"name": "Biyolojik_etkileşimler", "id": 1192810}], "successors": [{"name": "Veba", "id": 379397}, {"name": "Verem", "id": 768694}]}
+{"name": "Zoonoz_hastalıklar", "id": 1347886, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Hayvan_hastalıkları", "id": 43570}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Veba", "id": 379397}, {"name": "Verem", "id": 768694}]}

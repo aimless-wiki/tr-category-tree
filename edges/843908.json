@@ -1,1 +1,1 @@
-{"name": "Hava_kirliliği", "id": 843908, "predecessors": [{"name": "Atmosfer", "id": 20064}, {"name": "Çevre_kirliliği", "id": 769780}], "successors": [{"name": "Sera_gazları", "id": 809139}, {"name": "Tehlikeli_hava_kirleticileri", "id": 1929013}]}
+{"name": "Hava_kirliliği", "id": 843908, "predecessors": [{"name": "Atmosfer", "id": 20064}, {"name": "Meteoroloji", "id": 13353}, {"name": "Çevre_kirliliği", "id": 769780}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Video_oyunu_dağıtım_şirketleri", "id": 445680, "predecessors": [{"name": "Video_oyunu_şirketleri", "id": 457226}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "THQ_oyunları", "id": 1459991}]}
+{"name": "Video_oyunu_dağıtım_şirketleri", "id": 445680, "predecessors": [{"name": "Video_oyunu_şirketleri", "id": 457226}, {"name": "Ticari_kuruluşlar", "id": 1359708}], "successors": []}

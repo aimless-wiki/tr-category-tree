@@ -1,1 +1,1 @@
-{"name": "Ofis_donanımı", "id": 1942489, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Kişisel_bilgisayarlar", "id": 23110}, {"name": "Ofis_araç_ve_gereçleri", "id": 340519}, {"name": "Kırtasiye", "id": 766693}]}
+{"name": "Ofis_donanımı", "id": 1942489, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Kişisel_bilgisayarlar", "id": 23110}, {"name": "Kırtasiye", "id": 766693}]}

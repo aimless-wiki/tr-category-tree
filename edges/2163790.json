@@ -1,1 +1,1 @@
-{"name": "VoIP_yazılımları", "id": 2163790, "predecessors": [{"name": "Telekomünikasyon_ekipmanları", "id": 546424}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": []}
+{"name": "VoIP_yazılımları", "id": 2163790, "predecessors": [{"name": "Anında_mesajlaşma_istemcileri", "id": 1729649}, {"name": "Telekomünikasyon_ekipmanları", "id": 546424}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Şarap_taslakları", "id": 424928, "predecessors": [{"name": "Meyve_taslakları", "id": 157006}, {"name": "Şarap", "id": 116141}], "successors": []}
+{"name": "Şarap_taslakları", "id": 424928, "predecessors": [{"name": "Meyve_taslakları", "id": 157006}, {"name": "İçecek_taslakları", "id": 637100}, {"name": "Şarap", "id": 116141}], "successors": []}

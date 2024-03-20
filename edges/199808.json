@@ -1,1 +1,1 @@
-{"name": "Arkeoloji_taslakları", "id": 199808, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Tarih_taslakları", "id": 39288}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Arkeolog_taslakları", "id": 885956}]}
+{"name": "Arkeoloji_taslakları", "id": 199808, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Tarih_taslakları", "id": 39288}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Arkeolog_taslakları", "id": 885956}]}

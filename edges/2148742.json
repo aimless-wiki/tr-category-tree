@@ -1,1 +1,1 @@
-{"name": "Ekinler", "id": 2148742, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Bitkiler", "id": 16108}, {"name": "Kuru_yemişler", "id": 88726}], "successors": []}
+{"name": "Ekinler", "id": 2148742, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Bitkiler", "id": 16108}, {"name": "Kuru_yemişler", "id": 88726}], "successors": [{"name": "Kahve", "id": 24904}]}

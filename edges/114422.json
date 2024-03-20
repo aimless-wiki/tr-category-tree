@@ -1,1 +1,1 @@
-{"name": "İşkence_kurbanları", "id": 114422, "predecessors": [{"name": "İşkence", "id": 112982}, {"name": "Ölüm", "id": 25717}], "successors": [{"name": "Nazilerin_Sovyet_savaş_esirlerine_karşı_işledikleri_suçlar", "id": 2470354}]}
+{"name": "İşkence_kurbanları", "id": 114422, "predecessors": [{"name": "İşkence", "id": 112982}, {"name": "Suç", "id": 23210}, {"name": "Ölüm", "id": 25717}], "successors": [{"name": "Nazilerin_Sovyet_savaş_esirlerine_karşı_işledikleri_suçlar", "id": 2470354}, {"name": "Türk_işkence_kurbanları", "id": 2031299}]}

@@ -1,1 +1,1 @@
-{"name": "Gıda_koruma", "id": 1664255, "predecessors": [{"name": "Gıda_bilimi", "id": 1664256}, {"name": "Gıda_güvenliği", "id": 1664258}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Kuru_yiyecekler", "id": 1572753}, {"name": "Yemek_paketleme", "id": 2379720}]}
+{"name": "Gıda_koruma", "id": 1664255, "predecessors": [{"name": "Gıda_güvenliği", "id": 1664258}, {"name": "Bilgi", "id": 12510}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Kuru_yiyecekler", "id": 1572753}, {"name": "Yemek_paketleme", "id": 2379720}]}

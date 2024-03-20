@@ -1,1 +1,1 @@
-{"name": "Sovyet_kadın_siyasetçiler", "id": 2210248, "predecessors": [{"name": "Sovyet_siyasetçiler", "id": 1602686}, {"name": "Cinsiyet", "id": 956651}, {"name": "Sovyet_kadınlar", "id": 1750353}], "successors": []}
+{"name": "Sovyet_kadın_siyasetçiler", "id": 2210248, "predecessors": [{"name": "Sovyet_siyasetçiler", "id": 1602686}, {"name": "Sovyet_kadınlar", "id": 1750353}, {"name": "Cinsiyet", "id": 956651}], "successors": []}

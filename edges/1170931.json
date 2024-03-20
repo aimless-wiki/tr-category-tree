@@ -1,1 +1,1 @@
-{"name": "Ferrari_otomobilleri", "id": 1170931, "predecessors": [{"name": "Lüks_otomobiller", "id": 1503427}, {"name": "Alman_icatları", "id": 449919}, {"name": "İşletme", "id": 21253}], "successors": []}
+{"name": "Ferrari_otomobilleri", "id": 1170931, "predecessors": [{"name": "Lüks_otomobiller", "id": 1503427}, {"name": "Alman_icatları", "id": 449919}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Ferrari_Formula_1_araçları", "id": 1045455}]}

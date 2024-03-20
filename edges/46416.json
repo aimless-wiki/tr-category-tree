@@ -1,1 +1,1 @@
-{"name": "Değerli_taşlar", "id": 46416, "predecessors": [{"name": "Mineraller", "id": 24891}, {"name": "Takılar", "id": 25672}, {"name": "Kayaçlar", "id": 864195}], "successors": []}
+{"name": "Değerli_taşlar", "id": 46416, "predecessors": [{"name": "Kuyumculuk", "id": 46417}, {"name": "Takılar", "id": 25672}, {"name": "Malzemeler", "id": 12782}, {"name": "Kayaçlar", "id": 864195}], "successors": []}

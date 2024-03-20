@@ -1,1 +1,1 @@
-{"name": "Rus_akademisyenler", "id": 334572, "predecessors": [{"name": "Rus_bilim_insanları", "id": 796095}, {"name": "Eğitim", "id": 6773}, {"name": "Kültürel_antropoloji", "id": 459007}], "successors": []}
+{"name": "Rus_akademisyenler", "id": 334572, "predecessors": [{"name": "Rus_bilim_insanları", "id": 796095}, {"name": "Avrupa_ülkeleri", "id": 22318}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "Moskova_Devlet_Üniversitesi_öğretim_üyeleri", "id": 1727260}]}

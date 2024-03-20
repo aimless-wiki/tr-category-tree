@@ -1,1 +1,1 @@
-{"name": "SI_olmayan_metrik_birimler", "id": 1130234, "predecessors": [{"name": "Bilimsel_modelleme", "id": 379806}], "successors": []}
+{"name": "SI_olmayan_metrik_birimler", "id": 1130234, "predecessors": [{"name": "Bilimsel_modelleme", "id": 379806}], "successors": [{"name": "CGS_birim_sistemi", "id": 2491755}]}

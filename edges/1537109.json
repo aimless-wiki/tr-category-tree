@@ -1,1 +1,1 @@
-{"name": "Monoamin_oksidaz_inhibitörleri", "id": 1537109, "predecessors": [{"name": "Antidepresanlar", "id": 41022}], "successors": [{"name": "Tütün", "id": 40238}, {"name": "Çarkıfelek", "id": 2045950}]}
+{"name": "Monoamin_oksidaz_inhibitörleri", "id": 1537109, "predecessors": [{"name": "Antidepresanlar", "id": 41022}, {"name": "Enzimler", "id": 31514}], "successors": [{"name": "Tütün", "id": 40238}, {"name": "Çarkıfelek", "id": 2045950}]}

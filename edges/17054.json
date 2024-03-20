@@ -1,1 +1,1 @@
-{"name": "Retorik", "id": 17054, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Hobiler", "id": 12753}, {"name": "Dilbilim", "id": 142761}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "Aristoteles", "id": 898830}]}
+{"name": "Retorik", "id": 17054, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Dilbilim", "id": 142761}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "İletişim", "id": 12514}, {"name": "Demokrasi", "id": 199931}], "successors": []}

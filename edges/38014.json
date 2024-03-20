@@ -1,1 +1,1 @@
-{"name": "Kimlikler", "id": 38014, "predecessors": [{"name": "Kimlik_doğrulama_yöntemleri", "id": 113874}, {"name": "Analitik_felsefe", "id": 187868}], "successors": []}
+{"name": "Kimlikler", "id": 38014, "predecessors": [{"name": "Kimlik_doğrulama_yöntemleri", "id": 113874}, {"name": "Yönetim", "id": 37094}, {"name": "Mantık", "id": 12638}], "successors": [{"name": "Personae_non_gratae", "id": 1541467}, {"name": "Ülkelerin_vize_politikaları", "id": 1704588}]}

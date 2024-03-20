@@ -1,1 +1,1 @@
-{"name": "Etler", "id": 140838, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Deniz_ürünleri", "id": 763357}, {"name": "Domuz_eti_yemekleri", "id": 2111151}]}
+{"name": "Etler", "id": 140838, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Et_yemekleri", "id": 66195}, {"name": "Deniz_ürünleri", "id": 763357}]}

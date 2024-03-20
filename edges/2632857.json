@@ -1,1 +1,1 @@
-{"name": "Asya'da_COVID-19_pandemisi", "id": 2632857, "predecessors": [{"name": "COVID-19_pandemisi", "id": 2551700}, {"name": "Sağlık_afetleri", "id": 2223276}], "successors": [{"name": "Çin'de_COVID-19_pandemisinden_ölenler", "id": 2656911}]}
+{"name": "Asya'da_COVID-19_pandemisi", "id": 2632857, "predecessors": [{"name": "COVID-19_pandemisi", "id": 2551700}, {"name": "Sağlık_afetleri", "id": 2223276}], "successors": [{"name": "Türkiye'de_COVID-19_pandemisinden_ölenler", "id": 2585265}, {"name": "Çin'de_COVID-19_pandemisinden_ölenler", "id": 2656911}]}

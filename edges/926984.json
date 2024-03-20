@@ -1,1 +1,1 @@
-{"name": "Alzheimer_hastalığından_ölenler", "id": 926984, "predecessors": [{"name": "Alzheimer_hastalığı_olan_kişiler", "id": 1765337}, {"name": "Demanstan_ölenler", "id": 1765343}, {"name": "Anormal_psikoloji", "id": 88788}], "successors": []}
+{"name": "Alzheimer_hastalığından_ölenler", "id": 926984, "predecessors": [{"name": "Alzheimer_hastalığı_olan_kişiler", "id": 1765337}, {"name": "Demanstan_ölenler", "id": 1765343}, {"name": "İnsan_hastalıkları", "id": 86141}, {"name": "Anormal_psikoloji", "id": 88788}], "successors": []}

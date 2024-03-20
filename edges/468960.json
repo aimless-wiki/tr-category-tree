@@ -1,1 +1,1 @@
-{"name": "İngiliz_rock_gitaristleri", "id": 468960, "predecessors": [{"name": "İngiliz_rock_müzisyenleri", "id": 1321819}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": [{"name": "İngiliz_rock_bas_gitaristleri", "id": 1907191}]}
+{"name": "İngiliz_rock_gitaristleri", "id": 468960, "predecessors": [{"name": "İngiliz_gitaristler", "id": 67739}, {"name": "İngiliz_rock_müzisyenleri", "id": 1321819}, {"name": "Sanat_tarzları", "id": 939449}], "successors": [{"name": "İngiliz_rock_bas_gitaristleri", "id": 1907191}]}

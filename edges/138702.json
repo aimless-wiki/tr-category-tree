@@ -1,1 +1,1 @@
-{"name": "Asitler", "id": 138702, "predecessors": [{"name": "Kimyasal_dengeler", "id": 796693}], "successors": [{"name": "İnorganik_asitler", "id": 1528444}, {"name": "Oksitleyici_asitler", "id": 1777921}, {"name": "Karboksilik_asitler", "id": 86059}, {"name": "Organik_sodyum_tuzları", "id": 2355111}]}
+{"name": "Asitler", "id": 138702, "predecessors": [{"name": "Kimyasal_dengeler", "id": 796693}], "successors": [{"name": "İnorganik_asitler", "id": 1528444}, {"name": "Karboksilik_asitler", "id": 86059}, {"name": "Organik_sodyum_tuzları", "id": 2355111}]}

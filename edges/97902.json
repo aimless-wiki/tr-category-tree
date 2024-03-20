@@ -1,1 +1,1 @@
-{"name": "Unix", "id": 97902, "predecessors": [{"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Linux", "id": 3198}, {"name": "Linux_taslakları", "id": 1785473}]}
+{"name": "Unix", "id": 97902, "predecessors": [{"name": "İşletim_sistemleri", "id": 5599}], "successors": [{"name": "Linux", "id": 3198}, {"name": "Unix_yazılımları", "id": 193679}, {"name": "Linux_taslakları", "id": 1785473}, {"name": "MacOS", "id": 457590}]}

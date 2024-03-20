@@ -1,1 +1,1 @@
-{"name": "Ev_kimyasalları", "id": 699996, "predecessors": [{"name": "Ev", "id": 12533}, {"name": "Kimya", "id": 3599}, {"name": "Güvenlik", "id": 36571}], "successors": [{"name": "Kozmetik_kimyasalları", "id": 421370}, {"name": "Alkol", "id": 1138723}]}
+{"name": "Ev_kimyasalları", "id": 699996, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Güvenlik", "id": 36571}], "successors": [{"name": "Kozmetik_kimyasalları", "id": 421370}, {"name": "Alkol", "id": 1138723}]}

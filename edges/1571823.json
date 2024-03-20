@@ -1,1 +1,1 @@
-{"name": "Moleküler_geometri", "id": 1571823, "predecessors": [{"name": "Geometri", "id": 2177}, {"name": "Metafizik_kavramları", "id": 1349653}], "successors": [{"name": "Oksijen", "id": 383036}]}
+{"name": "Moleküler_geometri", "id": 1571823, "predecessors": [{"name": "Geometri", "id": 2177}, {"name": "Stereokimya", "id": 550428}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Oksijen", "id": 383036}]}

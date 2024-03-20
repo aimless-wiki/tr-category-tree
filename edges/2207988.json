@@ -1,1 +1,1 @@
-{"name": "Dilbilim_taslakları", "id": 2207988, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Dilbilim", "id": 142761}], "successors": [{"name": "Dil_taslakları", "id": 27989}, {"name": "Yazı_sistemleri_taslakları", "id": 456911}]}
+{"name": "Dilbilim_taslakları", "id": 2207988, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Dilbilim", "id": 142761}], "successors": [{"name": "Dil_taslakları", "id": 27989}, {"name": "Yazı_sistemleri_taslakları", "id": 456911}, {"name": "Dilbilgisi_taslakları", "id": 1415983}]}

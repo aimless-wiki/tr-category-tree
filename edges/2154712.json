@@ -1,1 +1,1 @@
-{"name": "Nikkei_225", "id": 2154712, "predecessors": [{"name": "Japonya_ekonomisi", "id": 169167}, {"name": "Ölçüm", "id": 15451}], "successors": []}
+{"name": "Nikkei_225", "id": 2154712, "predecessors": [{"name": "Japonya_ekonomisi", "id": 169167}, {"name": "Borsa", "id": 21325}], "successors": []}

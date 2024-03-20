@@ -1,1 +1,1 @@
-{"name": "Hâl_değişimi", "id": 788772, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Fiziksel_kimya", "id": 16875}, {"name": "Kimyasal_işlemler", "id": 46315}, {"name": "İstatistiksel_mekanik", "id": 991416}], "successors": []}
+{"name": "Hâl_değişimi", "id": 788772, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Fiziksel_kimya", "id": 16875}, {"name": "Kimyasal_işlemler", "id": 46315}, {"name": "Maddenin_hâlleri", "id": 182461}, {"name": "İstatistiksel_mekanik", "id": 991416}], "successors": []}

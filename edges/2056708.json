@@ -1,1 +1,1 @@
-{"name": "Intel_x86_işlemciler", "id": 2056708, "predecessors": [{"name": "Mikroişlemciler", "id": 23810}], "successors": []}
+{"name": "Intel_x86_işlemciler", "id": 2056708, "predecessors": [{"name": "Intel_işlemciler", "id": 193045}, {"name": "Mikroişlemciler", "id": 23810}], "successors": []}

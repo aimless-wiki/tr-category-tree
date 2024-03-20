@@ -1,1 +1,1 @@
-{"name": "FK_AS_Trenčín_futbolcuları", "id": 1783019, "predecessors": [{"name": "Slovak_futbolcular", "id": 132043}, {"name": "Slovakya'daki_futbol_kulüpleri", "id": 1297717}], "successors": []}
+{"name": "FK_AS_Trenčín_futbolcuları", "id": 1783019, "predecessors": [{"name": "Slovak_futbolcular", "id": 132043}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": []}

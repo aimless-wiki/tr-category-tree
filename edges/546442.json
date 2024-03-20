@@ -1,1 +1,1 @@
-{"name": "Veri_yolları", "id": 546442, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Bilgisayar_donanımları", "id": 40478}], "successors": []}
+{"name": "Veri_yolları", "id": 546442, "predecessors": [{"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Bilgisayar_donanımları", "id": 40478}, {"name": "Ağ_protokolleri", "id": 520001}], "successors": [{"name": "Canlı_USB", "id": 1802324}]}

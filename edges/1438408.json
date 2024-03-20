@@ -1,1 +1,1 @@
-{"name": "Galaksi_kümeleri", "id": 1438408, "predecessors": [{"name": "Galaksiler", "id": 1438429}, {"name": "Astronomi", "id": 12746}], "successors": []}
+{"name": "Galaksi_kümeleri", "id": 1438408, "predecessors": [{"name": "Galaksiler", "id": 1438429}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Başak_kümesi", "id": 791037}, {"name": "M81_Grubu", "id": 806513}, {"name": "Yerel_Grup", "id": 817191}, {"name": "Ocak_kümesi", "id": 830958}, {"name": "Irmak_kümesi", "id": 831161}]}

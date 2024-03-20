@@ -1,1 +1,1 @@
-{"name": "Türk_eleştirmenler", "id": 80233, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_sinema_eleştirmenleri", "id": 554381}, {"name": "Türk_tiyatro_eleştirmenleri", "id": 716457}, {"name": "Türk_edebiyat_eleştirmenleri", "id": 1513868}]}
+{"name": "Türk_eleştirmenler", "id": 80233, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_sinema_eleştirmenleri", "id": 554381}, {"name": "Türk_tiyatro_eleştirmenleri", "id": 716457}]}

@@ -1,1 +1,1 @@
-{"name": "Antiemetikler", "id": 354569, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "İlaçlar", "id": 26649}, {"name": "Semptom_ve_belirtiler:_Sindirim_sistemi_ve_karın", "id": 3689107}], "successors": []}
+{"name": "Antiemetikler", "id": 354569, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "Gastroenteroloji", "id": 13673}, {"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}], "successors": []}

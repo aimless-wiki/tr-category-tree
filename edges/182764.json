@@ -1,1 +1,1 @@
-{"name": "Soğutma_teknolojisi", "id": 182764, "predecessors": [{"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}, {"name": "Teknoloji", "id": 6300}, {"name": "Termodinamik", "id": 16762}], "successors": []}
+{"name": "Soğutma_teknolojisi", "id": 182764, "predecessors": [{"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}, {"name": "Teknoloji", "id": 6300}, {"name": "Termodinamik", "id": 16762}, {"name": "Sıcaklık", "id": 182136}], "successors": []}

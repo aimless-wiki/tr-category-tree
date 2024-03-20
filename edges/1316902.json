@@ -1,1 +1,1 @@
-{"name": "Motivasyon", "id": 1316902, "predecessors": [{"name": "Benlik", "id": 956653}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Psikoloji", "id": 12113}], "successors": [{"name": "Spor_ödülleri", "id": 630996}, {"name": "Zafer_anıtları", "id": 1484447}]}
+{"name": "Motivasyon", "id": 1316902, "predecessors": [{"name": "Benlik", "id": 956653}, {"name": "İnsan_kaynakları_yönetimi", "id": 214742}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Psikoloji", "id": 12113}], "successors": [{"name": "Spor_ödülleri", "id": 630996}]}

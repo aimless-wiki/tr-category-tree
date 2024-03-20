@@ -1,1 +1,1 @@
-{"name": "Birleşik_Krallık_merkezli_savunma_şirketleri", "id": 2232411, "predecessors": [{"name": "Birleşik_Krallık_askeriyesi", "id": 1054267}, {"name": "Ekonomi", "id": 12356}, {"name": "Birleşik_Krallık_merkezli_şirketler", "id": 1950869}, {"name": "İmalat", "id": 404623}], "successors": []}
+{"name": "Birleşik_Krallık_merkezli_savunma_şirketleri", "id": 2232411, "predecessors": [{"name": "Ticari_kuruluşlar", "id": 1359708}, {"name": "Ada_ülkeleri", "id": 25246}, {"name": "İmalat", "id": 404623}], "successors": []}

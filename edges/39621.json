@@ -1,1 +1,1 @@
-{"name": "Balık_taslakları", "id": 39621, "predecessors": [{"name": "Biyolojik_etkileşimler", "id": 1192810}, {"name": "Zooloji", "id": 10436}], "successors": [{"name": "Kemikli_balık_taslakları", "id": 2029211}, {"name": "Sciaenidae_taslakları", "id": 3388869}, {"name": "Köpek_balığı_taslakları", "id": 1396398}]}
+{"name": "Balık_taslakları", "id": 39621, "predecessors": [{"name": "Zooloji", "id": 10436}], "successors": [{"name": "Kemikli_balık_taslakları", "id": 2029211}, {"name": "Sciaenidae_taslakları", "id": 3388869}, {"name": "Köpek_balığı_taslakları", "id": 1396398}]}

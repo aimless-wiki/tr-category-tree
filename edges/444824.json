@@ -1,1 +1,1 @@
-{"name": "Yemek_yapma_yöntemleri", "id": 444824, "predecessors": [{"name": "Beceriler", "id": 873765}], "successors": [{"name": "Fırınlama", "id": 1747339}, {"name": "Tütsüleme", "id": 1747361}]}
+{"name": "Yemek_yapma_yöntemleri", "id": 444824, "predecessors": [{"name": "Bilgi", "id": 12510}], "successors": [{"name": "Mangal", "id": 1747359}]}

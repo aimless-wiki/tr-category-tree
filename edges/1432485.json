@@ -1,1 +1,1 @@
-{"name": "Dağıstan_tarihi", "id": 1432485, "predecessors": [{"name": "Rusya_tarihi", "id": 55654}], "successors": [{"name": "Hazarlar", "id": 947423}]}
+{"name": "Dağıstan_tarihi", "id": 1432485, "predecessors": [{"name": "Dağıstan", "id": 64232}, {"name": "Rusya_tarihi", "id": 55654}], "successors": [{"name": "Hazarlar", "id": 947423}]}

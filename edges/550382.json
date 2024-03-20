@@ -1,1 +1,1 @@
-{"name": "Arkeolojik_eserler", "id": 550382, "predecessors": [{"name": "Düşünce", "id": 92725}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Bıçaklar", "id": 73220}, {"name": "Antik_lahitler", "id": 1447029}, {"name": "Tarih_öncesi_sanat", "id": 653812}, {"name": "Kil_tabletler", "id": 2385741}]}
+{"name": "Arkeolojik_eserler", "id": 550382, "predecessors": [{"name": "Düşünce", "id": 92725}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Bıçaklar", "id": 73220}, {"name": "Mumyalar", "id": 870836}]}

@@ -1,1 +1,1 @@
-{"name": "İnsanlı_uzay_araçları", "id": 1459673, "predecessors": [{"name": "İnsanlı_uzay_uçuşu", "id": 1017814}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Merkür_Projesi", "id": 231226}]}
+{"name": "İnsanlı_uzay_araçları", "id": 1459673, "predecessors": [{"name": "İnsanlı_uzay_uçuşu", "id": 1017814}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Merkür_Projesi", "id": 231226}]}

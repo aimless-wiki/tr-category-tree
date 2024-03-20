@@ -1,1 +1,1 @@
-{"name": "Uzunluk_birimleri", "id": 206888, "predecessors": [{"name": "Uzunluk", "id": 2024920}, {"name": "Ölçü_birimleri", "id": 40885}], "successors": []}
+{"name": "Uzunluk_birimleri", "id": 206888, "predecessors": [{"name": "Ölçü_birimleri", "id": 40885}, {"name": "Fiziksel_nicelikler", "id": 181686}], "successors": []}

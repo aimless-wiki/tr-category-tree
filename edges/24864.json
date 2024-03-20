@@ -1,1 +1,1 @@
-{"name": "Alkaloidler", "id": 24864, "predecessors": [{"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "Opioidler", "id": 429794}]}
+{"name": "Alkaloidler", "id": 24864, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Opioidler", "id": 429794}]}

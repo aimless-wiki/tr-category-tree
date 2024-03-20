@@ -1,1 +1,1 @@
-{"name": "Hematoloji_taslakları", "id": 962858, "predecessors": [{"name": "Hematoloji", "id": 29564}, {"name": "Tıp_taslakları", "id": 39313}], "successors": []}
+{"name": "Hematoloji_taslakları", "id": 962858, "predecessors": [{"name": "Hastalık_taslakları", "id": 39634}, {"name": "Hematoloji", "id": 29564}, {"name": "Tıp_taslakları", "id": 39313}], "successors": []}

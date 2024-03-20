@@ -1,1 +1,1 @@
-{"name": "Veri_iletimi", "id": 519992, "predecessors": [{"name": "Telekomünikasyon", "id": 12616}, {"name": "Bilgisayar_bilimi", "id": 12611}], "successors": []}
+{"name": "Veri_iletimi", "id": 519992, "predecessors": [{"name": "Telekomünikasyon", "id": 12616}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Ağ_protokolleri", "id": 520001}], "successors": []}

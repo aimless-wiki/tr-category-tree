@@ -1,1 +1,1 @@
-{"name": "Kolluk_ekipmanları", "id": 1539334, "predecessors": [{"name": "Kolluk_kuvvetleri", "id": 1131609}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Polis_silahları", "id": 1704998}, {"name": "Polis_araçları", "id": 2908808}]}
+{"name": "Kolluk_ekipmanları", "id": 1539334, "predecessors": [{"name": "Kolluk_kuvvetleri", "id": 1131609}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Polis_silahları", "id": 1704998}]}

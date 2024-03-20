@@ -1,1 +1,1 @@
-{"name": "Parazit_taslakları", "id": 167281, "predecessors": [{"name": "Hayvan_taslakları", "id": 365197}], "successors": []}
+{"name": "Parazit_taslakları", "id": 167281, "predecessors": [{"name": "Hayvan_taslakları", "id": 365197}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Biyoloji", "id": 5160}], "successors": []}

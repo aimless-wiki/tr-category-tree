@@ -1,1 +1,1 @@
-{"name": "Nesne_yönelimli_programlama_dilleri", "id": 544880, "predecessors": [{"name": "Nesne_yönelimli_programlama", "id": 25677}, {"name": "Programlama_dilleri", "id": 3929}], "successors": [{"name": "Qt_(çalışma_alanı)", "id": 1767061}]}
+{"name": "Nesne_yönelimli_programlama_dilleri", "id": 544880, "predecessors": [{"name": "Nesne_yönelimli_programlama", "id": 25677}, {"name": "Programlama_dilleri", "id": 3929}], "successors": [{"name": "Python", "id": 622598}, {"name": "Ruby", "id": 1193063}]}

@@ -1,1 +1,1 @@
-{"name": "Semptomlar", "id": 35947, "predecessors": [{"name": "Tanı", "id": 734607}, {"name": "Tıp_terimleri", "id": 147635}], "successors": []}
+{"name": "Semptomlar", "id": 35947, "predecessors": [{"name": "Tıp_terimleri", "id": 147635}, {"name": "Bilimsel_yöntem", "id": 14784}, {"name": "Fizyoloji", "id": 16585}], "successors": []}

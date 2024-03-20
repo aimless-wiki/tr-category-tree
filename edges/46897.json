@@ -1,1 +1,1 @@
-{"name": "Şintoizm", "id": 46897, "predecessors": [{"name": "Akımlar", "id": 12631}, {"name": "Din_felsefesi", "id": 45123}, {"name": "Kültürel_antropoloji", "id": 459007}], "successors": [{"name": "Şinto_kamileri", "id": 1694604}, {"name": "Popüler_kültürde_Japon_mitolojisi", "id": 2213820}]}
+{"name": "Şintoizm", "id": 46897, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}, {"name": "Din", "id": 7198}, {"name": "Din_felsefesi", "id": 45123}, {"name": "Kültürel_antropoloji", "id": 459007}], "successors": [{"name": "Şinto_kamileri", "id": 1694604}]}

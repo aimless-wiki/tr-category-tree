@@ -1,1 +1,1 @@
-{"name": "Kahve", "id": 24904, "predecessors": [{"name": "Alkolsüz_içecekler", "id": 59608}, {"name": "Beslenme", "id": 25373}], "successors": [{"name": "Kahve_markaları", "id": 858544}, {"name": "Kahve_taslakları", "id": 2833167}]}
+{"name": "Kahve", "id": 24904, "predecessors": [{"name": "Alkolsüz_içecekler", "id": 59608}, {"name": "Ekinler", "id": 2148742}, {"name": "Beslenme", "id": 25373}, {"name": "Uyarıcılar", "id": 24848}], "successors": [{"name": "Kahve_markaları", "id": 858544}, {"name": "Kahve_taslakları", "id": 2833167}]}

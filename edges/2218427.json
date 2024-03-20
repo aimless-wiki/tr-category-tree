@@ -1,1 +1,1 @@
-{"name": "Mobil_uygulamalar", "id": 2218427, "predecessors": [{"name": "Mobil_yazılımlar", "id": 1487950}, {"name": "Uygulama_yazılımları", "id": 176015}], "successors": [{"name": "Mobil_web_tarayıcıları", "id": 2200310}]}
+{"name": "Mobil_uygulamalar", "id": 2218427, "predecessors": [{"name": "Mobil_yazılımlar", "id": 1487950}, {"name": "Yazılım", "id": 3493}], "successors": []}

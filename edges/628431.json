@@ -1,1 +1,1 @@
-{"name": "Müzik_siteleri", "id": 628431, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Medya", "id": 12429}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Çevrimiçi_müzik_ve_şarkı_sözü_veritabanları", "id": 1330811}, {"name": "Çevrimiçi_müzik_mağazaları", "id": 2182521}]}
+{"name": "Müzik_siteleri", "id": 628431, "predecessors": [{"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Çevrimiçi_müzik_ve_şarkı_sözü_veritabanları", "id": 1330811}]}

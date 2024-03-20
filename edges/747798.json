@@ -1,1 +1,1 @@
-{"name": "Kadın_hijyeni", "id": 747798, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Üreme_sistemi", "id": 76949}], "successors": [{"name": "Kadın_hijyeni_markaları", "id": 2335308}]}
+{"name": "Kadın_hijyeni", "id": 747798, "predecessors": [{"name": "Hijyen", "id": 86836}, {"name": "Kadın_sağlığı", "id": 888456}, {"name": "Jinekoloji", "id": 96403}], "successors": [{"name": "Kadın_hijyeni_markaları", "id": 2335308}]}

@@ -1,1 +1,1 @@
-{"name": "Teratojenler", "id": 628685, "predecessors": [{"name": "Embriyoloji", "id": 16588}, {"name": "Konjenital_bozukluklar", "id": 993171}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Alkolizm", "id": 81011}]}
+{"name": "Teratojenler", "id": 628685, "predecessors": [{"name": "Embriyoloji", "id": 16588}, {"name": "Konjenital_bozukluklar", "id": 993171}, {"name": "Kimya", "id": 3599}, {"name": "Genetik", "id": 14283}], "successors": [{"name": "Alkolizm", "id": 81011}]}

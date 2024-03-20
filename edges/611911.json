@@ -1,1 +1,1 @@
-{"name": "Çok_değişkenli_hesap", "id": 611911, "predecessors": [{"name": "Kalkülüs", "id": 611912}], "successors": []}
+{"name": "Çok_değişkenli_hesap", "id": 611911, "predecessors": [{"name": "Kalkülüs", "id": 611912}], "successors": [{"name": "Kısmi_diferansiyel_denklemler", "id": 611908}, {"name": "Vektör_hesabı", "id": 620751}]}

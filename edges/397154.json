@@ -1,1 +1,1 @@
-{"name": "Refleksler", "id": 397154, "predecessors": [{"name": "Etoloji", "id": 16895}, {"name": "Hayvan_fizyolojisi", "id": 16586}, {"name": "Tıbbi_testler", "id": 920712}], "successors": []}
+{"name": "Refleksler", "id": 397154, "predecessors": [{"name": "Etoloji", "id": 16895}, {"name": "Tıbbi_testler", "id": 920712}, {"name": "Zooloji", "id": 10436}], "successors": []}

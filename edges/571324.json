@@ -1,1 +1,1 @@
-{"name": "İlk_yardım", "id": 571324, "predecessors": [{"name": "Hayatta_kalma", "id": 1580242}, {"name": "Tedaviler", "id": 208069}, {"name": "Akademi", "id": 583263}, {"name": "Sosyal_bilimler", "id": 12112}], "successors": []}
+{"name": "İlk_yardım", "id": 571324, "predecessors": [{"name": "Hayatta_kalma", "id": 1580242}, {"name": "Tedaviler", "id": 208069}, {"name": "Bilim_tarihi", "id": 14785}, {"name": "Sosyal_bilimler", "id": 12112}], "successors": []}

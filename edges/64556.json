@@ -1,1 +1,1 @@
-{"name": "Hukuk_felsefesi", "id": 64556, "predecessors": [{"name": "Hukuk", "id": 12115}, {"name": "Siyaset_felsefesi", "id": 37771}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Hukuk_filozofları", "id": 106647}]}
+{"name": "Hukuk_felsefesi", "id": 64556, "predecessors": [{"name": "Hukuk", "id": 12115}, {"name": "Siyaset_felsefesi", "id": 37771}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Hukuk_filozofları", "id": 106647}]}

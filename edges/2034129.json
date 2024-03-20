@@ -1,1 +1,1 @@
-{"name": "İçki_markaları", "id": 2034129, "predecessors": [{"name": "İçkiler", "id": 59607}], "successors": [{"name": "Bira_markaları", "id": 1121275}]}
+{"name": "İçki_markaları", "id": 2034129, "predecessors": [{"name": "İçecek_markaları", "id": 127543}, {"name": "İçkiler", "id": 59607}], "successors": [{"name": "Bira_markaları", "id": 1121275}]}

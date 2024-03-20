@@ -1,1 +1,1 @@
-{"name": "Jet_uçakları", "id": 733134, "predecessors": [{"name": "Jet_motorları", "id": 733139}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Jet_motorları", "id": 733139}, {"name": "Çift_motorlu_jetler", "id": 2326835}, {"name": "Tek_motorlu_jetler", "id": 2370563}, {"name": "Dört_motorlu_jetler", "id": 3397110}]}
+{"name": "Jet_uçakları", "id": 733134, "predecessors": [{"name": "Jet_motorları", "id": 733139}, {"name": "Fizikte_zaman", "id": 2131701}], "successors": [{"name": "Jet_motorları", "id": 733139}]}

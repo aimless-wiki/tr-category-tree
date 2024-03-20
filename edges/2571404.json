@@ -1,1 +1,1 @@
-{"name": "Birleşik_Krallık'ta_yayımlanan_akademik_dergiler", "id": 2571404, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}
+{"name": "Birleşik_Krallık'ta_yayımlanan_akademik_dergiler", "id": 2571404, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "İletişim", "id": 12514}, {"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}

@@ -1,1 +1,1 @@
-{"name": "Almanya'daki_otoyollar", "id": 986345, "predecessors": [{"name": "Almanya'daki_karayolları", "id": 1049242}, {"name": "Otoyollar", "id": 721580}], "successors": []}
+{"name": "Almanya'daki_otoyollar", "id": 986345, "predecessors": [{"name": "Otoyollar", "id": 721580}, {"name": "Benlik", "id": 956653}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Eğriler", "id": 673410, "predecessors": [{"name": "Analitik_geometri", "id": 181704}, {"name": "Diferansiyel_geometri", "id": 620308}, {"name": "Geometri", "id": 2177}], "successors": [{"name": "Çemberler", "id": 1327165}]}
+{"name": "Eğriler", "id": 673410, "predecessors": [{"name": "Diferansiyel_geometri", "id": 620308}, {"name": "Geometri", "id": 2177}], "successors": [{"name": "Sarmal_galaksiler", "id": 1286029}, {"name": "Çemberler", "id": 1327165}]}

@@ -1,1 +1,1 @@
-{"name": "İnsan_kaynakları_yönetimi", "id": 214742, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Yönetim", "id": 37094}, {"name": "İşletme", "id": 21253}], "successors": [{"name": "İş_hukuku", "id": 215218}, {"name": "Motivasyon", "id": 1316902}]}
+{"name": "İnsan_kaynakları_yönetimi", "id": 214742, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Yönetim", "id": 37094}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "İş_hukuku", "id": 215218}, {"name": "Motivasyon", "id": 1316902}]}

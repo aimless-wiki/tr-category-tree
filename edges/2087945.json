@@ -1,1 +1,1 @@
-{"name": "Gıda_takviyesi", "id": 2087945, "predecessors": [{"name": "Beslenme", "id": 25373}], "successors": [{"name": "Vitaminler", "id": 16220}, {"name": "Şifalı_bitkiler", "id": 84564}, {"name": "Enerji_içecekleri", "id": 1155900}]}
+{"name": "Gıda_takviyesi", "id": 2087945, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Alternatif_tıp", "id": 64622}], "successors": [{"name": "Vitaminler", "id": 16220}, {"name": "Şifalı_bitkiler", "id": 84564}, {"name": "Enerji_içecekleri", "id": 1155900}]}

@@ -1,1 +1,1 @@
-{"name": "Fıkıh_âlimleri", "id": 1624569, "predecessors": [{"name": "İslam_alimleri", "id": 782698}], "successors": [{"name": "Arap_fıkıh_âlimleri", "id": 1623928}]}
+{"name": "Fıkıh_âlimleri", "id": 1624569, "predecessors": [{"name": "İslam_alimleri", "id": 782698}, {"name": "Fıkıh", "id": 1590445}], "successors": [{"name": "Arap_fıkıh_âlimleri", "id": 1623928}]}

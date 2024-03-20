@@ -1,1 +1,1 @@
-{"name": "Bilişim_teknolojileri_yönetimi", "id": 1532397, "predecessors": [{"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Veri_yönetimi", "id": 520720}]}
+{"name": "Bilişim_teknolojileri_yönetimi", "id": 1532397, "predecessors": [{"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Veri_yönetimi", "id": 520720}]}

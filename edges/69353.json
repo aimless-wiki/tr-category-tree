@@ -1,1 +1,1 @@
-{"name": "Haber_siteleri", "id": 69353, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Bilişim", "id": 12614}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "RSS_okuyucu", "id": 1670700}, {"name": "Amerika_Birleşik_Devletleri_haber_siteleri", "id": 992487}]}
+{"name": "Haber_siteleri", "id": 69353, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Bilişim", "id": 12614}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "RSS_okuyucu", "id": 1670700}]}

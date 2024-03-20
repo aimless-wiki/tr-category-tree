@@ -1,1 +1,1 @@
-{"name": "Taşıt_parçaları", "id": 997041, "predecessors": [{"name": "Makine_mühendisliği", "id": 24286}], "successors": [{"name": "Uçak_parçaları", "id": 202859}, {"name": "Otomatik_parçalar", "id": 1582133}, {"name": "Aviyonik", "id": 1389502}]}
+{"name": "Taşıt_parçaları", "id": 997041, "predecessors": [{"name": "Makine_mühendisliği", "id": 24286}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Uçak_parçaları", "id": 202859}, {"name": "Otomatik_parçalar", "id": 1582133}, {"name": "Aviyonik", "id": 1389502}]}

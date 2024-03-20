@@ -1,1 +1,1 @@
-{"name": "FK_Partizan_teknik_direktörleri", "id": 1309766, "predecessors": [{"name": "Sırbistan_futbol_kulüpleri", "id": 349360}, {"name": "Balkanlar", "id": 80859}], "successors": []}
+{"name": "FK_Partizan_teknik_direktörleri", "id": 1309766, "predecessors": [{"name": "Sırbistan_futbol_kulüpleri", "id": 349360}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": []}

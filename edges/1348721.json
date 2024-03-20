@@ -1,1 +1,1 @@
-{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Teoriler", "id": 93032}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}]}
+{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Müzik_listeleri", "id": 100970}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}]}

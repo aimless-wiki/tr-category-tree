@@ -1,1 +1,1 @@
-{"name": "İletişim_programları", "id": 29516, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "Uygulama_yazılımları", "id": 176015}, {"name": "İnternet_yazılımları", "id": 69378}], "successors": []}
+{"name": "İletişim_programları", "id": 29516, "predecessors": [{"name": "Haberleşme", "id": 10660}, {"name": "İnternet_yazılımları", "id": 69378}, {"name": "Yazılım", "id": 3493}], "successors": []}

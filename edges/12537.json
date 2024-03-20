@@ -1,1 +1,1 @@
-{"name": "Yapay_diller", "id": 12537, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Diller", "id": 12535}], "successors": [{"name": "Programlama_dilleri", "id": 3929}, {"name": "Dil_yaratıcıları", "id": 1136391}]}
+{"name": "Yapay_diller", "id": 12537, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Diller", "id": 12535}], "successors": [{"name": "Programlama_dilleri", "id": 3929}, {"name": "Esperanto", "id": 528810}, {"name": "Dil_yaratıcıları", "id": 1136391}, {"name": "Kurgusal_dil_filmleri", "id": 1565821}]}

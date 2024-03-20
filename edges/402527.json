@@ -1,1 +1,1 @@
-{"name": "Sandviçler", "id": 402527, "predecessors": [{"name": "Fast_food", "id": 851876}], "successors": [{"name": "Hamburger", "id": 964277}]}
+{"name": "Sandviçler", "id": 402527, "predecessors": [{"name": "Fast_food", "id": 851876}, {"name": "Ekmekler", "id": 57191}], "successors": [{"name": "Hamburger", "id": 964277}]}

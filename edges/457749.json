@@ -1,1 +1,1 @@
-{"name": "Yeni_Taş_Çağı", "id": 457749, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Bereketli_Hilal", "id": 864957}, {"name": "Sulama", "id": 437197}, {"name": "Pestisitler", "id": 591972}]}
+{"name": "Yeni_Taş_Çağı", "id": 457749, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Bereketli_Hilal", "id": 864957}, {"name": "Sulama", "id": 437197}, {"name": "Pestisitler", "id": 591972}]}

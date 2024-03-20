@@ -1,1 +1,1 @@
-{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Akustik", "id": 16069}, {"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Ses", "id": 12640}, {"name": "Duyu_sistemi", "id": 826190}], "successors": []}
+{"name": "Kulak", "id": 397170, "predecessors": [{"name": "Akustik", "id": 16069}, {"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Ses", "id": 12640}, {"name": "Algı", "id": 183732}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Nöroloji", "id": 16347}], "successors": []}

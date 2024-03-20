@@ -1,1 +1,1 @@
-{"name": "Nükleer_fizik", "id": 181976, "predecessors": [{"name": "Atom_fiziği", "id": 14246}, {"name": "Parçacık_fiziği", "id": 16894}], "successors": [{"name": "Nükleer_enerji", "id": 89069}, {"name": "Saçılma", "id": 1605397}]}
+{"name": "Nükleer_fizik", "id": 181976, "predecessors": [{"name": "Atom_fiziği", "id": 14246}, {"name": "Parçacık_fiziği", "id": 16894}], "successors": [{"name": "Radyoaktivite", "id": 405084}, {"name": "Nükleer_fizikçiler", "id": 1949275}]}

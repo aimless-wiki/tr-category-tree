@@ -1,1 +1,1 @@
-{"name": "Pedagoji", "id": 15493, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Pedagoglar", "id": 456059}]}
+{"name": "Pedagoji", "id": 15493, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}

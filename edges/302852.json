@@ -1,1 +1,1 @@
-{"name": "Manga_serileri", "id": 302852, "predecessors": [{"name": "Kitap_serileri", "id": 516530}, {"name": "Manga", "id": 23370}], "successors": [{"name": "Pokémon", "id": 22481}, {"name": "Digimon", "id": 102450}]}
+{"name": "Manga_serileri", "id": 302852, "predecessors": [{"name": "Kitap_serileri", "id": 516530}, {"name": "Manga", "id": 23370}], "successors": [{"name": "Digimon", "id": 102450}]}

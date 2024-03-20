@@ -1,1 +1,1 @@
-{"name": "Sağlık_taslakları", "id": 1016407, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Sağlık", "id": 12532}], "successors": [{"name": "Tıp_taslakları", "id": 39313}, {"name": "Psikoloji_taslakları", "id": 48624}]}
+{"name": "Sağlık_taslakları", "id": 1016407, "predecessors": [{"name": "Bilim_taslakları", "id": 46429}, {"name": "Sağlık", "id": 12532}, {"name": "Taslak", "id": 3525}], "successors": [{"name": "Tıp_taslakları", "id": 39313}, {"name": "Psikoloji_taslakları", "id": 48624}]}

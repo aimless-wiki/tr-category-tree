@@ -1,1 +1,1 @@
-{"name": "Teknik_iletişim", "id": 1570421, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "Uygulama_programlama_arayüzü", "id": 543934}, {"name": "Teknik_iletişim_araçları", "id": 1570419}]}
+{"name": "Teknik_iletişim", "id": 1570421, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "İletişim", "id": 12514}, {"name": "Yazı", "id": 16248}], "successors": [{"name": "Uygulama_programlama_arayüzü", "id": 543934}, {"name": "Teknik_iletişim_araçları", "id": 1570419}]}

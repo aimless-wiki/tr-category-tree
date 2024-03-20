@@ -1,1 +1,1 @@
-{"name": "Kıbrıs_tarihi", "id": 288314, "predecessors": [{"name": "Akdeniz_tarihi", "id": 971217}, {"name": "Orta_Doğu_tarihi", "id": 57601}, {"name": "Akdeniz'deki_adalar", "id": 187240}, {"name": "Avrupa'daki_bölgeler", "id": 1767247}], "successors": [{"name": "Kıbrıs_Sorunu", "id": 368548}]}
+{"name": "Kıbrıs_tarihi", "id": 288314, "predecessors": [{"name": "Akdeniz_tarihi", "id": 971217}, {"name": "Avrupa'daki_bölgeler", "id": 1767247}], "successors": [{"name": "Kıbrıs_Sorunu", "id": 368548}, {"name": "Kıbrıs_Harekâtı", "id": 817860}]}

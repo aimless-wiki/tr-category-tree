@@ -1,1 +1,1 @@
-{"name": "Obezite", "id": 179712, "predecessors": [{"name": "Metabolik_bozukluklar", "id": 179713}, {"name": "Beslenme", "id": 25373}, {"name": "Memeli_anatomisi", "id": 1387184}], "successors": [{"name": "Antihipertansif_ilaçlar", "id": 364984}]}
+{"name": "Obezite", "id": 179712, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Endokrinoloji", "id": 24445}, {"name": "Sağlık", "id": 12532}], "successors": []}

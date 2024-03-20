@@ -1,1 +1,1 @@
-{"name": "Asgari_endişe_altındaki_hayvanlar", "id": 1204888, "predecessors": [{"name": "Asgari_endişe_altındaki_türler", "id": 141648}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Kurtlar", "id": 581922}, {"name": "Sorex", "id": 2269695}]}
+{"name": "Asgari_endişe_altındaki_hayvanlar", "id": 1204888, "predecessors": [{"name": "Zooloji", "id": 10436}], "successors": [{"name": "Kurtlar", "id": 581922}, {"name": "Sorex", "id": 2269695}]}

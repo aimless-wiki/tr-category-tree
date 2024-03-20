@@ -1,1 +1,1 @@
-{"name": "Bilim_felsefecileri", "id": 1034058, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}], "successors": [{"name": "Aristoteles", "id": 898830}, {"name": "Eğitim_filozofları", "id": 2117421}, {"name": "Teknoloji_felsefecileri", "id": 2333710}, {"name": "Biyoloji_felsefecileri", "id": 3479358}]}
+{"name": "Bilim_felsefecileri", "id": 1034058, "predecessors": [{"name": "Bilim_felsefesi", "id": 58655}, {"name": "Epistemologlar", "id": 1357806}], "successors": [{"name": "Eğitim_filozofları", "id": 2117421}, {"name": "Teknoloji_felsefecileri", "id": 2333710}]}

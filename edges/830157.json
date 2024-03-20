@@ -1,1 +1,1 @@
-{"name": "Popülasyon_genetiği", "id": 830157, "predecessors": [{"name": "Evrimsel_biyoloji", "id": 38493}, {"name": "Nüfus", "id": 13389}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Seçilim", "id": 1357794}]}
+{"name": "Popülasyon_genetiği", "id": 830157, "predecessors": [{"name": "Evrimsel_biyoloji", "id": 38493}, {"name": "Nüfus", "id": 13389}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Seçilim", "id": 1357794}]}

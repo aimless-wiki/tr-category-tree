@@ -1,1 +1,1 @@
-{"name": "Biyoloji_dolaşım_şablonları", "id": 1950452, "predecessors": [{"name": "Bilim_dolaşım_şablonları", "id": 172651}, {"name": "Biyoloji_şablonları", "id": 151518}], "successors": [{"name": "Zooloji_dolaşım_şablonları", "id": 1566469}, {"name": "Tıp_dolaşım_şablonları", "id": 2353463}]}
+{"name": "Biyoloji_dolaşım_şablonları", "id": 1950452, "predecessors": [{"name": "Biyoloji_şablonları", "id": 151518}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Hayvan_dolaşım_şablonları", "id": 1566469}, {"name": "Tıp_dolaşım_şablonları", "id": 2353463}]}

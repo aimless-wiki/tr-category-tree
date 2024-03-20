@@ -1,1 +1,1 @@
-{"name": "KDE", "id": 71396, "predecessors": [{"name": "Özgür_yazılım", "id": 3492}, {"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Özgür_sistem_yazılımları", "id": 999174}], "successors": [{"name": "KDE_taslakları", "id": 321953}, {"name": "Qt_(çalışma_alanı)", "id": 1767061}]}
+{"name": "KDE", "id": 71396, "predecessors": [{"name": "Özgür_yazılım", "id": 3492}, {"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Özgür_sistem_yazılımları", "id": 999174}], "successors": [{"name": "KDE_taslakları", "id": 321953}]}

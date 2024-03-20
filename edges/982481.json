@@ -1,1 +1,1 @@
-{"name": "Simülasyon_yazılımları", "id": 982481, "predecessors": [{"name": "Uygulama_yazılımları", "id": 176015}, {"name": "Bilimsel_modelleme", "id": 379806}], "successors": []}
+{"name": "Simülasyon_yazılımları", "id": 982481, "predecessors": [{"name": "Yazılım", "id": 3493}, {"name": "Bilimsel_modelleme", "id": 379806}], "successors": []}

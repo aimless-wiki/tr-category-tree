@@ -1,1 +1,1 @@
-{"name": "Wii_oyunları", "id": 457207, "predecessors": [{"name": "Bilgisayar_ortamları", "id": 544818}], "successors": []}
+{"name": "Wii_oyunları", "id": 457207, "predecessors": [{"name": "Bilgisayar_donanımları", "id": 40478}, {"name": "Ev_video_oyun_konsolları", "id": 2457995}], "successors": [{"name": "Virtual_Console_oyunları", "id": 1714031}]}

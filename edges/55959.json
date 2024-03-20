@@ -1,1 +1,1 @@
-{"name": "İslam_eskatolojisi", "id": 55959, "predecessors": [{"name": "İslam_terimleri", "id": 1775887}, {"name": "Din_felsefesi", "id": 45123}], "successors": [{"name": "Hadisler", "id": 77415}]}
+{"name": "İslam_eskatolojisi", "id": 55959, "predecessors": [{"name": "İslam", "id": 13382}, {"name": "İslam_terimleri", "id": 1775887}, {"name": "Din_felsefesi", "id": 45123}], "successors": [{"name": "Hadisler", "id": 77415}]}

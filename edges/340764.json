@@ -1,1 +1,1 @@
-{"name": "Fransa_gazeteleri", "id": 340764, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Su_kütleleri", "id": 81209}], "successors": [{"name": "Fransa'da_yayımlanan_günlük_gazeteler", "id": 2736005}]}
+{"name": "Fransa_gazeteleri", "id": 340764, "predecessors": [{"name": "Dünya", "id": 6772}, {"name": "İletişim", "id": 12514}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": []}

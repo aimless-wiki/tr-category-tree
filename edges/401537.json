@@ -1,1 +1,1 @@
-{"name": "Elektrikçi_bilim_insanları", "id": 401537, "predecessors": [{"name": "Elektrik", "id": 29877}, {"name": "Enerji", "id": 36245}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Elektrikçi_bilim_insanları", "id": 401537, "predecessors": [{"name": "Elektrik", "id": 29877}, {"name": "Enerji", "id": 36245}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}

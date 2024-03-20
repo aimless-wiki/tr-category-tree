@@ -1,1 +1,1 @@
-{"name": "Paradokslar", "id": 70200, "predecessors": [{"name": "Felsefi_argümanlar", "id": 70201}, {"name": "Felsefi_kavramlar", "id": 12229}, {"name": "Analitik_felsefe", "id": 187868}], "successors": [{"name": "Sanal_gerçeklik", "id": 188154}]}
+{"name": "Paradokslar", "id": 70200, "predecessors": [{"name": "Felsefi_argümanlar", "id": 70201}, {"name": "Felsefi_kavramlar", "id": 12229}, {"name": "Mantık", "id": 12638}], "successors": [{"name": "Sanal_gerçeklik", "id": 188154}]}
