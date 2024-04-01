@@ -1,1 +1,1 @@
-{"name": "Fiziki_okyanusbilim", "id": 862919, "predecessors": [{"name": "Okyanus_bilimi", "id": 195988}, {"name": "Fizik", "id": 7289}], "successors": [{"name": "Biyocoğrafya", "id": 16580}, {"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}]}
+{"name": "Fiziki_okyanusbilim", "id": 862919, "predecessors": [{"name": "Okyanus_bilimi", "id": 195988}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Biyocoğrafya", "id": 16580}, {"name": "Kıyı_ve_okyanus_şekilleri", "id": 877723}]}

@@ -1,1 +1,1 @@
-{"name": "Kafatası", "id": 397207, "predecessors": [{"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Omurgalı_anatomisi", "id": 1386745}, {"name": "İskelet_sistemi", "id": 76944}, {"name": "Dokular", "id": 78537}], "successors": [{"name": "Kraniyal_sinirler", "id": 1085670}]}
+{"name": "Kafatası", "id": 397207, "predecessors": [{"name": "Kafa_ve_boyun", "id": 79745}, {"name": "Omurgalı_anatomisi", "id": 1386745}, {"name": "İskelet_sistemi", "id": 76944}, {"name": "Anatomi", "id": 9907}], "successors": [{"name": "Kraniyal_sinirler", "id": 1085670}]}

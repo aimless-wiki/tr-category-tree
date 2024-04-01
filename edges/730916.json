@@ -1,1 +1,1 @@
-{"name": "Yönetmen_taslakları", "id": 730916, "predecessors": [{"name": "Eğlence_meslekleri", "id": 898832}, {"name": "Kişi_taslakları", "id": 39656}], "successors": [{"name": "Film_yönetmenleri_taslakları", "id": 549891}]}
+{"name": "Yönetmen_taslakları", "id": 730916, "predecessors": [{"name": "Kişi_taslakları", "id": 39656}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Film_yönetmenleri_taslakları", "id": 549891}]}

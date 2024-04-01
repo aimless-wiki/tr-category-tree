@@ -1,1 +1,1 @@
-{"name": "Dans_taslakları", "id": 361286, "predecessors": [{"name": "Müzik_taslakları", "id": 39162}, {"name": "Tiyatro_taslakları", "id": 330989}, {"name": "Eğlence_meslekleri", "id": 898832}], "successors": []}
+{"name": "Dans_taslakları", "id": 361286, "predecessors": [{"name": "Müzik_taslakları", "id": 39162}, {"name": "Tiyatro_taslakları", "id": 330989}, {"name": "Meslekler", "id": 12752}], "successors": []}

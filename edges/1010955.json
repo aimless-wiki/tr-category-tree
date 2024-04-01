@@ -1,1 +1,1 @@
-{"name": "IATA_üyeleri", "id": 1010955, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Zaman", "id": 15364}], "successors": [{"name": "Türk_Hava_Yolları", "id": 456375}, {"name": "Aeroflot_kazaları_ve_olayları", "id": 2651971}]}
+{"name": "IATA_üyeleri", "id": 1010955, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Türk_Hava_Yolları", "id": 456375}, {"name": "Aeroflot_kazaları_ve_olayları", "id": 2651971}]}

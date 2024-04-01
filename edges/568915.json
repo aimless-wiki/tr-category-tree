@@ -1,1 +1,1 @@
-{"name": "Tek_motorlu_hava_araçları", "id": 568915, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Fizikte_zaman", "id": 2131701}], "successors": []}
+{"name": "Tek_motorlu_hava_araçları", "id": 568915, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "İmalat", "id": 404623}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tarım_bakanları", "id": 1474644, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Fransa_tarım_bakanları", "id": 1474506}, {"name": "Türkiye_Cumhuriyeti_Tarım_ve_Orman_Bakanları", "id": 2342051}]}
+{"name": "Tarım_bakanları", "id": 1474644, "predecessors": [{"name": "Tarım", "id": 1210718}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Fransa_tarım_bakanları", "id": 1474506}, {"name": "Türkiye_tarım_ve_orman_bakanları", "id": 2342051}]}

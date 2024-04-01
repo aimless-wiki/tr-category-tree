@@ -1,1 +1,1 @@
-{"name": "Vegan_mutfağı", "id": 2524792, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Lokanta_terminolojisi", "id": 2297400}], "successors": [{"name": "Sebzeler", "id": 36377}]}
+{"name": "Vegan_mutfağı", "id": 2524792, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Lokanta_terminolojisi", "id": 2297400}], "successors": [{"name": "Sebzeler", "id": 36377}, {"name": "Soya", "id": 1307594}]}

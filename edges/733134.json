@@ -1,1 +1,1 @@
-{"name": "Jet_uçakları", "id": 733134, "predecessors": [{"name": "Jet_motorları", "id": 733139}, {"name": "Fizikte_zaman", "id": 2131701}], "successors": [{"name": "Jet_motorları", "id": 733139}]}
+{"name": "Jet_uçakları", "id": 733134, "predecessors": [{"name": "Jet_motorları", "id": 733139}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Jet_motorları", "id": 733139}]}

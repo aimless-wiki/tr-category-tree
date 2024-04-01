@@ -1,1 +1,1 @@
-{"name": "Epitel", "id": 124109, "predecessors": [{"name": "Dokular", "id": 78537}, {"name": "Epitel", "id": 124109}], "successors": [{"name": "Epitel", "id": 124109}]}
+{"name": "Epitel", "id": 124109, "predecessors": [{"name": "Epitel", "id": 124109}, {"name": "Anatomi", "id": 9907}], "successors": [{"name": "Epitel", "id": 124109}]}

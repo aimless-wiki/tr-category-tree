@@ -1,1 +1,1 @@
-{"name": "Kişilik_bozuklukları", "id": 92258, "predecessors": [{"name": "Anormal_psikoloji", "id": 88788}, {"name": "Psikoloji", "id": 12113}], "successors": [{"name": "Antisosyal_kişilik_bozukluğu", "id": 1922680}]}
+{"name": "Kişilik_bozuklukları", "id": 92258, "predecessors": [{"name": "Anormal_psikoloji", "id": 88788}, {"name": "Benlik", "id": 956653}], "successors": [{"name": "Antisosyal_kişilik_bozukluğu", "id": 1922680}]}

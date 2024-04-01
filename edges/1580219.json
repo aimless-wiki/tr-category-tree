@@ -1,1 +1,1 @@
-{"name": "Ulaştırma_bakanları", "id": 1580219, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Hükûmet", "id": 1580223}], "successors": [{"name": "Fransa_ulaştırma_bakanları", "id": 1474504}, {"name": "Türkiye_Cumhuriyeti_Ulaştırma_ve_Altyapı_Bakanları", "id": 2342686}]}
+{"name": "Ulaştırma_bakanları", "id": 1580219, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Hükûmet", "id": 1580223}], "successors": [{"name": "Fransa_ulaştırma_bakanları", "id": 1474504}, {"name": "Türkiye_ulaştırma_ve_altyapı_bakanları", "id": 2342686}]}

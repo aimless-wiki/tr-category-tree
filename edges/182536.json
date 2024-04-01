@@ -1,1 +1,1 @@
-{"name": "Fiziksel_olaylar", "id": 182536, "predecessors": [{"name": "Fizik", "id": 7289}, {"name": "Zaman", "id": 15364}], "successors": [{"name": "Optik_olaylar", "id": 747942}]}
+{"name": "Fiziksel_olaylar", "id": 182536, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Dalgalar", "id": 182655}, {"name": "Optik_illüzyonlar", "id": 1482721}]}
