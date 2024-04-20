@@ -1,1 +1,1 @@
-{"name": "Çek_markaları", "id": 2174874, "predecessors": [{"name": "Markalar", "id": 41351}], "successors": []}
+{"name": "Çek_markaları", "id": 2174874, "predecessors": [{"name": "Pazarlama", "id": 37079}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": [{"name": "Škoda_otomobilleri", "id": 2797048}]}

@@ -1,1 +1,1 @@
-{"name": "İş_makineleri_üreticileri", "id": 1754477, "predecessors": [{"name": "Makineler", "id": 616119}, {"name": "Teknoloji", "id": 6300}, {"name": "Ekonomi", "id": 12356}], "successors": []}
+{"name": "İş_makineleri_üreticileri", "id": 1754477, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Teknoloji", "id": 6300}], "successors": []}

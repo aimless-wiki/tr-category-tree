@@ -1,1 +1,1 @@
-{"name": "Exploitler", "id": 1321308, "predecessors": [{"name": "Bilgisayar_güvenliği", "id": 182721}, {"name": "Bilişim_suçları", "id": 231514}], "successors": []}
+{"name": "Exploitler", "id": 1321308, "predecessors": [{"name": "Bilgisayar_güvenliği", "id": 182721}, {"name": "Bilişim_suçları", "id": 231514}], "successors": [{"name": "Kriptografik_saldırılar", "id": 2322448}]}

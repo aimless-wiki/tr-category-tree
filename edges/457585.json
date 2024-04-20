@@ -1,1 +1,1 @@
-{"name": "MacOS_oyunları", "id": 457585, "predecessors": [{"name": "MacOS_yazılımları", "id": 457591}, {"name": "Bilgisayar", "id": 3494}, {"name": "Unix_yazılımları", "id": 193679}, {"name": "Apple_yazılımları", "id": 25018}], "successors": []}
+{"name": "MacOS_oyunları", "id": 457585, "predecessors": [{"name": "MacOS_yazılımları", "id": 457591}, {"name": "Bilgisayar", "id": 3494}, {"name": "Unix_yazılımları", "id": 193679}, {"name": "Video_oyunları", "id": 450124}], "successors": []}

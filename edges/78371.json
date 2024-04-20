@@ -1,1 +1,1 @@
-{"name": "Takım_sporları", "id": 78371, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Futbol_kuralları", "id": 12953}, {"name": "Futbol_ödülleri", "id": 808227}]}
+{"name": "Takım_sporları", "id": 78371, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Futbol_ödülleri", "id": 808227}]}

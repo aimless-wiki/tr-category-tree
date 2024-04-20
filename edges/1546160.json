@@ -1,1 +1,1 @@
-{"name": "İTunes", "id": 1546160, "predecessors": [{"name": "Apple_yazılımları", "id": 25018}, {"name": "MacOS", "id": 457590}, {"name": "Mac_OS", "id": 24093}, {"name": "Ortam_oynatıcılar", "id": 46525}], "successors": [{"name": "İPod", "id": 1771474}]}
+{"name": "İTunes", "id": 1546160, "predecessors": [{"name": "MacOS", "id": 457590}, {"name": "Mac_OS", "id": 24093}, {"name": "Ortam_oynatıcılar", "id": 46525}], "successors": [{"name": "İPod", "id": 1771474}]}
