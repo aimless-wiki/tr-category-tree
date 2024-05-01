@@ -1,1 +1,1 @@
-{"name": "Bilimsel_dergiler", "id": 640173, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Kültür", "id": 7230}], "successors": []}
+{"name": "Bilimsel_dergiler", "id": 640173, "predecessors": [{"name": "İletişim", "id": 12514}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Kimya_akademik_dergileri", "id": 1520404}]}

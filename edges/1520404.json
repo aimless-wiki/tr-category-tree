@@ -1,1 +1,1 @@
-{"name": "Kimya_akademik_dergileri", "id": 1520404, "predecessors": [{"name": "Kültür_listeleri", "id": 417988}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}
+{"name": "Kimya_akademik_dergileri", "id": 1520404, "predecessors": [{"name": "Bilimsel_dergiler", "id": 640173}, {"name": "Kültür_listeleri", "id": 417988}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_dergileri", "id": 2963918}]}
