@@ -1,1 +1,1 @@
-{"name": "Gözetim", "id": 1393770, "predecessors": [{"name": "Ulusal_güvenlik", "id": 36569}, {"name": "Güvenlik", "id": 36571}, {"name": "Polis", "id": 37942}, {"name": "Toplumsal_kavramlar", "id": 1522348}, {"name": "Casusluk", "id": 72388}], "successors": []}
+{"name": "Gözetim", "id": 1393770, "predecessors": [{"name": "Ulusal_güvenlik", "id": 36569}, {"name": "Güvenlik", "id": 36571}, {"name": "Teknoloji", "id": 6300}, {"name": "Toplumsal_kavramlar", "id": 1522348}, {"name": "Casusluk", "id": 72388}], "successors": []}

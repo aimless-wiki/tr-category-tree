@@ -1,1 +1,1 @@
-{"name": "Müzik_dergileri", "id": 75368, "predecessors": [{"name": "Kültür", "id": 7230}, {"name": "Gazetecilik", "id": 15750}], "successors": [{"name": "Billboard", "id": 646024}]}
+{"name": "Müzik_dergileri", "id": 75368, "predecessors": [{"name": "Kültür", "id": 7230}, {"name": "Gazetecilik", "id": 15750}, {"name": "İletişim", "id": 12514}], "successors": [{"name": "Billboard", "id": 646024}, {"name": "Amerika_Birleşik_Devletleri_müzik_dergileri", "id": 1466798}]}

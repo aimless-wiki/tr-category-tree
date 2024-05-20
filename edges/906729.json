@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_animasyonlu_filmler", "id": 906729, "predecessors": [{"name": "Film_ve_video_teknolojisi", "id": 102844}, {"name": "Bilgisayar_sanatı", "id": 686652}], "successors": [{"name": "Amerika_Birleşik_Devletleri_bilgisayar_animasyonlu_filmleri", "id": 2471906}]}
+{"name": "Bilgisayar_animasyonlu_filmler", "id": 906729, "predecessors": [{"name": "Film_ve_video_teknolojisi", "id": 102844}, {"name": "Animasyon", "id": 12744}], "successors": [{"name": "Amerika_Birleşik_Devletleri_bilgisayar_animasyonlu_filmleri", "id": 2471906}]}

@@ -1,1 +1,1 @@
-{"name": "Mobil_ödemeler", "id": 2134366, "predecessors": [{"name": "Ödeme_sistemleri", "id": 1699760}], "successors": []}
+{"name": "Mobil_ödemeler", "id": 2134366, "predecessors": [{"name": "Ödeme_sistemleri", "id": 1699760}, {"name": "Mobil_telekomünikasyon", "id": 2228327}, {"name": "Siyasi_ekonomi", "id": 1772369}], "successors": []}

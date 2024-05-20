@@ -1,1 +1,1 @@
-{"name": "Polis_taslakları", "id": 1458401, "predecessors": [{"name": "Hukuk_taslakları", "id": 39383}, {"name": "Polis", "id": 37942}, {"name": "Suç_taslakları", "id": 432278}], "successors": []}
+{"name": "Polis_taslakları", "id": 1458401, "predecessors": [{"name": "Hukuk_taslakları", "id": 39383}, {"name": "Suç_taslakları", "id": 432278}, {"name": "Devlet_kurumları", "id": 1016288}], "successors": []}

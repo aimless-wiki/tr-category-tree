@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_sanatı", "id": 686652, "predecessors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Dijital_medya", "id": 415346}, {"name": "Görsel_sanatlar", "id": 12128}], "successors": [{"name": "Bilgisayar_animasyonlu_filmler", "id": 906729}, {"name": "Hareket_yakalama_tekniğini_kullanan_filmler", "id": 2621367}]}
+{"name": "Bilgisayar_sanatı", "id": 686652, "predecessors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Dijital_medya", "id": 415346}, {"name": "Görsel_sanatlar", "id": 12128}], "successors": []}

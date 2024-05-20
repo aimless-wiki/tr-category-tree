@@ -1,1 +1,1 @@
-{"name": "Royal_Society'nin_yabancı_üyeleri", "id": 2147232, "predecessors": [{"name": "Royal_Society_üyeleri", "id": 1175830}, {"name": "Diplomasi", "id": 116128}], "successors": []}
+{"name": "Royal_Society'nin_yabancı_üyeleri", "id": 2147232, "predecessors": [{"name": "Royal_Society_üyeleri", "id": 1175830}, {"name": "Diplomasi", "id": 116128}], "successors": [{"name": "Royal_Society_üyesi_Amerikalılar", "id": 4103906}, {"name": "Royal_Society_üyesi_Fransızlar", "id": 4103939}, {"name": "Royal_Society_üyesi_Almanlar", "id": 4103948}]}

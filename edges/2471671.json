@@ -1,1 +1,1 @@
-{"name": "Animasyon_komedi_filmleri", "id": 2471671, "predecessors": [{"name": "Komedi_filmleri", "id": 124664}, {"name": "Film_türleri", "id": 104484}], "successors": []}
+{"name": "Animasyon_komedi_filmleri", "id": 2471671, "predecessors": [{"name": "Komedi_filmleri", "id": 124664}, {"name": "Animasyon", "id": 12744}], "successors": []}

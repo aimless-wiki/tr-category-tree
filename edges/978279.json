@@ -1,1 +1,1 @@
-{"name": "İsveç_merkezli_şirket_taslakları", "id": 978279, "predecessors": [{"name": "İsveç_taslakları", "id": 380395}, {"name": "Şirket_taslakları", "id": 170278}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}
+{"name": "İsveç_merkezli_şirket_taslakları", "id": 978279, "predecessors": [{"name": "İsveç_merkezli_şirketler", "id": 614485}, {"name": "İsveç_taslakları", "id": 380395}, {"name": "Şirket_taslakları", "id": 170278}], "successors": []}

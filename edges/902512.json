@@ -1,1 +1,1 @@
-{"name": "Finansal_piyasalar", "id": 902512, "predecessors": [{"name": "Ekonomi_terimleri", "id": 1659511}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Finans", "id": 14121}], "successors": [{"name": "Borsa", "id": 21325}]}
+{"name": "Finansal_piyasalar", "id": 902512, "predecessors": [{"name": "Yatırım", "id": 902674}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Finans", "id": 14121}], "successors": [{"name": "Borsa", "id": 21325}, {"name": "Yatırım", "id": 902674}]}

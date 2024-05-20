@@ -1,1 +1,1 @@
-{"name": "Mobil_telekomünikasyon", "id": 2228327, "predecessors": [{"name": "Mobil_teknoloji", "id": 1665985}, {"name": "Telekomünikasyon", "id": 12616}], "successors": []}
+{"name": "Mobil_telekomünikasyon", "id": 2228327, "predecessors": [{"name": "Mobil_teknoloji", "id": 1665985}, {"name": "Telekomünikasyon", "id": 12616}], "successors": [{"name": "Mobil_ödemeler", "id": 2134366}, {"name": "Twitter", "id": 901149}]}
