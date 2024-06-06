@@ -1,1 +1,1 @@
-{"name": "Kurgusal_olmayan_eserler_veren_Alman_yazarlar", "id": 1709538, "predecessors": [{"name": "Alman_yazarlar", "id": 15537}], "successors": [{"name": "Alman_ilahiyatçılar", "id": 92579}, {"name": "Alman_tarihçiler", "id": 412405}, {"name": "Alman_otobiyograflar", "id": 2117429}]}
+{"name": "Kurgusal_olmayan_eserler_veren_Alman_yazarlar", "id": 1709538, "predecessors": [{"name": "Alman_yazarlar", "id": 15537}, {"name": "Sanat", "id": 6443}], "successors": [{"name": "Alman_ilahiyatçılar", "id": 92579}, {"name": "Alman_otobiyograflar", "id": 2117429}]}

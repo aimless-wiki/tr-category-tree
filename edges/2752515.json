@@ -1,1 +1,1 @@
-{"name": "Adana_ilinde_demiryolu_ulaşımı", "id": 2752515, "predecessors": [{"name": "Benlik", "id": 956653}], "successors": [{"name": "Adana'da_demiryolu_ulaşımı_güzergâh_şablonları", "id": 3060460}]}
+{"name": "Adana_ilinde_demiryolu_ulaşımı", "id": 2752515, "predecessors": [{"name": "İletişim", "id": 12514}], "successors": [{"name": "Adana'da_demiryolu_ulaşımı_güzergâh_şablonları", "id": 3060460}]}

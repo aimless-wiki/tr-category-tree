@@ -1,1 +1,1 @@
-{"name": "Elektrokimya", "id": 25964, "predecessors": [{"name": "Analitik_kimya", "id": 16871}, {"name": "Elektromanyetizma", "id": 183552}, {"name": "Fiziksel_kimya", "id": 16875}], "successors": [{"name": "Piller", "id": 698591}, {"name": "Yakıt_hücreleri", "id": 1294149}]}
+{"name": "Elektrokimya", "id": 25964, "predecessors": [{"name": "Elektromanyetizma", "id": 183552}, {"name": "Fiziksel_kimya", "id": 16875}], "successors": [{"name": "Piller", "id": 698591}, {"name": "Yakıt_hücreleri", "id": 1294149}]}

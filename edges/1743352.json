@@ -1,1 +1,1 @@
-{"name": "Kadın_pilotlar", "id": 1743352, "predecessors": [{"name": "Askerî_havacılık", "id": 1003321}, {"name": "Cinsiyet", "id": 956651}], "successors": [{"name": "Amerikalı_kadın_pilotlar", "id": 2375145}]}
+{"name": "Kadın_pilotlar", "id": 1743352, "predecessors": [{"name": "Havacılık", "id": 20813}, {"name": "Cinsiyet", "id": 956651}], "successors": [{"name": "Amerikalı_kadın_pilotlar", "id": 2375145}]}

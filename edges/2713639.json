@@ -1,1 +1,1 @@
-{"name": "Dünya_Sağlık_Örgütü_ana_ilaçları", "id": 2713639, "predecessors": [{"name": "İnsani_yardım", "id": 1793549}], "successors": [{"name": "Dünya_Sağlık_Örgütü_ana_aşıları", "id": 3317493}]}
+{"name": "Dünya_Sağlık_Örgütü_ana_ilaçları", "id": 2713639, "predecessors": [{"name": "Acil_durum_hizmetleri", "id": 1016286}], "successors": [{"name": "Dünya_Sağlık_Örgütü_ana_aşıları", "id": 3317493}]}

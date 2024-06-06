@@ -1,1 +1,1 @@
-{"name": "Video_mesajlaşma", "id": 2174543, "predecessors": [{"name": "Dijital_medya", "id": 415346}], "successors": [{"name": "Cep_telefonları", "id": 184320}]}
+{"name": "Video_mesajlaşma", "id": 2174543, "predecessors": [{"name": "Video", "id": 1204005}, {"name": "Telekomünikasyon", "id": 12616}], "successors": [{"name": "Cep_telefonları", "id": 184320}]}

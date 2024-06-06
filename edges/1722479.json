@@ -1,1 +1,1 @@
-{"name": "Nesnelerin_interneti", "id": 1722479, "predecessors": [{"name": "Bilişim_bilimi", "id": 13830}, {"name": "Gelişen_teknolojiler", "id": 1702188}, {"name": "İnsan_bilgisayar_etkileşimi", "id": 544069}, {"name": "Bilgisayar", "id": 3494}], "successors": []}
+{"name": "Nesnelerin_interneti", "id": 1722479, "predecessors": [{"name": "Bilişim_bilimi", "id": 13830}, {"name": "Gelişen_teknolojiler", "id": 1702188}, {"name": "İnsan_bilgisayar_etkileşimi", "id": 544069}, {"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Giyilebilir_cihazlar", "id": 2166566}]}

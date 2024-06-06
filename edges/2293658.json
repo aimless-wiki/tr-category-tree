@@ -1,1 +1,1 @@
-{"name": "Disney_animasyon_karakterleri", "id": 2293658, "predecessors": [{"name": "Disney_karakterleri", "id": 1071143}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}
+{"name": "Disney_animasyon_karakterleri", "id": 2293658, "predecessors": [{"name": "Disney_karakterleri", "id": 1071143}, {"name": "Animasyon_filmler", "id": 117492}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}

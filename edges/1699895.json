@@ -1,1 +1,1 @@
-{"name": "Animasyon_kısa_filmler", "id": 1699895, "predecessors": [{"name": "Kısa_filmler", "id": 275166}, {"name": "Animasyon", "id": 12744}], "successors": []}
+{"name": "Animasyon_kısa_filmler", "id": 1699895, "predecessors": [{"name": "Animasyon_filmler", "id": 117492}, {"name": "Kısa_filmler", "id": 275166}], "successors": []}

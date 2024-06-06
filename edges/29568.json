@@ -1,1 +1,1 @@
-{"name": "Kan", "id": 29568, "predecessors": [{"name": "Hematoloji", "id": 29564}, {"name": "Vücut_sıvıları", "id": 115415}, {"name": "Hayvan_anatomisi", "id": 21653}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Hematoloji", "id": 29564}, {"name": "Kan_testleri", "id": 876281}]}
+{"name": "Kan", "id": 29568, "predecessors": [{"name": "Hematoloji", "id": 29564}, {"name": "Vücut_sıvıları", "id": 115415}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Hematoloji", "id": 29564}, {"name": "Kan_testleri", "id": 876281}]}

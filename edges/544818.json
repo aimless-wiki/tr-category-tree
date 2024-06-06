@@ -1,1 +1,1 @@
-{"name": "Bilgisayar_ortamları", "id": 544818, "predecessors": [{"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Microsoft_Windows", "id": 24095}, {"name": "Java_ortamı", "id": 544817}, {"name": "Wii_oyunları", "id": 457207}]}
+{"name": "Bilgisayar_ortamları", "id": 544818, "predecessors": [{"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Microsoft_Windows", "id": 24095}, {"name": "Java_ortamı", "id": 544817}]}

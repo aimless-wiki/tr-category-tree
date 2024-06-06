@@ -1,1 +1,1 @@
-{"name": "Embriyoloji", "id": 16588, "predecessors": [{"name": "Gelişim_biyolojisi", "id": 28265}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Teratojenler", "id": 628685}]}
+{"name": "Embriyoloji", "id": 16588, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Teratojenler", "id": 628685}]}

@@ -1,1 +1,1 @@
-{"name": "Deprem_taslakları", "id": 1115170, "predecessors": [{"name": "Afet_taslakları", "id": 435607}, {"name": "Bilim_taslakları", "id": 46429}, {"name": "Tarih_taslakları", "id": 39288}, {"name": "Jeoloji_taslakları", "id": 127242}, {"name": "Jeoloji", "id": 6635}], "successors": []}
+{"name": "Deprem_taslakları", "id": 1115170, "predecessors": [{"name": "Afet_taslakları", "id": 435607}, {"name": "Bilim_taslakları", "id": 46429}, {"name": "Tarih_taslakları", "id": 39288}, {"name": "Vikipedi", "id": 7220}], "successors": []}

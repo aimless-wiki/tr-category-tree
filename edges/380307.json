@@ -1,1 +1,1 @@
-{"name": "Ekstrem_sporlar", "id": 380307, "predecessors": [{"name": "Egzersiz", "id": 134636}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Dağcılık", "id": 193960}]}
+{"name": "Ekstrem_sporlar", "id": 380307, "predecessors": [{"name": "Hobiler", "id": 12753}, {"name": "Egzersiz", "id": 134636}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Dağcılık", "id": 193960}]}

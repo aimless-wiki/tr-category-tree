@@ -1,1 +1,1 @@
-{"name": "FK_İrtış_futbolcuları", "id": 1941210, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}], "successors": []}
+{"name": "FK_İrtış_futbolcuları", "id": 1941210, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": []}

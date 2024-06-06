@@ -1,1 +1,1 @@
-{"name": "İşletme_meslekleri", "id": 976349, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Belediye_başkanları", "id": 35059}, {"name": "İdarecilik_meslekleri", "id": 2490714}]}
+{"name": "İşletme_meslekleri", "id": 976349, "predecessors": [{"name": "İşletme", "id": 21253}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Belediye_başkanları", "id": 35059}, {"name": "İdarecilik_meslekleri", "id": 2490714}]}

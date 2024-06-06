@@ -1,1 +1,1 @@
-{"name": "Belgrad_doğumlu_sporcular", "id": 2144378, "predecessors": [{"name": "Belgrad_doğumlular", "id": 1213130}, {"name": "Avrupa_ülkeleri", "id": 22318}], "successors": [{"name": "Belgrad_doğumlu_futbolcular", "id": 2309757}]}
+{"name": "Belgrad_doğumlu_sporcular", "id": 2144378, "predecessors": [{"name": "Belgrad_doğumlular", "id": 1213130}, {"name": "Balkanlar", "id": 80859}], "successors": [{"name": "Belgrad_doğumlu_futbolcular", "id": 2309757}]}

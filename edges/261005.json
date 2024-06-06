@@ -1,1 +1,1 @@
-{"name": "Gebelik", "id": 261005, "predecessors": [{"name": "Jinekoloji", "id": 96403}, {"name": "Aile", "id": 12531}], "successors": [{"name": "Gebelik_ile_ilgili_filmler", "id": 1306793}, {"name": "İkizler", "id": 608659}]}
+{"name": "Gebelik", "id": 261005, "predecessors": [{"name": "Jinekoloji", "id": 96403}, {"name": "Aile", "id": 12531}], "successors": [{"name": "Gebelik_ile_ilgili_filmler", "id": 1306793}, {"name": "Gebelikte_sağlık_sorunları", "id": 3768185}, {"name": "İkizler", "id": 608659}]}

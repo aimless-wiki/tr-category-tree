@@ -1,1 +1,1 @@
-{"name": "Ekonometri", "id": 86877, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Biliş", "id": 92791}, {"name": "İstatistik", "id": 13377}], "successors": []}
+{"name": "Ekonometri", "id": 86877, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Biliş", "id": 92791}, {"name": "İstatistik", "id": 13377}], "successors": [{"name": "Regresyon_analizi", "id": 677855}]}

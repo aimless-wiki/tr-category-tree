@@ -1,1 +1,1 @@
-{"name": "Çevre_bilimleri", "id": 843380, "predecessors": [{"name": "Dünya", "id": 6772}], "successors": [{"name": "Çevre_kirliliği", "id": 769780}, {"name": "Su_kirliliği", "id": 975525}]}
+{"name": "Çevre_bilimleri", "id": 843380, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Çevre_kirliliği", "id": 769780}, {"name": "Su_kirliliği", "id": 975525}, {"name": "Çevresel_kimya", "id": 990498}]}

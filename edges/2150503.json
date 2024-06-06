@@ -1,0 +1,1 @@
+{"name": "Merkezî_işlem_birimi", "id": 2150503, "predecessors": [{"name": "Bilgisayar_mimarisi", "id": 23806}, {"name": "Mikroişlemciler", "id": 23810}, {"name": "Bilgisayar_donanımları", "id": 40478}], "successors": [{"name": "Intel_işlemci_soketleri", "id": 3494506}]}

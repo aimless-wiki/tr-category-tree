@@ -1,1 +1,1 @@
-{"name": "Birleşik_Krallık_merkezli_motor_üreticileri", "id": 2465507, "predecessors": [{"name": "Birleşik_Krallık_merkezli_imalat_şirketleri", "id": 1953278}, {"name": "Motor_üreticileri", "id": 1027861}], "successors": [{"name": "Rolls-Royce", "id": 1328733}]}
+{"name": "Birleşik_Krallık_merkezli_motor_üreticileri", "id": 2465507, "predecessors": [{"name": "İmalat", "id": 404623}], "successors": [{"name": "Rolls-Royce_otomobilleri", "id": 2253826}]}

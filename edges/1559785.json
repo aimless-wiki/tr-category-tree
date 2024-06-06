@@ -1,1 +1,1 @@
-{"name": "Temel_cebir", "id": 1559785, "predecessors": [{"name": "Cebir", "id": 12793}, {"name": "Temel_matematik", "id": 182510}], "successors": [{"name": "Denklemler", "id": 12636}]}
+{"name": "Temel_cebir", "id": 1559785, "predecessors": [{"name": "Temel_matematik", "id": 182510}], "successors": [{"name": "Denklemler", "id": 12636}]}

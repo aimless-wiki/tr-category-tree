@@ -1,1 +1,1 @@
-{"name": "Yazı_sistemi_mucitleri", "id": 2318221, "predecessors": [{"name": "Yazı_sistemleri", "id": 72682}, {"name": "Bilgi", "id": 12510}, {"name": "Akademik_bilim_dalları", "id": 1217203}], "successors": []}
+{"name": "Yazı_sistemi_mucitleri", "id": 2318221, "predecessors": [{"name": "Yazı_sistemleri", "id": 72682}, {"name": "Dilbilimciler", "id": 6580}, {"name": "Vikipedi", "id": 7220}], "successors": []}

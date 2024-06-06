@@ -1,1 +1,1 @@
-{"name": "SS_personeli", "id": 3633431, "predecessors": [{"name": "Nazi_Partisi_üyeleri", "id": 2225112}, {"name": "SS", "id": 37768}], "successors": [{"name": "Nazi_toplama_kampları_personeli", "id": 3633433}, {"name": "Waffen-SS_personeli", "id": 3633434}]}
+{"name": "SS_personeli", "id": 3633431, "predecessors": [{"name": "Nazi_Partisi_üyeleri", "id": 2225112}, {"name": "SS", "id": 37768}], "successors": [{"name": "Nazi_toplama_kampları_personeli", "id": 3633433}, {"name": "Waffen-SS_personeli", "id": 3633434}, {"name": "SS-Standartenführer", "id": 2300349}]}

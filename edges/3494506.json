@@ -1,1 +1,1 @@
-{"name": "Intel_işlemci_soketleri", "id": 3494506, "predecessors": [{"name": "Bilgisayar_mimarisi", "id": 23806}, {"name": "Pazarlama", "id": 37079}], "successors": []}
+{"name": "Intel_işlemci_soketleri", "id": 3494506, "predecessors": [{"name": "Merkezî_işlem_birimi", "id": 2150503}, {"name": "Pazarlama", "id": 37079}], "successors": []}

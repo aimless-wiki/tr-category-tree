@@ -1,1 +1,1 @@
-{"name": "Kurgusal_kanser_olan_kişiler", "id": 2238203, "predecessors": [{"name": "Kanser_olan_kişiler", "id": 1764799}, {"name": "Kurgusal_engelliler", "id": 1200844}, {"name": "Engellilik", "id": 252432}], "successors": []}
+{"name": "Kurgusal_kanser_olan_kişiler", "id": 2238203, "predecessors": [{"name": "Kanser_olan_kişiler", "id": 1764799}, {"name": "Kurgusal_engelliler", "id": 1200844}, {"name": "Hastalıklar_ve_bozukluklar", "id": 9908}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Billboard", "id": 646024, "predecessors": [{"name": "Doğuş_Yayın_Grubu", "id": 1319281}, {"name": "Müzik_dergileri", "id": 75368}, {"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Billboard_listeleri", "id": 846312}]}
+{"name": "Billboard", "id": 646024, "predecessors": [{"name": "Doğuş_Yayın_Grubu", "id": 1319281}, {"name": "Müzik_dergileri", "id": 75368}, {"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Billboard_listeleri", "id": 846312}]}

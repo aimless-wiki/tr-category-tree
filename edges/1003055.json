@@ -1,1 +1,1 @@
-{"name": "Simpsonlar_karakterleri", "id": 1003055, "predecessors": [{"name": "Film_karakterleri", "id": 989848}, {"name": "Komedi_televizyon_dizileri", "id": 891058}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}
+{"name": "Simpsonlar_karakterleri", "id": 1003055, "predecessors": [{"name": "Film_karakterleri", "id": 989848}, {"name": "Simpsonlar", "id": 992388}, {"name": "Komedi_televizyon_dizileri", "id": 891058}, {"name": "Kurgusal_karakterler", "id": 1199933}], "successors": []}

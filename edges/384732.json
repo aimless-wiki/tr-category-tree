@@ -1,1 +1,1 @@
-{"name": "Kumaşlar", "id": 384732, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Tekstil_terimleri", "id": 547231}, {"name": "Tekstil_üretim_teknikleri", "id": 599585}, {"name": "Tekstil", "id": 72859}], "successors": []}
+{"name": "Kumaşlar", "id": 384732, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Tekstil_terimleri", "id": 547231}, {"name": "Tekstil_üretim_teknikleri", "id": 599585}, {"name": "Tekstil", "id": 72859}], "successors": [{"name": "Dericilik", "id": 1750152}]}

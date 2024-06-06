@@ -1,1 +1,1 @@
-{"name": "Hücre_anatomisi", "id": 247716, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Hücre_biyolojisi", "id": 26863}], "successors": [{"name": "Organeller", "id": 31240}, {"name": "Membran_biyolojisi", "id": 877981}]}
+{"name": "Hücre_anatomisi", "id": 247716, "predecessors": [{"name": "Anatomi", "id": 9907}], "successors": [{"name": "Organeller", "id": 31240}, {"name": "Membran_biyolojisi", "id": 877981}]}

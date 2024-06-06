@@ -1,1 +1,1 @@
-{"name": "İzmir_ilinde_demiryolu_ulaşımı", "id": 2468073, "predecessors": [{"name": "Benlik", "id": 956653}], "successors": [{"name": "İzmir_ilindeki_tren_istasyonları", "id": 548652}]}
+{"name": "İzmir_ilinde_demiryolu_ulaşımı", "id": 2468073, "predecessors": [{"name": "İletişim", "id": 12514}], "successors": [{"name": "İzmir_ilindeki_tren_istasyonları", "id": 548652}]}

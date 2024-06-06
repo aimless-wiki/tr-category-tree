@@ -1,1 +1,1 @@
-{"name": "Macar_Bilimler_Akademisi_üyeleri", "id": 1932676, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": []}
+{"name": "Macar_Bilimler_Akademisi_üyeleri", "id": 1932676, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": []}

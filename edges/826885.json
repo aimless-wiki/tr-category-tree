@@ -1,1 +1,1 @@
-{"name": "Gezegen_sistemleri", "id": 826885, "predecessors": [{"name": "Astronomi", "id": 12746}], "successors": []}
+{"name": "Gezegen_sistemleri", "id": 826885, "predecessors": [{"name": "Gezegen_bilimi", "id": 2040221}, {"name": "Ötegezegenler", "id": 406326}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Çöküntü_çemberleri", "id": 826883}]}

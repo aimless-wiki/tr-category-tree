@@ -1,1 +1,1 @@
-{"name": "İslam_felsefesi", "id": 43044, "predecessors": [{"name": "İslam", "id": 13382}, {"name": "Din_felsefesi", "id": 45123}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "İslam_filozofları", "id": 74100}, {"name": "İslam_ilahiyatı", "id": 306886}]}
+{"name": "İslam_felsefesi", "id": 43044, "predecessors": [{"name": "İslam", "id": 13382}, {"name": "Din_felsefesi", "id": 45123}, {"name": "Akımlar", "id": 12631}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "İslam_filozofları", "id": 74100}, {"name": "İslam_ilahiyatı", "id": 306886}]}

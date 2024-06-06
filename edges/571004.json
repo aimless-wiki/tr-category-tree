@@ -1,1 +1,1 @@
-{"name": "Rüzgâr_gücü", "id": 571004, "predecessors": [{"name": "Rüzgâr", "id": 982061}, {"name": "Yenilenebilir_enerji", "id": 116135}], "successors": [{"name": "Rüzgâr_türbinleri", "id": 930175}, {"name": "Planörler", "id": 139097}, {"name": "Yelkenliler", "id": 754991}, {"name": "Yel_değirmeni_listeleri", "id": 1446297}]}
+{"name": "Rüzgâr_gücü", "id": 571004, "predecessors": [{"name": "Yenilenebilir_enerji", "id": 116135}, {"name": "Atmosfer", "id": 20064}], "successors": [{"name": "Yelkenliler", "id": 754991}, {"name": "Yel_değirmeni_listeleri", "id": 1446297}]}

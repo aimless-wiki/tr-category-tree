@@ -1,1 +1,1 @@
-{"name": "Sürüngen_taslakları", "id": 512918, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "Zooloji", "id": 10436}], "successors": [{"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265}, {"name": "Yılan_taslakları", "id": 183137}]}
+{"name": "Sürüngen_taslakları", "id": 512918, "predecessors": [{"name": "Filogenetik", "id": 24943}], "successors": [{"name": "Tarih_öncesi_sürüngen_taslakları", "id": 1430265}]}

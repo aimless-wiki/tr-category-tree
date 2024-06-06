@@ -1,1 +1,1 @@
-{"name": "Kısaltmalar", "id": 16215, "predecessors": [{"name": "Dilbilim", "id": 142761}, {"name": "Yazı", "id": 16248}], "successors": [{"name": "DVD", "id": 156188}]}
+{"name": "Kısaltmalar", "id": 16215, "predecessors": [{"name": "Biçimbilim", "id": 2221719}, {"name": "Dilbilim", "id": 142761}, {"name": "Yazı", "id": 16248}], "successors": [{"name": "DVD", "id": 156188}, {"name": "Dosya_uzantıları", "id": 176544}]}

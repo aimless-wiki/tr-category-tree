@@ -1,1 +1,1 @@
-{"name": "Spor_otomobil_üreticileri", "id": 2405690, "predecessors": [{"name": "Otomobil_üreticileri", "id": 170370}], "successors": [{"name": "BMW", "id": 149722}]}
+{"name": "Spor_otomobil_üreticileri", "id": 2405690, "predecessors": [{"name": "Otomobil_üreticileri", "id": 170370}], "successors": [{"name": "BMW", "id": 149722}, {"name": "Honda", "id": 195137}]}

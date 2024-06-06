@@ -1,1 +1,1 @@
-{"name": "Eğitim_yazılımları", "id": 935042, "predecessors": [{"name": "Eğitim_teknolojisi", "id": 447604}, {"name": "Uygulama_yazılımları", "id": 176015}], "successors": [{"name": "Vikipedi", "id": 7220}]}
+{"name": "Eğitim_yazılımları", "id": 935042, "predecessors": [{"name": "Eğitim_teknolojisi", "id": 447604}, {"name": "Yazılım", "id": 3493}, {"name": "Eğitim", "id": 6773}, {"name": "Öğrenme", "id": 873766}], "successors": [{"name": "Vikipedi", "id": 7220}]}

@@ -1,1 +1,1 @@
-{"name": "Facebook", "id": 885138, "predecessors": [{"name": "Blog_barındırma_hizmetleri", "id": 2197334}, {"name": "Amerika_Birleşik_Devletleri_web_siteleri", "id": 875405}], "successors": [{"name": "Facebook_tarafından_geliştirilen_yazılımlar", "id": 1907352}]}
+{"name": "Facebook", "id": 885138, "predecessors": [{"name": "Blog_barındırma_hizmetleri", "id": 2197334}, {"name": "Amerika_Birleşik_Devletleri_web_siteleri", "id": 875405}], "successors": [{"name": "Facebook_tarafından_geliştirilen_yazılımlar", "id": 1907352}, {"name": "Facebook_oyunları", "id": 1773153}]}

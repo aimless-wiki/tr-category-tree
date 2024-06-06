@@ -1,1 +1,1 @@
-{"name": "Piperazinler", "id": 2462176, "predecessors": [{"name": "Elementler", "id": 9826}, {"name": "Aminler", "id": 24868}], "successors": []}
+{"name": "Piperazinler", "id": 2462176, "predecessors": [{"name": "Azot_heterosiklikleri", "id": 429740}, {"name": "Kimya", "id": 3599}, {"name": "Aminler", "id": 24868}], "successors": []}

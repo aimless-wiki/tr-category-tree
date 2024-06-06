@@ -1,1 +1,1 @@
-{"name": "Yazılım_listeleri", "id": 197003, "predecessors": [{"name": "Yazılım", "id": 3493}, {"name": "Bilgisayar", "id": 3494}], "successors": []}
+{"name": "Yazılım_listeleri", "id": 197003, "predecessors": [{"name": "Yazılım", "id": 3493}, {"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Video_oyunu_listeleri", "id": 1386566}]}

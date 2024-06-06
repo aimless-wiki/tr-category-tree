@@ -1,1 +1,1 @@
-{"name": "Alman_astronomlar", "id": 1470676, "predecessors": [{"name": "Alman_bilim_insanları", "id": 1956176}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Alman_astronom_taslakları", "id": 1470672}, {"name": "John_Herschel'in_keşifleri", "id": 2059354}]}
+{"name": "Alman_astronomlar", "id": 1470676, "predecessors": [{"name": "Alman_bilim_insanları", "id": 1956176}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Alman_astronom_taslakları", "id": 1470672}, {"name": "John_Herschel'in_keşifleri", "id": 2059354}]}

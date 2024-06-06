@@ -1,1 +1,1 @@
-{"name": "Metalurji", "id": 92254, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Malzeme_bilimi", "id": 13741}], "successors": [{"name": "Metalürji_taslakları", "id": 348249}, {"name": "Metal_işçiliği", "id": 1402144}]}
+{"name": "Metalurji", "id": 92254, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Madencilik", "id": 13413}, {"name": "Malzeme_bilimi", "id": 13741}], "successors": [{"name": "Metalürji_taslakları", "id": 348249}, {"name": "Metal_işçiliği", "id": 1402144}]}

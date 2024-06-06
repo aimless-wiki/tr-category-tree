@@ -1,1 +1,1 @@
-{"name": "Danslar", "id": 186239, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Meslekler", "id": 12752}], "successors": []}
+{"name": "Danslar", "id": 186239, "predecessors": [{"name": "Dans", "id": 12131}, {"name": "Sanat", "id": 6443}], "successors": [{"name": "Halk_dansları", "id": 186236}, {"name": "Türk_halk_dansları", "id": 1787857}]}

@@ -1,1 +1,1 @@
-{"name": "Eğitim_psikolojisi", "id": 456914, "predecessors": [{"name": "Psikoloji_dalları", "id": 88793}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "Bellek", "id": 102235}, {"name": "Erkek_grupları", "id": 932446}, {"name": "Disleksi_olan_kişiler", "id": 2817800}]}
+{"name": "Eğitim_psikolojisi", "id": 456914, "predecessors": [{"name": "Eğitim", "id": 6773}], "successors": [{"name": "Bellek", "id": 102235}, {"name": "Erkek_grupları", "id": 932446}, {"name": "Disleksi_olan_kişiler", "id": 2817800}]}

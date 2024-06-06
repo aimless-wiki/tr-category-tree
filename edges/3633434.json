@@ -1,1 +1,1 @@
-{"name": "Waffen-SS_personeli", "id": 3633434, "predecessors": [{"name": "Almanca_deyişler", "id": 265347}], "successors": [{"name": "Waffen-SS_generalleri", "id": 732643}]}
+{"name": "Waffen-SS_personeli", "id": 3633434, "predecessors": [{"name": "SS_personeli", "id": 3633431}, {"name": "Almanca_deyişler", "id": 265347}], "successors": [{"name": "Waffen-SS_generalleri", "id": 732643}]}

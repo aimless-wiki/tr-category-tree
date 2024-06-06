@@ -1,1 +1,1 @@
-{"name": "Dijital_sanat", "id": 21071, "predecessors": [{"name": "Dijital_medya", "id": 415346}, {"name": "Çağdaş_sanat", "id": 12415}, {"name": "Görsel_sanat_akımları", "id": 699047}, {"name": "Sosyal_psikoloji", "id": 89459}], "successors": []}
+{"name": "Dijital_sanat", "id": 21071, "predecessors": [{"name": "Dijital_medya", "id": 415346}, {"name": "Çağdaş_sanat", "id": 12415}, {"name": "Medya", "id": 12429}, {"name": "Görsel_sanat_akımları", "id": 699047}], "successors": []}

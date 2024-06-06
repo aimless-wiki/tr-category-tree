@@ -1,1 +1,1 @@
-{"name": "FK_Željezničar_futbolcuları", "id": 1783912, "predecessors": [{"name": "Avrupa'daki_bölgeler", "id": 1767247}, {"name": "Bosna-Hersek'teki_futbol_kulüpleri", "id": 1436146}], "successors": []}
+{"name": "FK_Željezničar_futbolcuları", "id": 1783912, "predecessors": [{"name": "Bosna-Hersek'teki_futbol_kulüpleri", "id": 1436146}, {"name": "Egzersiz", "id": 134636}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Alt_ekstremite", "id": 356086, "predecessors": [{"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "Ayak", "id": 327743}, {"name": "Alt_ekstremite_kemikleri", "id": 2231149}]}
+{"name": "Alt_ekstremite", "id": 356086, "predecessors": [{"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "Alt_ekstremite_kemikleri", "id": 2231149}, {"name": "Ayak_giyimi", "id": 1611483}]}

@@ -1,1 +1,1 @@
-{"name": "Çevresel_kimya", "id": 990498, "predecessors": [{"name": "Çevre_bilimleri", "id": 843380}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Çevresel_kimya", "id": 990498, "predecessors": [{"name": "Meteoroloji", "id": 13353}, {"name": "Çevre_bilimleri", "id": 843380}, {"name": "Akademi", "id": 583263}], "successors": []}

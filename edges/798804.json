@@ -1,1 +1,1 @@
-{"name": "Türk_Deniz_Kuvvetleri_denizaltıları", "id": 798804, "predecessors": [{"name": "Türk_Deniz_Kuvvetleri_savaş_gemileri", "id": 798805}, {"name": "Denizaltılar", "id": 49098}], "successors": [{"name": "Türk_Deniz_Kuvvetleri'ne_devredilen_Balao_sınıfı_denizaltı", "id": 1610147}]}
+{"name": "Türk_Deniz_Kuvvetleri_denizaltıları", "id": 798804, "predecessors": [{"name": "Türk_Deniz_Kuvvetleri", "id": 755180}, {"name": "Denizaltılar", "id": 49098}], "successors": [{"name": "Türk_Deniz_Kuvvetleri'ne_devredilen_Balao_sınıfı_denizaltı", "id": 1610147}]}

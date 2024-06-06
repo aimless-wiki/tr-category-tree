@@ -1,1 +1,1 @@
-{"name": "Güney_Hollanda'daki_belediyeler", "id": 2043890, "predecessors": [{"name": "Avrupa_Birliği_ülkeleri", "id": 593751}, {"name": "Avrupa_Birliği'nde_NUTS_2_istatistiksel_bölgeleri", "id": 1500759}], "successors": [{"name": "Lahey_doğumlular", "id": 1804886}, {"name": "Rotterdam_doğumlular", "id": 1173709}]}
+{"name": "Güney_Hollanda'daki_belediyeler", "id": 2043890, "predecessors": [{"name": "Hükûmet", "id": 1580223}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Lahey_doğumlular", "id": 1804886}, {"name": "Lahey_merkezli_kuruluşlar", "id": 4086333}]}

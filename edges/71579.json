@@ -1,1 +1,1 @@
-{"name": "Eğitim_kurumu_taslakları", "id": 71579, "predecessors": [{"name": "Eğitim_taslakları", "id": 145236}, {"name": "Kuruluş_taslakları", "id": 1612888}], "successors": [{"name": "Üniversite_taslakları", "id": 132941}]}
+{"name": "Eğitim_kurumu_taslakları", "id": 71579, "predecessors": [{"name": "Eğitim_taslakları", "id": 145236}, {"name": "Kuruluş_taslakları", "id": 1612888}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "Üniversite_taslakları", "id": 132941}]}

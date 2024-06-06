@@ -1,1 +1,1 @@
-{"name": "Patlayıcı_maddeler", "id": 35123, "predecessors": [{"name": "Mühimmat", "id": 651691}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Patlayıcı_kimyasal_maddeler", "id": 1353896}]}
+{"name": "Patlayıcı_maddeler", "id": 35123, "predecessors": [{"name": "Mühimmat", "id": 651691}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Patlayıcı_silahlar", "id": 236397}, {"name": "Patlayıcı_kimyasal_maddeler", "id": 1353896}, {"name": "Türkiye'deki_bombalı_saldırılar", "id": 1955251}, {"name": "Türkiye'deki_intihar_saldırıları", "id": 1862383}]}

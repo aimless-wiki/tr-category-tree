@@ -1,1 +1,1 @@
-{"name": "Marmaris", "id": 214051, "predecessors": [{"name": "Türk_Rivierası", "id": 199056}, {"name": "Akdeniz'e_kıyısı_olan_yerleşim_birimleri", "id": 974117}, {"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Marmaris'in_mahalleleri", "id": 1926496}]}
+{"name": "Marmaris", "id": 214051, "predecessors": [{"name": "Türk_Rivierası", "id": 199056}, {"name": "Akdeniz'e_kıyısı_olan_yerleşim_birimleri", "id": 974117}, {"name": "Su", "id": 195970}, {"name": "Ekonomi", "id": 12356}], "successors": []}

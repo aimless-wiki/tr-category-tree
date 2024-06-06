@@ -1,1 +1,1 @@
-{"name": "Kadın_bilim_insanları", "id": 3021599, "predecessors": [{"name": "Cinsiyet", "id": 956651}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kadın_fizikçiler", "id": 1533222}, {"name": "Kadın_matematikçiler", "id": 2057245}]}
+{"name": "Kadın_bilim_insanları", "id": 3021599, "predecessors": [{"name": "Cinsiyet", "id": 956651}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kadın_fizikçiler", "id": 1533222}, {"name": "Kadın_matematikçiler", "id": 2057245}, {"name": "Kadın_kimyagerler", "id": 3021657}]}

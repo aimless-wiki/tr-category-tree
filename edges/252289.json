@@ -1,1 +1,1 @@
-{"name": "Tıbbi_tedaviler", "id": 252289, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Cerrahi", "id": 59620}, {"name": "Psikoterapi", "id": 747068}]}
+{"name": "Tıbbi_tedaviler", "id": 252289, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Cerrahi", "id": 59620}, {"name": "Psikoterapi", "id": 747068}]}

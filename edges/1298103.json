@@ -1,1 +1,1 @@
-{"name": "Hint_şairler", "id": 1298103, "predecessors": [{"name": "Hint_yazarlar", "id": 1298094}], "successors": []}
+{"name": "Hint_şairler", "id": 1298103, "predecessors": [{"name": "Hint_yazarlar", "id": 1298094}, {"name": "Akademi", "id": 583263}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Termoplastikler", "id": 1322545, "predecessors": [{"name": "Organik_polimerler", "id": 23178}, {"name": "Plastikler", "id": 23176}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}
+{"name": "Termoplastikler", "id": 1322545, "predecessors": [{"name": "Organik_polimerler", "id": 23178}, {"name": "Plastikler", "id": 23176}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Fizik", "id": 7289}], "successors": []}

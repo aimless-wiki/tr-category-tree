@@ -1,1 +1,1 @@
-{"name": "Qt_kullanan_yazılımlar", "id": 1889088, "predecessors": [{"name": "Linux_yazılımları", "id": 457593}, {"name": "Gömülü_Linux", "id": 543930}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "S60_(yazılım_platformu)", "id": 2212644}]}
+{"name": "Qt_kullanan_yazılımlar", "id": 1889088, "predecessors": [{"name": "Linux_yazılımları", "id": 457593}, {"name": "Qt_(çalışma_alanı)", "id": 1767061}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "S60_(yazılım_platformu)", "id": 2212644}]}

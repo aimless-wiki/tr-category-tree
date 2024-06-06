@@ -1,1 +1,1 @@
-{"name": "Fotosentez", "id": 336843, "predecessors": [{"name": "Bitki_fizyolojisi", "id": 16587}, {"name": "Metabolizma", "id": 104915}, {"name": "Fiziksel_kimya", "id": 16875}], "successors": []}
+{"name": "Fotosentez", "id": 336843, "predecessors": [{"name": "Bitki_fizyolojisi", "id": 16587}, {"name": "Metabolizma", "id": 104915}, {"name": "Fiziksel_kimya", "id": 16875}], "successors": [{"name": "Karotenoidler", "id": 225417}]}

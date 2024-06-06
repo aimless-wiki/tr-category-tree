@@ -1,1 +1,1 @@
-{"name": "Edebiyat_eleştirmenleri", "id": 1170454, "predecessors": [{"name": "Estetik", "id": 12806}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Amerikalı_edebiyat_eleştirmenleri", "id": 1386637}, {"name": "Fransız_edebiyat_eleştirmenleri", "id": 1418728}]}
+{"name": "Edebiyat_eleştirmenleri", "id": 1170454, "predecessors": [{"name": "Edebiyat_eleştirisi", "id": 1387534}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Amerikalı_edebiyat_eleştirmenleri", "id": 1386637}, {"name": "Fransız_edebiyat_eleştirmenleri", "id": 1418728}]}

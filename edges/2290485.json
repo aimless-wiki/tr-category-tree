@@ -1,1 +1,1 @@
-{"name": "Leşçiller", "id": 2290485, "predecessors": [{"name": "Ekoloji", "id": 12596}, {"name": "Zooloji", "id": 10436}], "successors": [{"name": "Köpekler", "id": 197515}, {"name": "Kurtlar", "id": 581922}]}
+{"name": "Leşçiller", "id": 2290485, "predecessors": [{"name": "Ekoloji", "id": 12596}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Köpekler", "id": 197515}, {"name": "Kurtlar", "id": 581922}]}

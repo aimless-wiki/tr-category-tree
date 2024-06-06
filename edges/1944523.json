@@ -1,1 +1,1 @@
-{"name": "Balık_yemekleri", "id": 1944523, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Deniz_ürünleri", "id": 763357}, {"name": "Zooloji", "id": 10436}, {"name": "Kültür", "id": 7230}], "successors": []}
+{"name": "Balık_yemekleri", "id": 1944523, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Deniz_ürünleri", "id": 763357}, {"name": "Etler", "id": 140838}], "successors": []}

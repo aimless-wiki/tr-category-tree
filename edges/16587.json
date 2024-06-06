@@ -1,1 +1,1 @@
-{"name": "Bitki_fizyolojisi", "id": 16587, "predecessors": [{"name": "Bitkiler", "id": 16108}, {"name": "Fizyoloji", "id": 16585}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Fotosentez", "id": 336843}]}
+{"name": "Bitki_fizyolojisi", "id": 16587, "predecessors": [{"name": "Bitkiler", "id": 16108}, {"name": "Fizyoloji", "id": 16585}], "successors": [{"name": "Fotosentez", "id": 336843}, {"name": "Karotenoidler", "id": 225417}]}

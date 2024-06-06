@@ -1,1 +1,1 @@
-{"name": "Gezegen_türleri", "id": 849257, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Karasal_gezegenler", "id": 849945}, {"name": "Dev_gezegenler", "id": 2767549}]}
+{"name": "Gezegen_türleri", "id": 849257, "predecessors": [{"name": "Gezegen_bilimi", "id": 2040221}, {"name": "Astronomi", "id": 12746}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Karasal_gezegenler", "id": 849945}, {"name": "Dev_gezegenler", "id": 2767549}]}

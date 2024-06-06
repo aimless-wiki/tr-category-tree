@@ -1,1 +1,1 @@
-{"name": "Katı_yakıtlar", "id": 1061705, "predecessors": [{"name": "Yakıtlar", "id": 36244}, {"name": "Maddenin_hâlleri", "id": 182461}], "successors": []}
+{"name": "Katı_yakıtlar", "id": 1061705, "predecessors": [{"name": "Yakıtlar", "id": 36244}, {"name": "Maddenin_hâlleri", "id": 182461}], "successors": [{"name": "Kömür", "id": 335435}]}

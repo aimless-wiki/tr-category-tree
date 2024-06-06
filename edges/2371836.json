@@ -1,1 +1,1 @@
-{"name": "Aksiyon_filmi_karakterleri", "id": 2371836, "predecessors": [{"name": "Film_karakterleri", "id": 989848}, {"name": "Anlatıbilim", "id": 894938}], "successors": []}
+{"name": "Aksiyon_filmi_karakterleri", "id": 2371836, "predecessors": [{"name": "Anlatıbilim", "id": 894938}, {"name": "Film_karakterleri", "id": 989848}], "successors": []}

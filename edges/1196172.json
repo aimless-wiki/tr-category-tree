@@ -1,1 +1,1 @@
-{"name": "Yarış_otomobilleri", "id": 1196172, "predecessors": [{"name": "Alman_icatları", "id": 449919}, {"name": "Teknoloji", "id": 6300}, {"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Le_Mans_24_Saat_otomobilleri", "id": 1196171}, {"name": "Ralli_arabaları", "id": 1900824}]}
+{"name": "Yarış_otomobilleri", "id": 1196172, "predecessors": [{"name": "Alman_icatları", "id": 449919}, {"name": "Bireysel_sporlar", "id": 78374}], "successors": [{"name": "Ferrari_Formula_1_araçları", "id": 1045455}, {"name": "McLaren_Formula_1_araçları", "id": 2848328}]}

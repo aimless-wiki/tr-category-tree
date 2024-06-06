@@ -1,1 +1,1 @@
-{"name": "Serie_A_kulüpleri", "id": 2331130, "predecessors": [{"name": "İtalya'daki_futbol_kulüpleri", "id": 1297743}, {"name": "Sivil_toplum_kuruluşları", "id": 112188}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": []}
+{"name": "Serie_A_kulüpleri", "id": 2331130, "predecessors": [{"name": "İtalya'daki_futbol_kulüpleri", "id": 1297743}, {"name": "Takım_sporları", "id": 78371}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Serie_A_şampiyonları", "id": 2331132}]}

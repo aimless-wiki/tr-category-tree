@@ -1,1 +1,1 @@
-{"name": "DVD", "id": 156188, "predecessors": [{"name": "Film_ve_video_teknolojisi", "id": 102844}, {"name": "Kısaltmalar", "id": 16215}, {"name": "Veri_depolama", "id": 546449}, {"name": "Bilgisayar_donanımları", "id": 40478}], "successors": []}
+{"name": "DVD", "id": 156188, "predecessors": [{"name": "Film_ve_video_teknolojisi", "id": 102844}, {"name": "Kısaltmalar", "id": 16215}, {"name": "Veri_depolama", "id": 546449}, {"name": "Bilgisayar_donanımları", "id": 40478}, {"name": "20._yüzyıl", "id": 30501}], "successors": []}

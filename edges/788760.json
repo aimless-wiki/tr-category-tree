@@ -1,1 +1,1 @@
-{"name": "Amerika_Birleşik_Devletleri_yapımı_silahlar", "id": 788760, "predecessors": [{"name": "Silahlar", "id": 18400}], "successors": [{"name": "Amerika_Birleşik_Devletleri_yapımı_füzeler", "id": 2232223}]}
+{"name": "Amerika_Birleşik_Devletleri_yapımı_silahlar", "id": 788760, "predecessors": [{"name": "Silahlar", "id": 18400}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}], "successors": [{"name": "Amerika_Birleşik_Devletleri_yapımı_füzeler", "id": 2232223}]}

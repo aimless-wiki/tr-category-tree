@@ -1,1 +1,1 @@
-{"name": "Çevre_koruması", "id": 1739028, "predecessors": [{"name": "Dünya", "id": 6772}, {"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Yaban_hayatı_koruma", "id": 2469426}, {"name": "Önemli_Kuş_Alanları", "id": 2497492}]}
+{"name": "Çevre_koruması", "id": 1739028, "predecessors": [{"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yaban_hayatı_koruma", "id": 2469426}]}

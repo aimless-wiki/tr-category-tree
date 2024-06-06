@@ -1,1 +1,1 @@
-{"name": "İnternet_haritalama", "id": 2006044, "predecessors": [{"name": "Ağ_hizmetleri", "id": 1546526}, {"name": "Haritalar", "id": 12619}], "successors": []}
+{"name": "İnternet_haritalama", "id": 2006044, "predecessors": [{"name": "Ağ_hizmetleri", "id": 1546526}, {"name": "Coğrafi_bilgi_sistemleri", "id": 746536}, {"name": "Haritalar", "id": 12619}], "successors": []}

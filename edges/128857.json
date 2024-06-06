@@ -1,1 +1,1 @@
-{"name": "Androloji", "id": 128857, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Endokrinoloji", "id": 24445}, {"name": "İnsan_cinselliği", "id": 622499}], "successors": [{"name": "Prostat_kanserinden_ölenler", "id": 684704}]}
+{"name": "Androloji", "id": 128857, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Endokrinoloji", "id": 24445}, {"name": "Erkek_sağlığı", "id": 1419357}], "successors": [{"name": "Prostat_kanserinden_ölenler", "id": 684704}]}

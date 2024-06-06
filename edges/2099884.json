@@ -1,1 +1,1 @@
-{"name": "Yerleşim_birimi_türleri", "id": 2099884, "predecessors": [{"name": "İnsan_habitatı", "id": 826256}], "successors": [{"name": "Şehir", "id": 1741933}]}
+{"name": "Yerleşim_birimi_türleri", "id": 2099884, "predecessors": [{"name": "İnsan_habitatı", "id": 826256}, {"name": "Sosyal_psikoloji", "id": 89459}, {"name": "Siyasi_coğrafya", "id": 36581}], "successors": [{"name": "Şehir", "id": 1741933}]}

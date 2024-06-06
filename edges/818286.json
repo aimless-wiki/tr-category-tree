@@ -1,1 +1,1 @@
-{"name": "Gökyüzü_koordinat_sistemi", "id": 818286, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Yönler", "id": 92914}, {"name": "Diferansiyel_geometri", "id": 620308}, {"name": "Gök_ölçümü", "id": 2036549}], "successors": [{"name": "Zaman_dilimleri", "id": 149539}]}
+{"name": "Gökyüzü_koordinat_sistemi", "id": 818286, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Koordinat_sistemleri", "id": 517302}, {"name": "Yönler", "id": 92914}, {"name": "Gök_ölçümü", "id": 2036549}], "successors": [{"name": "Zaman_dilimleri", "id": 149539}]}

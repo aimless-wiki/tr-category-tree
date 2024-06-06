@@ -1,1 +1,1 @@
-{"name": "Tiyatro_tarzları", "id": 1661504, "predecessors": [{"name": "Tiyatro", "id": 6717}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Uyumsuz_tiyatro", "id": 172583}, {"name": "Çocuk_tiyatroları", "id": 460822}, {"name": "Varyete", "id": 1679642}, {"name": "Vodvil", "id": 1720531}]}
+{"name": "Tiyatro_tarzları", "id": 1661504, "predecessors": [{"name": "Tiyatro", "id": 6717}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Uyumsuz_tiyatro", "id": 172583}, {"name": "Vodvil_oyuncuları", "id": 2068430}]}

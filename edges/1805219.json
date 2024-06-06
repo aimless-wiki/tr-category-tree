@@ -1,1 +1,1 @@
-{"name": "Sokak_mobilyaları", "id": 1805219, "predecessors": [{"name": "Bahçecilik", "id": 77155}, {"name": "Peyzaj_mimarlığı", "id": 436741}], "successors": [{"name": "Döşemeler", "id": 2339837}]}
+{"name": "Sokak_mobilyaları", "id": 1805219, "predecessors": [{"name": "Çevre_tasarımı", "id": 1431222}, {"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Peyzaj_mimarlığı", "id": 436741}], "successors": [{"name": "Trafik_işaretleri", "id": 985950}, {"name": "Döşemeler", "id": 2339837}, {"name": "Hollywood_Şöhret_Yolu", "id": 1767185}]}

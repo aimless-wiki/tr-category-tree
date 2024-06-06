@@ -1,1 +1,1 @@
-{"name": "Medya_meslekleri", "id": 1340001, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Spor_yöneticileri", "id": 24332}, {"name": "Türk_futbol_yorumcuları", "id": 1705774}, {"name": "Yayıncılar", "id": 2249910}]}
+{"name": "Medya_meslekleri", "id": 1340001, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Spor_yöneticileri", "id": 24332}, {"name": "Türk_futbol_yorumcuları", "id": 1705774}, {"name": "Yayıncılar", "id": 2249910}]}

@@ -1,1 +1,1 @@
-{"name": "Çöller", "id": 16955, "predecessors": [{"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Dünya", "id": 6772}], "successors": [{"name": "Sahra_faunası", "id": 2043606}, {"name": "Konusu_çölde_geçen_filmler", "id": 2057720}]}
+{"name": "Çöller", "id": 16955, "predecessors": [{"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Biyocoğrafya", "id": 16580}], "successors": [{"name": "Sahra_Çölü", "id": 794072}, {"name": "Sahra_faunası", "id": 2043606}, {"name": "Konusu_çölde_geçen_filmler", "id": 2057720}]}

@@ -1,1 +1,1 @@
-{"name": "Spor_bilgi_kutusu_şablonları", "id": 647188, "predecessors": [{"name": "Kültür", "id": 7230}, {"name": "Egzersiz", "id": 134636}], "successors": [{"name": "Sporcu_bilgi_kutusu_şablonları", "id": 1947536}]}
+{"name": "Spor_bilgi_kutusu_şablonları", "id": 647188, "predecessors": [{"name": "Spor_şablonları", "id": 116139}, {"name": "Kültür", "id": 7230}, {"name": "Sağlık", "id": 12532}], "successors": [{"name": "Tenis_bilgi_kutusu_şablonları", "id": 1098414}, {"name": "Sporcu_bilgi_kutusu_şablonları", "id": 1947536}]}

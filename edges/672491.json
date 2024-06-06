@@ -1,1 +1,1 @@
-{"name": "Ege_Üniversitesinde_öğrenim_görenler", "id": 672491, "predecessors": [{"name": "Enstitüler", "id": 35837}], "successors": [{"name": "Ege_Üniversitesi_Tıp_Fakültesinde_öğrenim_görenler", "id": 1527321}]}
+{"name": "Ege_Üniversitesinde_öğrenim_görenler", "id": 672491, "predecessors": [{"name": "Avrupa'daki_bölgeler", "id": 1767247}, {"name": "Enstitüler", "id": 35837}], "successors": [{"name": "Ege_Üniversitesi_Tıp_Fakültesinde_öğrenim_görenler", "id": 1527321}]}

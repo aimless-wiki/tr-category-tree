@@ -1,1 +1,1 @@
-{"name": "Türkiye_Cumhuriyeti_Sağlık_Bakanları", "id": 1042412, "predecessors": [{"name": "Sağlık_bakanları", "id": 998218}, {"name": "Sosyoloji", "id": 1145186}, {"name": "Hükûmet", "id": 1580223}], "successors": []}
+{"name": "Türkiye_sağlık_bakanları", "id": 1042412, "predecessors": [{"name": "Hükûmet", "id": 1580223}, {"name": "Sosyoloji", "id": 1145186}, {"name": "Sağlık_bakanları", "id": 998218}], "successors": []}

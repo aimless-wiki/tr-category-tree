@@ -1,1 +1,1 @@
-{"name": "Akciğer_ambolisinden_ölenler", "id": 1428819, "predecessors": [{"name": "Akciğer_hastalıkları", "id": 232608}], "successors": []}
+{"name": "Akciğer_embolisinden_ölenler", "id": 1428819, "predecessors": [{"name": "Akciğer_hastalıklarından_ölenler", "id": 1119150}, {"name": "İnsan_hastalıkları", "id": 86141}, {"name": "Akciğer_hastalıkları", "id": 232608}], "successors": []}

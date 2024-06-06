@@ -1,1 +1,1 @@
-{"name": "Karboksilik_asitler", "id": 86059, "predecessors": [{"name": "Fonksiyonel_gruplar", "id": 46861}, {"name": "Asitler", "id": 138702}], "successors": [{"name": "Amino_asitler", "id": 24845}, {"name": "Yağ_asitleri", "id": 81699}, {"name": "Benzoik_asitler", "id": 382984}]}
+{"name": "Karboksilik_asitler", "id": 86059, "predecessors": [{"name": "Asitler", "id": 138702}], "successors": [{"name": "Amino_asitler", "id": 24845}, {"name": "Yağ_asitleri", "id": 81699}, {"name": "Dikarboksilik_asitler", "id": 223612}, {"name": "Benzoik_asitler", "id": 382984}]}

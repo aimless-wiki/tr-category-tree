@@ -1,1 +1,1 @@
-{"name": "2022_Akdeniz_Oyunları'nda_sporlar", "id": 3346919, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": [{"name": "2022_Akdeniz_Oyunları'nda_güreş", "id": 3356991}, {"name": "2022_Akdeniz_Oyunları'nda_boks", "id": 3358289}]}
+{"name": "2022_Akdeniz_Oyunları'nda_sporlar", "id": 3346919, "predecessors": [{"name": "Çok_sporlu_etkinlikler", "id": 1015804}], "successors": [{"name": "2022_Akdeniz_Oyunları'nda_güreş", "id": 3356991}, {"name": "2022_Akdeniz_Oyunları'nda_boks", "id": 3358289}]}

@@ -1,1 +1,1 @@
-{"name": "Öğretim_görevlileri", "id": 188267, "predecessors": [{"name": "Akademik_unvanlar", "id": 133219}, {"name": "Yükseköğretim", "id": 447877}, {"name": "Eğitim", "id": 6773}, {"name": "Kamu_yönetimi", "id": 433081}], "successors": []}
+{"name": "Öğretim_görevlileri", "id": 188267, "predecessors": [{"name": "Akademik_unvanlar", "id": 133219}, {"name": "Eğitim_terimleri", "id": 674528}, {"name": "Yükseköğretim", "id": 447877}, {"name": "Eğitim", "id": 6773}], "successors": []}

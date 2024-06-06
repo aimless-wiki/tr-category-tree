@@ -1,1 +1,1 @@
-{"name": "Erkek_sağlığı", "id": 1419357, "predecessors": [{"name": "Erkek", "id": 368179}, {"name": "Halk_sağlığı", "id": 734491}], "successors": [{"name": "Erkek_hastalıkları", "id": 1318495}]}
+{"name": "Erkek_sağlığı", "id": 1419357, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Cinsiyet", "id": 956651}], "successors": [{"name": "Parafili", "id": 451172}, {"name": "Androloji", "id": 128857}, {"name": "Penis", "id": 583193}, {"name": "Gey_müzisyenler", "id": 1578266}, {"name": "Gey_ikonu", "id": 1659923}, {"name": "Gey_temalı_filmler", "id": 1929499}]}

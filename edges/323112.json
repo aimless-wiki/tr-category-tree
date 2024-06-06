@@ -1,1 +1,1 @@
-{"name": "Nükleer_kimya", "id": 323112, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "İzotoplar", "id": 229430}, {"name": "Radyoaktivite", "id": 405084}]}
+{"name": "Nükleer_kimya", "id": 323112, "predecessors": [{"name": "Fiziksel_kimya", "id": 16875}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "İzotoplar", "id": 229430}, {"name": "Radyoaktivite", "id": 405084}]}

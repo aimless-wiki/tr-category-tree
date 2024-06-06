@@ -1,1 +1,1 @@
-{"name": "Bilimsel_teknikler", "id": 697304, "predecessors": [{"name": "Bilimsel_yöntem", "id": 14784}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Laboratuvar_teknikleri", "id": 697308}, {"name": "Pirinç", "id": 1033635}]}
+{"name": "Bilimsel_teknikler", "id": 697304, "predecessors": [{"name": "Bilimsel_yöntem", "id": 14784}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Laboratuvar_teknikleri", "id": 697308}]}

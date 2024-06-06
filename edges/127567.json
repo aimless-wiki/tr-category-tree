@@ -1,1 +1,1 @@
-{"name": "Çay", "id": 127567, "predecessors": [{"name": "Alkolsüz_içecekler", "id": 59608}, {"name": "Bitki_anatomisi", "id": 16589}, {"name": "Uyarıcılar", "id": 24848}, {"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "Çay_kültürü", "id": 2152766}]}
+{"name": "Çay", "id": 127567, "predecessors": [{"name": "Uyarıcı_bitki_ve_mantarlar", "id": 1772905}, {"name": "Alkolsüz_içecekler", "id": 59608}, {"name": "Bitki_anatomisi", "id": 16589}, {"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "Çay_kültürü", "id": 2152766}]}

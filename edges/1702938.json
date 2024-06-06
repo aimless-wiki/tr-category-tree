@@ -1,1 +1,1 @@
-{"name": "Hayvan_listeleri", "id": 1702938, "predecessors": [{"name": "Zooloji", "id": 10436}, {"name": "Biyoloji_listeleri", "id": 606508}], "successors": [{"name": "Balık_listeleri", "id": 1566521}, {"name": "Türkiye'deki_yılanlar", "id": 852770}]}
+{"name": "Hayvan_listeleri", "id": 1702938, "predecessors": [{"name": "Biyoloji_listeleri", "id": 606508}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Türkiye'deki_yılanlar", "id": 852770}]}

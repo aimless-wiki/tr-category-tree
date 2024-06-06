@@ -1,1 +1,1 @@
-{"name": "Portekizce_televizyon_programları", "id": 1724966, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}, {"name": "Televizyon", "id": 12516}], "successors": [{"name": "Brezilya_telenovelaları", "id": 1749626}]}
+{"name": "Portekizce_televizyon_programları", "id": 1724966, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Televizyon", "id": 12516}], "successors": [{"name": "Brezilya_telenovelaları", "id": 1749626}]}

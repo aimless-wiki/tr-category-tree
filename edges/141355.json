@@ -1,1 +1,1 @@
-{"name": "Toplu_taşımacılık", "id": 141355, "predecessors": [{"name": "Kamu_hizmetleri", "id": 294293}, {"name": "Sürdürülebilir_ulaşım", "id": 964346}, {"name": "Şehir_planlaması", "id": 55038}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "Bakü_Metrosu_istasyonları", "id": 2040107}]}
+{"name": "Toplu_taşımacılık", "id": 141355, "predecessors": [{"name": "Kamu_hizmetleri", "id": 294293}, {"name": "Sürdürülebilir_ulaşım", "id": 964346}, {"name": "Şehir_planlaması", "id": 55038}, {"name": "Yönetim", "id": 37094}], "successors": []}

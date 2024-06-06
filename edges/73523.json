@@ -1,1 +1,1 @@
-{"name": "Kutsal_şehirler", "id": 73523, "predecessors": [{"name": "Din", "id": 7198}, {"name": "Siyasi_coğrafya", "id": 36581}], "successors": [{"name": "Hac", "id": 183033}, {"name": "Medine_doğumlular", "id": 1434360}, {"name": "Medine'de_ölenler", "id": 1582705}]}
+{"name": "Kutsal_şehirler", "id": 73523, "predecessors": [{"name": "Siyasi_coğrafya", "id": 36581}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Hac", "id": 183033}]}

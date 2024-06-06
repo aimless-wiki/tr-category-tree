@@ -1,1 +1,1 @@
-{"name": "Fiziksel_kozmoloji", "id": 1726322, "predecessors": [{"name": "Bilim_tarihi", "id": 14785}, {"name": "Astronomi", "id": 12746}, {"name": "Bilim_felsefesi", "id": 58655}, {"name": "Doğa_felsefesi", "id": 1599359}], "successors": [{"name": "Karanlık_madde", "id": 182708}]}
+{"name": "Fiziksel_kozmoloji", "id": 1726322, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Astronomi", "id": 12746}, {"name": "Bilim_felsefesi", "id": 58655}, {"name": "Doğa_felsefesi", "id": 1599359}], "successors": [{"name": "Karanlık_madde", "id": 182708}]}

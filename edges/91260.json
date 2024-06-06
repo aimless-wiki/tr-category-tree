@@ -1,1 +1,1 @@
-{"name": "Türk_matematikçiler", "id": 91260, "predecessors": [{"name": "Türk_bilim_insanları", "id": 1927342}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Türk_matematik_akademisyenleri", "id": 531219}]}
+{"name": "Türk_matematikçiler", "id": 91260, "predecessors": [{"name": "Türk_bilim_insanları", "id": 1927342}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Türk_matematik_akademisyenleri", "id": 531219}, {"name": "20._yüzyıl_Türk_matematikçileri", "id": 2379268}]}

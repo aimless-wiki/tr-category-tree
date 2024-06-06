@@ -1,1 +1,1 @@
-{"name": "Java_ortamı", "id": 544817, "predecessors": [{"name": "Java_ortamı", "id": 544817}, {"name": "Bilgisayar", "id": 3494}], "successors": [{"name": "Java_ortamı", "id": 544817}, {"name": "Java_oyunları", "id": 2026557}]}
+{"name": "Java_ortamı", "id": 544817, "predecessors": [{"name": "Bilgisayar_ortamları", "id": 544818}, {"name": "Java_ortamı", "id": 544817}], "successors": [{"name": "Java_ortamı", "id": 544817}, {"name": "Java_oyunları", "id": 2026557}]}

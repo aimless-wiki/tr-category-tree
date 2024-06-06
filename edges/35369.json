@@ -1,1 +1,1 @@
-{"name": "PH_indikatörleri", "id": 35369, "predecessors": [{"name": "Kimyasal_dengeler", "id": 796693}, {"name": "Analitik_kimya", "id": 16871}], "successors": []}
+{"name": "PH_indikatörleri", "id": 35369, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Laboratuvar_teknikleri", "id": 697308}], "successors": []}

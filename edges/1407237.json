@@ -1,1 +1,1 @@
-{"name": "TRT_sanatçıları", "id": 1407237, "predecessors": [{"name": "TRT_radyo_kanalları", "id": 1360179}, {"name": "Bilim_tarihi", "id": 14785}], "successors": []}
+{"name": "TRT_sanatçıları", "id": 1407237, "predecessors": [{"name": "TRT_radyo_kanalları", "id": 1360179}, {"name": "Sanat", "id": 6443}], "successors": []}

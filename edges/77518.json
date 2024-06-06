@@ -1,1 +1,1 @@
-{"name": "İsrailli_yazarlar", "id": 77518, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İsrailli_söz_yazarları", "id": 1436649}]}
+{"name": "İsrailli_yazarlar", "id": 77518, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İsrailli_söz_yazarları", "id": 1436649}, {"name": "İsrailli_tarihçiler", "id": 226732}]}

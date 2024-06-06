@@ -1,1 +1,1 @@
-{"name": "Davranışsal_bilimler", "id": 648553, "predecessors": [{"name": "Bilişsel_bilim", "id": 92785}, {"name": "Bilim_tarihi", "id": 14785}], "successors": [{"name": "Psikoloji", "id": 12113}, {"name": "Etoloji", "id": 16895}]}
+{"name": "Davranışsal_bilimler", "id": 648553, "predecessors": [{"name": "Bilişsel_bilim", "id": 92785}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Psikoloji", "id": 12113}, {"name": "Etoloji", "id": 16895}]}

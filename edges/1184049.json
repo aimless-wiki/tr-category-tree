@@ -1,1 +1,1 @@
-{"name": "Taşıt_lastiği_üreticileri", "id": 1184049, "predecessors": [{"name": "Otomotiv_parça_üreticileri", "id": 1359715}, {"name": "Kimya", "id": 3599}, {"name": "Kara_ulaşımı", "id": 447670}, {"name": "Ekonomi", "id": 12356}], "successors": []}
+{"name": "Taşıt_lastiği_üreticileri", "id": 1184049, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Ekonomi", "id": 12356}], "successors": []}

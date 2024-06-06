@@ -1,1 +1,1 @@
-{"name": "FK_Aktöbe_futbolcuları", "id": 2020296, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}], "successors": []}
+{"name": "FK_Aktöbe_futbolcuları", "id": 2020296, "predecessors": [{"name": "Kazakistan'daki_futbol_kulüpleri", "id": 1297693}, {"name": "Egzersiz", "id": 134636}], "successors": []}

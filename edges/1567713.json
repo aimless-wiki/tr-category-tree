@@ -1,1 +1,1 @@
-{"name": "Nörotravma", "id": 1567713, "predecessors": [{"name": "Nörolojik_bozukluklar", "id": 341785}, {"name": "Tıbbi_acil_durumlar", "id": 1139034}, {"name": "Hastalıklar_ve_bozukluklar", "id": 9908}], "successors": []}
+{"name": "Nörotravma", "id": 1567713, "predecessors": [{"name": "Nörolojik_bozukluklar", "id": 341785}, {"name": "Yaralanmalar", "id": 1427704}, {"name": "Tıbbi_acil_durumlar", "id": 1139034}], "successors": []}
