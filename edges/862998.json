@@ -1,1 +1,1 @@
-{"name": "Türkiye_merkezli_petrol_ve_doğalgaz_şirketleri", "id": 862998, "predecessors": [{"name": "Enerji", "id": 36245}], "successors": []}
+{"name": "Türkiye_merkezli_petrol_ve_doğalgaz_şirketleri", "id": 862998, "predecessors": [{"name": "Türkiye_merkezli_enerji_şirketleri", "id": 862983}, {"name": "Enerji", "id": 36245}], "successors": []}

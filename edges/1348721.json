@@ -1,1 +1,1 @@
-{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Müzik_listeleri", "id": 100970}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}]}
+{"name": "Şarkı_listeleri", "id": 1348721, "predecessors": [{"name": "Müzik_ile_ilgili_listeler", "id": 100970}, {"name": "Medya", "id": 12429}], "successors": [{"name": "Şarkı_dolaşım_şablonları", "id": 1576789}]}

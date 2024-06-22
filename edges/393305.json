@@ -1,1 +1,1 @@
-{"name": "Türk_eczacılar", "id": 393305, "predecessors": [{"name": "Türk_bilim_insanları", "id": 1927342}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Eczacı_milletvekilleri", "id": 393291}]}
+{"name": "Türk_eczacılar", "id": 393305, "predecessors": [{"name": "Türk_bilim_insanları", "id": 1927342}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Türk_eczacı_milletvekilleri", "id": 393291}]}

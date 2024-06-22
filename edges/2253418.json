@@ -1,1 +1,1 @@
-{"name": "UEFA_müsabakaları_dolaşım_şablonları", "id": 2253418, "predecessors": [{"name": "UEFA", "id": 454351}, {"name": "Futbol_dolaşım_şablonları", "id": 827640}], "successors": [{"name": "Avrupa_Futbol_Şampiyonası_dolaşım_şablonları", "id": 1107704}]}
+{"name": "UEFA_müsabakaları_dolaşım_şablonları", "id": 2253418, "predecessors": [{"name": "Uluslararası_futbol_turnuvaları_dolaşım_şablonları", "id": 1089212}, {"name": "UEFA", "id": 454351}], "successors": [{"name": "Avrupa_Futbol_Şampiyonası_dolaşım_şablonları", "id": 1107704}]}

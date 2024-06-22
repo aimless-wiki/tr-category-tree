@@ -1,1 +1,1 @@
-{"name": "Türkiye_merkezli_enerji_şirketleri", "id": 862983, "predecessors": [{"name": "Türkiye_merkezli_şirketler", "id": 30019}, {"name": "Doğalgaz", "id": 326744}, {"name": "Şirketler", "id": 30683}], "successors": [{"name": "Türkiye_merkezli_petrol_ve_doğalgaz_şirketleri", "id": 862998}]}
+{"name": "Türkiye_merkezli_enerji_şirketleri", "id": 862983, "predecessors": [{"name": "Sanayi", "id": 21457}, {"name": "Enerji", "id": 36245}, {"name": "Ticari_kuruluşlar", "id": 1359708}], "successors": [{"name": "Türkiye_merkezli_petrol_ve_doğalgaz_şirketleri", "id": 862998}]}

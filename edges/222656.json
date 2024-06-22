@@ -1,1 +1,1 @@
-{"name": "Video_düzenleme_yazılımları", "id": 222656, "predecessors": [{"name": "Yayıncılık", "id": 2842016}, {"name": "Video", "id": 1204005}], "successors": []}
+{"name": "Video_düzenleme_yazılımları", "id": 222656, "predecessors": [{"name": "Film_ve_video_teknolojisi", "id": 102844}, {"name": "Yayıncılık", "id": 2842016}, {"name": "Video", "id": 1204005}, {"name": "Film_teknikleri", "id": 394265}], "successors": []}

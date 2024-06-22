@@ -1,1 +1,1 @@
-{"name": "Mısırlı_siyasetçiler", "id": 170693, "predecessors": [{"name": "Vikipedi", "id": 7220}, {"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Mısır_başbakanları", "id": 387413}, {"name": "Mısırlı_bakanlar", "id": 1052298}, {"name": "Osmanlı_Mısır_valileri", "id": 1528209}]}
+{"name": "Mısırlı_siyasetçiler", "id": 170693, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Vikipedi", "id": 7220}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Mısır_başbakanları", "id": 387413}]}

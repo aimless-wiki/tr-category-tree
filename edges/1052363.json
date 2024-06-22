@@ -1,1 +1,1 @@
-{"name": "Kıbrıslı_futbolcu_taslakları", "id": 1052363, "predecessors": [{"name": "Kıbrıslı_futbolcular", "id": 1000852}, {"name": "Sporcu_taslakları", "id": 174701}], "successors": []}
+{"name": "Kıbrıslı_futbolcu_taslakları", "id": 1052363, "predecessors": [{"name": "Sporcu_taslakları", "id": 174701}, {"name": "Vikipedi", "id": 7220}], "successors": []}
