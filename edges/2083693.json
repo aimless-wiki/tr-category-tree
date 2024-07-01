@@ -1,1 +1,1 @@
-{"name": "Lower_Manhattan", "id": 2083693, "predecessors": [{"name": "İşletme", "id": 21253}], "successors": []}
+{"name": "Lower_Manhattan", "id": 2083693, "predecessors": [{"name": "İşletme", "id": 21253}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Broadway_tiyatrosu_oyunları", "id": 575758}, {"name": "Broadway_müzikalleri", "id": 1724297}]}

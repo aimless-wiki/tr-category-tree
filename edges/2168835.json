@@ -1,1 +1,1 @@
-{"name": "İzmir_doğumlu_futbolcular", "id": 2168835, "predecessors": [{"name": "İzmir_doğumlu_sporcular", "id": 1893559}], "successors": [{"name": "Konak_doğumlu_futbolcular", "id": 3634251}]}
+{"name": "İzmir_doğumlu_futbolcular", "id": 2168835, "predecessors": [{"name": "İzmir_ili_doğumlu_sporcular", "id": 1893559}], "successors": [{"name": "Konak_doğumlu_futbolcular", "id": 3634251}]}

@@ -1,1 +1,1 @@
-{"name": "Türkçe_eser_veren_şairler", "id": 1605166, "predecessors": [{"name": "Türkçe_eser_veren_yazarlar", "id": 1605171}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Divan_edebiyatı_şairleri", "id": 25226}, {"name": "Türk_halk_şairleri", "id": 184724}]}
+{"name": "Türkçe_eser_veren_şairler", "id": 1605166, "predecessors": [{"name": "Türkçe_eser_veren_yazarlar", "id": 1605171}, {"name": "Türkçe_şiirler", "id": 653302}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Divan_edebiyatı_şairleri", "id": 25226}]}

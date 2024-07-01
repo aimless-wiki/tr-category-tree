@@ -1,1 +1,1 @@
-{"name": "Gıda_bilimi", "id": 1664256, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Gıda_koruma", "id": 1664255}, {"name": "Gıda_güvenliği", "id": 1664258}, {"name": "Mangal", "id": 1747359}]}
+{"name": "Gıda_bilimi", "id": 1664256, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Gıda_koruma", "id": 1664255}, {"name": "Gıda_güvenliği", "id": 1664258}]}

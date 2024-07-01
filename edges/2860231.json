@@ -1,1 +1,1 @@
-{"name": "Ankara'da_COVID-19_pandemisinden_ölenler", "id": 2860231, "predecessors": [{"name": "Ankara_ilinde_hastalıktan_ölenler", "id": 2382897}, {"name": "Türkiye'de_COVID-19_pandemisinden_ölenler", "id": 2585265}], "successors": []}
+{"name": "Ankara_ilinde_COVID-19_pandemisinden_ölenler", "id": 2860231, "predecessors": [{"name": "Ankara_ilinde_hastalıktan_ölenler", "id": 2382897}, {"name": "Türkiye'de_COVID-19_pandemisinden_ölenler", "id": 2585265}], "successors": []}

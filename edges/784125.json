@@ -1,1 +1,1 @@
-{"name": "Kimya_ödülleri", "id": 784125, "predecessors": [{"name": "Kimya", "id": 3599}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_tarafından_verilen_ödüller", "id": 2960627}, {"name": "Nobel_Kimya_Ödülü_sahipleri", "id": 173739}]}
+{"name": "Kimya_ödülleri", "id": 784125, "predecessors": [{"name": "Kültür", "id": 7230}, {"name": "Kimya", "id": 3599}], "successors": [{"name": "Kraliyet_Kimya_Topluluğu_tarafından_verilen_ödüller", "id": 2960627}, {"name": "Nobel_Kimya_Ödülü_sahipleri", "id": 173739}]}

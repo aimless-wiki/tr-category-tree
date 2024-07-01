@@ -1,1 +1,1 @@
-{"name": "Meyve_taslakları", "id": 157006, "predecessors": [{"name": "Bitki_taslakları", "id": 39880}, {"name": "Meyve", "id": 40076}, {"name": "Yemek_taslakları", "id": 1399730}, {"name": "Ziraat_taslakları", "id": 43605}], "successors": [{"name": "Şarap_taslakları", "id": 424928}]}
+{"name": "Meyve_taslakları", "id": 157006, "predecessors": [{"name": "Bitki_taslakları", "id": 39880}, {"name": "Meyve", "id": 40076}, {"name": "Ziraat_taslakları", "id": 43605}], "successors": [{"name": "Şarap_taslakları", "id": 424928}]}

@@ -1,1 +1,1 @@
-{"name": "FK_Jablonec_futbolcuları", "id": 2153417, "predecessors": [{"name": "Çekya'daki_futbol_kulüpleri", "id": 1297733}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}
+{"name": "FK_Jablonec_futbolcuları", "id": 2153417, "predecessors": [{"name": "Çekya'daki_futbol_kulüpleri", "id": 1297733}, {"name": "Egzersiz", "id": 134636}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Koordinat_sistemleri", "id": 517302, "predecessors": [{"name": "Kartografi", "id": 103853}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "Gökyüzü_koordinat_sistemi", "id": 818286}, {"name": "OS_grid_koordinatı_içeren_maddeler", "id": 1302368}]}
+{"name": "Koordinat_sistemleri", "id": 517302, "predecessors": [{"name": "Diferansiyel_geometri", "id": 620308}, {"name": "Kartografi", "id": 103853}, {"name": "Geometri", "id": 2177}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "Gökyüzü_koordinat_sistemi", "id": 818286}]}

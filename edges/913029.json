@@ -1,1 +1,1 @@
-{"name": "Video_oyunu_web_siteleri", "id": 913029, "predecessors": [{"name": "Video_oyunu_kültürü", "id": 456561}], "successors": [{"name": "Video_oyunu_inceleme_siteleri", "id": 913030}, {"name": "Video_oyunu_haber_siteleri", "id": 913031}, {"name": "Çevrimiçi_oyun_servisleri", "id": 1294303}]}
+{"name": "Video_oyunu_web_siteleri", "id": 913029, "predecessors": [{"name": "Video_oyunu_kültürü", "id": 456561}], "successors": [{"name": "Video_oyunu_haber_siteleri", "id": 913031}, {"name": "Çevrimiçi_oyun_servisleri", "id": 1294303}]}

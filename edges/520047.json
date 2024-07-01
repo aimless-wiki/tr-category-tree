@@ -1,1 +1,1 @@
-{"name": "Ağ_katmanı_protokolleri", "id": 520047, "predecessors": [{"name": "Ağ_protokolleri", "id": 520001}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": [{"name": "Yönlendirme", "id": 1807745}]}
+{"name": "Ağ_katmanı_protokolleri", "id": 520047, "predecessors": [{"name": "Ağ_protokolleri", "id": 520001}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": []}

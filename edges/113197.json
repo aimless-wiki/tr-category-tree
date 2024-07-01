@@ -1,1 +1,1 @@
-{"name": "Projeler", "id": 113197, "predecessors": [{"name": "Proje_yönetimi", "id": 183731}, {"name": "Teknoloji", "id": 6300}, {"name": "İşletme", "id": 21253}, {"name": "Zaman", "id": 15364}], "successors": [{"name": "Viki_toplulukları", "id": 2083704}]}
+{"name": "Projeler", "id": 113197, "predecessors": [{"name": "Proje_yönetimi", "id": 183731}, {"name": "Teknoloji", "id": 6300}, {"name": "İşletme", "id": 21253}], "successors": [{"name": "Viki_toplulukları", "id": 2083704}]}

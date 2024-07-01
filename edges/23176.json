@@ -1,1 +1,1 @@
-{"name": "Plastikler", "id": 23176, "predecessors": [{"name": "Organik_polimerler", "id": 23178}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Termoplastikler", "id": 1322545}, {"name": "Sentetik_lifler", "id": 1528587}]}
+{"name": "Plastikler", "id": 23176, "predecessors": [{"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Termoplastikler", "id": 1322545}, {"name": "Sentetik_lifler", "id": 1528587}]}

@@ -1,1 +1,1 @@
-{"name": "Kozmetik_şirketleri", "id": 2474942, "predecessors": [{"name": "Kozmetik", "id": 262145}, {"name": "Ticari_kuruluşlar", "id": 1359708}], "successors": []}
+{"name": "Kozmetik_şirketleri", "id": 2474942, "predecessors": [{"name": "Kozmetik", "id": 262145}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Kişisel_bakım_şirketleri", "id": 2369183}]}

@@ -1,1 +1,1 @@
-{"name": "Isı_transferi", "id": 404748, "predecessors": [{"name": "Termodinamik", "id": 16762}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Yangın", "id": 8204}, {"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}, {"name": "Radyasyon", "id": 1412257}]}
+{"name": "Isı_transferi", "id": 404748, "predecessors": [{"name": "Termodinamik", "id": 16762}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Yangın", "id": 8204}, {"name": "Isıtma,_havalandırma_ve_klima", "id": 2505530}]}

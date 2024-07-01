@@ -1,1 +1,1 @@
-{"name": "Tarayıcı_tabanlı_oyunlar", "id": 458143, "predecessors": [{"name": "Çevrimiçi_oyunlar", "id": 458132}, {"name": "Video_oyunları", "id": 450124}], "successors": [{"name": "Çok_oyunculu_tarayıcı_tabanlı_oyunlar", "id": 458142}]}
+{"name": "Tarayıcı_tabanlı_oyunlar", "id": 458143, "predecessors": [{"name": "Çevrimiçi_oyunlar", "id": 458132}], "successors": [{"name": "Çok_oyunculu_tarayıcı_tabanlı_oyunlar", "id": 458142}]}

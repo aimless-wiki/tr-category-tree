@@ -1,1 +1,1 @@
-{"name": "Paralı_kara_ulaşımı", "id": 1661685, "predecessors": [{"name": "Kara_ulaşımı", "id": 447670}, {"name": "Pazarlama", "id": 37079}, {"name": "İletişim", "id": 12514}], "successors": []}
+{"name": "Paralı_kara_ulaşımı", "id": 1661685, "predecessors": [{"name": "Kara_ulaşımı", "id": 447670}, {"name": "Pazarlama", "id": 37079}, {"name": "Şehir_planlaması", "id": 55038}], "successors": []}

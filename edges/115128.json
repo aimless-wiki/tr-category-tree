@@ -1,1 +1,1 @@
-{"name": "Ekonomi_politikaları", "id": 115128, "predecessors": [{"name": "Makroekonomi", "id": 12473}, {"name": "Ekonomi", "id": 12356}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Para_politikası", "id": 119043}, {"name": "Türkiye_ekonomi_bakanları", "id": 2026407}]}
+{"name": "Ekonomi_politikaları", "id": 115128, "predecessors": [{"name": "Ekonomi", "id": 12356}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Para_politikası", "id": 119043}, {"name": "Türkiye_ekonomi_bakanları", "id": 2026407}]}

@@ -1,1 +1,1 @@
-{"name": "Vampir_filmleri", "id": 102621, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Ölüm", "id": 25717}, {"name": "Kurguda_paranormallik", "id": 1811851}], "successors": [{"name": "Drakula_filmleri", "id": 446646}]}
+{"name": "Vampir_filmleri", "id": 102621, "predecessors": [{"name": "Ölüm", "id": 25717}, {"name": "Kurguda_paranormallik", "id": 1811851}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Drakula_filmleri", "id": 446646}]}

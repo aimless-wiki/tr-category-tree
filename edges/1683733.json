@@ -1,1 +1,1 @@
-{"name": "FK_Şahter_futbolcuları", "id": 1683733, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": []}
+{"name": "FK_Şahter_futbolcuları", "id": 1683733, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}], "successors": []}

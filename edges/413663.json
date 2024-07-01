@@ -1,1 +1,1 @@
-{"name": "Üst_seviye_alan_adları", "id": 413663, "predecessors": [{"name": "İnternet_alan_adları", "id": 520248}], "successors": []}
+{"name": "Üst_seviye_alan_adları", "id": 413663, "predecessors": [{"name": "İnternet_alan_adları", "id": 520248}], "successors": [{"name": "DNSSEC", "id": 2474385}]}

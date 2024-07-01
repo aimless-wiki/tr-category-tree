@@ -1,1 +1,1 @@
-{"name": "Uygulama_katmanı_protokolleri", "id": 520771, "predecessors": [{"name": "Ağ_protokolleri", "id": 520001}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": [{"name": "Dünya_Çapında_Ağ", "id": 544065}, {"name": "DNS", "id": 665873}, {"name": "Kripto_para_birimleri", "id": 1662225}]}
+{"name": "Uygulama_katmanı_protokolleri", "id": 520771, "predecessors": [{"name": "Ağ_protokolleri", "id": 520001}, {"name": "İnternet_protokolleri", "id": 184114}], "successors": [{"name": "Dünya_Çapında_Ağ", "id": 544065}, {"name": "DNS", "id": 665873}]}

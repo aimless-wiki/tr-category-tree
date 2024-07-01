@@ -1,1 +1,1 @@
-{"name": "Yapım,_üretim_ve_imalat", "id": 907045, "predecessors": [{"name": "Sanayi", "id": 21457}, {"name": "Pazarlama", "id": 37079}, {"name": "Yönetim", "id": 37094}], "successors": [{"name": "İmalat", "id": 404623}, {"name": "Kalite_yönetimi", "id": 1724028}, {"name": "Feshedilen_ilaçlar", "id": 1765074}]}
+{"name": "Yapım,_üretim_ve_imalat", "id": 907045, "predecessors": [{"name": "Sanayi", "id": 21457}, {"name": "Pazarlama", "id": 37079}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İmalat", "id": 404623}, {"name": "Kalite_yönetimi", "id": 1724028}]}

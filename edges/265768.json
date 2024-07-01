@@ -1,1 +1,1 @@
-{"name": "Veteriner_tıp", "id": 265768, "predecessors": [{"name": "Hayvancılık", "id": 42809}, {"name": "Sağlık", "id": 12532}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Hayvan_anatomisi", "id": 21653}, {"name": "Hayvan_hastalıkları", "id": 43570}]}
+{"name": "Veteriner_tıp", "id": 265768, "predecessors": [{"name": "Hayvancılık", "id": 42809}, {"name": "Sağlık", "id": 12532}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Hayvan_hastalıkları", "id": 43570}, {"name": "Memeli_anatomisi", "id": 1387184}]}

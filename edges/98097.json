@@ -1,1 +1,1 @@
-{"name": "Organize_suçlar", "id": 98097, "predecessors": [{"name": "Suçlar", "id": 23209}, {"name": "Suç", "id": 23210}], "successors": [{"name": "Organize_suç_örgütleri", "id": 1570427}, {"name": "Organize_suçlar_ile_ilgili_video_oyunları", "id": 2184060}]}
+{"name": "Organize_suçlar", "id": 98097, "predecessors": [{"name": "Suçlar", "id": 23209}], "successors": [{"name": "Organize_suç_örgütleri", "id": 1570427}, {"name": "Organize_suçlar_ile_ilgili_video_oyunları", "id": 2184060}]}

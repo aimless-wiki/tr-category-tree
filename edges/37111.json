@@ -1,1 +1,1 @@
-{"name": "Moleküler_genetik", "id": 37111, "predecessors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "Moleküler_biyoloji", "id": 23059}], "successors": [{"name": "Gen_ifadesi", "id": 255427}, {"name": "DNA_ikileşmesi", "id": 353586}]}
+{"name": "Moleküler_genetik", "id": 37111, "predecessors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "Moleküler_biyoloji", "id": 23059}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Gen_ifadesi", "id": 255427}, {"name": "DNA_ikileşmesi", "id": 353586}]}

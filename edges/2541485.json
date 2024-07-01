@@ -1,1 +1,1 @@
-{"name": "Uhud_Muharebesi'ne_katılan_sahabe", "id": 2541485, "predecessors": [{"name": "Sahabe", "id": 376347}], "successors": []}
+{"name": "Uhud_Muharebesi'ne_katılan_sahabe", "id": 2541485, "predecessors": [{"name": "Sahabe", "id": 376347}, {"name": "Kronoloji", "id": 30443}], "successors": []}

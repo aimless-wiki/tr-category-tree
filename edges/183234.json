@@ -1,1 +1,1 @@
-{"name": "Optik_taslakları", "id": 183234, "predecessors": [{"name": "Fizik_taslakları", "id": 39607}, {"name": "Mühendislik_taslakları", "id": 92267}, {"name": "Optik", "id": 16461}, {"name": "Teknoloji_taslakları", "id": 47310}], "successors": []}
+{"name": "Optik_taslakları", "id": 183234, "predecessors": [{"name": "Fizik_taslakları", "id": 39607}, {"name": "Mühendislik_taslakları", "id": 92267}, {"name": "Optik", "id": 16461}, {"name": "Teknoloji_taslakları", "id": 47310}], "successors": [{"name": "Renk_taslakları", "id": 1606480}]}

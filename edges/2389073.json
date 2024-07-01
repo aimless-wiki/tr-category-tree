@@ -1,1 +1,1 @@
-{"name": "Kütle_spektrometrisi", "id": 2389073, "predecessors": [{"name": "Ölçü_aletleri", "id": 17005}], "successors": []}
+{"name": "Kütle_spektrometrisi", "id": 2389073, "predecessors": [{"name": "Analitik_kimya", "id": 16871}, {"name": "Ölçü_aletleri", "id": 17005}], "successors": []}

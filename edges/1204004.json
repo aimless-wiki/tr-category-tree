@@ -1,1 +1,1 @@
-{"name": "Video_depolama", "id": 1204004, "predecessors": [{"name": "Video", "id": 1204005}, {"name": "Belgeler", "id": 701239}, {"name": "Bilişim_bilimi", "id": 13830}], "successors": [{"name": "Video_barındırma", "id": 2040095}]}
+{"name": "Video_depolama", "id": 1204004, "predecessors": [{"name": "Video", "id": 1204005}, {"name": "Dijital_medya", "id": 415346}], "successors": [{"name": "Video_barındırma", "id": 2040095}]}

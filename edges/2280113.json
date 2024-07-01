@@ -1,1 +1,1 @@
-{"name": "Tek_kanatlı_uçaklar", "id": 2280113, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": []}
+{"name": "Tek_kanatlı_uçaklar", "id": 2280113, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Delta_kanatlı_hava_araçları", "id": 750967}, {"name": "Yüksek_kanatlı_uçaklar", "id": 2808301}, {"name": "Alçak_kanatlı_uçaklar", "id": 2952021}, {"name": "Orta_kanatlı_uçaklar", "id": 3397186}]}

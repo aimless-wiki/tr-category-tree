@@ -1,1 +1,1 @@
-{"name": "Şizofreni", "id": 92587, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Psikoz", "id": 35945}, {"name": "Anksiyete_bozuklukları", "id": 51705}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": [{"name": "Şizofren_olan_kişiler", "id": 661299}]}
+{"name": "Şizofreni", "id": 92587, "predecessors": [{"name": "Psikiyatri", "id": 18449}, {"name": "Psikoz", "id": 35945}, {"name": "Anksiyete_bozuklukları", "id": 51705}], "successors": [{"name": "Şizofren_olan_kişiler", "id": 661299}]}

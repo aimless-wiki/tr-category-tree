@@ -1,1 +1,1 @@
-{"name": "Boeing_uçakları", "id": 920734, "predecessors": [{"name": "Amerika_Birleşik_Devletleri'nin_uçak_üretici_firmaları", "id": 738422}, {"name": "Amerika_Birleşik_Devletleri", "id": 7724}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Boeing_737_içeren_kazalar_ve_olaylar", "id": 3012188}]}
+{"name": "Boeing_uçakları", "id": 920734, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_uçakları", "id": 768345}], "successors": [{"name": "Boeing_737_içeren_kazalar_ve_olaylar", "id": 3012188}]}

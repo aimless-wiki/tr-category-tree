@@ -1,1 +1,1 @@
-{"name": "Merkez_bankaları", "id": 876692, "predecessors": [{"name": "Bankacılık", "id": 44339}, {"name": "Devlet_kurumları", "id": 1016288}], "successors": []}
+{"name": "Merkez_bankaları", "id": 876692, "predecessors": [{"name": "Devlet_kurumları", "id": 1016288}, {"name": "Ekonomi", "id": 12356}], "successors": []}

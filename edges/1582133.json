@@ -1,1 +1,1 @@
-{"name": "Otomatik_parçalar", "id": 1582133, "predecessors": [{"name": "Otomotiv_teknolojisi", "id": 171354}, {"name": "Taşıt_parçaları", "id": 997041}], "successors": []}
+{"name": "Otomatik_parçalar", "id": 1582133, "predecessors": [{"name": "Otomotiv_teknolojisi", "id": 171354}, {"name": "Taşıt_parçaları", "id": 997041}], "successors": [{"name": "Otomotiv_parça_üreticileri", "id": 1359715}, {"name": "Otomotiv_karoser_parçaları", "id": 2527809}, {"name": "Otomotiv_aksesuarları", "id": 2782170}]}

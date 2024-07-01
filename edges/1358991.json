@@ -1,1 +1,1 @@
-{"name": "Peabody_Ödülü_sahipleri", "id": 1358991, "predecessors": [{"name": "Amerika_Birleşik_Devletleri'nde_kültür", "id": 2115099}], "successors": [{"name": "Peabody_Ödülü_sahibi_televizyon_programları", "id": 2180218}]}
+{"name": "Peabody_Ödülü_sahipleri", "id": 1358991, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Televizyon", "id": 12516}], "successors": [{"name": "Peabody_Ödülü_sahibi_televizyon_programları", "id": 2180218}]}

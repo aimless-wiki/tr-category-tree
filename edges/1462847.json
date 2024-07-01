@@ -1,1 +1,1 @@
-{"name": "Yüzeyler", "id": 1462847, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}], "successors": []}
+{"name": "Yüzeyler", "id": 1462847, "predecessors": [{"name": "Topoloji", "id": 16450}, {"name": "Geometri", "id": 2177}], "successors": []}

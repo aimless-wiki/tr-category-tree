@@ -1,1 +1,1 @@
-{"name": "FK_Žalgiris_futbolcuları", "id": 2084978, "predecessors": [{"name": "Toplumsal_gruplar", "id": 66417}], "successors": []}
+{"name": "FK_Žalgiris_futbolcuları", "id": 2084978, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": []}

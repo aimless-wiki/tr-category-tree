@@ -1,1 +1,1 @@
-{"name": "Siyasi_kitaplar", "id": 35619, "predecessors": [{"name": "Kurgusal_olmayan_kitaplar", "id": 1297238}, {"name": "Sanat", "id": 6443}], "successors": [{"name": "Komünist_kitaplar", "id": 35618}, {"name": "Siyaset_felsefesi_kitapları", "id": 115204}]}
+{"name": "Siyasi_kitaplar", "id": 35619, "predecessors": [{"name": "Kurgusal_olmayan_kitaplar", "id": 1297238}, {"name": "Siyasal_iletişim", "id": 460728}], "successors": [{"name": "Komünist_kitaplar", "id": 35618}, {"name": "Siyaset_felsefesi_kitapları", "id": 115204}]}

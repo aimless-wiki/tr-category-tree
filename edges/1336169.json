@@ -1,1 +1,1 @@
-{"name": "Psikolojik_tutum", "id": 1336169, "predecessors": [{"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Antisemitizm", "id": 429027}, {"name": "Milletlere_karşı_ırkçı_duygular", "id": 1173477}, {"name": "Hristiyanlık_karşıtlığı", "id": 1336165}]}
+{"name": "Psikolojik_tutum", "id": 1336169, "predecessors": [{"name": "Sosyal_psikoloji", "id": 89459}], "successors": [{"name": "Antisemitizm", "id": 429027}, {"name": "Milletlere_karşı_ırkçı_duygular", "id": 1173477}, {"name": "Hristiyanlık_karşıtlığı", "id": 1336165}, {"name": "Homofobi", "id": 685401}]}

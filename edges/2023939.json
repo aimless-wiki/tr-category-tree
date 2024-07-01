@@ -1,1 +1,1 @@
-{"name": "Türkiye_seçim_şablonları", "id": 2023939, "predecessors": [{"name": "Türkiye_siyaset_şablonları", "id": 1214635}, {"name": "Siyaset_ve_hükûmet_dolaşım_şablonları", "id": 623792}], "successors": [{"name": "İllere_göre_Türkiye'de_seçim_şablonları", "id": 3259717}]}
+{"name": "Türkiye_seçim_şablonları", "id": 2023939, "predecessors": [{"name": "Türkiye_siyaset_ve_hükûmet_şablonları", "id": 1214635}, {"name": "Siyaset_ve_hükûmet_dolaşım_şablonları", "id": 623792}], "successors": [{"name": "İllere_göre_Türkiye'de_seçim_şablonları", "id": 3259717}]}

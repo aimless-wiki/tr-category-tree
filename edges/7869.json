@@ -1,1 +1,1 @@
-{"name": "Pürinler", "id": 7869, "predecessors": [{"name": "Azot_heterosiklikleri", "id": 429740}, {"name": "Biyomoleküller", "id": 410607}, {"name": "DNA", "id": 4049}, {"name": "Aminler", "id": 24868}, {"name": "Kimya", "id": 3599}], "successors": []}
+{"name": "Pürinler", "id": 7869, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "DNA", "id": 4049}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "DNA", "id": 4049, "predecessors": [{"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "Pürinler", "id": 7869}, {"name": "DNA_ikileşmesi", "id": 353586}]}
+{"name": "DNA", "id": 4049, "predecessors": [{"name": "Genetik", "id": 14283}, {"name": "Biyomoleküller", "id": 410607}], "successors": [{"name": "Pürinler", "id": 7869}, {"name": "DNA_ikileşmesi", "id": 353586}]}

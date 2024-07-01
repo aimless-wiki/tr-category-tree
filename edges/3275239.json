@@ -1,1 +1,1 @@
-{"name": "UCI_ProTeam", "id": 3275239, "predecessors": [{"name": "Bireysel_sporlar", "id": 78374}, {"name": "Egzersiz", "id": 134636}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}
+{"name": "UCI_ProTeam", "id": 3275239, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}, {"name": "Egzersiz", "id": 134636}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Aerodinamik", "id": 26740, "predecessors": [{"name": "Akışkanlar_dinamiği", "id": 182689}], "successors": [{"name": "Aerodinamik_(havacılık)", "id": 208488}, {"name": "Uçak_kumanda_yüzeyleri", "id": 834463}, {"name": "Uzay_uçuşu", "id": 1017834}]}
+{"name": "Aerodinamik", "id": 26740, "predecessors": [{"name": "Akışkanlar_dinamiği", "id": 182689}], "successors": [{"name": "Rüzgâr_gücü", "id": 571004}, {"name": "Uçak_kumanda_yüzeyleri", "id": 834463}]}

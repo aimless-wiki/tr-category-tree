@@ -1,1 +1,1 @@
-{"name": "Üsküdar_doğumlular", "id": 1434751, "predecessors": [{"name": "İstanbul_doğumlular", "id": 1105561}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Üsküdar_doğumlu_siyasetçiler", "id": 2472284}, {"name": "Üsküdar_doğumlu_futbolcular", "id": 2472282}]}
+{"name": "Üsküdar_doğumlular", "id": 1434751, "predecessors": [{"name": "İstanbul_ili_doğumlular", "id": 1105561}], "successors": [{"name": "Üsküdar_doğumlu_siyasetçiler", "id": 2472284}, {"name": "Üsküdar_doğumlu_futbolcular", "id": 2472282}]}

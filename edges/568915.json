@@ -1,1 +1,1 @@
-{"name": "Tek_motorlu_hava_araçları", "id": 568915, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "İmalat", "id": 404623}], "successors": []}
+{"name": "Tek_motorlu_hava_araçları", "id": 568915, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Tek_motorlu_jetler", "id": 2370563}, {"name": "Tek_motorlu_pervaneli_uçaklar", "id": 3029256}]}

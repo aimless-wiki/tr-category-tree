@@ -1,1 +1,1 @@
-{"name": "Hukuk_belgeleri", "id": 887212, "predecessors": [{"name": "Belgeler", "id": 701239}, {"name": "Hukuk", "id": 12115}], "successors": [{"name": "Telif_hukuku", "id": 118714}]}
+{"name": "Hukuk_belgeleri", "id": 887212, "predecessors": [{"name": "Hukuk", "id": 12115}], "successors": [{"name": "Telif_hukuku", "id": 118714}, {"name": "Yönetim_biçimleri", "id": 10399}, {"name": "Yürürlükten_kaldırılmış_anayasalar", "id": 402887}, {"name": "Ülkelerine_göre_anayasalar", "id": 1410404}]}

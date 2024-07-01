@@ -1,1 +1,1 @@
-{"name": "İngiliz_besteciler", "id": 30084, "predecessors": [{"name": "İngiliz_müzisyenler", "id": 67772}, {"name": "Sanat_tarzları", "id": 939449}], "successors": [{"name": "İngiliz_şarkı_yazarları", "id": 1856707}]}
+{"name": "İngiliz_besteciler", "id": 30084, "predecessors": [{"name": "İngiliz_müzisyenler", "id": 67772}, {"name": "Gösteri_sanatları", "id": 642688}], "successors": [{"name": "İngiliz_şarkı_yazarları", "id": 1856707}]}

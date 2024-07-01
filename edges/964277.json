@@ -1,1 +1,1 @@
-{"name": "Hamburger", "id": 964277, "predecessors": [{"name": "Amerikan_mutfağı", "id": 402877}, {"name": "Fast_food", "id": 851876}, {"name": "Mangal", "id": 1747359}, {"name": "Sandviçler", "id": 402527}, {"name": "Ulusal_yemekler", "id": 2392175}, {"name": "Et_yemekleri", "id": 66195}], "successors": []}
+{"name": "Hamburger", "id": 964277, "predecessors": [{"name": "Amerikan_mutfağı", "id": 402877}, {"name": "Fast_food", "id": 851876}, {"name": "Mangal", "id": 1747359}, {"name": "Sandviçler", "id": 402527}, {"name": "Malzemeler", "id": 12782}], "successors": []}

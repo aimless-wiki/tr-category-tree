@@ -1,1 +1,1 @@
-{"name": "Ontario_doğumlu_oyuncular", "id": 2068087, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Kronoloji", "id": 30443}], "successors": [{"name": "Toronto_doğumlu_erkek_oyuncular", "id": 2311622}, {"name": "Toronto_doğumlu_kadın_oyuncular", "id": 2339352}]}
+{"name": "Ontario_doğumlu_oyuncular", "id": 2068087, "predecessors": [{"name": "Tarih_çağları", "id": 1200664}], "successors": [{"name": "Toronto_doğumlu_erkek_oyuncular", "id": 2311622}, {"name": "Toronto_doğumlu_kadın_oyuncular", "id": 2339352}]}

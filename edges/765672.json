@@ -1,1 +1,1 @@
-{"name": "Göz_hastalıkları_bilimi", "id": 765672, "predecessors": [{"name": "Görme", "id": 183729}, {"name": "Göz", "id": 16454}, {"name": "Tıp_bilimleri", "id": 88214}], "successors": [{"name": "Göz_hastalıkları", "id": 321976}, {"name": "Oftalmoloji_ilaçları", "id": 3339219}]}
+{"name": "Göz_hastalıkları_bilimi", "id": 765672, "predecessors": [{"name": "Görme", "id": 183729}, {"name": "Göz", "id": 16454}, {"name": "Tıp_bilimleri", "id": 88214}], "successors": [{"name": "Göz_hastalıkları", "id": 321976}]}

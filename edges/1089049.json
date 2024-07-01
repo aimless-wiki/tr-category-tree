@@ -1,1 +1,1 @@
-{"name": "Bomba_taslakları", "id": 1089049, "predecessors": [{"name": "Bombalar", "id": 92815}, {"name": "Silah_taslakları", "id": 108089}, {"name": "Deniz_savaşları", "id": 417513}], "successors": []}
+{"name": "Bomba_taslakları", "id": 1089049, "predecessors": [{"name": "Silah_taslakları", "id": 108089}, {"name": "Mühimmat", "id": 651691}], "successors": []}

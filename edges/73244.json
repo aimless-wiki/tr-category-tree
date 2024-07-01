@@ -1,1 +1,1 @@
-{"name": "Yolcu_uçakları", "id": 73244, "predecessors": [{"name": "Rus_icatları", "id": 1335771}], "successors": [{"name": "Boeing_737_içeren_kazalar_ve_olaylar", "id": 3012188}]}
+{"name": "Yolcu_uçakları", "id": 73244, "predecessors": [{"name": "Rus_icatları", "id": 1335771}, {"name": "Teknoloji", "id": 6300}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "FK_Sloboda_Tuzla_futbolcuları", "id": 1782663, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": []}
+{"name": "FK_Sloboda_Tuzla_futbolcuları", "id": 1782663, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}], "successors": []}

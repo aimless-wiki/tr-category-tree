@@ -1,1 +1,1 @@
-{"name": "RNA", "id": 14285, "predecessors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "Moleküler_biyoloji", "id": 23059}, {"name": "Biyomoleküller", "id": 410607}, {"name": "Gen_ifadesi", "id": 255427}], "successors": []}
+{"name": "RNA", "id": 14285, "predecessors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "Genetik", "id": 14283}, {"name": "Moleküler_biyoloji", "id": 23059}, {"name": "Biyomoleküller", "id": 410607}, {"name": "Gen_ifadesi", "id": 255427}], "successors": []}

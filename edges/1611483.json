@@ -1,1 +1,1 @@
-{"name": "Ayak_giyimi", "id": 1611483, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Alt_ekstremite", "id": 356086}], "successors": []}
+{"name": "Ayak_giyimi", "id": 1611483, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Alt_ekstremite", "id": 356086}], "successors": [{"name": "Ayakkabı", "id": 599632}]}

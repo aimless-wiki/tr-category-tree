@@ -1,1 +1,1 @@
-{"name": "Uçak_kumanda_yüzeyleri", "id": 834463, "predecessors": [{"name": "Aerodinamik", "id": 26740}, {"name": "Uçak_parçaları", "id": 202859}], "successors": []}
+{"name": "Uçak_kumanda_yüzeyleri", "id": 834463, "predecessors": [{"name": "Aerodinamik", "id": 26740}, {"name": "Uçak_parçaları", "id": 202859}, {"name": "Dinamik_sistemler", "id": 182693}], "successors": []}

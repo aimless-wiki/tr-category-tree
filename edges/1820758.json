@@ -1,1 +1,1 @@
-{"name": "Savaş_suçlarıyla_suçlanan_kişiler", "id": 1820758, "predecessors": [{"name": "Savaş_suçları", "id": 612741}, {"name": "Suç", "id": 23210}], "successors": [{"name": "Savaş_suçlarından_hüküm_giyen_Naziler", "id": 2300835}]}
+{"name": "Savaş_suçlarıyla_suçlanan_kişiler", "id": 1820758, "predecessors": [{"name": "Savaş_suçları", "id": 612741}], "successors": [{"name": "Savaş_suçlarından_hüküm_giyen_Naziler", "id": 2300835}]}

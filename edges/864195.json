@@ -1,1 +1,1 @@
-{"name": "Kayaçlar", "id": 864195, "predecessors": [{"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Tortul_kayaçlar", "id": 598480}, {"name": "Değerli_taşlar", "id": 46416}, {"name": "Kireç_taşı", "id": 598476}, {"name": "Taşlar", "id": 641095}, {"name": "Türkiye'deki_taş_yapılar", "id": 2877991}]}
+{"name": "Kayaçlar", "id": 864195, "predecessors": [{"name": "Malzemeler", "id": 12782}, {"name": "Metafizik_kavramları", "id": 1349653}], "successors": [{"name": "Değerli_taşlar", "id": 46416}]}

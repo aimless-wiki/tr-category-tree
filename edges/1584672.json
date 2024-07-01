@@ -1,1 +1,1 @@
-{"name": "Akademik_yayıncılık", "id": 1584672, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Yayıncılık", "id": 2842016}], "successors": [{"name": "Akademik_yayınevleri", "id": 1584671}, {"name": "Açık_erişim_dergiler", "id": 2037109}]}
+{"name": "Akademik_yayıncılık", "id": 1584672, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Akademik_yayınevleri", "id": 1584671}, {"name": "Açık_erişim_dergiler", "id": 2037109}]}

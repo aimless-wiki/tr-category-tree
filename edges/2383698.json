@@ -1,1 +1,1 @@
-{"name": "Su_arıtma", "id": 2383698, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Su_kirliliği", "id": 975525}, {"name": "Su", "id": 195970}, {"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Siyaset", "id": 12230}], "successors": []}
+{"name": "Su_arıtma", "id": 2383698, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Su_kirliliği", "id": 975525}, {"name": "Su", "id": 195970}, {"name": "Çevre_kirliliği", "id": 769780}, {"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Siyaset", "id": 12230}], "successors": []}

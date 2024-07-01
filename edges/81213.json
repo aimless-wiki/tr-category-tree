@@ -1,1 +1,1 @@
-{"name": "Finans_terimleri", "id": 81213, "predecessors": [{"name": "Finans", "id": 14121}, {"name": "Terimler", "id": 81201}], "successors": [{"name": "Özel_sermaye_portföyü_şirketleri", "id": 2357680}]}
+{"name": "Finans_terimleri", "id": 81213, "predecessors": [{"name": "Terimler", "id": 81201}], "successors": [{"name": "Özel_sermaye_portföyü_şirketleri", "id": 2357680}]}

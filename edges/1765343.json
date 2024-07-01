@@ -1,1 +1,1 @@
-{"name": "Demanstan_ölenler", "id": 1765343, "predecessors": [{"name": "Demans_olan_kişiler", "id": 1765334}, {"name": "İnsan_hastalıkları", "id": 86141}, {"name": "Nöroloji_hastalıkları", "id": 1303228}], "successors": [{"name": "Alzheimer_hastalığından_ölenler", "id": 926984}]}
+{"name": "Demanstan_ölenler", "id": 1765343, "predecessors": [{"name": "Demans_olan_kişiler", "id": 1765334}, {"name": "Nörodejeneratif_bozukluklar", "id": 1681385}], "successors": [{"name": "Alzheimer_hastalığından_ölenler", "id": 926984}]}

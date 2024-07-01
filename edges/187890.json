@@ -1,1 +1,1 @@
-{"name": "Eğitim_felsefesi", "id": 187890, "predecessors": [{"name": "Eğitim", "id": 6773}], "successors": [{"name": "Eğitim_filozofları", "id": 2117421}]}
+{"name": "Eğitim_felsefesi", "id": 187890, "predecessors": [{"name": "Eğitim", "id": 6773}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Eğitim_filozofları", "id": 2117421}]}

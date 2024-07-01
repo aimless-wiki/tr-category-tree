@@ -1,1 +1,1 @@
-{"name": "İzmir_doğumlu_müzisyenler", "id": 2166429, "predecessors": [{"name": "İzmir_doğumlu_sanatçılar", "id": 2126780}], "successors": [{"name": "İzmir_doğumlu_kadın_şarkıcılar", "id": 2348933}, {"name": "İzmir_doğumlu_erkek_şarkıcılar", "id": 2361676}]}
+{"name": "İzmir_doğumlu_müzisyenler", "id": 2166429, "predecessors": [{"name": "İzmir_doğumlu_sanatçılar", "id": 2126780}], "successors": [{"name": "İzmir_ili_doğumlu_kadın_şarkıcılar", "id": 2348933}, {"name": "İzmir_ili_doğumlu_erkek_şarkıcılar", "id": 2361676}]}

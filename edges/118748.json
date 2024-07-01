@@ -1,1 +1,1 @@
-{"name": "Güneş_enerjisi", "id": 118748, "predecessors": [{"name": "Güneş", "id": 118749}, {"name": "Yenilenebilir_enerji", "id": 116135}, {"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Cam", "id": 14263}], "successors": [{"name": "Fotovoltaik", "id": 1482516}]}
+{"name": "Güneş_enerjisi", "id": 118748, "predecessors": [{"name": "Güneş", "id": 118749}, {"name": "Yenilenebilir_enerji", "id": 116135}, {"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Enerji", "id": 36245}, {"name": "Cam", "id": 14263}], "successors": []}

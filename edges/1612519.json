@@ -1,1 +1,1 @@
-{"name": "FK_Sarajevo_futbolcuları", "id": 1612519, "predecessors": [{"name": "Bosna-Hersek'teki_futbol_kulüpleri", "id": 1436146}, {"name": "Egzersiz", "id": 134636}], "successors": []}
+{"name": "FK_Sarajevo_futbolcuları", "id": 1612519, "predecessors": [{"name": "Yaz_Olimpiyatları_sporları", "id": 2105558}, {"name": "Bosna-Hersek'teki_futbol_kulüpleri", "id": 1436146}], "successors": []}

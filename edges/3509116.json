@@ -1,1 +1,1 @@
-{"name": "FK_Buxoro_futbolcuları", "id": 3509116, "predecessors": [{"name": "Takım_sporları", "id": 78371}], "successors": []}
+{"name": "FK_Buxoro_futbolcuları", "id": 3509116, "predecessors": [{"name": "Egzersiz", "id": 134636}], "successors": []}

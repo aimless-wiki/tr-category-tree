@@ -1,1 +1,1 @@
-{"name": "Fenetilaminler", "id": 92373, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}, {"name": "Kimya", "id": 3599}, {"name": "Aminler", "id": 24868}], "successors": [{"name": "Amfetaminler", "id": 92375}]}
+{"name": "Fenetilaminler", "id": 92373, "predecessors": [{"name": "Psikoaktif_ilaçlar", "id": 24849}], "successors": [{"name": "Amfetaminler", "id": 92375}]}

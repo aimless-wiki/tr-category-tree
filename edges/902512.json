@@ -1,1 +1,1 @@
-{"name": "Finansal_piyasalar", "id": 902512, "predecessors": [{"name": "Yatırım", "id": 902674}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Finans", "id": 14121}], "successors": [{"name": "Borsa", "id": 21325}, {"name": "Yatırım", "id": 902674}]}
+{"name": "Finansal_piyasalar", "id": 902512, "predecessors": [{"name": "Yatırım", "id": 902674}, {"name": "Ekonomik_sistemler", "id": 902480}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Yatırım", "id": 902674}]}

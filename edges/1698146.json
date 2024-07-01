@@ -1,1 +1,1 @@
-{"name": "Gençlik_kuruluşları", "id": 1698146, "predecessors": [{"name": "İnsan_gelişimi", "id": 705423}, {"name": "Çocukluk", "id": 705419}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "İzcilik", "id": 650815}, {"name": "Hitler_Gençliği", "id": 720057}]}
+{"name": "Gençlik_kuruluşları", "id": 1698146, "predecessors": [{"name": "İnsan_gelişimi", "id": 705423}, {"name": "Sosyoloji", "id": 1145186}, {"name": "Çocukluk", "id": 705419}], "successors": [{"name": "İzcilik", "id": 650815}, {"name": "Hitler_Gençliği", "id": 720057}]}

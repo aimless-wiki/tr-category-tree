@@ -1,1 +1,1 @@
-{"name": "Geometriciler", "id": 2954919, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Diferansiyel_geometriciler", "id": 3466281}]}
+{"name": "Geometriciler", "id": 2954919, "predecessors": [{"name": "Geometri", "id": 2177}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Diferansiyel_geometriciler", "id": 3466281}]}
