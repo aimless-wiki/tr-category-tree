@@ -1,1 +1,1 @@
-{"name": "Bilişim_listeleri", "id": 148147, "predecessors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Bilim_listeleri", "id": 148161}, {"name": "Teknoloji_listeleri", "id": 1504728}, {"name": "Elektronik", "id": 10117}], "successors": [{"name": "Yazılım_listeleri", "id": 197003}]}
+{"name": "Bilişim_listeleri", "id": 148147, "predecessors": [{"name": "Bilgisayar", "id": 3494}, {"name": "Teknoloji", "id": 6300}, {"name": "Elektronik", "id": 10117}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yazılım_listeleri", "id": 197003}]}

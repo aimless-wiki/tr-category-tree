@@ -1,1 +1,1 @@
-{"name": "İstanbul_Boğazı", "id": 786910, "predecessors": [{"name": "Beykoz_coğrafyası", "id": 1473885}, {"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Antik_Anadolu", "id": 1276852}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Beykoz_coğrafyası", "id": 1473885}]}
+{"name": "İstanbul_Boğazı", "id": 786910, "predecessors": [{"name": "Beykoz_coğrafyası", "id": 1473885}, {"name": "Karadeniz", "id": 132038}, {"name": "Fiziki_coğrafya", "id": 204623}, {"name": "Antik_Anadolu", "id": 1276852}], "successors": [{"name": "Beykoz_coğrafyası", "id": 1473885}]}

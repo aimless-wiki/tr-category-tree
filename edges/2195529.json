@@ -1,1 +1,1 @@
-{"name": "Vejetaryen_mutfağı", "id": 2195529, "predecessors": [{"name": "Ev", "id": 12533}, {"name": "Hayvan_hakları", "id": 186818}], "successors": [{"name": "Kahvaltılık_gevrekler", "id": 2393699}, {"name": "Vegan_mutfağı", "id": 2524792}]}
+{"name": "Vejetaryen_mutfağı", "id": 2195529, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Hayvan_hakları", "id": 186818}], "successors": [{"name": "Kahvaltılık_gevrekler", "id": 2393699}, {"name": "Vegan_mutfağı", "id": 2524792}]}

@@ -1,1 +1,1 @@
-{"name": "Psikoloji_terimleri", "id": 70663, "predecessors": [{"name": "Psikoloji", "id": 12113}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Terimler", "id": 81201}], "successors": [{"name": "Psikanaliz_terimleri", "id": 1612977}]}
+{"name": "Psikoloji_terimleri", "id": 70663, "predecessors": [{"name": "Psikoloji", "id": 12113}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "Psikanaliz_terimleri", "id": 1612977}]}

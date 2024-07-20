@@ -1,1 +1,1 @@
-{"name": "Kamyonlar", "id": 1195214, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Kamyon_üreticileri", "id": 277031}, {"name": "Askerî_kamyonlar", "id": 1930241}]}
+{"name": "Kamyonlar", "id": 1195214, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Kamyon_imalatçıları", "id": 277031}, {"name": "Askerî_kamyonlar", "id": 1930241}]}

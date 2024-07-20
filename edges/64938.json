@@ -1,1 +1,1 @@
-{"name": "Anıt_mezarlar", "id": 64938, "predecessors": [{"name": "Anıtlar", "id": 83952}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "Türkiye'deki_anıt_mezarlar", "id": 2048006}]}
+{"name": "Anıt_mezarlar", "id": 64938, "predecessors": [{"name": "Mezarlıklar", "id": 57427}, {"name": "Anıtlar", "id": 83952}], "successors": [{"name": "Türkiye'deki_anıt_mezarlar", "id": 2048006}]}

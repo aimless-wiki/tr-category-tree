@@ -1,1 +1,1 @@
-{"name": "Kalkülüs", "id": 611912, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Karmaşık_analiz", "id": 607821}, {"name": "Çok_değişkenli_hesap", "id": 611911}]}
+{"name": "Kalkülüs", "id": 611912, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Fonksiyonlar", "id": 515963}, {"name": "Karmaşık_analiz", "id": 607821}, {"name": "Çok_değişkenli_hesap", "id": 611911}]}

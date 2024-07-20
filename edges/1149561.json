@@ -1,1 +1,1 @@
-{"name": "Radyo_spektrumu", "id": 1149561, "predecessors": [{"name": "Elektromanyetik_spektrum", "id": 182522}, {"name": "Elektromanyetik_radyasyon", "id": 1412254}], "successors": [{"name": "Radar", "id": 157904}]}
+{"name": "Radyo_spektrumu", "id": 1149561, "predecessors": [{"name": "Elektromanyetik_spektrum", "id": 182522}, {"name": "Radyo_frekansı_yayılımı", "id": 1429756}], "successors": [{"name": "Radar", "id": 157904}]}

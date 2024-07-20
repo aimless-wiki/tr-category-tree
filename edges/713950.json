@@ -1,1 +1,1 @@
-{"name": "Türk_mutfağındaki_sebze_yemekleri", "id": 713950, "predecessors": [{"name": "Türk_mutfağı", "id": 53742}], "successors": [{"name": "Türk_mutfağındaki_dolma_ve_sarmalar", "id": 713781}]}
+{"name": "Türk_mutfağındaki_sebze_yemekleri", "id": 713950, "predecessors": [{"name": "Sebzeler", "id": 36377}, {"name": "Türk_mutfağı", "id": 53742}], "successors": [{"name": "Türk_mutfağındaki_dolma_ve_sarmalar", "id": 713781}]}
