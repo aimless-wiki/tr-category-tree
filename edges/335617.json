@@ -1,1 +1,1 @@
-{"name": "Ev_aletleri", "id": 335617, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Ev", "id": 12533}], "successors": [{"name": "Mutfak_eşyaları", "id": 331736}]}
+{"name": "Ev_aletleri", "id": 335617, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Ev", "id": 12533}], "successors": [{"name": "Mutfak_araçları", "id": 331736}, {"name": "Çömlekçilik", "id": 94554}]}

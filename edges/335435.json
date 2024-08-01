@@ -1,1 +1,1 @@
-{"name": "Kömür", "id": 335435, "predecessors": [{"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Malzemeler", "id": 12782}, {"name": "Hükûmet", "id": 1580223}, {"name": "Tarih_çağları", "id": 1200664}], "successors": []}
+{"name": "Kömür", "id": 335435, "predecessors": [{"name": "Doğal_kaynaklar", "id": 36243}, {"name": "Malzemeler", "id": 12782}, {"name": "Tarih_çağları", "id": 1200664}, {"name": "Vikipedi", "id": 7220}], "successors": []}

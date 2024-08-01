@@ -1,1 +1,1 @@
-{"name": "Antibiyotikler", "id": 17375, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Biyoteknoloji", "id": 14865}], "successors": []}
+{"name": "Antibiyotikler", "id": 17375, "predecessors": [{"name": "Biyoloji", "id": 5160}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Biyoteknoloji", "id": 14865}], "successors": [{"name": "Antibiyotik_taslakları", "id": 3707828}]}
