@@ -1,1 +1,1 @@
-{"name": "Tıbbi_aletler", "id": 182768, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Mühendislik_dalları", "id": 14267}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Tıbbi_görüntüleme", "id": 832084}]}
+{"name": "Tıbbi_aletler", "id": 182768, "predecessors": [{"name": "Aletler", "id": 17009}, {"name": "Teknoloji", "id": 6300}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Tıbbi_görüntüleme", "id": 832084}]}

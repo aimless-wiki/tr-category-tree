@@ -1,1 +1,1 @@
-{"name": "Tıbbi_testler", "id": 920712, "predecessors": [{"name": "Mühendislik_dalları", "id": 14267}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Tıbbi_görüntüleme", "id": 832084}, {"name": "Dışkı_testi_ile_tanı_konan_durumlar", "id": 1672034}]}
+{"name": "Tıbbi_testler", "id": 920712, "predecessors": [{"name": "Bilimsel_yöntem", "id": 14784}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Tıbbi_görüntüleme", "id": 832084}, {"name": "Dışkı_testi_ile_tanı_konan_durumlar", "id": 1672034}]}

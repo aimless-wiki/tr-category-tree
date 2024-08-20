@@ -1,1 +1,1 @@
-{"name": "İlaç_endüstrisi", "id": 890233, "predecessors": [{"name": "Farmakoloji", "id": 13262}, {"name": "İlaçlar", "id": 26649}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "İlaçlara_kıvam_veren_maddeler", "id": 777089}]}
+{"name": "İlaç_endüstrisi", "id": 890233, "predecessors": [{"name": "Farmakoloji", "id": 13262}, {"name": "İlaçlar", "id": 26649}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Biyoteknoloji", "id": 14865}, {"name": "İlaçlara_kıvam_veren_maddeler", "id": 777089}]}

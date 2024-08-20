@@ -1,1 +1,1 @@
-{"name": "Taksiler", "id": 1005754, "predecessors": [{"name": "Şehir_planlaması", "id": 55038}], "successors": []}
+{"name": "Taksiler", "id": 1005754, "predecessors": [{"name": "Ticaret", "id": 43782}, {"name": "Şehir_planlaması", "id": 55038}], "successors": []}

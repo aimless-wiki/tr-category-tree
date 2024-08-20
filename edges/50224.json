@@ -1,1 +1,1 @@
-{"name": "Otomotiv_taslakları", "id": 50224, "predecessors": [{"name": "Makine_mühendisliği_taslakları", "id": 404579}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Ekonomi", "id": 12356}, {"name": "Motor", "id": 52635}], "successors": []}
+{"name": "Otomotiv_taslakları", "id": 50224, "predecessors": [{"name": "Makine_mühendisliği_taslakları", "id": 404579}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Motor", "id": 52635}, {"name": "Akademi", "id": 583263}], "successors": []}

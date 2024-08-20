@@ -1,1 +1,1 @@
-{"name": "Türkiye_radyo_kanalları", "id": 166079, "predecessors": [{"name": "Radyo", "id": 12517}, {"name": "Telekomünikasyon", "id": 12616}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "TRT_radyo_kanalları", "id": 1360179}]}
+{"name": "Türkiye_radyo_kanalları", "id": 166079, "predecessors": [{"name": "Radyo", "id": 12517}, {"name": "Telekomünikasyon", "id": 12616}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "TRT_radyo_kanalları", "id": 1360179}]}

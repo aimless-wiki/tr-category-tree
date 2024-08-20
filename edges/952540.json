@@ -1,1 +1,1 @@
-{"name": "Azeri_gazeteciler", "id": 952540, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Medya", "id": 12429}, {"name": "Vikipedi", "id": 7220}, {"name": "İletişim", "id": 12514}], "successors": []}
+{"name": "Azeri_gazeteciler", "id": 952540, "predecessors": [{"name": "Azerbaycan", "id": 21085}, {"name": "Medya", "id": 12429}, {"name": "Vikipedi", "id": 7220}], "successors": []}

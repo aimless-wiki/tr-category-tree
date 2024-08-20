@@ -1,1 +1,1 @@
-{"name": "Kanser_tedavisi", "id": 702683, "predecessors": [{"name": "Kanser", "id": 2238197}, {"name": "Onkoloji", "id": 20198}, {"name": "Tedaviler", "id": 208069}], "successors": []}
+{"name": "Kanser_tedavisi", "id": 702683, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Engellilik", "id": 252432}], "successors": []}

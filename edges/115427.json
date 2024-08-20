@@ -1,1 +1,1 @@
-{"name": "Uluslararası_ticaret", "id": 115427, "predecessors": [{"name": "Ticaret", "id": 43782}, {"name": "Uluslararası_ilişkiler", "id": 36567}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "İpek_Yolu", "id": 447697}]}
+{"name": "Uluslararası_ticaret", "id": 115427, "predecessors": [{"name": "Ticaret", "id": 43782}, {"name": "Uluslararası_ilişkiler", "id": 36567}, {"name": "Akademi", "id": 583263}, {"name": "Ekonomi", "id": 12356}], "successors": [{"name": "İpek_Yolu", "id": 447697}]}

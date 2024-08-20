@@ -1,1 +1,1 @@
-{"name": "Azeri_bilim_insanları", "id": 980426, "predecessors": [{"name": "Siyaset", "id": 12230}, {"name": "Vikipedi", "id": 7220}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Azeri_akademisyenler", "id": 980427}]}
+{"name": "Azeri_bilim_insanları", "id": 980426, "predecessors": [{"name": "Azerbaycan", "id": 21085}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Azeri_akademisyenler", "id": 980427}]}
