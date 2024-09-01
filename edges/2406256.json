@@ -1,1 +1,1 @@
-{"name": "Yemek_pişirme_aletleri", "id": 2406256, "predecessors": [{"name": "Ev_eşyaları", "id": 35834}, {"name": "Yiyecek_aletleri", "id": 662244}, {"name": "Ekonomi", "id": 12356}, {"name": "Bilgi", "id": 12510}, {"name": "Mutfak_araçları", "id": 331736}], "successors": []}
+{"name": "Yemek_pişirme_aletleri", "id": 2406256, "predecessors": [{"name": "Ev_eşyaları", "id": 35834}, {"name": "Pişirme_yöntemleri", "id": 2167128}, {"name": "Yiyecek_aletleri", "id": 662244}, {"name": "Ekonomi", "id": 12356}, {"name": "Mutfak_araçları", "id": 331736}], "successors": []}

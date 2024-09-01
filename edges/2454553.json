@@ -1,1 +1,1 @@
-{"name": "İtalyan_sanatçı_taslakları", "id": 2454553, "predecessors": [{"name": "İtalyan_taslakları", "id": 555179}, {"name": "Sanatçı_taslakları", "id": 28011}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "İtalyan_ressam_taslakları", "id": 2454552}]}
+{"name": "İtalyan_sanatçı_taslakları", "id": 2454553, "predecessors": [{"name": "İtalyan_sanatçılar", "id": 1301404}, {"name": "İtalyan_taslakları", "id": 555179}, {"name": "Sanatçı_taslakları", "id": 28011}], "successors": [{"name": "İtalyan_ressam_taslakları", "id": 2454552}]}

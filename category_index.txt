@@ -566,6 +566,7 @@
 35059 Belediye_başkanları
 35066 Türk_dilbilimciler
 35168 1948_doğumlular
+35226 Tradisyonalizm
 35229 Metafizik
 35288 Füzeler
 35547 Antik_Yunanistan
@@ -932,8 +933,8 @@
 54141 Irak_Savaşı
 54165 Ödemiş'in_mahalleleri
 54237 1987_doğumlular
+54338 İslam_hukuku_terimleri
 54339 İslam_hukuku
-54675 İslam_şablonları
 54711 2001_albümleri
 54735 1998_albümleri
 54740 2002_albümleri
@@ -991,6 +992,7 @@
 57077 1821_yılında_ölenler
 57078 1821_doğumlular
 57143 Osmanlı_Girit_valileri
+57191 Ekmekler
 57238 Amerika_yerlilerinin_kabile_şefleri
 57309 Türk_müzikologlar
 57331 1873_doğumlular
@@ -1116,6 +1118,8 @@
 63332 1625_yılında_ölenler
 63343 1630_doğumlular
 63346 1632_yılında_ölenler
+63365 1641_yılında_ölenler
+63387 1652_yılında_ölenler
 63391 1654_yılında_ölenler
 63401 1659_yılında_ölenler
 63440 1680_yılında_ölenler
@@ -1500,6 +1504,7 @@
 71482 Arap_milliyetçiliği
 71485 Pan_hareketler
 71579 Eğitim_kurumu_taslakları
+71605 Ülke_şablonları
 71856 Ateş_tanrıları
 71873 Adalet_tanrıçaları
 71878 Yıldırım_tanrıları
@@ -2029,6 +2034,7 @@
 116715 Birleşik_Krallık_şablonları
 116789 Kuzey_Kıbrıs_Türk_Cumhuriyeti_taslakları
 116796 Amerika_Birleşik_Devletleri_şablonları
+116826 Azerbaycan_şablonları
 116955 Azerbaycan'daki_siyasi_partiler
 117656 Barok_ressamlar
 117681 İtalyan_kardinaller
@@ -3217,11 +3223,11 @@
 233283 Elbeyli_belde_ve_köyleri
 233284 Tercan_belde_ve_köyleri
 233951 Konfüçyüsçülük
+234071 Amerikalı_mühendisler
 234560 Rus_fizikçiler
 234576 Türkiye'deki_depremler
 234607 Türkiye'nin_belde_taslakları
 234679 Coğrafya_terminolojisi
-234709 Türkiye'de_sağlık
 234740 Türkiye'deki_kaleler
 235257 Tarihteki_Türk_halkları
 235302 Hessen
@@ -3478,6 +3484,7 @@
 265885 Balışeyh_belde_ve_köyleri
 265886 Sulakyurt_belde_ve_köyleri
 265910 Japonya_taslakları
+266334 Tiyatro_tarihi
 267510 Kokteyller
 267569 Açı
 267591 Biyoyakıt
@@ -3515,7 +3522,6 @@
 273079 İspir
 273319 Tarihî_başkentler
 273597 1973_çıkışlı_filmler
-273823 Hintçe_filmler
 273825 İngilizce_filmler
 273827 1954_çıkışlı_filmler
 273843 Rusça_filmler
@@ -3797,6 +3803,7 @@
 309815 Amerikalı_satranç_oyuncuları
 309817 Rus_satranç_oyuncuları
 309825 Norveçli_satranç_oyuncuları
+309906 Lübnan_başbakanları
 309966 Pakistan_başbakanları
 309968 Romanya_başbakanları
 309972 Azerbaycan_devlet_başkanları
@@ -4655,6 +4662,7 @@
 409066 1996'da_Türkiye
 409255 Manga_dağıtımcıları
 409308 Spor_anime
+409334 Müzik_bilgi_kutusu_şablonları
 409371 Amerikalı_anarşistler
 409374 Fransız_anarşistler
 409398 Kütle_birimleri
@@ -4744,7 +4752,6 @@
 416894 Bulgaristan_dolaşım_şablonları
 416896 İngiltere_dolaşım_şablonları
 416916 İran_şablonları
-416921 Irak_şablonları
 416983 Çikolata_markaları
 417028 Spor_temalı_filmler
 417111 Biyolog_taslakları
@@ -5359,7 +5366,6 @@
 513673 Avrupa_kraliyet_aileleri
 514001 Satranç_türevleri
 514108 Ülkelerine_göre_harita_şablonları
-514215 İstanbul_Film_Festivali
 514412 Macaristan'ın_savaşları
 514772 Göl_taslakları
 514775 Gürcistan_yerleşim_yerleri_taslakları
@@ -5512,7 +5518,6 @@
 544089 Anlamsal_Ağ
 544096 Sosyal_ağ_hizmetleri
 544101 Web_2.0
-544124 Müftüler
 544285 Timbaland_şarkıları
 544817 Java_ortamı
 544818 Bilgisayar_ortamları
@@ -5631,7 +5636,6 @@
 565293 Amerikalı_astronotlar
 565583 1930_çıkışlı_filmler
 566186 Pop_şarkıları
-566910 Quentin_Tarantino'nun_yönettiği_filmler
 567183 Vikipedi:Mulazimoglu_kullanıcısının_kuklaları
 567190 Robert_Rodriguez'in_yönettiği_filmler
 567191 Zombi_filmleri
@@ -5870,6 +5874,7 @@
 609647 Mobil_telefon_standartları
 609984 Kosta_Rika_taslakları
 610016 Opera_bestecileri
+611395 Türkiye'de_millî_futbol_takımları
 611419 Matematik_teoremleri
 611816 Şarkıcı_taslakları
 611911 Çok_değişkenli_hesap
@@ -5918,6 +5923,7 @@
 616935 Ezine_belde_ve_köyleri
 616949 Küba_Devrimi
 616958 Bayramiç_belde_ve_köyleri
+617154 İngiliz_doğa_tarihçileri
 617155 Fransız_doğa_tarihçileri
 617323 Güneysu_belde_ve_köyleri
 617339 Gelibolu_belde_ve_köyleri
@@ -6244,7 +6250,6 @@
 673156 1989'da_voleybol
 673363 1987'de_voleybol
 673410 Eğriler
-673550 Cannes_Film_Festivali
 673666 Holokost
 673672 İspanya_dolaşım_şablonları
 674160 1985'te_voleybol
@@ -6332,6 +6337,7 @@
 694141 Nino_Rota'nın_müziğini_yaptığı_filmler
 694169 Maurice_Jarre'ın_müziğini_yaptığı_filmler
 694188 Dimitri_Tiomkin'in_müziğini_yaptığı_filmler
+694307 Trabzon_Lisesinde_öğrenim_görenler
 694426 Miklós_Rózsa'nın_müziğini_yaptığı_filmler
 694430 Metin_Erksan'ın_yönettiği_filmler
 694434 Elmer_Bernstein'ın_müziğini_yaptığı_filmler
@@ -6530,6 +6536,7 @@
 723558 Ahameniş_İmparatorluğu
 724434 17._yüzyılda_çatışmalar
 724437 Almanya_askerî_tarihi
+724444 Bulgaristan_askerî_tarihi
 724451 Fransa_askerî_tarihi
 724475 Yugoslavya_tarihi
 724761 Dört_Halife'nin_muharebeleri
@@ -6867,7 +6874,6 @@
 786067 Robert_Zemeckis'in_yönettiği_filmler
 786910 İstanbul_Boğazı
 787034 Uzay_teleskopları
-787531 Hristiyanlık_şablonları
 788058 Latince_politika_deyişleri
 788138 Adıyaman_taslakları
 788208 Türk_Kurtuluş_Savaşı_filmleri
@@ -6906,6 +6912,7 @@
 790620 Bipolar_bozukluğu_olan_kişiler
 790628 Parkinson_hastalığı_olan_kişiler
 790704 Halkalı_galaksiler
+790982 TÜSİAD_Yönetim_Kurulu_Başkanları
 791056 Berenis'in_Saçı_takımyıldızı
 791323 Av_köpekleri_takımyıldızı
 791332 Kalkan_takımyıldızı
@@ -7126,6 +7133,7 @@
 840241 Akademik_sanat
 840403 Ohio'daki_iller
 840467 Vikipedi_seçkin_resim_adayları/Nisan_2009
+840508 Amerika_Birleşik_Devletleri-Kanada_sınırı
 840604 18._yüzyıl_kâşifleri
 840608 17._yüzyıl_kâşifleri
 840611 Din_hakkında_filmler
@@ -7377,6 +7385,7 @@
 875271 Hristiyan_filozoflar
 875316 Gılgamış_Destanı
 875362 Bursaspor
+875365 Çarşılar
 875405 Amerika_Birleşik_Devletleri_web_siteleri
 875414 Birleşmiş_Milletler_Güvenlik_Konseyi_kararları_taslakları
 875460 Britanyalı_ateistler
@@ -7558,6 +7567,7 @@
 890889 2005'te_basketbol
 890951 Fransızca_deyişler
 890996 Afyonkarahisar_mutfağı
+891002 Ekmek_taslakları
 891012 Japon_savaş_sanatları_terimleri
 891048 Fantastik_televizyon_dizileri
 891052 Dramatik_televizyon_dizileri
@@ -8225,6 +8235,7 @@
 961333 Amerikalı_televizyon_yapımcıları
 961350 Amerikalı_kurgucular
 961374 Ankara_ilinde_defnedilenler
+961501 1969'da_kurulan_kuruluşlar
 961622 1969'da_kurulan_şirketler
 961666 1970'te_kurulan_şirketler
 961700 1972'de_kurulan_şirketler
@@ -9515,6 +9526,7 @@
 1104069 Elche_CF_futbolcuları
 1104211 Trabzonspor_basketbolcuları
 1104341 Tıraş
+1104520 Age_of_Empires
 1104527 Battlefield
 1104721 Laos_taslakları
 1104775 Darende'nin_mahalleleri
@@ -9712,6 +9724,7 @@
 1114451 Dunfermline_Athletic_FC_futbolcuları
 1114643 Sovyetler_Birliği_dolaşım_şablonları
 1114752 Ağrı_ilinde_siyaset
+1115101 Lady_Gaga
 1115102 Lady_Gaga_şarkıları
 1115113 Tilkiler
 1115170 Deprem_taslakları
@@ -10146,7 +10159,6 @@
 1149801 Levant_mutfağı
 1149915 SV_Werder_Bremen_II_futbolcuları
 1149979 Strateji_video_oyunları
-1149988 Nickelodeon
 1150500 Dünya_Güreş_Şampiyonası
 1150540 Adanaspor_teknik_direktörleri
 1150730 1._fotbalová_liga_sezonları
@@ -10257,6 +10269,7 @@
 1160918 Odessa_doğumlular
 1160933 Basketbol_logolar
 1161164 Gran_Turismo
+1161177 Lady_Gaga_tarafından_yazılan_şarkılar
 1161182 Vikipedi_seçkin_resim_adayları/Ekim_2010
 1161332 Sovyetler_Birliği_ödül_şablonları
 1161334 Belgrad_tarihi
@@ -10271,6 +10284,7 @@
 1161690 Treviso_FBC_1993_futbolcuları
 1161692 Benevento_Calcio_futbolcuları
 1161697 Konami_oyunları
+1161976 Ödül_şablonları
 1162299 İtalya'da_Avrupa_E-yolları
 1162322 Pazarlama_taslakları
 1162371 1972'de_kurulan_futbol_kulüpleri
@@ -10842,6 +10856,7 @@
 1203943 Kurgusal_polis_memurları
 1203946 Kurgusal_polis_dedektifleri
 1203947 Kurgusal_dedektifler
+1203988 Televizyon_şablonları
 1204004 Video_depolama
 1204005 Video
 1204016 Dijital_televizyon
@@ -11073,6 +11088,7 @@
 1235496 Avustralyalı_gurbetçi_futbolcular
 1238800 İspanyol_kadın_şarkıcılar
 1238869 Rusya'daki_Dünya_Mirasları
+1239094 Azerbaycan'daki_Dünya_Mirasları
 1239640 Türkiye'deki_Dünya_Mirasları
 1240702 İtalya'daki_Dünya_Mirasları
 1240839 İngiltere'deki_Dünya_Mirasları
@@ -11654,6 +11670,7 @@
 1301192 Baglan_ilinin_ilçeleri
 1301263 Türkiye'deki_Romalı_arkeolojik_sitler
 1301399 1986'da_başlayan_televizyon_dizileri
+1301404 İtalyan_sanatçılar
 1301511 Haydar_Aliyev_Nişanı_sahipleri
 1301554 NBA_listeleri
 1301596 MÖ_1._yüzyılda_doğanlar
@@ -12494,7 +12511,7 @@
 1345398 Haydarpaşa_Lisesinde_öğrenim_görenler
 1345462 Show_TV_yarışmaları
 1345943 Kniksen_Ödülü_sahipleri
-1345952 Avrupa'da_Yılın_Futbolcusu_Ödülü_sahipleri
+1345952 Ballon_d'Or_kazananları
 1345984 Afrika'da_Yılın_Futbolcusu_Ödülü_sahipleri
 1345991 Laureus_Dünya_Spor_Ödülü_sahipleri
 1346045 Lyon_doğumlular
@@ -13377,6 +13394,7 @@
 1429828 Üniversitelerine_göre_şablonlar
 1429836 20._yüzyılda_İtalyanlar
 1429846 Alman_antifaşistler
+1429849 Müzik_ödülü_şablonları
 1429859 Şarkıcı_dolaşım_şablonları
 1430141 Dromaeosaur
 1430265 Tarih_öncesi_sürüngen_taslakları
@@ -13799,7 +13817,6 @@
 1465491 Amerikalı_çıplak_modeller
 1465610 CS_Marítimo_futbolcuları
 1465631 Gülistan_Eyaleti'nin_bahşları
-1465702 Taksonomistler
 1465760 Superliga_(Danimarka)_futbolcuları
 1465794 Kurgusal_İrlanda_asıllı_Amerikalılar
 1465845 Norveçli_kadın_şarkıcılar
@@ -14497,6 +14514,8 @@
 1538062 Türkiye_demiryolu_ulaşımı_şablonları
 1538244 Japonya'daki_yayınevleri
 1538245 Japonya_merkezli_medya_şirketleri
+1538461 Yapı_şablonları
+1538469 Televizyon_dış_bağlantı_şablonları
 1538470 Gemi_şablonları
 1538481 Polonya_Yahudileri
 1538483 Belarus_Yahudileri
@@ -14981,6 +15000,7 @@
 1583311 Orta_Doğu_siyasi_lider_şablonları
 1583313 Arnavutluk'un_Eurovision_Şarkı_Yarışması_yarışmacıları
 1583320 Adigeler
+1583349 Ödül_bilgi_kutusu_şablonları
 1583351 Ukrayna'nın_Eurovision_Şarkı_Yarışması_yarışmacıları
 1583361 Yugoslavya'nın_Eurovision_Şarkı_Yarışması_yarışmacıları
 1583374 Letonya'nın_Eurovision_Şarkı_Yarışması_yarışmacıları
@@ -15284,6 +15304,7 @@
 1609231 Rusya'da_seçimler
 1609232 Avusturya'da_seçimler
 1609289 Türkiye_tarafından_idam_edilmiş_kişiler
+1609490 Rus_imparatorları
 1609755 Kurguda_yamyamlık
 1609777 Neoklasik_mimari
 1609845 İkiz_sporcular
@@ -15586,6 +15607,7 @@
 1625631 Konusu_Belçika'da_geçen_filmler
 1625634 Konusu_İskoçya'da_geçen_filmler
 1625639 Konusu_Alabama'da_geçen_filmler
+1625650 Konusu_Maine'de_geçen_filmler
 1625677 Alpler'deki_dağlar
 1625681 Ünye_doğumlular
 1625684 Konusu_Montana'da_geçen_filmler
@@ -15917,6 +15939,7 @@
 1664161 DMC_sanatçıları
 1664163 Poll_Production_sanatçıları
 1664164 Erol_Köse_Production_sanatçıları
+1664250 Şarap_paketleme_ve_depolama
 1664255 Gıda_koruma
 1664256 Gıda_bilimi
 1664258 Gıda_güvenliği
@@ -15926,6 +15949,7 @@
 1664786 Tire'nin_mahalleleri
 1664918 Çevrimiçi_şirketler
 1665054 Toplumda_teknoloji
+1665055 Politika_ve_teknoloji
 1665275 Amerika_Birleşik_Devletleri'ndeki_İtalyan_göçmenler
 1665338 Haldun_Taner_Öykü_Ödülü_sahipleri
 1665391 Miss_USA_birincileri
@@ -16115,6 +16139,7 @@
 1677687 Konusu_Rusya'da_geçen_romanlar
 1677950 Sırbistan'daki_siyasi_partiler
 1677996 Macar_mitolojisi
+1678110 Lady_Gaga'nın_yapımcısı_olduğu_şarkılar
 1678144 Thüringen'deki_kasabalar
 1678382 Massachusetts'teki_kasabalar
 1678406 Mühendishane-i_Berrî-i_Hümâyûn'da_öğrenim_görenler
@@ -17314,6 +17339,7 @@
 1747475 Tuva'da_kültür
 1747527 Çocuk_felci_olan_kişiler
 1747564 Orta_Çağ'da_Araplar
+1747569 Orta_Çağ'da_Irak
 1747587 Sovyet_gazeteciler
 1747679 2005'te_sona_eren_Amerika_Birleşik_Devletleri_televizyon_dizileri
 1747687 2011'de_sona_eren_Türk_televizyon_dizileri
@@ -17634,6 +17660,7 @@
 1770061 Özgür_web_tarayıcıları
 1770069 Aalborg_BK_futbolcuları
 1770073 Vejle_BK_futbolcuları
+1770074 Viborg_FF_futbolcuları
 1770112 Michigan_taslakları
 1770118 Wyoming_taslakları
 1770121 Wisconsin_taslakları
@@ -17795,6 +17822,7 @@
 1780715 Japonya'nın_ulusal_hazineleri
 1780766 Vikipedi_günün_seçkin_resmi_Kasım_2014
 1781015 Yunanistan'daki_Sırp_gurbetçiler
+1781107 10._yüzyılda_İranlılar
 1781114 Orta_Çağ'da_çocuk_hükümdarlar
 1781167 21._yüzyıl_Amerikalı_yazarları
 1781168 20._yüzyıl_Amerikalı_yazarları
@@ -18413,6 +18441,7 @@
 1915422 İstanbul'daki_Ermeni_okulları
 1915730 Türkiye'deki_Rum_Ortodoks_kiliseleri
 1915800 Japon_kadın_modeller
+1915851 Yassı_ekmek
 1916039 Ummanlı_futbolcular
 1916115 Amerikalı_siyaset_felsefecileri
 1916146 Kosta_Rika_millî_futbol_takımı_teknik_direktörleri
@@ -18423,6 +18452,7 @@
 1916277 Es-Saheli_futbolcuları
 1916288 US_Arezzo_futbolcuları
 1916300 Cosenza_Calcio_futbolcuları
+1916307 MZKS_Arka_Gdynia_futbolcuları
 1916316 FK_Arsenal_Kyiv_futbolcuları
 1916330 CS_Sfaxien_futbolcuları
 1916337 NK_Zadar_futbolcuları
@@ -18620,6 +18650,7 @@
 1933451 Ziynet_Sali_şarkıları
 1933468 Rus_kadın_oyuncular
 1933521 Bethesda_Softworks_oyunları
+1933522 Kuş_bakışı_video_oyunları
 1933553 Çek_kadın_şarkıcılar
 1933787 FC_Barcelona_futbolcuları
 1933791 FC_Barcelona_B_futbolcuları
@@ -19078,6 +19109,7 @@
 2010645 Altaylar
 2010724 Japon_erkek_sinema_oyuncuları
 2010729 Japon_kadın_dizi_oyuncuları
+2010730 Japon_kadın_oyuncular
 2010733 Japon_kadın_sinema_oyuncuları
 2010746 İspanyol_asıllı_Uruguaylılar
 2010893 ARM_işletim_sistemleri
@@ -19352,6 +19384,7 @@
 2031607 İrlandalı_erkek_sinema_oyuncuları
 2031633 İsrailli_Yahudiler
 2031822 YG_Entertainment_sanatçıları
+2031839 FC_Rapid_București_teknik_direktörleri
 2031844 FC_Universitatea_Craiova_futbolcuları
 2031901 Japon_kadın_şarkıcılar
 2031911 Amerikalı_kadın_rock_şarkıcıları
@@ -20024,6 +20057,7 @@
 2071707 Rus_Müslümanlar
 2073171 Amerika_Birleşik_Devletleri_aksiyon_gerilim_filmleri
 2073322 Vikiproje_10K_Orta-önemli_B-sınıf_sayfalar
+2073527 Danimarka_coğrafyası_taslakları
 2073784 Bizans_sivil_mimarisi
 2073858 Aşağı_Avusturya_doğumlular
 2073875 Amerika_Birleşik_Devletleri_erotik_komedi_filmleri
@@ -20240,6 +20274,7 @@
 2080799 Midtown_Manhattan
 2080889 2016'da_kurulan_müzik_grupları
 2080951 2016_romanları
+2080993 Kalabalık_psikolojisi
 2081088 20._yüzyıl_gazetecileri
 2081203 Televisa_telenovelaları
 2081455 En_İyi_Erkek_Drama_Filmi_Oyuncusu_Altın_Küre_Ödülü_sahipleri
@@ -20879,7 +20914,6 @@
 2125522 Muhafazakâr_Parti_(Birleşik_Krallık)_kişileri
 2125643 2016_Yaz_Olimpiyatları'nda_atıcılık
 2125745 Norveçli_erkek_hentbolcular
-2125755 Almanya'daki_gurbetçi_hentbolcular
 2125757 İsveçli_erkek_hentbolcular
 2125821 Fransız_Olimpiyat_hentbolcuları
 2125822 Fransız_erkek_hentbolcular
@@ -21031,6 +21065,7 @@
 2133616 2015'te_sona_eren_Güney_Kore_televizyon_dizileri
 2133787 Soğuk_Savaş'ta_Sovyetler_Birliği
 2133791 Ed_Sheeran_şarkıları
+2133956 Türkiye'nin_Ege_Denizi'ndeki_adaları
 2134149 ENKA_SK_atletleri
 2134152 2016_Yaz_Olimpiyatları_atletleri
 2134250 2016'da_başlayan_Amerika_Birleşik_Devletleri_televizyon_dizileri
@@ -21628,6 +21663,7 @@
 2166774 SC_Sagamihara_futbolcuları
 2166981 İstanbul_ili_doğumlu_bilim_insanları
 2167080 Kamatamare_Sanuki_futbolcuları
+2167128 Pişirme_yöntemleri
 2167144 Tochigi_SC_futbolcuları
 2167148 Montedio_Yamagata_futbolcuları
 2167154 V-Varen_Nagasaki_futbolcuları
@@ -21702,6 +21738,7 @@
 2169062 Bursa_ili_doğumlu_futbolcular
 2169091 Billboard_200'de_bir_numara_olan_albümler
 2169258 Umman'daki_gurbetçi_futbolcular
+2169282 1460'larda_çatışmalar
 2169286 Serie_B_teknik_direktörleri
 2169476 Bulut_uygulamaları
 2169618 Bursa_doğumlu_oyuncular
@@ -21929,6 +21966,7 @@
 2181418 20._yüzyıl_biyografi_yazarları
 2181457 Borussia_Mönchengladbach_II_futbolcuları
 2181514 Premier_Development_League_futbolcuları
+2181728 Silbernes_Lorbeerblatt_sahipleri
 2181749 Dostluk_Nişanı_sahipleri
 2181756 Avrupa_ülke_ve_bölgeleri_konu_şablonları
 2181797 Georgia_doğumlu_basketbolcular
@@ -21990,6 +22028,7 @@
 2186121 Ceará_SC_futbolcuları
 2186125 Criciúma_EC_futbolcuları
 2186139 Kanadalı_şarkıcı-şarkı_yazarları
+2186140 İkinci_Çin-Japon_Savaşı'nda_muharebeler
 2186329 Generalissimolar
 2186427 Microsoft_Surface
 2186510 Bölgesel_kalkınma_ve_yerel_yönetim_bakanları
@@ -22027,6 +22066,7 @@
 2189723 Halterde_doping_vakaları
 2189762 2017_yılında_ölenler
 2189767 20._yüzyıl_Avusturyalı_ressamları
+2189968 Vikiproje_Sinema_Çok-önemli_Liste-sınıf_sayfalar
 2190076 Helsinki_Borsası'ndaki_şirketler
 2190133 Vikiproje_Azerbaycan_Az-önemli_Liste-sınıf_sayfalar
 2190162 Yapımcısı_The_Neptunes_olan_albümler
@@ -22767,7 +22807,7 @@
 2243461 Fuji_Television_programları
 2243539 Japon_kadın_seslendirme_sanatçıları
 2243643 Fransa_Beşinci_Cumhuriyet_15._dönem_milletvekilleri
-2243738 City_College_of_New_York'ta_öğrenim_görenler
+2243738 New_York_Şehir_Kolejinde_öğrenim_görenler
 2243752 Japon_fantezi_romanları
 2243766 2017_FIFA_Konfederasyonlar_Kupası_futbolcuları
 2243853 Amerikalı_akustik_gitaristler
@@ -23040,6 +23080,7 @@
 2249040 Vikiproje_Fransa_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
 2249060 Vikiproje_Hayvanlar_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
 2249063 Vikiproje_Hristiyanlık_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
+2249064 Vikiproje_Hristiyanlık_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 2249067 Vikiproje_Hukuk_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
 2249069 Vikiproje_Hukuk_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
 2249076 Vikiproje_Kimya_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
@@ -23134,6 +23175,7 @@
 2256611 Profesyonel_güreş_şampiyonu_listeleri
 2256935 Uluslararası_Yaşar_Doğu_Güreş_Turnuvası
 2256942 Türk_buz_hokeyi_oyuncuları
+2256947 Türk_erkek_kayaklı_koşucular
 2257214 Afrika_Oyunları_madalyalı_atletler
 2257503 2002-03_sezonunda_Türkiye'de_futbol
 2257528 İşçi_Partisi_(Norveç)_üyeleri
@@ -23525,6 +23567,7 @@
 2275590 Roma_Katolik_piskoposlar
 2275604 Baş_karakterlerinin_cinsiyeti_seçilebilen_oyunlar
 2275783 İngiltere_yerleşim_yerleri_taslakları
+2275785 Türk_Olimpiyat_kayaklı_koşucuları
 2275848 1981'de_tanımlanan_taksonlar
 2275850 1983'te_tanımlanan_taksonlar
 2275854 1985'te_tanımlanan_taksonlar
@@ -23788,7 +23831,7 @@
 2299727 Ekran_Oyuncuları_Derneği_Ödülü_sahipleri
 2299739 Yıllarına_göre_Adana_Altın_Koza_Film_Festivali
 2299760 Yıllara_göre_Ankara_Uluslararası_Film_Festivali
-2299812 Yıllara_göre_Uluslararası_İstanbul_Film_Festivali
+2299812 Yıllara_göre_İstanbul_Film_Festivali
 2299835 Roma_İmparatorluğu_konsülleri
 2299874 2010'da_Türkiye'de_kurulan_oluşumlar
 2299875 2017'de_Türkiye'de_kurulan_oluşumlar
@@ -23939,7 +23982,9 @@
 2309290 2000_mangaları
 2309309 2018_Eurovision_şarkıları
 2309364 Vikipedi_günün_seçkin_resmi_Şubat_2018
+2309623 21._yüzyıl_Bahaileri
 2309757 Belgrad_doğumlu_futbolcular
+2309784 Ünlü_uzay_gemileri
 2309833 Zire_FK_futbolcuları
 2309874 2018_albümleri
 2309875 1843'te_tanımlanan_taksonlar
@@ -23952,7 +23997,7 @@
 2310376 Azez_İlçesi'ndeki_yerleşim_birimleri
 2310382 Halep'teki_kasabalar
 2310388 Halep'teki_köyler
-2310493 Uluslararası_İstanbul_Film_Festivali_ödülleri
+2310493 İstanbul_Film_Festivali_ödülleri
 2310768 2018_video_oyunları
 2310977 Guatemalalı_kadın_modeller
 2310980 Şilili_kadın_modeller
@@ -23991,6 +24036,7 @@
 2314401 Vikipedi_günün_seçkin_resmi_Mart_2018
 2314408 2018_single'ları
 2314733 İsviçre'de_liste_başı_olmuş_şarkılar
+2314766 1991'de_Türkiye'de_kurulan_oluşumlar
 2314916 Vikipedi_günün_seçkin_resmi_Nisan_2018
 2314917 Guatemalalı_güzellik_yarışması_birincileri
 2314918 El_Salvadorlu_güzellik_yarışması_birincileri
@@ -24156,7 +24202,9 @@
 2324829 SA_subayları
 2325070 2008_mangaları
 2325291 Lazika
+2325333 Abbâsîler'de_kişiler
 2325352 2001_mangaları
+2325375 WWE_şampiyonları
 2325483 2016_mangaları
 2325485 1999_mangaları
 2325500 Türkiye'deki_tarihî_ev_müzeleri
@@ -24277,6 +24325,7 @@
 2333592 Gümüş_Asya_Oyunları_madalyalı_Çinli_sporcular
 2333603 1992'de_Türkiye'de_kurulan_oluşumlar
 2333676 Harvard_Business_School'da_öğrenim_görenler
+2333705 Tüketicilik_karşıtı_aktivistler
 2333710 Teknoloji_felsefecileri
 2333716 20._yüzyıl_Fransız_tarihçileri
 2333815 2018_FIFA_Dünya_Kupası_teknik_direktörleri
@@ -24284,6 +24333,7 @@
 2334217 Türk_kadın_hakları_aktivistleri
 2334385 Roma'daki_Antik_Roma_yapıları
 2334438 Birleşik_Krallık'ta_yayımlanan_aylık_dergiler
+2334442 1972'de_Türkiye'de_kurulan_oluşumlar
 2334460 1872'de_tamamlanan_ulaşım_altyapısı
 2334473 1873'te_tamamlanan_ulaşım_altyapısı
 2334605 Türk_Avrupa_Oyunları_güreşçileri
@@ -24424,6 +24474,7 @@
 2345624 20._yüzyıl_klasik_piyanistleri
 2345770 Afrikalı_Amerikalı_kadın_rapçiler
 2345847 Afrikalı_Amerikalı_caz_bestecileri
+2345848 Afrikalı_Amerikalı_caz_müzisyenleri
 2345990 Osmanlı_tahkimatları
 2346317 Vikipedi_günün_seçkin_resmi_Ağustos_2018
 2346394 İyeler
@@ -24453,7 +24504,6 @@
 2347930 2018_Avrupa_Atletizm_Şampiyonası_müsabakaları
 2347944 Türkiye'deki_tabiat_parkları
 2347972 1972'de_tamamlanan_ulaşım_altyapısı
-2348330 Sovyet_dizi_oyuncuları
 2348351 Amerika_Birleşik_Devletleri'nde_zatürreden_ölenler
 2348508 Amerikalı_yarışma_sunucuları
 2348523 Amerika_Birleşik_Devletleri'nde_AIDS'e_bağlı_hastalıklardan_ölenler
@@ -24548,6 +24598,7 @@
 2357290 Genelleşen_markalar
 2357472 II._Dünya_Savaşı'nda_Alman_as_pilotlar
 2357500 Premier_League_puan_durumu_şablonları
+2357606 3._yüzyılda_Hristiyan_şehitler
 2357607 3._yüzyıl_Hristiyan_aziz_ve_azizeleri
 2357610 3._yüzyıl_papaları
 2357680 Özel_sermaye_portföyü_şirketleri
@@ -24595,6 +24646,7 @@
 2360364 İtalya'daki_Polonyalı_gurbetçi_voleybolcular
 2360376 İtalya'daki_Polonyalı_gurbetçi_sporcular
 2360400 Almanya'daki_Polonyalı_gurbetçi_sporcular
+2360481 Şekerli_ekmekler
 2360484 2018_televizyon_bölümleri
 2360697 Vikiproje_Sovyetler_Birliği_Orta-önemli_Anlam_ayrımı-sınıf_sayfalar
 2360947 Trefl_Sopot_voleybolcuları
@@ -24701,6 +24753,7 @@
 2370563 Tek_motorlu_jetler
 2370578 2019_Eurovision_Şarkı_Yarışması_yarışmacıları
 2370593 Sony_Music_Latin_sanatçıları
+2370692 Black_Mirror_bölümleri
 2370715 2014'te_Avrupa'da_futbol
 2370719 2013'te_Avrupa'da_futbol
 2370722 2012'de_Avrupa'da_futbol
@@ -24785,6 +24838,7 @@
 2376631 Sony_Müzik_sanatçıları
 2376733 Laz_yazarlar
 2377092 Michigan'daki_charter_townshipler
+2377153 1993'te_oluşturulan_ödüller
 2377265 20._yüzyıl_Alman_bestecileri
 2377268 21._yüzyıl_Alman_bestecileri
 2377404 19._yüzyıl_Türk_ressamları
@@ -24816,6 +24870,7 @@
 2379268 20._yüzyıl_Türk_matematikçileri
 2379281 20._yüzyıl_Türk_mimarları
 2379282 21._yüzyıl_Türk_mimarları
+2379308 Trabzon_ili_doğumlu_gazeteciler
 2379333 2019'da_başlayan_Türk_televizyon_dizileri
 2379336 2019'da_Türkiye'de_kurulan_oluşumlar
 2379449 Holokost'tan_kurtulanlar
@@ -24984,6 +25039,7 @@
 2392071 Vikiproje_Çizgi_film_En-önemli_Taslak-sınıf_sayfalar
 2392098 Amerikan_mutfağındaki_tatlılar
 2392099 Amerikan_mutfağındaki_aperitifler
+2392112 Yassı_ekmek_yemekleri
 2392196 Türk_mutfağındaki_şekerlemeler
 2392235 Mars_şekerleme_markaları
 2392320 Britanya_mutfağındaki_şekerlemeler
@@ -25055,6 +25111,7 @@
 2401619 Kaliforniya_doğumlu_film_yönetmenleri
 2401658 Vikipedi_günün_seçkin_resmi_Mayıs_2019
 2401835 Nazi_Almanyası_döneminde_Alman_icatları
+2402107 Satranç_uluslararası_ustaları
 2402282 Sağlıkla_ilgili_farkındalık_günleri
 2402837 20._yüzyıl_Hristiyan_aziz_ve_azizeleri
 2403118 Sağcı_popülist_partiler
@@ -25345,6 +25402,7 @@
 2458398 2019'da_başlayan_Güney_Kore_televizyon_dizileri
 2458474 Gümüş_Asya_Oyunları_madalyalı_Japon_sporcular
 2458504 2010'larda_genç_yetişkin_filmleri
+2458530 Vikiproje_Amerikan_sineması_En-önemli_Başlangıç-sınıf_sayfalar
 2458549 Vikiproje_Amerikan_sineması_Az-önemli_Başlangıç-sınıf_sayfalar
 2458557 Vikiproje_Amerikan_sineması_Az-önemli_Taslak-sınıf_sayfalar
 2458559 Vikiproje_Amerikan_sineması_Az-önemli_C-sınıf_sayfalar
@@ -25402,6 +25460,7 @@
 2463892 1950'ler_otomobilleri
 2463984 2019_Dünya_Güreş_Şampiyonası
 2464193 Ankara_florası
+2464246 Video_oyunu_bossları
 2464258 Mario_oyunları
 2464297 Atletizm_taslak_şablonları
 2464360 Türkiye'deki_bronz_heykeller
@@ -25442,6 +25501,7 @@
 2467894 Arkadaşlık_ile_ilgili_filmler
 2467895 Romanlardan_uyarlanan_animasyon_filmler
 2467902 Avcılık_ile_ilgili_filmler
+2468008 1947'de_geçen_filmler
 2468010 Birleşik_Krallık_polisiye_dram_filmleri
 2468051 2000'lerde_soygun_filmleri
 2468053 Amerika_Birleşik_Devletleri_aksiyon_macera_filmleri
@@ -25470,6 +25530,7 @@
 2469328 Beta_Ethniki_futbolcuları
 2469426 Yaban_hayatı_koruma
 2469504 Asya_Oyunları_madalyalı_futbolcular
+2469620 Fransa'da_düzenlenen_uluslararası_futbol_müsabakaları
 2469657 Vikiveri'den_veri_çeken_şablonlar
 2469659 Vikiveri'yi_izleyen_şablonlar
 2469719 Azeri_erkek_güreşçiler
@@ -25900,6 +25961,7 @@
 2551523 Konusu_hayali_adalarda_geçen_video_oyunları
 2551700 COVID-19_pandemisi
 2552092 Kadın_forvet_futbolcular
+2552422 Vasa_Hanedanı
 2552436 Türkiye'deki_konaklar
 2553024 Amerikalı_orgcular
 2553331 Askeri_tarih_uzmanı_Vikipedistler
@@ -25907,6 +25969,7 @@
 2553936 Vikiproje_Amerika_Birleşik_Devletleri_Az-önemli_Liste-sınıf_sayfalar
 2554010 Vikiproje_Özgür_yazılım_Az-önemli_C-sınıf_sayfalar
 2554122 İstanbul_Şehir_Tiyatroları_genel_sanat_yönetmenleri
+2554274 Amerika_Birleşik_Devletleri_erotik_dram_filmleri
 2554351 ALG_SK_futbolcuları
 2554352 Ataşehir_Belediyespor_futbolcuları
 2554356 Kireçburnu_SK_futbolcuları
@@ -26405,11 +26468,13 @@
 2711958 Arap_kabileleri
 2712028 Kadın_millî_ragbi_birliği_takımları
 2712644 Kadın_millî_yedili_ragbi_takımları
+2713096 Konusu_Philadelphia'da_geçen_filmler
 2713639 Dünya_Sağlık_Örgütü_temel_ilaçları
 2713849 Vikiproje_Türk_sineması_bilinmeyen-önemli_Taslak-sınıf_sayfalar
 2714149 1990'larda_Fransızca_filmler
 2714151 1995_çıkışlı_komedi_filmleri
 2714167 2018_çıkışlı_dramatik_filmler
+2714293 İzometrik_grafiğe_sahip_video_oyunları
 2715137 Gurieli_hanedanı
 2715492 Yüksek_Hızlı_Tren
 2716719 Kocaeli_ili_doğumlu_siyasetçiler
@@ -26752,7 +26817,7 @@
 2778150 Vikiproje_Polonya_Az-önemli_B-sınıf_sayfalar
 2778826 Vikiproje_İsveç_Orta-önemli_C-sınıf_sayfalar
 2778999 2021_anime_serileri
-2779031 Elenor_Müzik_sanatçıları
+2779031 Elenor_Plak_sanatçıları
 2779413 Vikipedi_günün_seçkin_resmi_Eylül_2020
 2779450 Rus_soylu_taslakları
 2780365 Vikiproje_İsveç_Orta-önemli_Başlangıç-sınıf_sayfalar
@@ -26803,6 +26868,7 @@
 2783666 Vikiproje_Biyografi_Çok-önemli_B-sınıf_sayfalar
 2783667 Vikiproje_Biyografi_Orta-önemli_B-sınıf_sayfalar
 2783675 Vikiproje_Biyografi_En-önemli_B-sınıf_sayfalar
+2785538 Japon_mutfağındaki_pirinç_yemekleri
 2785564 Vikiproje_Mutfak_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
 2786209 2017_çıkışlı_dramatik_filmler
 2786230 Vikiproje_Polonya_Orta-önemli_B-sınıf_sayfalar
@@ -27125,6 +27191,7 @@
 2839002 Hakusensha_mangaları
 2839031 Liden_Films
 2839051 2013_çıkışlı_dramatik_filmler
+2839063 Üst_sınıf_ile_ilgili_filmler
 2839115 Vikipedi_günün_seçkin_resmi_Kasım_2020
 2839884 Vikipedi_günün_seçkin_resmi_Aralık_2020
 2840185 2019'da_tanıtılan_otomobiller
@@ -27292,6 +27359,7 @@
 2870948 Artvin_florası
 2870949 Trabzon_florası
 2871026 Vikiproje_Yazılım_Az-önemli_Liste-sınıf_sayfalar
+2871058 Mercedes_pilotları
 2873953 Birinci_Bulgar_İmparatorluğu'nun_muharebeleri
 2874752 Vikiproje_Mısır_Orta-önemli_B-sınıf_sayfalar
 2874754 Vikiproje_Mısır_Az-önemli_B-sınıf_sayfalar
@@ -27681,7 +27749,7 @@
 2956737 2020'lerde_Türk_dramatik_televizyon_dizileri
 2957050 Grammy_Efsane_Ödülü_sahipleri
 2958124 Osmanlı_mutfağındaki_helvalar
-2958382 İzmir'deki_hanlar
+2958382 İzmir_ilindeki_hanlar
 2958409 Amerika_Birleşik_Devletleri_beyzbol_filmleri
 2958885 Osmanlı_mutfağındaki_tatlılar
 2960118 Paralel_evrenlerle_ilgili_filmler
@@ -27835,6 +27903,7 @@
 2996171 Rimini_ili_belediyeleri
 2996804 2010'larda_doğaüstü_korku_filmleri
 2996893 Vikiproje_Yaşam_Ağacı_Az-önemli_SM-sınıf_sayfalar
+2996911 Vikiproje_Yaşam_Ağacı_Çok-önemli_C-sınıf_sayfalar
 2996912 Vikiproje_Yaşam_Ağacı_Orta-önemli_C-sınıf_sayfalar
 2996913 Vikiproje_Yaşam_Ağacı_Az-önemli_C-sınıf_sayfalar
 2996919 Vikiproje_Yaşam_Ağacı_Az-önemli_Başlangıç-sınıf_sayfalar
@@ -27991,6 +28060,7 @@
 3051444 21._yüzyıl_erkek_yazarlar
 3051843 Eosen_devri_balinaları
 3052962 Yemek_dolaşım_şablonları
+3053116 Vikiproje_Bitkiler_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3053160 Vikiproje_Böcekler_Orta-önemli_C-sınıf_sayfalar
 3053165 Vikiproje_Böcekler_Orta-önemli_Başlangıç-sınıf_sayfalar
 3053166 Vikiproje_Böcekler_Az-önemli_Başlangıç-sınıf_sayfalar
@@ -28006,6 +28076,7 @@
 3053587 Vikiproje_Amerika_Birleşik_Devletleri_bilinmeyen-önemli_Taslak-sınıf_sayfalar
 3053606 Vikiproje_Amerika_Birleşik_Devletleri_bilinmeyen-önemli_Şablon-sınıf_sayfalar
 3053682 Vikiproje_Siyaset_bilinmeyen-önemli_Anlam_ayrımı-sınıf_sayfalar
+3053980 Vikiproje_Arkeoloji_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3054072 Vikiproje_Astronomi_bilinmeyen-önemli_Taslak-sınıf_sayfalar
 3054108 Vikiproje_Astronomi_bilinmeyen-önemli_Kategori-sınıf_sayfalar
 3054150 2010'larda_ilk_yönetmenlik_denemesi_filmler
@@ -28260,6 +28331,7 @@
 3113335 Vikiproje_Takvim_En-önemli_Kategori-sınıf_sayfalar
 3113339 Vikiproje_Takvim_bilinmeyen-önemli_Kategori-sınıf_sayfalar
 3113355 Vikiproje_Takvim_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
+3113395 Vikiproje_Kore_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3113529 Vikiproje_Mutfak_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
 3113531 Vikiproje_Mutfak_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3113598 Vikiproje_Moda_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
@@ -28276,6 +28348,8 @@
 3114394 Vikiproje_Ulaşım_bilinmeyen-önemli_değerlendirilmemiş-sınıf_sayfalar
 3114567 Vikiproje_Ukrayna_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3114756 Vikiproje_Filistin_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
+3114757 Vikiproje_Filistin_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
+3114861 Vikiproje_Hırvatistan_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3114936 Vikiproje_Çevre_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
 3114937 Vikiproje_Çevre_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3115001 Vikiproje_Formula_1_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
@@ -28319,6 +28393,7 @@
 3134523 İskoç-İrlanda_asıllı_Amerikalılar
 3134583 Vikipedi:علي_أبو_عمر_kullanıcısının_kuklaları
 3139172 Rus_erkek_tiyatro_oyuncuları
+3139174 Sovyet_erkek_dizi_oyuncuları
 3139862 Wiltshire'daki_köyler
 3139865 Merseyside'daki_civil_parishler
 3139906 Aichi_(prefektörlük)_doğumlu_futbolcular
@@ -29277,6 +29352,7 @@
 3358430 Vikiproje_Vatikan_Orta-önemli_Taslak-sınıf_sayfalar
 3358541 Türkiye'de_yapılması_önerilen_metro_istasyonları
 3358599 Devlet_ideolojileri
+3359425 Gazi_Üniversitesi_İletişim_Fakültesinde_öğrenim_görenler
 3359948 Hizmetli_duyuru_panosu_arşivleri
 3360503 Vikiproje_Satranç_Az-önemli_C-sınıf_sayfalar
 3360505 Vikiproje_Satranç_Az-önemli_Başlangıç-sınıf_sayfalar
@@ -29715,6 +29791,7 @@
 3499920 Vikiproje_Vietnam_Çok-önemli_Taslak-sınıf_sayfalar
 3499925 Vikiproje_Vietnam_En-önemli_Taslak-sınıf_sayfalar
 3500065 2024'te_voleybol
+3500598 2024'te_Türkiye'de_spor
 3500599 2024'te_Türkiye
 3500697 Hollanda_Aslanı_Nişanı_sahipleri
 3500720 Hollanda_Aslanı_Nişanı_komutanları
@@ -29734,7 +29811,9 @@
 3502499 Vikiproje_Biyoloji_Az-önemli_Taslak-sınıf_sayfalar
 3502551 Vikiproje_Biyoloji_bilinmeyen-önemli_Şablon-sınıf_sayfalar
 3502576 Vikiproje_Biyoloji_bilinmeyen-önemli_Kategori-sınıf_sayfalar
+3502599 Vikiproje_Biyoloji_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3502696 Avustralya_kadın_millî_futbol_takımı_şablonları
+3504733 OpenAI
 3504924 American_Conference_Pro_Bowl_oyuncuları
 3505243 2023_Kahramanmaraş_depremlerinde_hasar_gören_yapılar
 3505363 Asya'daki_millî_buz_hokeyi_takımları
@@ -29833,6 +29912,7 @@
 3517261 Vikibahar_2023
 3517470 Macaristan_ilçe_şablonları
 3517737 1970'lerde_Farsça_filmler
+3517748 Vikiproje_Libya_bilinmeyen-önemli_Kategori-sınıf_sayfalar
 3517898 Amerikan_Fizik_Topluluğu_başkanları
 3517908 Massachusetts_Teknoloji_Enstitüsü_başkanları
 3519181 Orta_Doğu_ülke_ve_bölge_konuları_şablonları
@@ -30028,6 +30108,7 @@
 3570945 Vikiproje_BBC_Orta-önemli_Taslak-sınıf_sayfalar
 3570991 Vikiproje_BBC_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3571530 Kuzey_Lefkoşa'nın_mahalleleri
+3571685 Yeşilçam_oyuncuları
 3571687 En_İyi_Özgün_Senaryo_Writers_Guild_of_America_Ödülü_sahipleri
 3571716 2020'lerde_Türkçe_televizyon_dizileri
 3571738 2010'larda_Türkçe_televizyon_dizileri
@@ -30094,6 +30175,8 @@
 3580975 En_İyi_Yeni_Sanatçı_Grammy_Ödülü_sahipleri
 3581199 En_İyi_Komedi_Albümü_Grammy_Ödülü_sahipleri
 3581216 En_İyi_Erkek_Pop_Vokal_Performansı_Grammy_Ödülü_sahipleri
+3581449 Avusturya_19_yaş_altı_millî_futbol_takımı_futbolcuları
+3581450 Avusturya_18_yaş_altı_millî_futbol_takımı_futbolcuları
 3581802 Almanya'nın_askerî_rütbeleri
 3581819 Diplomasi_türleri
 3581826 En_İyi_Rap_Albümü_Grammy_Ödülü_sahipleri
@@ -30318,12 +30401,10 @@
 3618246 MTV_Video_Müzik_Ödülleri_Yılın_Video_Klibi
 3618248 MTV_Video_Müzik_Ödüllü_şarkılar
 3618294 Britanyalı_atlet_taslakları
-3619151 MTV_Video_Müzik_Ödülleri_Sosyal_Mesaj_İçerikli_En_İyi_Video_Klip_sahipleri
 3619605 Favori_Kadın_Pop/Rock_Sanatçısı_Amerikan_Müzik_Ödülü_sahipleri
 3619715 Latin_harfli_alfabeler
 3620154 En_İyi_Müzikal_veya_Komedi_Dizisi_Kadın_Oyuncusu_Satellite_Ödülü_sahipleri
 3620934 Echiniscidae
-3621174 En_İyi_Erkek_Sanatçı_MTV_Avrupa_Müzik_Ödülü_sahipleri
 3622106 Vikiproje_Birleşik_Arap_Emirlikleri_Az-önemli_C-sınıf_sayfalar
 3622109 Vikiproje_Birleşik_Arap_Emirlikleri_Az-önemli_Başlangıç-sınıf_sayfalar
 3622111 Vikiproje_Birleşik_Arap_Emirlikleri_Az-önemli_Taslak-sınıf_sayfalar
@@ -30590,6 +30671,7 @@
 3769939 Vikiproje_Zaman_Orta-önemli_Başlangıç-sınıf_sayfalar
 3770074 2009-10_sezonunda_Türkiye'de_futbol
 3770520 David_O._Selznick_Sinema_Dalında_Başarı_Ödülü_sahipleri
+3770983 Vikiproje_Uluslararası_ilişkiler_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
 3770984 Vikiproje_Uluslararası_ilişkiler_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 3771164 Polyplacidae
 3771297 Trachelipodidae
@@ -30785,6 +30867,7 @@
 4090899 Vikiproje_Endonezya_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 4090990 Fransız_erkek_senaristler
 4091878 Vikiproje_Slovenya_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
+4091973 Vikiproje_Nehirler_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 4092457 Vikiproje_Orta_Çağ_Çok-önemli_değerlendirilmemiş-sınıf_sayfalar
 4092466 Vikiproje_Orta_Çağ_Az-önemli_değerlendirilmemiş-sınıf_sayfalar
 4093180 Günün_kaliteli_maddesi_Mayıs_2024
@@ -30989,6 +31072,7 @@
 4214179 Vikiproje_Lübnan_Orta-önemli_değerlendirilmemiş-sınıf_sayfalar
 4214180 Vikiproje_Lübnan_Orta-önemli_C-sınıf_sayfalar
 4214199 Vikiproje_Lübnan_Çok-önemli_Başlangıç-sınıf_sayfalar
+4214409 Nişanlar_ve_madalya_şablonları
 4214410 Askerî_dekorasyon_ve_madalya_şablonları
 4214932 İran'ın_Somut_Olmayan_Kültürel_Mirasları
 4215481 Leton_erkek_futbolcular
@@ -31077,5 +31161,10 @@
 4232458 Zambiyalı_erkek_futbolcular
 4232721 Suriye'de_parlamento_seçimleri
 4232833 Şövalyelik_ödülüne_layık_görülen_futbol_kişileri
+4233102 Vikipedi_günün_seçkin_resmi_Eylül_2024
+4233104 Günün_kaliteli_maddesi_Eylül_2024
 4233237 Çevrimiçi_çok_oyunculu_savaş_arenası_oyunları
 4233693 Franklin_Madalyası_sahipleri
+4236292 Klasik_Mac_OS_oyunları
+4238549 Yıllarına_göre_Cannes_Film_Festivali
+4239236 Nickelodeon_kişileri

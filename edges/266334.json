@@ -1,1 +1,1 @@
-{"name": "Tiyatro_tarihi", "id": 266334, "predecessors": [{"name": "Kültür_tarihi", "id": 378903}, {"name": "Sanat_tarihi", "id": 10390}, {"name": "Tiyatro_terimleri", "id": 143448}], "successors": [{"name": "Antik_Yunan_tiyatrosu", "id": 904638}]}
+{"name": "Tiyatro_tarihi", "id": 266334, "predecessors": [{"name": "Sanat_tarihi", "id": 10390}, {"name": "Tiyatro_terimleri", "id": 143448}, {"name": "Antropoloji", "id": 12118}], "successors": []}

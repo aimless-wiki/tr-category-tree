@@ -1,1 +1,1 @@
-{"name": "BAFTA_En_İyi_Özgün_Müzik_Ödülü_sahipleri", "id": 3320673, "predecessors": [{"name": "BAFTA_Ödülü_sahipleri", "id": 1430386}], "successors": [{"name": "BAFTA_En_İyi_Özgün_Müzik_Ödülü_sahibi_şarkı_yazarları", "id": 3329576}]}
+{"name": "BAFTA_En_İyi_Özgün_Müzik_Ödülü_sahipleri", "id": 3320673, "predecessors": [{"name": "BAFTA_Ödülü_sahipleri", "id": 1430386}], "successors": [{"name": "Lady_Gaga", "id": 1115101}, {"name": "BAFTA_En_İyi_Özgün_Müzik_Ödülü_sahibi_şarkı_yazarları", "id": 3329576}]}
