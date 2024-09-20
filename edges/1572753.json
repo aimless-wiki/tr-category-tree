@@ -1,1 +1,1 @@
-{"name": "Kuru_yiyecekler", "id": 1572753, "predecessors": [{"name": "Gıda_koruma", "id": 1664255}, {"name": "Beslenme", "id": 25373}], "successors": [{"name": "Kuru_yemişler", "id": 88726}]}
+{"name": "Kuru_yiyecekler", "id": 1572753, "predecessors": [{"name": "Gıda_koruma", "id": 1664255}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Kuru_yemişler", "id": 88726}]}

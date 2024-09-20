@@ -1,1 +1,1 @@
-{"name": "Boeing_uçakları", "id": 920734, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_uçakları", "id": 768345}], "successors": [{"name": "Boeing_737_içeren_kazalar_ve_olaylar", "id": 3012188}]}
+{"name": "Boeing_uçakları", "id": 920734, "predecessors": [{"name": "Amerika_Birleşik_Devletleri_uçakları", "id": 768345}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "Boeing_737_içeren_kazalar_ve_olaylar", "id": 3012188}]}

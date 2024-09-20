@@ -1,1 +1,1 @@
-{"name": "Kireç_taşı", "id": 598476, "predecessors": [{"name": "Kalsiyum_bileşikleri", "id": 427764}, {"name": "Tortul_kayaçlar", "id": 598480}, {"name": "Kayaçlar", "id": 864195}], "successors": []}
+{"name": "Kireç_taşı", "id": 598476, "predecessors": [{"name": "Tortul_kayaçlar", "id": 598480}, {"name": "Kayaçlar", "id": 864195}], "successors": [{"name": "Kireç_taşı_mağaraları", "id": 1619357}]}

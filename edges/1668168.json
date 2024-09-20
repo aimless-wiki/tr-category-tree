@@ -1,1 +1,1 @@
-{"name": "Astrofizik", "id": 1668168, "predecessors": [{"name": "Yıldız_gökbilimi", "id": 810477}, {"name": "Akademi", "id": 583263}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Plazma_fiziği", "id": 182540}, {"name": "Kara_delikler", "id": 1445071}]}
+{"name": "Astrofizik", "id": 1668168, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Astronomi", "id": 12746}], "successors": [{"name": "Plazma_fiziği", "id": 182540}, {"name": "Yıldız_evrimi", "id": 727263}, {"name": "Kara_delikler", "id": 1445071}]}

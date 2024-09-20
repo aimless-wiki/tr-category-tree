@@ -1,1 +1,1 @@
-{"name": "Google_yazılımları", "id": 175561, "predecessors": [{"name": "Google", "id": 30948}, {"name": "Google_hizmetleri", "id": 460609}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "Android_(işletim_sistemi)", "id": 1569410}, {"name": "Google_Chrome_uzantıları", "id": 2243014}]}
+{"name": "Google_yazılımları", "id": 175561, "predecessors": [{"name": "Google", "id": 30948}, {"name": "Google_hizmetleri", "id": 460609}, {"name": "Yazılım", "id": 3493}], "successors": [{"name": "Android_(işletim_sistemi)", "id": 1569410}]}

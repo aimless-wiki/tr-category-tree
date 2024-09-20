@@ -1,1 +1,1 @@
-{"name": "Fiat_otomobilleri", "id": 1181789, "predecessors": [{"name": "Fiat_taşıtları", "id": 1191397}, {"name": "Alman_icatları", "id": 449919}], "successors": [{"name": "Alfa_Romeo_otomobilleri", "id": 1170611}, {"name": "Lancia_otomobilleri", "id": 1178824}]}
+{"name": "Fiat_otomobilleri", "id": 1181789, "predecessors": [{"name": "Alman_icatları", "id": 449919}], "successors": [{"name": "Alfa_Romeo_otomobilleri", "id": 1170611}, {"name": "Lancia_otomobilleri", "id": 1178824}]}

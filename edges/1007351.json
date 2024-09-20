@@ -1,1 +1,1 @@
-{"name": "Şarkı_yarışmaları", "id": 1007351, "predecessors": [{"name": "Medya", "id": 12429}, {"name": "Felsefe", "id": 6586}], "successors": [{"name": "Eurovision_Şarkı_Yarışması", "id": 451697}, {"name": "Türkvizyon_Şarkı_Yarışması", "id": 1691674}]}
+{"name": "Şarkı_yarışmaları", "id": 1007351, "predecessors": [{"name": "Medya", "id": 12429}], "successors": [{"name": "Eurovision_Şarkı_Yarışması", "id": 451697}, {"name": "Türkvizyon_Şarkı_Yarışması", "id": 1691674}]}

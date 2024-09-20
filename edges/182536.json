@@ -1,1 +1,1 @@
-{"name": "Fiziksel_olaylar", "id": 182536, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Dalgalar", "id": 182655}, {"name": "Optik_olaylar", "id": 747942}, {"name": "Yıldız_olayları", "id": 1540663}]}
+{"name": "Fiziksel_olaylar", "id": 182536, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Optik_olaylar", "id": 747942}]}

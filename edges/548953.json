@@ -1,1 +1,1 @@
-{"name": "Belirli_gün_ve_haftalar_taslakları", "id": 548953, "predecessors": [{"name": "Kültür_taslakları", "id": 53026}], "successors": []}
+{"name": "Belirli_gün_ve_haftalar_taslakları", "id": 548953, "predecessors": [{"name": "Kültür_taslakları", "id": 53026}, {"name": "Özel_günler", "id": 52440}, {"name": "Gelenekler", "id": 12637}], "successors": []}

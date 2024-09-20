@@ -1,1 +1,1 @@
-{"name": "Tifodan_ölenler", "id": 1683523, "predecessors": [{"name": "Tifo", "id": 1683519}], "successors": []}
+{"name": "Tifodan_ölenler", "id": 1683523, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Dışkı_testi_ile_tanı_konan_durumlar", "id": 1672034}], "successors": []}

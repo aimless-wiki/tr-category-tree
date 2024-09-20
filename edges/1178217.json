@@ -1,1 +1,1 @@
-{"name": "Volkswagen_taşıtları", "id": 1178217, "predecessors": [{"name": "Volkswagen_grubu", "id": 1183984}, {"name": "İmalat", "id": 404623}], "successors": [{"name": "Volkswagen_otomobilleri", "id": 1178222}]}
+{"name": "Volkswagen_taşıtları", "id": 1178217, "predecessors": [{"name": "Volkswagen_grubu", "id": 1183984}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Volkswagen_otomobilleri", "id": 1178222}]}

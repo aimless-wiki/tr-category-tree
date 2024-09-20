@@ -1,1 +1,1 @@
-{"name": "Koleksiyonculuk", "id": 26180, "predecessors": [{"name": "Hobiler", "id": 12753}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Filateli", "id": 26181}, {"name": "Bellek", "id": 102235}, {"name": "Piller", "id": 698591}]}
+{"name": "Koleksiyonculuk", "id": 26180, "predecessors": [{"name": "Hobiler", "id": 12753}], "successors": [{"name": "Filateli", "id": 26181}, {"name": "Bellek", "id": 102235}, {"name": "Piller", "id": 698591}]}

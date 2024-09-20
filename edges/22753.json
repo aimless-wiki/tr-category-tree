@@ -1,1 +1,1 @@
-{"name": "Yunan_şairler", "id": 22753, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Yunan_yazarlar", "id": 22751}], "successors": [{"name": "Antik_Yunan_şairler", "id": 1487823}]}
+{"name": "Yunan_şairler", "id": 22753, "predecessors": [{"name": "Yunan_yazarlar", "id": 22751}, {"name": "Sanat", "id": 6443}], "successors": [{"name": "Antik_Yunan_şairler", "id": 1487823}]}

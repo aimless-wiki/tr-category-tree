@@ -1,1 +1,1 @@
-{"name": "İslam_kültürü", "id": 181753, "predecessors": [{"name": "Din", "id": 7198}], "successors": [{"name": "İslam_mimarisi", "id": 77471}, {"name": "Hac", "id": 183033}, {"name": "İslam_sanatı", "id": 1401905}]}
+{"name": "İslam_kültürü", "id": 181753, "predecessors": [{"name": "Din", "id": 7198}, {"name": "İslam", "id": 13382}], "successors": [{"name": "İslam_mimarisi", "id": 77471}, {"name": "Hac", "id": 183033}, {"name": "İslam_sanatı", "id": 1401905}]}

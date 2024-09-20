@@ -1,1 +1,1 @@
-{"name": "Yiyecek_ve_içecek_taslakları", "id": 39359, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Taslak", "id": 3525}], "successors": [{"name": "Kahve_taslakları", "id": 2833167}]}
+{"name": "Yiyecek_ve_içecek_taslakları", "id": 39359, "predecessors": [{"name": "Kültür", "id": 7230}, {"name": "Taslak", "id": 3525}], "successors": [{"name": "Kahve_taslakları", "id": 2833167}]}

@@ -1,1 +1,1 @@
-{"name": "Karmaşık_analiz", "id": 607821, "predecessors": [{"name": "Kalkülüs", "id": 611912}, {"name": "Matematiksel_analiz", "id": 12648}], "successors": [{"name": "Faktöriyel_ve_binomi_konuları", "id": 1327656}]}
+{"name": "Karmaşık_analiz", "id": 607821, "predecessors": [{"name": "Kalkülüs", "id": 611912}, {"name": "Matematiksel_analiz", "id": 12648}], "successors": [{"name": "Karmaşık_analiz_teoremleri", "id": 1767421}, {"name": "Faktöriyel_ve_binomi_konuları", "id": 1327656}]}

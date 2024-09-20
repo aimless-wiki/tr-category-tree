@@ -1,1 +1,1 @@
-{"name": "Alman_hekimler", "id": 75793, "predecessors": [{"name": "Alman_bilim_insanları", "id": 1956176}, {"name": "Sağlık", "id": 12532}, {"name": "Tıbbi_meslekler", "id": 953879}], "successors": []}
+{"name": "Alman_hekimler", "id": 75793, "predecessors": [{"name": "Alman_bilim_insanları", "id": 1956176}, {"name": "Akademi", "id": 583263}, {"name": "Sağlık", "id": 12532}], "successors": []}

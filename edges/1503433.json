@@ -1,1 +1,1 @@
-{"name": "Spor_otomobiller", "id": 1503433, "predecessors": [{"name": "Otomobil_gövde_modelleri", "id": 171364}], "successors": []}
+{"name": "Spor_otomobiller", "id": 1503433, "predecessors": [{"name": "Otomobil_gövde_modelleri", "id": 171364}], "successors": [{"name": "Spor_otomobil_üreticileri", "id": 2405690}]}

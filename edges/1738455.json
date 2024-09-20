@@ -1,1 +1,1 @@
-{"name": "Kurguda_toplu_cinayetler", "id": 1738455, "predecessors": [{"name": "Toplu_cinayetler", "id": 793170}, {"name": "Ölüm", "id": 25717}, {"name": "Suç", "id": 23210}], "successors": []}
+{"name": "Kurguda_toplu_cinayetler", "id": 1738455, "predecessors": [{"name": "Toplu_cinayetler", "id": 793170}, {"name": "Ölüm", "id": 25717}, {"name": "Felsefe", "id": 6586}], "successors": []}

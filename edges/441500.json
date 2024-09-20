@@ -1,1 +1,1 @@
-{"name": "Yumurta_yemekleri", "id": 441500, "predecessors": [{"name": "Üreme_ve_gelişme", "id": 125214}, {"name": "Beslenme", "id": 25373}], "successors": [{"name": "Türk_mutfağındaki_yumurta_yemekleri", "id": 713784}]}
+{"name": "Yumurta_yemekleri", "id": 441500, "predecessors": [{"name": "Üreme_ve_gelişme", "id": 125214}, {"name": "Kültür", "id": 7230}], "successors": [{"name": "Türk_mutfağındaki_yumurta_yemekleri", "id": 713784}]}

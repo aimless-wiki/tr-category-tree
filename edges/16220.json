@@ -1,1 +1,1 @@
-{"name": "Vitaminler", "id": 16220, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Gıda_takviyesi", "id": 2087945}, {"name": "Beslenme", "id": 25373}], "successors": []}
+{"name": "Vitaminler", "id": 16220, "predecessors": [{"name": "Biyomoleküller", "id": 410607}, {"name": "Biyokimya", "id": 15277}], "successors": []}

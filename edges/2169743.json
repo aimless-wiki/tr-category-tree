@@ -1,1 +1,1 @@
-{"name": "Kişisel_bilgi_yöneticileri", "id": 2169743, "predecessors": [{"name": "Yazılım", "id": 3493}], "successors": [{"name": "Phabletler", "id": 2168660}, {"name": "Kişisel_dijital_yardımcılar", "id": 2223369}]}
+{"name": "Kişisel_bilgi_yöneticileri", "id": 2169743, "predecessors": [{"name": "Yazılım", "id": 3493}, {"name": "İnsan_davranışı", "id": 135693}], "successors": [{"name": "Phabletler", "id": 2168660}, {"name": "Kişisel_dijital_yardımcılar", "id": 2223369}]}

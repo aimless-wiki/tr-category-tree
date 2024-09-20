@@ -1,1 +1,1 @@
-{"name": "Türkiye_merkezli_imalat_şirketleri", "id": 1930124, "predecessors": [{"name": "İmalat", "id": 404623}, {"name": "Levha_tektoniği", "id": 376631}], "successors": [{"name": "Türkiye_merkezli_inşaat_şirketleri", "id": 1411394}]}
+{"name": "Türkiye_merkezli_imalat_şirketleri", "id": 1930124, "predecessors": [{"name": "Sanayi", "id": 21457}, {"name": "Vikipedi", "id": 7220}, {"name": "Levha_tektoniği", "id": 376631}], "successors": [{"name": "Türkiye_merkezli_inşaat_şirketleri", "id": 1411394}]}

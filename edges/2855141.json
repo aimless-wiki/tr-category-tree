@@ -1,1 +1,1 @@
-{"name": "Kripto_para_borsaları", "id": 2855141, "predecessors": [{"name": "Borsalar", "id": 1539866}], "successors": []}
+{"name": "Kripto_para_borsaları", "id": 2855141, "predecessors": [{"name": "Borsalar", "id": 1539866}, {"name": "Kripto_para_birimleri", "id": 1662225}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Türk_edebiyatçılar", "id": 607743, "predecessors": [{"name": "Türk_edebiyatı", "id": 41982}, {"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_şairler", "id": 7083}, {"name": "Türk_yazarlar", "id": 7519}]}
+{"name": "Türk_edebiyatçılar", "id": 607743, "predecessors": [{"name": "Türk_edebiyatı", "id": 41982}, {"name": "Sanat", "id": 6443}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Türk_şairler", "id": 7083}, {"name": "Türk_yazarlar", "id": 7519}]}

@@ -1,1 +1,1 @@
-{"name": "Rumen_yazarlar", "id": 22592, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Avrupa'daki_etnik_gruplar", "id": 108236}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Rumen_şairler", "id": 25657}, {"name": "Rumen_deneme_yazarları", "id": 978576}]}
+{"name": "Rumen_yazarlar", "id": 22592, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Avrupa'daki_etnik_gruplar", "id": 108236}], "successors": [{"name": "Rumen_şairler", "id": 25657}, {"name": "Rumen_deneme_yazarları", "id": 978576}]}

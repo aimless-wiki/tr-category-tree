@@ -1,1 +1,1 @@
-{"name": "Enerji_dönüşümü", "id": 512937, "predecessors": [{"name": "Enerji", "id": 36245}], "successors": [{"name": "Motor", "id": 52635}, {"name": "Yakıt_hücreleri", "id": 1294149}, {"name": "Fotovoltaik", "id": 1482516}]}
+{"name": "Enerji_dönüşümü", "id": 512937, "predecessors": [{"name": "Enerji", "id": 36245}], "successors": [{"name": "Motor", "id": 52635}, {"name": "Yakıt_hücreleri", "id": 1294149}, {"name": "Fotovoltaik", "id": 1482516}, {"name": "Piller", "id": 698591}]}

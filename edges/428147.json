@@ -1,1 +1,1 @@
-{"name": "Sanat_meslekleri", "id": 428147, "predecessors": [{"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Müzik_meslekleri", "id": 448842}]}
+{"name": "Sanat_meslekleri", "id": 428147, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Müzik_meslekleri", "id": 448842}]}

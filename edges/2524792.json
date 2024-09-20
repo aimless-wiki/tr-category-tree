@@ -1,1 +1,1 @@
-{"name": "Vegan_mutfağı", "id": 2524792, "predecessors": [{"name": "Vejetaryen_mutfağı", "id": 2195529}, {"name": "Beslenme", "id": 25373}, {"name": "20._yüzyıl", "id": 30501}], "successors": [{"name": "Sebzeler", "id": 36377}, {"name": "Soya", "id": 1307594}]}
+{"name": "Vegan_mutfağı", "id": 2524792, "predecessors": [{"name": "Vejetaryen_mutfağı", "id": 2195529}, {"name": "Kültür", "id": 7230}, {"name": "20._yüzyıl", "id": 30501}], "successors": [{"name": "Sebzeler", "id": 36377}, {"name": "Soya", "id": 1307594}]}

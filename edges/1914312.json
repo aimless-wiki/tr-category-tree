@@ -1,1 +1,1 @@
-{"name": "Veba_salgınları", "id": 1914312, "predecessors": [{"name": "Salgınlar", "id": 252499}, {"name": "Veba", "id": 379397}, {"name": "Biyoloji", "id": 5160}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "İkinci_veba_salgını", "id": 3081030}]}
+{"name": "Veba_salgınları", "id": 1914312, "predecessors": [{"name": "Salgınlar", "id": 252499}, {"name": "Veba", "id": 379397}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "İkinci_veba_salgını", "id": 3081030}]}

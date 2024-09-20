@@ -1,1 +1,1 @@
-{"name": "Şeker", "id": 1300080, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Karbonhidratlar", "id": 33244}, {"name": "İlaçlara_kıvam_veren_maddeler", "id": 777089}, {"name": "Malzemeler", "id": 12782}], "successors": []}
+{"name": "Şeker", "id": 1300080, "predecessors": [{"name": "Karbonhidratlar", "id": 33244}, {"name": "İlaçlara_kıvam_veren_maddeler", "id": 777089}, {"name": "Malzemeler", "id": 12782}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Göçmen_kuşlar", "id": 384426, "predecessors": [{"name": "Göçler", "id": 401338}, {"name": "Zooloji", "id": 10436}], "successors": [{"name": "Balıkçılgiller", "id": 400735}, {"name": "Sinek_kuşugiller", "id": 208782}]}
+{"name": "Göçmen_kuşlar", "id": 384426, "predecessors": [{"name": "Göçler", "id": 401338}, {"name": "Bilişsel_bilim", "id": 92785}, {"name": "Fiziki_coğrafya", "id": 204623}], "successors": [{"name": "Balıkçılgiller", "id": 400735}]}

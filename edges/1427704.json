@@ -1,1 +1,1 @@
-{"name": "Yaralanmalar", "id": 1427704, "predecessors": [{"name": "Hastalıklar_ve_bozukluklar", "id": 9908}], "successors": [{"name": "Nörotravma", "id": 1567713}]}
+{"name": "Yaralanmalar", "id": 1427704, "predecessors": [{"name": "Hastalıklar_ve_bozukluklar", "id": 9908}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Nörotravma", "id": 1567713}]}

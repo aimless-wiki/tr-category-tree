@@ -1,1 +1,1 @@
-{"name": "Çiçek_hastalığından_ölenler", "id": 1120087, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Aşı_ile_önlenebilir_hastalıklar", "id": 3618780}], "successors": []}
+{"name": "Çiçek_hastalığından_ölenler", "id": 1120087, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "İhbarı_mecburi_hastalıklar", "id": 1942371}], "successors": []}

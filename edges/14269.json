@@ -1,1 +1,1 @@
-{"name": "İnşaat", "id": 14269, "predecessors": [{"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Duvarlar", "id": 64940}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Beton", "id": 111052}, {"name": "İnşaat_taslakları", "id": 263367}]}
+{"name": "İnşaat", "id": 14269, "predecessors": [{"name": "Teknoloji", "id": 6300}, {"name": "İnsan_davranışı", "id": 135693}], "successors": [{"name": "Duvarlar", "id": 64940}, {"name": "Yapı_malzemeleri", "id": 81591}, {"name": "Beton", "id": 111052}, {"name": "İnşaat_taslakları", "id": 263367}]}

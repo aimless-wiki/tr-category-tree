@@ -1,1 +1,1 @@
-{"name": "Nükleer_enerji", "id": 89069, "predecessors": [{"name": "Nükleer_fizik", "id": 181976}, {"name": "Enerji", "id": 36245}], "successors": [{"name": "Nükleer_teknoloji", "id": 204034}]}
+{"name": "Nükleer_enerji", "id": 89069, "predecessors": [{"name": "Enerji", "id": 36245}], "successors": [{"name": "Nükleer_teknoloji", "id": 204034}]}

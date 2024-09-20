@@ -1,1 +1,1 @@
-{"name": "Uçak_taslakları", "id": 107225, "predecessors": [{"name": "Havacılık_taslakları", "id": 76835}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Askerî_uçak_taslakları", "id": 108090}]}
+{"name": "Uçak_taslakları", "id": 107225, "predecessors": [{"name": "Havacılık_taslakları", "id": 76835}, {"name": "Taşıt_taslakları", "id": 1011647}, {"name": "Kavramlar", "id": 6788}], "successors": [{"name": "Askerî_uçak_taslakları", "id": 108090}]}

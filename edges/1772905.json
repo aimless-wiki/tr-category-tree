@@ -1,1 +1,1 @@
-{"name": "Uyarıcı_bitki_ve_mantarlar", "id": 1772905, "predecessors": [{"name": "Uyarıcılar", "id": 24848}, {"name": "Bitkiler", "id": 16108}], "successors": [{"name": "Kahve", "id": 24904}, {"name": "Tütün", "id": 40238}, {"name": "Çay", "id": 127567}]}
+{"name": "Uyarıcı_bitki_ve_mantarlar", "id": 1772905, "predecessors": [{"name": "Uyarıcılar", "id": 24848}], "successors": [{"name": "Kahve", "id": 24904}, {"name": "Tütün", "id": 40238}, {"name": "Çay", "id": 127567}]}

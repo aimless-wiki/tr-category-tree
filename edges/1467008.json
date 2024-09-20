@@ -1,1 +1,1 @@
-{"name": "Ebeveyn", "id": 1467008, "predecessors": [{"name": "Aile", "id": 12531}, {"name": "Kişilerarası_ilişkiler", "id": 981452}], "successors": []}
+{"name": "Ebeveyn", "id": 1467008, "predecessors": [{"name": "Aile", "id": 12531}, {"name": "Akrabalık", "id": 809287}, {"name": "Kişilerarası_ilişkiler", "id": 981452}, {"name": "İnsan_davranışı", "id": 135693}], "successors": []}

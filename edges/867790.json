@@ -1,1 +1,1 @@
-{"name": "Film_yapımı_hakkında_filmler", "id": 867790, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Hollywood_hakkında_filmler", "id": 2261051}]}
+{"name": "Film_yapımı_hakkında_filmler", "id": 867790, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Hollywood_hakkında_filmler", "id": 2261051}]}

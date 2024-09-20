@@ -1,1 +1,1 @@
-{"name": "İnternet_erişimi", "id": 546423, "predecessors": [{"name": "İnternet", "id": 6674}], "successors": [{"name": "Kablosuz_erişim", "id": 82621}, {"name": "İnternet_servis_sağlayıcıları", "id": 1822053}]}
+{"name": "İnternet_erişimi", "id": 546423, "predecessors": [{"name": "İnternet", "id": 6674}, {"name": "Elektronik_mühendisliği", "id": 404643}], "successors": [{"name": "Kablosuz_erişim", "id": 82621}, {"name": "İnternet_servis_sağlayıcıları", "id": 1822053}]}

@@ -1,1 +1,1 @@
-{"name": "Jestler", "id": 1533884, "predecessors": [{"name": "İnsan_iletişimi", "id": 592017}, {"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "El_işaretleri", "id": 1768545}]}
+{"name": "Jestler", "id": 1533884, "predecessors": [{"name": "Dil_felsefesi", "id": 133511}, {"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "El_işaretleri", "id": 1768545}]}

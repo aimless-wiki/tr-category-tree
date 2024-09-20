@@ -1,1 +1,1 @@
-{"name": "Tarihyazımı", "id": 2200105, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Sözde_tarih", "id": 1339297}]}
+{"name": "Tarihyazımı", "id": 2200105, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Bilimsel_yöntem", "id": 14784}], "successors": [{"name": "Sözde_tarih", "id": 1339297}]}

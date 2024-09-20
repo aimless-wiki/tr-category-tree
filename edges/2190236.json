@@ -1,1 +1,1 @@
-{"name": "Yarı_iletken_şirketleri", "id": 2190236, "predecessors": [{"name": "Yarı_iletkenler", "id": 103698}, {"name": "İmalat", "id": 404623}, {"name": "Elektronik", "id": 10117}, {"name": "Teknoloji", "id": 6300}], "successors": []}
+{"name": "Yarı_iletken_şirketleri", "id": 2190236, "predecessors": [{"name": "Yarı_iletkenler", "id": 103698}, {"name": "Akademi", "id": 583263}, {"name": "Elektronik", "id": 10117}, {"name": "Teknoloji", "id": 6300}], "successors": []}

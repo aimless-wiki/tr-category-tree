@@ -1,1 +1,1 @@
-{"name": "Abonelik_hizmetleri", "id": 2462260, "predecessors": [{"name": "Elektronik_ticaret", "id": 152940}], "successors": [{"name": "İnternet_televizyon_yayıncılığı_hizmetleri", "id": 2464766}]}
+{"name": "Abonelik_hizmetleri", "id": 2462260, "predecessors": [{"name": "Elektronik_ticaret", "id": 152940}, {"name": "Mikroekonomi", "id": 115114}], "successors": [{"name": "Aboneli_seç-izle_hizmetleri", "id": 2464764}, {"name": "İnternet_televizyon_yayıncılığı_hizmetleri", "id": 2464766}]}

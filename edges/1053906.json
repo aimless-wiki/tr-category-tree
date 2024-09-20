@@ -1,1 +1,1 @@
-{"name": "İtalyan_akademisyenler", "id": 1053906, "predecessors": [{"name": "İtalyan_bilim_insanları", "id": 1956201}, {"name": "Eğitim", "id": 6773}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "İtalyan_tarihçiler", "id": 1178028}]}
+{"name": "İtalyan_akademisyenler", "id": 1053906, "predecessors": [{"name": "İtalyan_bilim_insanları", "id": 1956201}, {"name": "Eğitim", "id": 6773}, {"name": "Toplumsal_gruplar", "id": 66417}], "successors": [{"name": "İtalyan_tarihçiler", "id": 1178028}]}

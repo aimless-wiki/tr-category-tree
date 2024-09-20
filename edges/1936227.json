@@ -1,1 +1,1 @@
-{"name": "Buğday", "id": 1936227, "predecessors": [{"name": "Beslenme", "id": 25373}, {"name": "Kuru_yemişler", "id": 88726}], "successors": []}
+{"name": "Buğday", "id": 1936227, "predecessors": [{"name": "Buğdaygiller", "id": 92992}, {"name": "Kültür", "id": 7230}, {"name": "Kuru_yemişler", "id": 88726}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ses", "id": 12640, "predecessors": [{"name": "Dalgalar", "id": 182655}], "successors": [{"name": "Sesbilim", "id": 262140}, {"name": "Ses_teknolojileri", "id": 265835}, {"name": "Kulak", "id": 397170}]}
+{"name": "Ses", "id": 12640, "predecessors": [], "successors": [{"name": "Sesbilim", "id": 262140}, {"name": "Ses_teknolojileri", "id": 265835}, {"name": "Kulak", "id": 397170}, {"name": "Ses_kaydı", "id": 1155689}, {"name": "Radyo", "id": 12517}, {"name": "Müzik_aletleri", "id": 12702}, {"name": "Telefonculuk", "id": 546428}]}

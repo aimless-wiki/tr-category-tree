@@ -1,1 +1,1 @@
-{"name": "Avustralyalı_sporcu_taslakları", "id": 3192083, "predecessors": [{"name": "Avustralyalı_taslakları", "id": 993185}, {"name": "Ada_ülkeleri", "id": 25246}, {"name": "Sporcu_taslakları", "id": 174701}], "successors": [{"name": "Avustralyalı_futbolcu_taslakları", "id": 1085645}]}
+{"name": "Avustralyalı_sporcu_taslakları", "id": 3192083, "predecessors": [{"name": "Avustralyalı_taslakları", "id": 993185}, {"name": "Sporcu_taslakları", "id": 174701}, {"name": "Toplumsal_gruplar", "id": 66417}], "successors": [{"name": "Avustralyalı_futbolcu_taslakları", "id": 1085645}]}

@@ -1,1 +1,1 @@
-{"name": "Organik_kimya", "id": 23182, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Organik_reaksiyonlar", "id": 402342}, {"name": "Organik_kimya_taslakları", "id": 440204}, {"name": "Organik_kimyacılar", "id": 2261594}]}
+{"name": "Organik_kimya", "id": 23182, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Organik_kimya_taslakları", "id": 440204}, {"name": "Organik_kimyacılar", "id": 2261594}]}

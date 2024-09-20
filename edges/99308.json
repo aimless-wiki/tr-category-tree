@@ -1,1 +1,1 @@
-{"name": "Wimbledon_Tenis_Turnuvası", "id": 99308, "predecessors": [{"name": "Egzersiz", "id": 134636}, {"name": "Ada_ülkeleri", "id": 25246}], "successors": [{"name": "Wimbledon_şampiyonları", "id": 517006}]}
+{"name": "Wimbledon_Tenis_Turnuvası", "id": 99308, "predecessors": [{"name": "Ada_ülkeleri", "id": 25246}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Wimbledon_şampiyonları", "id": 517006}]}

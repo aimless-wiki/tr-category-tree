@@ -1,1 +1,1 @@
-{"name": "Trafik_kazasında_ölen_oyuncular", "id": 652496, "predecessors": [{"name": "Trafik_kazasında_ölenler", "id": 651022}], "successors": []}
+{"name": "Trafik_kazasında_ölen_oyuncular", "id": 652496, "predecessors": [{"name": "Trafik_kazasında_ölenler", "id": 651022}, {"name": "Ölüm", "id": 25717}], "successors": []}

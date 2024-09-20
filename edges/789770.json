@@ -1,1 +1,1 @@
-{"name": "Fourier_dönüşümü", "id": 789770, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Matematiksel_analiz", "id": 12648}, {"name": "Teorik_fizik", "id": 1725841}, {"name": "Fonksiyonlar", "id": 515963}], "successors": []}
+{"name": "Fourier_dönüşümü", "id": 789770, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}, {"name": "Matematiksel_analiz", "id": 12648}, {"name": "Teorik_fizik", "id": 1725841}, {"name": "Fonksiyonel_analiz", "id": 611428}], "successors": []}

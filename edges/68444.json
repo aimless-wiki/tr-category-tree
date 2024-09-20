@@ -1,1 +1,1 @@
-{"name": "Gürcü_edebiyatı", "id": 68444, "predecessors": [{"name": "Akademi", "id": 583263}, {"name": "Siyaset", "id": 12230}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Gürcü_yazarlar", "id": 311575}, {"name": "Gürcüce_romanlar", "id": 1799948}]}
+{"name": "Gürcü_edebiyatı", "id": 68444, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Gürcü_yazarlar", "id": 311575}, {"name": "Gürcüce_romanlar", "id": 1799948}]}

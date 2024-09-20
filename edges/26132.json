@@ -1,1 +1,1 @@
-{"name": "Nümismatik", "id": 26132, "predecessors": [{"name": "Para", "id": 15709}, {"name": "Hobiler", "id": 12753}, {"name": "Antropoloji", "id": 12118}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Nümismatik", "id": 26132, "predecessors": [{"name": "Para", "id": 15709}, {"name": "Hobiler", "id": 12753}, {"name": "Antropoloji", "id": 12118}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Osmanlı_paraları", "id": 83176}, {"name": "Antik_Roma_sikkeleri", "id": 777701}, {"name": "Altın_sikkeleri", "id": 777765}]}

@@ -1,1 +1,1 @@
-{"name": "Tifüsten_ölenler", "id": 1734024, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Bakteriyel_hastalıklar", "id": 88446}], "successors": []}
+{"name": "Tifüsten_ölenler", "id": 1734024, "predecessors": [{"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "İhbarı_mecburi_hastalıklar", "id": 1942371}], "successors": []}

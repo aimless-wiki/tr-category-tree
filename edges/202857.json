@@ -1,1 +1,1 @@
-{"name": "Uçak_motorları", "id": 202857, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Uçak_parçaları", "id": 202859}], "successors": [{"name": "Jet_motorları", "id": 733139}]}
+{"name": "Uçak_motorları", "id": 202857, "predecessors": [{"name": "Motor", "id": 52635}, {"name": "Uçak_parçaları", "id": 202859}], "successors": [{"name": "Jet_motorları", "id": 733139}, {"name": "Turbofan_motorlar", "id": 2143199}, {"name": "Uçak_motoru_imalatçıları", "id": 2195540}]}

@@ -1,1 +1,1 @@
-{"name": "Din_hakkında_filmler", "id": 840611, "predecessors": [{"name": "Din", "id": 7198}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Yahudi_filmleri", "id": 1408294}, {"name": "Din_hakkında_korku_filmleri", "id": 1777342}]}
+{"name": "Din_hakkında_filmler", "id": 840611, "predecessors": [{"name": "Sanat", "id": 6443}, {"name": "Din", "id": 7198}], "successors": [{"name": "Din_hakkında_korku_filmleri", "id": 1777342}]}

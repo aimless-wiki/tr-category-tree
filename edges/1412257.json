@@ -1,1 +1,1 @@
-{"name": "Radyasyon", "id": 1412257, "predecessors": [{"name": "Dalgalar", "id": 182655}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Radyobiyoloji", "id": 26865}, {"name": "Elektromanyetik_radyasyon", "id": 1412254}]}
+{"name": "Radyasyon", "id": 1412257, "predecessors": [{"name": "Fizik_terimleri", "id": 1808406}], "successors": [{"name": "Radyobiyoloji", "id": 26865}, {"name": "Elektromanyetik_radyasyon", "id": 1412254}]}

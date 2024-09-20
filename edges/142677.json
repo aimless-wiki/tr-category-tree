@@ -1,1 +1,1 @@
-{"name": "Ticaret_hukuku", "id": 142677, "predecessors": [{"name": "Ticaret", "id": 43782}], "successors": []}
+{"name": "Ticaret_hukuku", "id": 142677, "predecessors": [{"name": "Ticaret", "id": 43782}], "successors": [{"name": "Sözleşme_hukuku", "id": 1123756}]}
