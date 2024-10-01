@@ -1,1 +1,1 @@
-{"name": "Mide_kanserinden_ölenler", "id": 684693, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": []}
+{"name": "Mide_kanserinden_ölenler", "id": 684693, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Karın", "id": 79764}, {"name": "İnsan_hastalıkları", "id": 86141}], "successors": []}

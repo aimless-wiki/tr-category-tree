@@ -1,1 +1,1 @@
-{"name": "Bilimkurgu_yazarı_taslakları", "id": 556000, "predecessors": [{"name": "Bilimkurgu_yazarları", "id": 81445}, {"name": "Yazar_taslakları", "id": 27994}, {"name": "Kültür", "id": 7230}], "successors": []}
+{"name": "Bilimkurgu_yazarı_taslakları", "id": 556000, "predecessors": [{"name": "Bilimkurgu_taslakları", "id": 148042}, {"name": "Bilimkurgu_yazarları", "id": 81445}, {"name": "Yazar_taslakları", "id": 27994}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Uzay_plazmaları", "id": 1793687, "predecessors": [{"name": "Astrofizik", "id": 1668168}, {"name": "Plazma_fiziği", "id": 182540}, {"name": "Fiziksel_nicelikler", "id": 181686}], "successors": [{"name": "Yerel_Kabarcık", "id": 2135231}]}
+{"name": "Uzay_plazmaları", "id": 1793687, "predecessors": [{"name": "Astrofizik", "id": 1668168}, {"name": "Plazma_fiziği", "id": 182540}, {"name": "Fizik_terimleri", "id": 1808406}], "successors": []}

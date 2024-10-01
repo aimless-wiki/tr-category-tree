@@ -1,1 +1,1 @@
-{"name": "Oral_patoloji", "id": 671451, "predecessors": [{"name": "Sindirim_sistemi_hastalıkları", "id": 1303229}, {"name": "Tıp_bilimleri", "id": 88214}], "successors": [{"name": "Konjenital_oral_patoloji", "id": 2647406}]}
+{"name": "Oral_patoloji", "id": 671451, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}], "successors": [{"name": "Konjenital_oral_patoloji", "id": 2647406}]}

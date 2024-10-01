@@ -1,1 +1,1 @@
-{"name": "Bilişim_suçları", "id": 231514, "predecessors": [{"name": "Bilişim_hukuku", "id": 219939}, {"name": "Suçlar", "id": 23209}], "successors": [{"name": "Spam", "id": 91157}, {"name": "Exploitler", "id": 1321308}]}
+{"name": "Bilişim_suçları", "id": 231514, "predecessors": [{"name": "Bilişim_hukuku", "id": 219939}, {"name": "Suçlar", "id": 23209}], "successors": [{"name": "Hacking", "id": 1321306}, {"name": "Spam", "id": 91157}, {"name": "Exploitler", "id": 1321308}]}

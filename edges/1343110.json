@@ -1,1 +1,1 @@
-{"name": "Televizyonda_vampirler", "id": 1343110, "predecessors": [{"name": "Fantastik_televizyon_dizileri", "id": 891048}, {"name": "Korku_televizyon_dizileri", "id": 891053}, {"name": "Ölüm", "id": 25717}], "successors": []}
+{"name": "Televizyonda_vampirler", "id": 1343110, "predecessors": [{"name": "Korku_televizyon_dizileri", "id": 891053}, {"name": "Ölüm", "id": 25717}, {"name": "Kurgu", "id": 81449}], "successors": []}

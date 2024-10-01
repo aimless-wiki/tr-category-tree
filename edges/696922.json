@@ -1,1 +1,1 @@
-{"name": "Terörle_mücadele", "id": 696922, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Siyaset", "id": 12230}], "successors": [{"name": "Özel_kuvvetler", "id": 161696}, {"name": "Gizli_polis", "id": 1222117}, {"name": "Terörle_mücadele_eden_kuruluşlar", "id": 3313396}]}
+{"name": "Terörle_mücadele", "id": 696922, "predecessors": [{"name": "Güvenlik", "id": 36571}, {"name": "Terörizm", "id": 690846}], "successors": [{"name": "Özel_kuvvetler", "id": 161696}, {"name": "Gizli_polis", "id": 1222117}, {"name": "Terörle_mücadele_eden_kuruluşlar", "id": 3313396}]}

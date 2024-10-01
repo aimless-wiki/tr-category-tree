@@ -1,1 +1,1 @@
-{"name": "Karın", "id": 79764, "predecessors": [{"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "Sindirim_sistemi", "id": 27604}, {"name": "Böbrek_hastalıkları", "id": 1956901}]}
+{"name": "Karın", "id": 79764, "predecessors": [{"name": "İnsan_anatomisi", "id": 75590}], "successors": [{"name": "Böbrek_hastalıkları", "id": 1956901}, {"name": "Mide_kanserinden_ölenler", "id": 684693}, {"name": "Pankreas_kanserinden_ölenler", "id": 459840}]}

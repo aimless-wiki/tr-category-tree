@@ -1,1 +1,1 @@
-{"name": "Bakü'deki_görülecek_yerler", "id": 1547589, "predecessors": [{"name": "Azerbaycan'daki_görülecek_yerler", "id": 510356}, {"name": "Vikipedi", "id": 7220}, {"name": "Azerbaycan'da_kültür", "id": 371964}], "successors": [{"name": "Bakü'deki_müzeler", "id": 1547584}]}
+{"name": "Bakü'deki_görülecek_yerler", "id": 1547589, "predecessors": [{"name": "Vikipedi", "id": 7220}, {"name": "Azerbaycan'da_kültür", "id": 371964}, {"name": "Azerbaycan'daki_görülecek_yerler", "id": 510356}], "successors": [{"name": "Bakü'deki_müzeler", "id": 1547584}]}

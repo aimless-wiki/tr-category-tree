@@ -1,1 +1,1 @@
-{"name": "Pankreas_kanserinden_ölenler", "id": 459840, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Belirtiler", "id": 1350946}], "successors": []}
+{"name": "Pankreas_kanserinden_ölenler", "id": 459840, "predecessors": [{"name": "Kanserden_ölenler", "id": 203631}, {"name": "Karın", "id": 79764}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fonksiyonlar", "id": 515963, "predecessors": [{"name": "Kalkülüs", "id": 611912}], "successors": [{"name": "Fonksiyonel_analiz", "id": 611428}]}
+{"name": "Fonksiyonlar", "id": 515963, "predecessors": [{"name": "Kalkülüs", "id": 611912}], "successors": [{"name": "Fonksiyonel_analiz", "id": 611428}, {"name": "Çok_değişkenli_karmaşık_analiz", "id": 4239595}]}
