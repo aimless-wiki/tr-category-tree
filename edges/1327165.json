@@ -1,1 +1,1 @@
-{"name": "Çemberler", "id": 1327165, "predecessors": [{"name": "Pi_sayısı", "id": 1696036}, {"name": "Öklid_geometrisi", "id": 1166968}, {"name": "Geometri", "id": 2177}, {"name": "Eğriler", "id": 673410}], "successors": []}
+{"name": "Çemberler", "id": 1327165, "predecessors": [{"name": "Geometrik_şekiller", "id": 66036}, {"name": "Pi_sayısı", "id": 1696036}, {"name": "Öklid_geometrisi", "id": 1166968}, {"name": "Eğriler", "id": 673410}], "successors": []}

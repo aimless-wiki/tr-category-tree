@@ -1,1 +1,1 @@
-{"name": "Matematiksel_mantık", "id": 153699, "predecessors": [{"name": "Mantık", "id": 12638}, {"name": "Matematik", "id": 2179}, {"name": "Biliş", "id": 92791}], "successors": [{"name": "Kümeler_teorisi", "id": 17118}]}
+{"name": "Matematiksel_mantık", "id": 153699, "predecessors": [{"name": "Mantık", "id": 12638}, {"name": "Matematik", "id": 2179}, {"name": "Biliş", "id": 92791}], "successors": [{"name": "Kümeler_teorisi", "id": 17118}, {"name": "Programlama_paradigmaları", "id": 1193072}]}

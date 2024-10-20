@@ -1,1 +1,1 @@
-{"name": "Ayak_giyimi", "id": 1611483, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Alt_ekstremite", "id": 356086}], "successors": [{"name": "Ayakkabı", "id": 599632}]}
+{"name": "Ayak_giyimi", "id": 1611483, "predecessors": [{"name": "Giyim", "id": 46418}, {"name": "Moda", "id": 24925}, {"name": "Yürüme", "id": 1670731}, {"name": "İnsan_anatomisi", "id": 75590}, {"name": "Sanayi", "id": 21457}], "successors": [{"name": "Ayakkabı", "id": 599632}]}

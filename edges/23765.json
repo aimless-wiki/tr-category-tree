@@ -1,1 +1,1 @@
-{"name": "Oyuncaklar", "id": 23765, "predecessors": [{"name": "Çocukluk", "id": 705419}, {"name": "Sanat", "id": 6443}, {"name": "Aletler", "id": 17009}], "successors": [{"name": "Digimon", "id": 102450}, {"name": "Adidas_futbol_topları", "id": 2471448}]}
+{"name": "Oyuncaklar", "id": 23765, "predecessors": [{"name": "Çocukluk", "id": 705419}, {"name": "Sanat", "id": 6443}, {"name": "Aletler", "id": 17009}, {"name": "Sanayi", "id": 21457}], "successors": [{"name": "Digimon", "id": 102450}, {"name": "Adidas_futbol_topları", "id": 2471448}]}

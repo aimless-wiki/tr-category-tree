@@ -1,1 +1,1 @@
-{"name": "Savaş_çeşitleri", "id": 1691278, "predecessors": [{"name": "Ulusal_güvenlik", "id": 36569}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Özel_kuvvetler", "id": 161696}, {"name": "Deniz_savaşları", "id": 417513}, {"name": "Gerilla_savaşları", "id": 721863}]}
+{"name": "Savaş_çeşitleri", "id": 1691278, "predecessors": [{"name": "Savaş", "id": 1456684}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Özel_kuvvetler", "id": 161696}, {"name": "Deniz_savaşları", "id": 417513}, {"name": "Gerilla_savaşları", "id": 721863}]}

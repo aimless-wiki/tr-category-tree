@@ -1,1 +1,1 @@
-{"name": "Nesne_yönelimli_programlama", "id": 25677, "predecessors": [{"name": "Programlama", "id": 26572}], "successors": [{"name": "Nesne_yönelimli_programlama_dilleri", "id": 544880}, {"name": "MacOS", "id": 457590}]}
+{"name": "Nesne_yönelimli_programlama", "id": 25677, "predecessors": [{"name": "Programlama_paradigmaları", "id": 1193072}], "successors": [{"name": "Nesne_yönelimli_programlama_dilleri", "id": 544880}, {"name": "MacOS", "id": 457590}]}
