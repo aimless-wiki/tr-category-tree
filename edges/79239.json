@@ -1,1 +1,1 @@
-{"name": "Satranç_taslakları", "id": 79239, "predecessors": [{"name": "Oyun_taslakları", "id": 138564}, {"name": "Satranç", "id": 9601}], "successors": [{"name": "Satranç_oyuncusu_taslakları", "id": 4110001}]}
+{"name": "Satranç_taslakları", "id": 79239, "predecessors": [{"name": "Oyun_taslakları", "id": 138564}, {"name": "Teknoloji", "id": 6300}], "successors": [{"name": "Satranç_oyuncusu_taslakları", "id": 4110001}]}

@@ -1,1 +1,1 @@
-{"name": "İlerlemeci_partiler", "id": 2220357, "predecessors": [{"name": "Solcu_partiler", "id": 3704436}, {"name": "İlerlemecilik", "id": 2038168}, {"name": "Siyasi_partiler", "id": 1690792}], "successors": []}
+{"name": "İlerlemeci_partiler", "id": 2220357, "predecessors": [{"name": "İdeolojiler", "id": 125208}, {"name": "Siyaset_felsefesi", "id": 37771}, {"name": "Solculuk", "id": 1320567}], "successors": []}

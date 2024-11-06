@@ -1,1 +1,1 @@
-{"name": "Japon_erkek_şarkıcılar", "id": 2032111, "predecessors": [{"name": "Japon_müzisyenler", "id": 132011}, {"name": "Müzik_meslekleri", "id": 448842}], "successors": []}
+{"name": "Japon_erkek_şarkıcılar", "id": 2032111, "predecessors": [{"name": "Müzik_meslekleri", "id": 448842}, {"name": "Müzik_aletleri", "id": 12702}], "successors": []}

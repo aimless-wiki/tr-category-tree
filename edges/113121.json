@@ -1,1 +1,1 @@
-{"name": "Spor_terimleri", "id": 113121, "predecessors": [{"name": "Terimler", "id": 81201}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Basketbol_terimleri", "id": 978832}, {"name": "Futbol_antrenman_sahaları", "id": 1502649}]}
+{"name": "Spor_terimleri", "id": 113121, "predecessors": [{"name": "Terimler", "id": 81201}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Futbol_terimleri", "id": 37152}, {"name": "Basketbol_terimleri", "id": 978832}, {"name": "Futbol_antrenman_sahaları", "id": 1502649}]}

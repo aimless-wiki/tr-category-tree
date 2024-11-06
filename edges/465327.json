@@ -1,1 +1,1 @@
-{"name": "Uluslararası_finans", "id": 465327, "predecessors": [{"name": "Uluslararası_iktisat", "id": 465328}], "successors": [{"name": "Uluslararası_döviz_piyasası", "id": 904680}, {"name": "Uluslarüstü_bankalar", "id": 1081643}, {"name": "Çok_taraflı_kalkınma_bankaları", "id": 1081647}, {"name": "Doğrudan_yabancı_yatırım", "id": 2135923}, {"name": "Offshore_finans", "id": 2292839}, {"name": "Vergiden_kaçınma", "id": 2293052}]}
+{"name": "Uluslararası_finans", "id": 465327, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": []}

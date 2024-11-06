@@ -1,1 +1,1 @@
-{"name": "Video_oyunu_geliştirme", "id": 457224, "predecessors": [{"name": "Video_oyunları", "id": 450124}, {"name": "Bilgisayar_bilimi", "id": 12611}], "successors": [{"name": "Gelecek_video_oyunları", "id": 450131}, {"name": "Erken_erişim_oyunları", "id": 2204383}]}
+{"name": "Video_oyunu_geliştirme", "id": 457224, "predecessors": [{"name": "Video_oyunları", "id": 450124}, {"name": "Yazılım_mühendisliği", "id": 23801}], "successors": [{"name": "Gelecek_video_oyunları", "id": 450131}, {"name": "Erken_erişim_oyunları", "id": 2204383}]}

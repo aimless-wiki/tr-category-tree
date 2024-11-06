@@ -1,1 +1,1 @@
-{"name": "Yapı_bilgi_kutusu_şablonları", "id": 1293332, "predecessors": [{"name": "Yapı_şablonları", "id": 1538461}, {"name": "Yer_bilgi_kutusu_şablonları", "id": 4101786}, {"name": "Teknoloji_şablonları", "id": 211562}], "successors": []}
+{"name": "Yapı_bilgi_kutusu_şablonları", "id": 1293332, "predecessors": [{"name": "Teknoloji_bilgi_kutusu_şablonları", "id": 1616687}, {"name": "Yapı_şablonları", "id": 1538461}, {"name": "Yer_bilgi_kutusu_şablonları", "id": 4101786}], "successors": []}

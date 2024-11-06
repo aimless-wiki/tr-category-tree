@@ -1,1 +1,1 @@
-{"name": "Süt_ürünleri", "id": 64291, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Kültür", "id": 7230}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Yoğurt", "id": 444090}, {"name": "Dondurma", "id": 1317607}]}
+{"name": "Süt_ürünleri", "id": 64291, "predecessors": [{"name": "Yemek_malzemeleri", "id": 444802}, {"name": "Kültür", "id": 7230}, {"name": "Malzemeler", "id": 12782}], "successors": [{"name": "Dondurma", "id": 1317607}]}
