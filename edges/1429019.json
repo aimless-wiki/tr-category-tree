@@ -1,1 +1,1 @@
-{"name": "Türlerine_göre_turizm", "id": 1429019, "predecessors": [{"name": "Turizm", "id": 12635}], "successors": [{"name": "Macera_yolculuğu", "id": 986012}, {"name": "Jeoparklar", "id": 1930064}]}
+{"name": "Türlerine_göre_turizm", "id": 1429019, "predecessors": [{"name": "Turizm", "id": 12635}, {"name": "Vikipedi", "id": 7220}], "successors": [{"name": "Kültürel_miras", "id": 1350126}]}

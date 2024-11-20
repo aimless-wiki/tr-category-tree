@@ -1,1 +1,1 @@
-{"name": "Radyo_frekansı_yayılımı", "id": 1429756, "predecessors": [{"name": "Elektromanyetik_radyasyon", "id": 1412254}, {"name": "Hobiler", "id": 12753}, {"name": "Haberleşme_tekniği", "id": 12990}], "successors": [{"name": "Radyo_spektrumu", "id": 1149561}]}
+{"name": "Radyo_frekansı_yayılımı", "id": 1429756, "predecessors": [{"name": "Elektromanyetik_radyasyon", "id": 1412254}, {"name": "Radyo_teknolojisi", "id": 1206684}, {"name": "Hobiler", "id": 12753}], "successors": [{"name": "Radyo_spektrumu", "id": 1149561}]}

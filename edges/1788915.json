@@ -1,1 +1,1 @@
-{"name": "Matematiksel_analizciler", "id": 1788915, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}], "successors": []}
+{"name": "Analizciler", "id": 1788915, "predecessors": [{"name": "Analiz_(matematik)", "id": 12648}], "successors": [{"name": "Karmaşık_analizciler", "id": 4369367}]}

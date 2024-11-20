@@ -1,1 +1,1 @@
-{"name": "Oksijen", "id": 383036, "predecessors": [{"name": "Gazlar", "id": 13810}, {"name": "Elementler", "id": 9826}, {"name": "Periyodik_tablo", "id": 12736}, {"name": "Moleküler_geometri", "id": 1571823}], "successors": []}
+{"name": "Oksijen", "id": 383036, "predecessors": [{"name": "Gazlar", "id": 13810}, {"name": "Elementler", "id": 9826}, {"name": "Periyodik_tablo", "id": 12736}, {"name": "Moleküler_geometri", "id": 1571823}], "successors": [{"name": "Yanma_tepkimeleri", "id": 2238953}]}

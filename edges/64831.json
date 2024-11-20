@@ -1,1 +1,1 @@
-{"name": "Anadolu_liseleri", "id": 64831, "predecessors": [{"name": "Türkiye'deki_liseler", "id": 327741}, {"name": "Eğitim_terimleri", "id": 674528}], "successors": [{"name": "İstanbul'daki_anadolu_liseleri", "id": 3265109}]}
+{"name": "Anadolu_liseleri", "id": 64831, "predecessors": [{"name": "Eğitim_terimleri", "id": 674528}, {"name": "Eğitim", "id": 6773}], "successors": [{"name": "İstanbul'daki_anadolu_liseleri", "id": 3265109}]}

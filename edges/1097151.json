@@ -1,1 +1,1 @@
-{"name": "Sokak_kültürü", "id": 1097151, "predecessors": [{"name": "Şehir", "id": 1741933}, {"name": "Felsefe", "id": 6586}, {"name": "Coğrafya_terminolojisi", "id": 234679}], "successors": [{"name": "Sokak_yiyecekleri", "id": 462497}]}
+{"name": "Sokak_kültürü", "id": 1097151, "predecessors": [{"name": "Felsefe", "id": 6586}, {"name": "Coğrafya_terminolojisi", "id": 234679}, {"name": "Şehir", "id": 1741933}], "successors": [{"name": "Sokak_yiyecekleri", "id": 462497}]}

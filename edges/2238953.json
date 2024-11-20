@@ -1,1 +1,1 @@
-{"name": "Yanma_tepkimeleri", "id": 2238953, "predecessors": [{"name": "Oksijen", "id": 383036}, {"name": "Enerji", "id": 36245}], "successors": [{"name": "Yangın", "id": 8204}, {"name": "Reaksiyon_mekanizmaları", "id": 2238954}]}
+{"name": "Yanma_tepkimeleri", "id": 2238953, "predecessors": [{"name": "Kimyasal_işlemler", "id": 46315}, {"name": "Oksijen", "id": 383036}, {"name": "Enerji", "id": 36245}], "successors": [{"name": "Yangın", "id": 8204}]}

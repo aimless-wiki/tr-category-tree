@@ -1,1 +1,1 @@
-{"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457, "predecessors": [{"name": "Organ_yetmezliğinden_ölenler", "id": 1346040}, {"name": "Böbrek_hastalıkları", "id": 1956901}], "successors": []}
+{"name": "Böbrek_yetmezliğinden_ölenler", "id": 1165457, "predecessors": [{"name": "Organ_yetmezliğinden_ölenler", "id": 1346040}, {"name": "Böbrek_hastalıkları", "id": 1956901}], "successors": [{"name": "Türkiye'de_böbrek_yetmezliğinden_ölenler", "id": 3195083}]}

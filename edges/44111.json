@@ -1,1 +1,1 @@
-{"name": "Arıcılık", "id": 44111, "predecessors": [{"name": "Böcekler", "id": 12081}, {"name": "Tarım", "id": 1210718}, {"name": "Hayvancılık", "id": 42809}], "successors": [{"name": "Bal", "id": 441253}]}
+{"name": "Arıcılık", "id": 44111, "predecessors": [{"name": "Böcekler", "id": 12081}, {"name": "Tarım", "id": 1210718}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Bal", "id": 441253}]}

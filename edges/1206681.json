@@ -1,1 +1,1 @@
-{"name": "Radyo_elektroniği", "id": 1206681, "predecessors": [{"name": "Elektronik_mühendisliği", "id": 404643}, {"name": "Telekomünikasyon_mühendisliği", "id": 388013}, {"name": "Haberleşme_tekniği", "id": 12990}], "successors": []}
+{"name": "Radyo_elektroniği", "id": 1206681, "predecessors": [{"name": "Elektronik_mühendisliği", "id": 404643}, {"name": "Radyo_teknolojisi", "id": 1206684}, {"name": "Telekomünikasyon_mühendisliği", "id": 388013}], "successors": []}

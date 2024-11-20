@@ -1,1 +1,1 @@
-{"name": "Diziler_ve_seriler", "id": 46436, "predecessors": [{"name": "Matematiksel_analiz", "id": 12648}, {"name": "Sayılar_teorisi", "id": 15091}], "successors": [{"name": "Matematiksel_seriler", "id": 617862}, {"name": "Tamsayı_dizileri", "id": 954488}]}
+{"name": "Diziler_ve_seriler", "id": 46436, "predecessors": [{"name": "Analiz_(matematik)", "id": 12648}, {"name": "Sayılar_teorisi", "id": 15091}], "successors": [{"name": "Matematiksel_seriler", "id": 617862}, {"name": "Tamsayı_dizileri", "id": 954488}]}

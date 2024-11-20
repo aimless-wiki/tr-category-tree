@@ -1,1 +1,1 @@
-{"name": "Matematik_teoremleri", "id": 611419, "predecessors": [{"name": "Matematik", "id": 2179}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Karmaşık_analiz_teoremleri", "id": 1767421}]}
+{"name": "Matematik_teoremleri", "id": 611419, "predecessors": [{"name": "Matematik", "id": 2179}, {"name": "Bilgi", "id": 12510}], "successors": [{"name": "Eşitsizlikler", "id": 786941}]}

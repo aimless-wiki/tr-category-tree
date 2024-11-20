@@ -1,1 +1,1 @@
-{"name": "Sayısal_analiz", "id": 388127, "predecessors": [{"name": "Algoritmalar", "id": 23795}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Matematiksel_analiz", "id": 12648}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Sayısal_analiz", "id": 388127, "predecessors": [{"name": "Algoritmalar", "id": 23795}, {"name": "Analiz_(matematik)", "id": 12648}, {"name": "Bilgisayar_bilimi", "id": 12611}, {"name": "Akademi", "id": 583263}], "successors": []}
