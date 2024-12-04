@@ -1,1 +1,1 @@
-{"name": "İmmünoloji", "id": 26061, "predecessors": [{"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Aşı_(tıp)", "id": 1737210}]}
+{"name": "İmmünoloji", "id": 26061, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Tıp_bilimleri", "id": 88214}, {"name": "Tıp_terimleri", "id": 147635}], "successors": [{"name": "Aşı_(tıp)", "id": 1737210}]}

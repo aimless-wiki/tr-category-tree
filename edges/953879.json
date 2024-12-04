@@ -1,1 +1,1 @@
-{"name": "Tıbbi_meslekler", "id": 953879, "predecessors": [{"name": "Meslekler", "id": 12752}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Türk_diş_hekimleri", "id": 2078527}]}
+{"name": "Tıbbi_meslekler", "id": 953879, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Meslekler", "id": 12752}], "successors": [{"name": "Türk_diş_hekimleri", "id": 2078527}]}

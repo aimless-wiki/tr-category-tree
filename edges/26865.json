@@ -1,1 +1,1 @@
-{"name": "Radyobiyoloji", "id": 26865, "predecessors": [{"name": "Halk_sağlığı", "id": 734491}, {"name": "Radyasyon", "id": 1412257}, {"name": "Akademi", "id": 583263}], "successors": []}
+{"name": "Radyobiyoloji", "id": 26865, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Halk_sağlığı", "id": 734491}, {"name": "Radyasyon", "id": 1412257}, {"name": "Akademi", "id": 583263}], "successors": []}

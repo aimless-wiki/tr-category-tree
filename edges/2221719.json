@@ -1,1 +1,1 @@
-{"name": "Biçimbilim", "id": 2221719, "predecessors": [{"name": "Dilbilgisi", "id": 27645}, {"name": "Dilbilim", "id": 142761}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "Kısaltmalar", "id": 16215}]}
+{"name": "Biçimbilim", "id": 2221719, "predecessors": [{"name": "Dilbilgisi", "id": 27645}, {"name": "Dilbilim", "id": 142761}, {"name": "Biyoloji", "id": 5160}], "successors": [{"name": "Kısaltmalar", "id": 16215}, {"name": "Argo", "id": 640876}]}

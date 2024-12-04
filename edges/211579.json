@@ -1,1 +1,1 @@
-{"name": "Doku_bilimi", "id": 211579, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Bezler", "id": 113589}]}
+{"name": "Doku_bilimi", "id": 211579, "predecessors": [{"name": "Anatomi", "id": 9907}, {"name": "Biyolojinin_genel_alanları", "id": 369713}], "successors": [{"name": "Bezler", "id": 113589}]}

@@ -1,1 +1,1 @@
-{"name": "Tıbbi_tedaviler", "id": 252289, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Psikoterapi", "id": 747068}]}
+{"name": "Tıbbi_tedaviler", "id": 252289, "predecessors": [{"name": "Tedaviler", "id": 208069}, {"name": "Biyolojinin_genel_alanları", "id": 369713}], "successors": [{"name": "Psikoterapi", "id": 747068}]}

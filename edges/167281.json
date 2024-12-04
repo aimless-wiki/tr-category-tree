@@ -1,1 +1,1 @@
-{"name": "Parazit_taslakları", "id": 167281, "predecessors": [{"name": "Hayvan_taslakları", "id": 365197}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Biyolojik_etkileşimler", "id": 1192810}], "successors": []}
+{"name": "Parazit_taslakları", "id": 167281, "predecessors": [{"name": "Hayvan_taslakları", "id": 365197}, {"name": "Enfeksiyon_hastalıkları", "id": 25264}, {"name": "Biyolojinin_genel_alanları", "id": 369713}], "successors": []}

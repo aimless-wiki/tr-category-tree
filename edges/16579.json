@@ -1,1 +1,1 @@
-{"name": "Biyofizik", "id": 16579, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "Moleküler_biyoloji", "id": 23059}]}
+{"name": "Biyofizik", "id": 16579, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Moleküler_biyoloji", "id": 23059}]}

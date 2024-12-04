@@ -1,1 +1,1 @@
-{"name": "Bakteriyoloji", "id": 16576, "predecessors": [{"name": "Mikrobiyoloji", "id": 16575}, {"name": "Akademi", "id": 583263}], "successors": [{"name": "Bakteriler", "id": 25048}]}
+{"name": "Bakteriyoloji", "id": 16576, "predecessors": [{"name": "Biyolojinin_genel_alanları", "id": 369713}, {"name": "Mikrobiyoloji", "id": 16575}], "successors": [{"name": "Bakteriler", "id": 25048}]}

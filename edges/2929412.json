@@ -1,1 +1,1 @@
-{"name": "Kadın_giyimi", "id": 2929412, "predecessors": [{"name": "Giyim", "id": 46418}], "successors": []}
+{"name": "Kadın_giyimi", "id": 2929412, "predecessors": [{"name": "Giyim", "id": 46418}], "successors": [{"name": "Lingerie", "id": 1066922}, {"name": "Etekler", "id": 1113894}, {"name": "Elbiseler", "id": 1804126}, {"name": "Kadın_modeller", "id": 1340388}]}
