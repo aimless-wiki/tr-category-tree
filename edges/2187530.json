@@ -1,1 +1,1 @@
-{"name": "Dijital_ses_çalarlar", "id": 2187530, "predecessors": [{"name": "Dijital_medya", "id": 415346}, {"name": "Elektronik_mühendisliği", "id": 404643}], "successors": [{"name": "Taşınabilir_medya_oynatıcılar", "id": 1675616}, {"name": "İPod", "id": 1771474}]}
+{"name": "Dijital_ses_çalarlar", "id": 2187530, "predecessors": [{"name": "Dijital_medya", "id": 415346}, {"name": "Elektronik", "id": 10117}], "successors": [{"name": "Taşınabilir_medya_oynatıcılar", "id": 1675616}, {"name": "İPod", "id": 1771474}]}
