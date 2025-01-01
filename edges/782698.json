@@ -1,1 +1,1 @@
-{"name": "İslam_alimleri", "id": 782698, "predecessors": [{"name": "Din", "id": 7198}], "successors": [{"name": "Fakihler", "id": 72109}, {"name": "İslam_filozofları", "id": 74100}]}
+{"name": "İslam_alimleri", "id": 782698, "predecessors": [{"name": "Felsefe", "id": 6586}], "successors": [{"name": "Fakihler", "id": 72109}, {"name": "İslam_filozofları", "id": 74100}]}

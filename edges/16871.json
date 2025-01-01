@@ -1,1 +1,1 @@
-{"name": "Analitik_kimya", "id": 16871, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "PH_indikatörleri", "id": 35369}, {"name": "Damıtılmış_içkiler", "id": 1033545}, {"name": "Spektroskopi", "id": 727220}, {"name": "Kütle_spektrometrisi", "id": 2389073}]}
+{"name": "Analitik_kimya", "id": 16871, "predecessors": [{"name": "Akademi", "id": 583263}], "successors": [{"name": "PH_indikatörleri", "id": 35369}, {"name": "Damıtma", "id": 783311}, {"name": "Spektroskopi", "id": 727220}, {"name": "Kütle_spektrometrisi", "id": 2389073}]}

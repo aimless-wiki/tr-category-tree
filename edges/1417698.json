@@ -1,1 +1,1 @@
-{"name": "Bilgi_toplumu", "id": 1417698, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Evrim", "id": 33354}, {"name": "Sosyoloji", "id": 1145186}], "successors": []}
+{"name": "Bilgi_toplumu", "id": 1417698, "predecessors": [{"name": "Bilgi", "id": 12510}, {"name": "Evrim", "id": 33354}, {"name": "Sosyoloji", "id": 1145186}], "successors": [{"name": "Gazetecilik", "id": 15750}, {"name": "Müzik_endüstrisi", "id": 47286}, {"name": "Medya_imtiyazları", "id": 978137}]}

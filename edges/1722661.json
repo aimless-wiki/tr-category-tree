@@ -1,1 +1,1 @@
-{"name": "Otomotiv_yakıtı_markaları", "id": 1722661, "predecessors": [{"name": "Pazarlama", "id": 37079}, {"name": "Enerji", "id": 36245}, {"name": "Akademi", "id": 583263}, {"name": "Kara_ulaşımı", "id": 447670}], "successors": []}
+{"name": "Otomotiv_yakıtı_markaları", "id": 1722661, "predecessors": [{"name": "Petrol_ürünleri", "id": 198450}, {"name": "Pazarlama", "id": 37079}, {"name": "Enerji", "id": 36245}, {"name": "Akademi", "id": 583263}, {"name": "Kara_ulaşımı", "id": 447670}], "successors": []}

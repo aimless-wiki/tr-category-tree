@@ -1,1 +1,1 @@
-{"name": "Veri_tabanı_yönetim_sistemleri", "id": 120093, "predecessors": [{"name": "Veritabanları", "id": 69386}, {"name": "Veri_yönetimi", "id": 520720}], "successors": [{"name": "Veri_yönetimi", "id": 520720}]}
+{"name": "Veritabanı_yönetim_sistemleri", "id": 120093, "predecessors": [{"name": "Veritabanları", "id": 69386}, {"name": "Veri_yönetimi", "id": 520720}], "successors": [{"name": "Veri_yönetimi", "id": 520720}]}

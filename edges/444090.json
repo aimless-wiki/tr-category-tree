@@ -1,1 +1,1 @@
-{"name": "Yoğurt", "id": 444090, "predecessors": [{"name": "Süt_ürünleri", "id": 64291}, {"name": "Türk_icatları", "id": 447563}, {"name": "Türk_mutfağı", "id": 53742}], "successors": []}
+{"name": "Yoğurt", "id": 444090, "predecessors": [{"name": "Fermante_süt_ürünleri", "id": 2527173}, {"name": "Süt_ürünleri", "id": 64291}, {"name": "Türk_icatları", "id": 447563}, {"name": "Türk_mutfağı", "id": 53742}, {"name": "Kültür", "id": 7230}], "successors": []}

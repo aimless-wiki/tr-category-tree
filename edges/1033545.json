@@ -1,1 +1,1 @@
-{"name": "Damıtılmış_içkiler", "id": 1033545, "predecessors": [{"name": "İçkiler", "id": 59607}, {"name": "Analitik_kimya", "id": 16871}], "successors": [{"name": "Likörler", "id": 930811}, {"name": "Viski", "id": 1033543}]}
+{"name": "Damıtılmış_içkiler", "id": 1033545, "predecessors": [{"name": "Damıtma", "id": 783311}, {"name": "İçkiler", "id": 59607}], "successors": [{"name": "Likörler", "id": 930811}, {"name": "Viski", "id": 1033543}]}

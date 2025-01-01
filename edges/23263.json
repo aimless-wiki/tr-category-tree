@@ -1,1 +1,1 @@
-{"name": "Antiseptikler", "id": 23263, "predecessors": [{"name": "Mikrobiyoloji", "id": 16575}], "successors": []}
+{"name": "Antiseptikler", "id": 23263, "predecessors": [{"name": "Mikrobiyoloji", "id": 16575}, {"name": "Hijyen", "id": 86836}], "successors": [{"name": "İyot_bileşikleri", "id": 1426162}]}

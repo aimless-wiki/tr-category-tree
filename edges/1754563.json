@@ -1,1 +1,1 @@
-{"name": "RFID", "id": 1754563, "predecessors": [{"name": "Radyo", "id": 12517}, {"name": "Bilişim_bilimi", "id": 13830}, {"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Gözetim", "id": 1393770}], "successors": [{"name": "Türkiye’deki_ulaşım_kartları", "id": 3702633}]}
+{"name": "RFID", "id": 1754563, "predecessors": [{"name": "Radyo", "id": 12517}, {"name": "Bilişim_bilimi", "id": 13830}, {"name": "Bilişim_teknolojisi", "id": 686442}, {"name": "Gözetim", "id": 1393770}], "successors": []}
