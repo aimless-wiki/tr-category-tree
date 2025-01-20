@@ -1,1 +1,1 @@
-{"name": "Film_listeleri", "id": 1554787, "predecessors": [{"name": "Sinema_listeleri", "id": 143706}, {"name": "Medya", "id": 12429}], "successors": []}
+{"name": "Film_listeleri", "id": 1554787, "predecessors": [{"name": "Kültür_listeleri", "id": 417988}, {"name": "Medya", "id": 12429}], "successors": [{"name": "İstanbul_Film_Festivali'nde_gösterilen_film_listeleri", "id": 1554773}]}

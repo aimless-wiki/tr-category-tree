@@ -1,1 +1,1 @@
-{"name": "Ağ_donanımı_şirketleri", "id": 2290643, "predecessors": [{"name": "Bilgisayar_donanımı_şirketleri", "id": 170233}, {"name": "Bilgisayar_ağları", "id": 23811}], "successors": []}
+{"name": "Ağ_donanımı_şirketleri", "id": 2290643, "predecessors": [{"name": "Ağ_donanımları", "id": 118396}, {"name": "Bilgisayar_donanımı_şirketleri", "id": 170233}, {"name": "Bilgisayar_ağları", "id": 23811}, {"name": "Telekomünikasyon_ekipmanları", "id": 546424}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "İngilizce_bilimkurgu_aksiyon_filmleri", "id": 4253038, "predecessors": [{"name": "İngilizce_bilimkurgu_filmleri", "id": 4253023}, {"name": "Film_türleri", "id": 104484}, {"name": "İngilizce", "id": 182232}], "successors": []}
+{"name": "İngilizce_bilimkurgu_aksiyon_filmleri", "id": 4253038, "predecessors": [{"name": "İngilizce_aksiyon_filmleri", "id": 4253040}, {"name": "İngilizce_bilimkurgu_filmleri", "id": 4253023}, {"name": "Film_türleri", "id": 104484}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sanatta_köpek", "id": 2190570, "predecessors": [{"name": "Köpekler", "id": 197515}], "successors": []}
+{"name": "Sanatta_köpekler", "id": 2190570, "predecessors": [{"name": "Köpekler", "id": 197515}, {"name": "Biyolojik_etkileşimler", "id": 1192810}], "successors": []}
